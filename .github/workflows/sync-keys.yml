@@ -1,0 +1,39 @@
+name: Sync VPN configs
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout private repo
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.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 }}
+
+      - name: Fetch base64 configs
+        run: |
+          BASE_URL="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Base64"
+
+          FILES=(
+            "WHITE-CIDR-RU-all-base64.txt"
+            "Vless-Reality-White-Lists-Rus-Mobile-base64.txt"
+            "BLACK_VLESS_RUS_base64.txt"
+            "BLACK_VLESS_RUS_mobile_base64.txt"
+          )
+
+          for FILE in "${FILES[@]}"; do
+            echo "Fetching $FILE..."
+            curl -fsSL "$BASE_URL/$FILE" -o "$FILE" || echo "Ошибка: $FILE"
+          done
+
+      - name: Commit if changed
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add *.txt
+          git diff --cached --quiet || git commit -m "Sync $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push

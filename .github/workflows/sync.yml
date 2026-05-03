@@ -1,0 +1,104 @@
+name: Sync VPN Configs
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'   # каждые 2 часа (как у источника)
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and build config files
+        run: |
+          python3 << 'EOF'
+          import urllib.request
+          from datetime import datetime
+
+          BASE = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/"
+          DATE = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
+          SOURCES = {
+              "vless_full":    "BLACK_VLESS_RUS.txt",
+              "vless_mobile":  "BLACK_VLESS_RUS_mobile.txt",
+              "ss_all":        "BLACK_SS+All_RUS.txt",
+              "white_mobile1": "Vless-Reality-White-Lists-Rus-Mobile.txt",
+              "white_mobile2": "Vless-Reality-White-Lists-Rus-Mobile-2.txt",
+              "white_cidr":    "WHITE-CIDR-RU-all.txt",
+              "white_checked": "WHITE-CIDR-RU-checked.txt",
+              "white_sni":     "WHITE-SNI-RU-all.txt",
+          }
+
+          def fetch(filename):
+              url = BASE + filename
+              try:
+                  with urllib.request.urlopen(url, timeout=15) as r:
+                      return r.read().decode("utf-8").splitlines()
+              except Exception as e:
+                  print(f"  ERROR {filename}: {e}")
+                  return []
+
+          def write_file(path, header_app, lines):
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(f"# ================================\n")
+                  f.write(f"# {header_app}\n")
+                  f.write(f"# Updated: {DATE}\n")
+                  f.write(f"# Total keys: {len(lines)}\n")
+                  f.write(f"# Source: github.com/igareck/vpn-configs-for-russia\n")
+                  f.write(f"# ================================\n\n")
+                  f.write("\n".join(lines))
+              print(f"  Written {path}: {len(lines)} keys")
+
+          print("Fetching sources...")
+          data = {k: fetch(v) for k, v in SOURCES.items()}
+
+          # --- HAPP ---
+          # Happ поддерживает: vless, vmess, trojan, ss, hysteria2
+          # Берём мобильную подборку (150 лучших) + SS+All
+          happ_lines = [l for l in data["vless_mobile"] if l and not l.startswith("#")]
+          happ_lines += [l for l in data["ss_all"] if l and not l.startswith("#")]
+          # Дедупликация
+          happ_lines = list(dict.fromkeys(happ_lines))
+          write_file("happ.txt", "HAPP CONFIG", happ_lines)
+
+          # --- V2RAY (черный список, полный) ---
+          v2ray_lines = [l for l in data["vless_full"] if l and not l.startswith("#")]
+          v2ray_lines += [l for l in data["ss_all"] if l and not l.startswith("#")]
+          v2ray_lines = list(dict.fromkeys(v2ray_lines))
+          write_file("v2ray.txt", "V2RAY CONFIG | BLACK LIST FULL", v2ray_lines)
+
+          # --- V2RAY Mobile ---
+          v2ray_mobile = [l for l in data["vless_mobile"] if l and not l.startswith("#")]
+          write_file("v2ray_mobile.txt", "V2RAY CONFIG | MOBILE (TOP 150)", v2ray_mobile)
+
+          # --- Белые списки ---
+          white1 = [l for l in data["white_mobile1"] if l and not l.startswith("#")]
+          write_file("white_mobile1.txt", "WHITE LIST | MOBILE #1", white1)
+
+          white2 = [l for l in data["white_mobile2"] if l and not l.startswith("#")]
+          write_file("white_mobile2.txt", "WHITE LIST | MOBILE #2", white2)
+
+          white_cidr = [l for l in data["white_cidr"] if l and not l.startswith("#")]
+          write_file("white_cidr.txt", "WHITE LIST | CIDR FULL", white_cidr)
+
+          white_checked = [l for l in data["white_checked"] if l and not l.startswith("#")]
+          write_file("white_checked.txt", "WHITE LIST | CIDR VK+YANDEX+BEELINE", white_checked)
+
+          white_sni = [l for l in data["white_sni"] if l and not l.startswith("#")]
+          write_file("white_sni.txt", "WHITE LIST | SNI", white_sni)
+
+          print("Done!")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.email "bot@example.com"
+          git config user.name "VPN Sync Bot"
+          git add *.txt
+          git diff --staged --quiet || git commit -m "sync: $(date '+%Y-%m-%d %H:%M UTC')"
+          git push

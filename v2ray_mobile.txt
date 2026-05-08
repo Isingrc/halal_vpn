@@ -1,6 +1,6 @@
 # ================================
 # V2RAY CONFIG | MOBILE (TOP 150)
-# Updated: 2026-05-08 17:02 UTC
+# Updated: 2026-05-08 19:04 UTC
 # Total keys: 149
 # Source: github.com/igareck/vpn-configs-for-russia
 # ================================

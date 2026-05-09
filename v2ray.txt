@@ -1,6 +1,6 @@
 # ================================
 # V2RAY CONFIG | BLACK LIST FULL
-# Updated: 2026-05-09 10:48 UTC
+# Updated: 2026-05-09 12:54 UTC
 # Total keys: 249
 # Source: github.com/igareck/vpn-configs-for-russia
 # ================================

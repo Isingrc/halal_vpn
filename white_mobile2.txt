@@ -1,6 +1,6 @@
 # ================================
 # WHITE LIST | MOBILE #2
-# Updated: 2026-05-14 13:30 UTC
+# Updated: 2026-05-14 16:04 UTC
 # Total keys: 0
 # Source: github.com/igareck/vpn-configs-for-russia
 # ================================

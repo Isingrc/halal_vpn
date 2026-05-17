@@ -1,6 +1,6 @@
 # ================================
 # WHITE LIST | CIDR VK+YANDEX+BEELINE
-# Updated: 2026-05-17 18:53 UTC
+# Updated: 2026-05-17 20:39 UTC
 # Total keys: 21
 # Source: github.com/igareck/vpn-configs-for-russia
 # ================================

@@ -1,6 +1,6 @@
 # ================================
 # WHITE LIST | SNI
-# Updated: 2026-05-17 18:53 UTC
+# Updated: 2026-05-17 20:39 UTC
 # Total keys: 20
 # Source: github.com/igareck/vpn-configs-for-russia
 # ================================

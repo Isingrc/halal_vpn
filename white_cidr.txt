@@ -1,6 +1,6 @@
 # ================================
 # WHITE LIST | CIDR FULL
-# Updated: 2026-05-21 19:42 UTC
+# Updated: 2026-05-21 21:21 UTC
 # Total keys: 134
 # Source: github.com/igareck/vpn-configs-for-russia
 # ================================

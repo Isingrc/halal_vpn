@@ -18,81 +18,115 @@ jobs:
         run: |
           python3 << 'EOF'
           import urllib.request
-          from datetime import datetime
+import re
+from datetime import datetime
 
-          BASE = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/"
-          DATE = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+BASE  = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/"
+DATE  = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
-          SOURCES = {
-              "vless_full":    "BLACK_VLESS_RUS.txt",
-              "vless_mobile":  "BLACK_VLESS_RUS_mobile.txt",
-              "ss_all":        "BLACK_SS+All_RUS.txt",
-              "white_mobile1": "Vless-Reality-White-Lists-Rus-Mobile.txt",
-              "white_mobile2": "Vless-Reality-White-Lists-Rus-Mobile-2.txt",
-              "white_cidr":    "WHITE-CIDR-RU-all.txt",
-              "white_checked": "WHITE-CIDR-RU-checked.txt",
-              "white_sni":     "WHITE-SNI-RU-all.txt",
-          }
+SOURCES = {
+    "vless_mobile":  "BLACK_VLESS_RUS_mobile.txt",
+    "ss_all":        "BLACK_SS+All_RUS.txt",
+}
 
-          def fetch(filename):
-              url = BASE + filename
-              try:
-                  with urllib.request.urlopen(url, timeout=15) as r:
-                      return r.read().decode("utf-8").splitlines()
-              except Exception as e:
-                  print(f"  ERROR {filename}: {e}")
-                  return []
+DOMAIN_FLAGS = {
+    "google.com":      ("🇺🇸", "US"), "youtube.com":    ("🇺🇸", "US"),
+    "github.com":      ("🇺🇸", "US"), "microsoft.com":  ("🇺🇸", "US"),
+    "cloudflare.com":  ("🇺🇸", "US"), "apple.com":      ("🇺🇸", "US"),
+    "discord.com":     ("🇩🇪", "DE"), "telegram.org":   ("🇩🇪", "DE"),
+    "whatsapp.com":    ("🇩🇪", "DE"), "netflix.com":    ("🇳🇱", "NL"),
+    "spotify.com":     ("🇸🇪", "SE"), "twitter.com":    ("🇺🇸", "US"),
+    "twitch.tv":       ("🇺🇸", "US"), "instagram.com":  ("🇩🇪", "DE"),
+}
 
-          def write_file(path, header_app, lines):
-              with open(path, "w", encoding="utf-8") as f:
-                  f.write(f"# ================================\n")
-                  f.write(f"# {header_app}\n")
-                  f.write(f"# Updated: {DATE}\n")
-                  f.write(f"# Total keys: {len(lines)}\n")
-                  f.write(f"# Source: github.com/igareck/vpn-configs-for-russia\n")
-                  f.write(f"# ================================\n\n")
-                  f.write("\n".join(lines))
-              print(f"  Written {path}: {len(lines)} keys")
+def fetch(filename):
+    try:
+        with urllib.request.urlopen(BASE + filename, timeout=20) as r:
+            return r.read().decode("utf-8").splitlines()
+    except Exception as e:
+        print(f"ERROR {filename}: {e}")
+        return []
 
-          print("Fetching sources...")
-          data = {k: fetch(v) for k, v in SOURCES.items()}
+def get_domain(line):
+    for param in ("sni=", "host="):
+        m = re.search(param + r'([a-zA-Z0-9._-]+\.[a-zA-Z]{2,})', line)
+        if m:
+            return m.group(1)
+    return None
 
-          # --- HAPP ---
-          # Happ поддерживает: vless, vmess, trojan, ss, hysteria2
-          # Берём мобильную подборку (150 лучших) + SS+All
-          happ_lines = [l for l in data["vless_mobile"] if l and not l.startswith("#")]
-          happ_lines += [l for l in data["ss_all"] if l and not l.startswith("#")]
-          # Дедупликация
-          happ_lines = list(dict.fromkeys(happ_lines))
-          write_file("happ.txt", "HAPP CONFIG", happ_lines)
+def flag_for(domain):
+    if not domain:
+        return ("🌐", "XX")
+    for known, (flag, code) in DOMAIN_FLAGS.items():
+        if known in domain:
+            return (flag, code)
+    return ("🌐", "XX")
 
-          # --- V2RAY (черный список, полный) ---
-          v2ray_lines = [l for l in data["vless_full"] if l and not l.startswith("#")]
-          v2ray_lines += [l for l in data["ss_all"] if l and not l.startswith("#")]
-          v2ray_lines = list(dict.fromkeys(v2ray_lines))
-          write_file("v2ray.txt", "V2RAY CONFIG | BLACK LIST FULL", v2ray_lines)
+def clean_name(name):
+    """Убираем URL-encoded символы и мусор из названия."""
+    try:
+        from urllib.parse import unquote
+        name = unquote(name)
+    except:
+        pass
+    # Убираем эмодзи и спецсимволы кроме пробела тире и точки
+    name = re.sub(r'[^\w\s\-.]', '', name, flags=re.UNICODE)
+    name = re.sub(r'\s+', ' ', name).strip()
+    return name
 
-          # --- V2RAY Mobile ---
-          v2ray_mobile = [l for l in data["vless_mobile"] if l and not l.startswith("#")]
-          write_file("v2ray_mobile.txt", "V2RAY CONFIG | MOBILE (TOP 150)", v2ray_mobile)
+def rename_line(line, idx, label="⚫"):
+    """Переименовывает сервер с флагом и чистым именем."""
+    if not line or line.startswith("#"):
+        return line
 
-          # --- Белые списки ---
-          white1 = [l for l in data["white_mobile1"] if l and not l.startswith("#")]
-          write_file("white_mobile1.txt", "WHITE LIST | MOBILE #1", white1)
+    domain = get_domain(line)
+    flag, country = flag_for(domain)
 
-          white2 = [l for l in data["white_mobile2"] if l and not l.startswith("#")]
-          write_file("white_mobile2.txt", "WHITE LIST | MOBILE #2", white2)
+    # Формируем чистое имя
+    new_name = f"{flag} {country}"
+    if domain:
+        new_name += f" {domain}"
+    new_name += f" {label} {idx+1}"
 
-          white_cidr = [l for l in data["white_cidr"] if l and not l.startswith("#")]
-          write_file("white_cidr.txt", "WHITE LIST | CIDR FULL", white_cidr)
+    # Убираем старое имя и ставим новое
+    line = re.sub(r'#.*$', '', line).rstrip()
+    return line + "#" + new_name
 
-          white_checked = [l for l in data["white_checked"] if l and not l.startswith("#")]
-          write_file("white_checked.txt", "WHITE LIST | CIDR VK+YANDEX+BEELINE", white_checked)
+def process(lines, label):
+    result = []
+    for i, l in enumerate(lines):
+        l = l.strip()
+        if not l or l.startswith("#"):
+            continue
+        result.append(rename_line(l, i, label))
+    return list(dict.fromkeys(result))
 
-          white_sni = [l for l in data["white_sni"] if l and not l.startswith("#")]
-          write_file("white_sni.txt", "WHITE LIST | SNI", white_sni)
+def write(path, header, lines, add_auto=False):
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(f"# {header}\n")
+        f.write(f"# Updated: {DATE}\n")
+        f.write(f"# Keys: {len(lines)}\n\n")
+        if add_auto and lines:
+            # Добавляем первый ключ как "автовыбор" с пометкой
+            auto = re.sub(r'#.*$', '', lines[0]).rstrip()
+            auto += "#🚀 Автовыбор (лучший пинг)"
+            f.write(auto + "\n")
+        f.write("\n".join(lines))
+    print(f"{path}: {len(lines)} keys")
 
-          print("Done!")
+print("Fetching...")
+data = {k: fetch(v) for k, v in SOURCES.items()}
+
+mobile = process(data["vless_mobile"], "⚪")
+ss     = process(data["ss_all"],       "⚫")
+happ   = list(dict.fromkeys(mobile + ss))
+
+write("happ.txt",         "HAPP CONFIG",   happ,   add_auto=True)
+write("v2ray.txt",        "V2RAY CONFIG",  mobile, add_auto=True)
+write("v2ray_mobile.txt", "V2RAY MOBILE",  mobile, add_auto=False)
+write("all_keys.txt",     "ALL KEYS",      happ,   add_auto=True)
+
+print("Done!")
           EOF
 
       - name: Commit changes

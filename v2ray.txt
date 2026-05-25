@@ -1,5 +1,5 @@
 # V2RAY CONFIG
-# Updated: 2026-05-25 20:57 UTC
+# Updated: 2026-05-25 22:51 UTC
 # Keys: 150
 
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=r1.mizulina.top&type=tcp&headerType=none&host=r1.mizulina.top&path=%2F#🚀 Автовыбор (лучший пинг)

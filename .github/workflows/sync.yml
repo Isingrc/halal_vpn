@@ -124,7 +124,7 @@ jobs:
           write("happ.txt",         "HAPP CONFIG",   happ,   add_auto=True)
           write("v2ray.txt",        "V2RAY CONFIG",  mobile, add_auto=True)
           write("v2ray_mobile.txt", "V2RAY MOBILE",  mobile, add_auto=False)
-
+          write("all_keys.txt", "ALL_KEYS", happ, add_auto = True)
           print("Done!")
           EOF
 

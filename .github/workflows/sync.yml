@@ -20,23 +20,27 @@ jobs:
           import urllib.request
           import re
           from datetime import datetime
+          from urllib.parse import unquote
 
           BASE = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/"
           DATE = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
           SOURCES = {
-              "vless_mobile":  "BLACK_VLESS_RUS_mobile.txt",
-              "ss_all":        "BLACK_SS+All_RUS.txt",
+              "white1":  "Vless-Reality-White-Lists-Rus-Mobile.txt",
+              "white2":  "Vless-Reality-White-Lists-Rus-Mobile-2.txt",
+              "black":   "BLACK_VLESS_RUS_mobile.txt",
+              "ss_all":  "BLACK_SS+All_RUS.txt",
           }
 
           DOMAIN_FLAGS = {
-              "google.com":      ("🇺🇸", "US"), "youtube.com":    ("🇺🇸", "US"),
-              "github.com":      ("🇺🇸", "US"), "microsoft.com":  ("🇺🇸", "US"),
-              "cloudflare.com":  ("🇺🇸", "US"), "apple.com":      ("🇺🇸", "US"),
-              "discord.com":     ("🇩🇪", "DE"), "telegram.org":   ("🇩🇪", "DE"),
-              "whatsapp.com":    ("🇩🇪", "DE"), "netflix.com":    ("🇳🇱", "NL"),
-              "spotify.com":     ("🇸🇪", "SE"), "twitter.com":    ("🇺🇸", "US"),
-              "twitch.tv":       ("🇺🇸", "US"), "instagram.com":  ("🇩🇪", "DE"),
+              "google.com":     ("🇺🇸", "US"), "youtube.com":   ("🇺🇸", "US"),
+              "github.com":     ("🇺🇸", "US"), "microsoft.com": ("🇺🇸", "US"),
+              "cloudflare.com": ("🇺🇸", "US"), "apple.com":     ("🇺🇸", "US"),
+              "discord.com":    ("🇩🇪", "DE"), "telegram.org":  ("🇩🇪", "DE"),
+              "whatsapp.com":   ("🇩🇪", "DE"), "netflix.com":   ("🇳🇱", "NL"),
+              "spotify.com":    ("🇸🇪", "SE"), "twitter.com":   ("🇺🇸", "US"),
+              "twitch.tv":      ("🇺🇸", "US"), "instagram.com": ("🇩🇪", "DE"),
+              "amazon.com":     ("🇺🇸", "US"), "bing.com":      ("🇺🇸", "US"),
           }
 
           def fetch(filename):
@@ -62,69 +66,103 @@ jobs:
                       return (flag, code)
               return ("🌐", "XX")
 
-          def clean_name(name):
-              """Убираем URL-encoded символы и мусор из названия."""
-              try:
-                  from urllib.parse import unquote
-                  name = unquote(name)
-              except:
-                  pass
-              # Убираем эмодзи и спецсимволы кроме пробела тире и точки
-              name = re.sub(r'[^\w\s\-.]', '', name, flags=re.UNICODE)
-              name = re.sub(r'\s+', ' ', name).strip()
-              return name
-
-          def rename_line(line, idx, label="⚫"):
-              """Переименовывает сервер с флагом и чистым именем."""
-              if not line or line.startswith("#"):
-                  return line
-
-              domain = get_domain(line)
-              flag, country = flag_for(domain)
-
-              # Формируем чистое имя
-              new_name = f"{flag} {country}"
-              if domain:
-                  new_name += f" {domain}"
-              new_name += f" {label} {idx+1}"
-
-              # Убираем старое имя и ставим новое
+          def rename_line(line, name):
+              """Убираем старое имя и ставим новое."""
               line = re.sub(r'#.*$', '', line).rstrip()
-              return line + "#" + new_name
+              return line + "#" + name
 
-          def process(lines, label):
+          def make_name(flag, country, label, idx):
+              return f"{flag} {country} | {label} {idx}"
+
+          def process_lines(lines):
+              """Фильтруем пустые строки и комментарии."""
+              return [l.strip() for l in lines if l.strip() and not l.startswith("#")]
+
+          def get_top(lines, count):
+              """Берём первые N уникальных серверов."""
+              seen = set()
               result = []
-              for i, l in enumerate(lines):
-                  l = l.strip()
-                  if not l or l.startswith("#"):
-                      continue
-                  result.append(rename_line(l, i, label))
-              return list(dict.fromkeys(result))
+              for l in lines:
+                  base = re.sub(r'#.*$', '', l).strip()
+                  if base not in seen:
+                      seen.add(base)
+                      result.append(l)
+                  if len(result) >= count:
+                      break
+              return result
 
-          def write(path, header, lines, add_auto=False):
-              with open(path, "w", encoding="utf-8") as f:
-                  f.write(f"# {header}\n")
-                  f.write(f"# Updated: {DATE}\n")
-                  f.write(f"# Keys: {len(lines)}\n\n")
-                  if add_auto and lines:
-                      # Добавляем первый ключ как "автовыбор" с пометкой
-                      auto = re.sub(r'#.*$', '', lines[0]).rstrip()
-                      auto += "#🚀 Автовыбор (лучший пинг)"
-                      f.write(auto + "\n")
-                  f.write("\n".join(lines))
-              print(f"{path}: {len(lines)} keys")
+          def build_category(lines, count, label, category_flag):
+              """Строим категорию из N серверов с переименованием."""
+              top = get_top(lines, count)
+              result = []
+              for i, line in enumerate(top, 1):
+                  domain = get_domain(line)
+                  flag, country = flag_for(domain)
+                  name = f"{flag} {country} | {label} #{i}"
+                  result.append(rename_line(line, name))
+              return result
 
-          print("Fetching...")
+          print("Fetching sources...")
           data = {k: fetch(v) for k, v in SOURCES.items()}
 
-          mobile = process(data["vless_mobile"], "⚪")
-          ss     = process(data["ss_all"],       "⚫")
-          happ   = list(dict.fromkeys(mobile + ss))
+          # Обрабатываем исходные списки
+          white_lines = process_lines(data["white1"] + data["white2"])
+          black_lines = process_lines(data["black"])
+          ss_lines    = process_lines(data["ss_all"])
+          all_lines   = process_lines(
+              data["white1"] + data["white2"] + data["black"] + data["ss_all"]
+          )
 
-          write("happ.txt",         "HAPP CONFIG",   happ,   add_auto=True)
-          write("v2ray.txt",        "V2RAY CONFIG",  mobile, add_auto=True)
-          write("v2ray_mobile.txt", "V2RAY MOBILE",  mobile, add_auto=False)
-          write("all_keys.txt", "ALL_KEYS", happ, add_auto = True)
+          # ── Категория 1: Белые (10 серверов) ─────────────────────────────
+          white_servers = build_category(white_lines, 10, "⚪ Белый список", "⚪")
+
+          # Автовыбор для белых
+          if white_servers:
+              auto_white = re.sub(r'#.*$', '', white_servers[0]).rstrip()
+              auto_white += "#🚀 Автовыбор | ⚪ Белые"
+              white_block = [auto_white] + white_servers
+          else:
+              white_block = []
+
+          # ── Категория 2: Чёрные (10 серверов) ────────────────────────────
+          black_servers = build_category(black_lines + ss_lines, 10, "⚫ Чёрный список", "⚫")
+
+          if black_servers:
+              auto_black = re.sub(r'#.*$', '', black_servers[0]).rstrip()
+              auto_black += "#🚀 Автовыбор | ⚫ Чёрные"
+              black_block = [auto_black] + black_servers
+          else:
+              black_block = []
+
+          # ── Категория 3: Быстрые все (15 серверов) ───────────────────────
+          fast_servers = build_category(all_lines, 15, "⚡ Fast All", "?")
+
+          if fast_servers:
+              auto_fast = re.sub(r'#.*$', '', fast_servers[0]).rstrip()
+              auto_fast += "#🚀 Автовыбор | ⚡ Fast All"
+              fast_block = [auto_fast] + fast_servers
+          else:
+              fast_block = []
+
+          # ── Собираем итоговый файл ────────────────────────────────────────
+          final = (
+              ["# ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══"] +
+              white_block +
+              ["", "# ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══"] +
+              black_block +
+              ["", "# ═══ ⚡ FAST ALL ═══"] +
+              fast_block
+          )
+
+          with open("happ.txt", "w", encoding="utf-8") as f:
+              f.write(f"# VPN Config | Updated: {DATE}\n")
+              f.write(f"# White: {len(white_servers)} | Black: {len(black_servers)} | Fast: {len(fast_servers)}\n\n")
+              f.write("\n".join(final))
+
+          print(f"happ.txt written:")
+          print(f"  ⚪ White:  {len(white_servers)} servers")
+          print(f"  ⚫ Black:  {len(black_servers)} servers")
+          print(f"  ⚡ Fast:   {len(fast_servers)} servers")
           print("Done!")
           EOF
 

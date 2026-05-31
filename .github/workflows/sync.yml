@@ -2,8 +2,8 @@ name: Sync VPN Configs
 
 on:
   schedule:
-    - cron: '0 */2 * * *'   # каждые 2 часа
-  workflow_dispatch:          # или вручную
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
 jobs:
   sync:
@@ -14,23 +14,32 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch, parse and rename configs
+      - name: Fetch and build config files
         run: |
           python3 << 'EOF'
           import urllib.request
           import re
+          import subprocess
           from datetime import datetime
           from urllib.parse import unquote
 
           BASE = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/"
           DATE = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
-          SOURCES = {
-              "white1":  "Vless-Reality-White-Lists-Rus-Mobile.txt",
-              "white2":  "Vless-Reality-White-Lists-Rus-Mobile-2.txt",
-              "black":   "BLACK_VLESS_RUS_mobile.txt",
-              "ss_all":  "BLACK_SS+All_RUS.txt",
-          }
+          # Файлы по группам
+          WHITE_SOURCES = [
+              "WHITE-CIDR-RU-all.txt",
+              "WHITE-CIDR-RU-checked.txt",
+              "WHITE-SNI-RU-all.txt",
+              "Vless-Reality-White-Lists-Rus-Mobile.txt",
+              "Vless-Reality-White-Lists-Rus-Mobile-2.txt",
+          ]
+
+          BLACK_SOURCES = [
+              "BLACK_VLESS_RUS.txt",
+              "BLACK_VLESS_RUS_mobile.txt",
+              "BLACK_SS+All_RUS.txt",
+          ]
 
           DOMAIN_FLAGS = {
               "google.com":     ("🇺🇸", "US"), "youtube.com":   ("🇺🇸", "US"),
@@ -43,13 +52,18 @@ jobs:
               "amazon.com":     ("🇺🇸", "US"), "bing.com":      ("🇺🇸", "US"),
           }
 
+          PROTOCOLS = ("vless://", "vmess://", "trojan://", "ss://", "hysteria2://", "tuic://")
+
           def fetch(filename):
               try:
                   with urllib.request.urlopen(BASE + filename, timeout=20) as r:
                       return r.read().decode("utf-8").splitlines()
               except Exception as e:
-                  print(f"ERROR {filename}: {e}")
+                  print(f"  ERROR {filename}: {e}")
                   return []
+
+          def is_vpn_line(line):
+              return any(line.startswith(p) for p in PROTOCOLS)
 
           def get_domain(line):
               for param in ("sni=", "host="):
@@ -66,34 +80,77 @@ jobs:
                       return (flag, code)
               return ("🌐", "XX")
 
+          def get_ip(line):
+              """Извлекаем IP или хост сервера для пинга."""
+              try:
+                  m = re.search(r'@([a-zA-Z0-9._-]+):', line)
+                  if m:
+                      return m.group(1)
+              except:
+                  pass
+              return None
+
+          def ping(host):
+              """Пингуем хост, возвращаем среднее время в мс."""
+              try:
+                  result = subprocess.run(
+                      ["ping", "-c", "2", "-W", "2", host],
+                      capture_output=True, text=True, timeout=8
+                  )
+                  for line in result.stdout.split("\n"):
+                      if "avg" in line or "rtt" in line:
+                          parts = line.split("/")
+                          if len(parts) >= 5:
+                              return float(parts[4])
+              except:
+                  pass
+              return 9999.0
+
+          def sort_by_ping(lines, max_servers=50):
+              """Сортируем первые max_servers серверов по пингу."""
+              candidates = lines[:max_servers]
+              scored = []
+              for line in candidates:
+                  host = get_ip(line)
+                  if host:
+                      p = ping(host)
+                      print(f"    ping {host}: {p}ms")
+                  else:
+                      p = 9999.0
+                  scored.append((p, line))
+              scored.sort(key=lambda x: x[0])
+              # Добавляем оставшиеся без пинга в конец
+              rest = lines[max_servers:]
+              return [l for _, l in scored] + rest
+
+          def fetch_group(sources):
+              """Загружаем и объединяем несколько файлов, фильтруем только VPN ключи."""
+              all_lines = []
+              seen = set()
+              for filename in sources:
+                  print(f"  Fetching {filename}...")
+                  lines = fetch(filename)
+                  for l in lines:
+                      l = l.strip()
+                      if not l or l.startswith("#"):
+                          continue
+                      if not is_vpn_line(l):
+                          continue
+                      base = re.sub(r'#.*$', '', l).strip()
+                      if base not in seen:
+                          seen.add(base)
+                          all_lines.append(l)
+              return all_lines
+
           def rename_line(line, name):
-              """Убираем старое имя и ставим новое."""
               line = re.sub(r'#.*$', '', line).rstrip()
               return line + "#" + name
 
-          def make_name(flag, country, label, idx):
-              return f"{flag} {country} | {label} {idx}"
-
-          def process_lines(lines):
-              """Фильтруем пустые строки и комментарии."""
-              return [l.strip() for l in lines if l.strip() and not l.startswith("#")]
-
-          def get_top(lines, count):
-              """Берём первые N уникальных серверов."""
-              seen = set()
-              result = []
-              for l in lines:
-                  base = re.sub(r'#.*$', '', l).strip()
-                  if base not in seen:
-                      seen.add(base)
-                      result.append(l)
-                  if len(result) >= count:
-                      break
-              return result
-
-          def build_category(lines, count, label, category_flag):
-              """Строим категорию из N серверов с переименованием."""
-              top = get_top(lines, count)
+          def build_group(lines, label, count):
+              """Сортируем по пингу и берём top N."""
+              print(f"  Sorting {len(lines)} servers by ping...")
+              sorted_lines = sort_by_ping(lines, max_servers=min(30, len(lines)))
+              top = sorted_lines[:count]
               result = []
               for i, line in enumerate(top, 1):
                   domain = get_domain(line)
@@ -102,74 +159,74 @@ jobs:
                   result.append(rename_line(line, name))
               return result
 
-          print("Fetching sources...")
-          data = {k: fetch(v) for k, v in SOURCES.items()}
+          def make_auto(line, label):
+              base = re.sub(r'#.*$', '', line).rstrip()
+              return base + f"#🚀 Автовыбор | {label}"
 
-          # Обрабатываем исходные списки
-          white_lines = process_lines(data["white1"] + data["white2"])
-          black_lines = process_lines(data["black"])
-          ss_lines    = process_lines(data["ss_all"])
-          all_lines   = process_lines(
-              data["white1"] + data["white2"] + data["black"] + data["ss_all"]
-          )
+          def write_file(path, header, white, black, fast):
+              total = len(white) + len(black) + len(fast)
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(f"# {header}\n")
+                  f.write(f"# Updated: {DATE}\n")
+                  f.write(f"# Total: {total} servers\n\n")
 
-          # ── Категория 1: Белые (10 серверов) ─────────────────────────────
-          white_servers = build_category(white_lines, 10, "⚪ Белый список", "⚪")
+                  if white:
+                      f.write("# ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══\n")
+                      f.write(make_auto(white[0], "⚪ Белые") + "\n")
+                      f.write("\n".join(white) + "\n\n")
 
-          # Автовыбор для белых
-          if white_servers:
-              auto_white = re.sub(r'#.*$', '', white_servers[0]).rstrip()
-              auto_white += "#🚀 Автовыбор | ⚪ Белые"
-              white_block = [auto_white] + white_servers
-          else:
-              white_block = []
+                  if black:
+                      f.write("# ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══\n")
+                      f.write(make_auto(black[0], "⚫ Чёрные") + "\n")
+                      f.write("\n".join(black) + "\n\n")
 
-          # ── Категория 2: Чёрные (10 серверов) ────────────────────────────
-          black_servers = build_category(black_lines + ss_lines, 10, "⚫ Чёрный список", "⚫")
+                  if fast:
+                      f.write("# ═══ ⚡ FAST ALL ═══\n")
+                      f.write(make_auto(fast[0], "⚡ Fast All") + "\n")
+                      f.write("\n".join(fast) + "\n")
 
-          if black_servers:
-              auto_black = re.sub(r'#.*$', '', black_servers[0]).rstrip()
-              auto_black += "#🚀 Автовыбор | ⚫ Чёрные"
-              black_block = [auto_black] + black_servers
-          else:
-              black_block = []
+          # ── Загружаем группы ──────────────────────────────────────
+          print("Fetching WHITE sources...")
+          white_raw = fetch_group(WHITE_SOURCES)
+          print(f"  WHITE raw: {len(white_raw)} unique VPN keys")
 
-          # ── Категория 3: Быстрые все (15 серверов) ───────────────────────
-          fast_servers = build_category(all_lines, 15, "⚡ Fast All", "?")
+          print("Fetching BLACK sources...")
+          black_raw = fetch_group(BLACK_SOURCES)
+          print(f"  BLACK raw: {len(black_raw)} unique VPN keys")
 
-          if fast_servers:
-              auto_fast = re.sub(r'#.*$', '', fast_servers[0]).rstrip()
-              auto_fast += "#🚀 Автовыбор | ⚡ Fast All"
-              fast_block = [auto_fast] + fast_servers
-          else:
-              fast_block = []
+          # ── Сортируем по пингу и берём top N ─────────────────────
+          print("Building WHITE group (top 10)...")
+          white = build_group(white_raw, "⚪ Белый", 10)
 
-          # ── Собираем итоговый файл ────────────────────────────────────────
-          final = (
-              ["# ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══"] +
-              white_block +
-              ["", "# ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══"] +
-              black_block +
-              ["", "# ═══ ⚡ FAST ALL ═══"] +
-              fast_block
-          )
+          print("Building BLACK group (top 10)...")
+          black = build_group(black_raw, "⚫ Чёрный", 10)
 
-          with open("happ.txt", "w", encoding="utf-8") as f:
-              f.write(f"# VPN Config | Updated: {DATE}\n")
-              f.write(f"# White: {len(white_servers)} | Black: {len(black_servers)} | Fast: {len(fast_servers)}\n\n")
-              f.write("\n".join(final))
+          print("Building FAST ALL group (top 15)...")
+          all_raw_seen = set()
+          all_raw = []
+          for l in white_raw + black_raw:
+              base = re.sub(r'#.*$', '', l).strip()
+              if base not in all_raw_seen:
+                  all_raw_seen.add(base)
+                  all_raw.append(l)
+          fast = build_group(all_raw, "⚡ Fast", 15)
 
-          print(f"happ.txt written:")
-          print(f"  ⚪ White:  {len(white_servers)} servers")
-          print(f"  ⚫ Black:  {len(black_servers)} servers")
-          print(f"  ⚡ Fast:   {len(fast_servers)} servers")
-          print("Done!")
+          # ── Записываем 3 файла ────────────────────────────────────
+          print("Writing files...")
+          write_file("white_servers.txt", "WHITE SERVERS", white, [], [])
+          write_file("black_servers.txt", "BLACK SERVERS", [], black, [])
+          write_file("fast_servers.txt",  "FAST ALL SERVERS", white, black, fast)
+
+          print(f"\nDone!")
+          print(f"  ⚪ white_servers.txt : {len(white)} servers")
+          print(f"  ⚫ black_servers.txt : {len(black)} servers")
+          print(f"  ⚡ fast_servers.txt  : {len(fast)} servers (+ {len(white)}+{len(black)} from groups)")
           EOF
 
       - name: Commit changes
         run: |
           git config user.email "bot@vpnservice.local"
           git config user.name "VPN Sync Bot"
-          git add *.txt
+          git add white_servers.txt black_servers.txt fast_servers.txt
           git diff --staged --quiet || git commit -m "sync: $(date '+%Y-%m-%d %H:%M UTC')"
           git push

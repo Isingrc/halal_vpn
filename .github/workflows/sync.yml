@@ -90,21 +90,42 @@ jobs:
                   pass
               return None
 
-          def ping(host):
-              """Пингуем хост, возвращаем среднее время в мс."""
-              try:
-                  result = subprocess.run(
-                      ["ping", "-c", "2", "-W", "2", host],
-                      capture_output=True, text=True, timeout=8
-                  )
-                  for line in result.stdout.split("\n"):
-                      if "avg" in line or "rtt" in line:
-                          parts = line.split("/")
-                          if len(parts) >= 5:
-                              return float(parts[4])
-              except:
-                  pass
-              return 9999.0
+          def ping_via_telegram(host):
+            tg_check_url = "https://t.me"
+            try:
+                result=subprocess.run(
+                [
+                "curl",
+                "-o", "/dev/null",
+                "-s",
+                "-w", "%{time_total}",
+                "--max-time", "5","--connect-timeout", "3",
+                "--resolve", f"t.me:443:{host}",
+                "https://t.me"
+                ],
+                capture_output=True, text=True, timeout=10
+                )
+                val = result.stdout.strip()
+                if val:
+                    ms=float(val)*1000
+                    return ms
+            except:
+                pass
+            
+            try:
+                result=subprocess.run(
+                ["ping", "-c", "2", "-W", host],
+                capture_output=True, text=True, timeout=8
+                )
+                for line in result.stdout.split("\n"):
+                    if "avg" in line or "rtt" in line:
+                        parts = line.split("/")
+                        if len(parts) >= 5:
+                            return float(parts[4])
+            except:
+                pass
+            
+            return 9999.0
 
           def sort_by_ping(lines, max_servers=50):
               """Сортируем первые max_servers серверов по пингу."""
@@ -113,13 +134,12 @@ jobs:
               for line in candidates:
                   host = get_ip(line)
                   if host:
-                      p = ping(host)
-                      print(f"    ping {host}: {p}ms")
+                      p = ping_via_telegram(host)
+                      print(f"   {host}: {p.0f}ms")
                   else:
                       p = 9999.0
                   scored.append((p, line))
               scored.sort(key=lambda x: x[0])
-              # Добавляем оставшиеся без пинга в конец
               rest = lines[max_servers:]
               return [l for _, l in scored] + rest
 

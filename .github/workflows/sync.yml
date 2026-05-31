@@ -135,7 +135,7 @@ jobs:
                   host = get_ip(line)
                   if host:
                       p = ping_via_telegram(host)
-                      print(f"   {host}: {p.0f}ms")
+                      print(f"{host}: {p}ms")
                   else:
                       p = 9999.0
                   scored.append((p, line))

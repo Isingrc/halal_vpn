@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-02 02:42 UTC
+# Updated: 2026-06-02 08:20 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://435954ab-38f3-40bf-b303-77e3f6576fa0@am.synatra.net:4430?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=ve_gRq67ZmwVXig3oTSuvgh0UHLktlcwyI5XYP4UMyg&sid=657e6f4ccdb8a092&type=tcp&headerType=none#🚀 Автовыбор | ⚫ Чёрные
 vless://435954ab-38f3-40bf-b303-77e3f6576fa0@am.synatra.net:4430?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=ve_gRq67ZmwVXig3oTSuvgh0UHLktlcwyI5XYP4UMyg&sid=657e6f4ccdb8a092&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #1
-vless://435954ab-38f3-40bf-b303-77e3f6576fa0@cz.sywl3.us:43871?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cust-mail.gamerhost-server.pro&fp=chrome&pbk=NfzNEMSQ8amDS2-iP2ov3ep4tRRP_RO3KMEZ9Fz2dwM&sid=a3f9c12e&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #2
-vless://87be8be2-9296-4912-944e-d49cc81485d8@fin9.odavpn.online:443?security=reality&encryption=none&pbk=JUg1ffaYEBNIbnNJHDWFP7pnX2LLGONJbjP5m1ab6Fo&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.mds.yandex.net&sid=ca75b88bd067b39d#🌐 XX | ⚫ Чёрный #3
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fi.clgate.network:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=m.twitch.tv&fp=chrome&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&path=%2F&host=m.twitch.tv#🇺🇸 US | ⚫ Чёрный #4
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🌐 XX | ⚫ Чёрный #5
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&sni=m.twitch.tv#🇺🇸 US | ⚫ Чёрный #6
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?mode=stream-up&path=%2F&security=reality&encryption=none&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&host=m.twitch.tv&fp=chrome&type=xhttp&sni=m.twitch.tv#🇺🇸 US | ⚫ Чёрный #7
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?security=reality&type=xhttp&path=/&sni=m.twitch.tv&fp=chrome&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&mode=auto&encryption=none#🇺🇸 US | ⚫ Чёрный #8
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=m.twitch.tv&fp=chrome&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&type=xhttp&host=m.twitch.tv&path=/#🇺🇸 US | ⚫ Чёрный #9
-vless://0dc3fe97-73e3-4cc2-89a7-331e66540365@cdn-a9027cc2.glomedia-cdn.com:2053?type=grpc&headerType=none&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=sOTlswV3fg3MBJSiQek_a2fMs824tGNRFNRdQVYu1R8&sid=ef96a8323b38a60e&serviceName=grpc#🇺🇸 US | ⚫ Чёрный #10
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@belgium.cloudpath.live:443?security=reality&type=tcp&sni=microsoft.com&fp=chrome&sid=cc52201b&pbk=9HzeVOO-_7-V3l4TCNqgO-cj32nlF3wsG8K4X3qFmFw&encryption=none#🇺🇸 US | ⚫ Чёрный #2
+vless://435954ab-38f3-40bf-b303-77e3f6576fa0@cz.sywl3.us:43871?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cust-mail.gamerhost-server.pro&fp=chrome&pbk=NfzNEMSQ8amDS2-iP2ov3ep4tRRP_RO3KMEZ9Fz2dwM&sid=a3f9c12e&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #3
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@czech.cloudpath.live:443?security=reality&encryption=none&pbk=34gATkr8QhXe26zX625mas0MbhhG-1XSISJxwLtdt1k&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=17ee7ac1#🇺🇸 US | ⚫ Чёрный #4
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@denmark.cloudpath.live:443?security=reality&encryption=none&pbk=8H8GZYml4FGVF9EcnZsUTOt0lFiIh20vS9TnX4Dn-z8&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=2721a041#🇺🇸 US | ⚫ Чёрный #5
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@finland.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=f7IfVwkipbZFQN0MDsBrHiANTcpSebrdIyOwL_0pOGc&sid=2478b338#🇺🇸 US | ⚫ Чёрный #6
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🌐 XX | ⚫ Чёрный #7
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?mode=gun&security=none&encryption=none&type=grpc#🌐 XX | ⚫ Чёрный #8
+vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&sni=m.twitch.tv#🇺🇸 US | ⚫ Чёрный #9
+vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?mode=stream-up&path=%2F&security=reality&encryption=none&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&host=m.twitch.tv&fp=chrome&type=xhttp&sni=m.twitch.tv#🇺🇸 US | ⚫ Чёрный #10
 

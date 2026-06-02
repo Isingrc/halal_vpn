@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-02 13:52 UTC
+# Updated: 2026-06-02 17:59 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://435954ab-38f3-40bf-b303-77e3f6576fa0@am.synatra.net:4430?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=ve_gRq67ZmwVXig3oTSuvgh0UHLktlcwyI5XYP4UMyg&sid=657e6f4ccdb8a092&type=tcp&headerType=none#🚀 Автовыбор | ⚫ Чёрные
-vless://435954ab-38f3-40bf-b303-77e3f6576fa0@am.synatra.net:4430?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=ve_gRq67ZmwVXig3oTSuvgh0UHLktlcwyI5XYP4UMyg&sid=657e6f4ccdb8a092&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #1
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@belgium.cloudpath.live:443?security=reality&type=tcp&sni=microsoft.com&fp=chrome&sid=cc52201b&pbk=9HzeVOO-_7-V3l4TCNqgO-cj32nlF3wsG8K4X3qFmFw&encryption=none#🇺🇸 US | ⚫ Чёрный #2
-vless://435954ab-38f3-40bf-b303-77e3f6576fa0@cz.sywl3.us:43871?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cust-mail.gamerhost-server.pro&fp=chrome&pbk=NfzNEMSQ8amDS2-iP2ov3ep4tRRP_RO3KMEZ9Fz2dwM&sid=a3f9c12e&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #3
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@czech.cloudpath.live:443?security=reality&encryption=none&pbk=34gATkr8QhXe26zX625mas0MbhhG-1XSISJxwLtdt1k&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=17ee7ac1#🇺🇸 US | ⚫ Чёрный #4
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@denmark.cloudpath.live:443?security=reality&encryption=none&pbk=8H8GZYml4FGVF9EcnZsUTOt0lFiIh20vS9TnX4Dn-z8&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=2721a041#🇺🇸 US | ⚫ Чёрный #5
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@finland.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=f7IfVwkipbZFQN0MDsBrHiANTcpSebrdIyOwL_0pOGc&sid=2478b338#🇺🇸 US | ⚫ Чёрный #6
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🌐 XX | ⚫ Чёрный #7
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?mode=gun&security=none&encryption=none&type=grpc#🌐 XX | ⚫ Чёрный #8
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&sni=m.twitch.tv#🇺🇸 US | ⚫ Чёрный #9
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?mode=stream-up&path=%2F&security=reality&encryption=none&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&host=m.twitch.tv&fp=chrome&type=xhttp&sni=m.twitch.tv#🇺🇸 US | ⚫ Чёрный #10
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🚀 Автовыбор | ⚫ Чёрные
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🌐 XX | ⚫ Чёрный #1
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?type=grpc&headerType=none&security=none&encryption=none#🌐 XX | ⚫ Чёрный #2
+vless://69016f2a-91e4-43af-a4e0-c5ab03fb9c46@germany.devpirate.baby:21463?path=%2F&security=none&encryption=none&host=www.google.com&type=ws#🇺🇸 US | ⚫ Чёрный #3
+vless://f76c2df5-4f10-45e0-a4f3-cdb23a559f51@bi.amooyam.com:443?security=tls&type=tcp&headerType=&path=%2Fin-1&host=bi.amooyam.com&sni=bi.amooyam.com&fp=chrome&alpn=http%2F1.1#🌐 XX | ⚫ Чёрный #4
+vless://4086c00a-67a4-4d96-9c5f-2f177f26cb51@tw4.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dlcdnets.asus.com&fp=chrome&pbk=IqsN_cPeCP6oEXtYQMMWBiUim-r9lxq7YGj_mE3992g&sid=e6d59aff03e5b0&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #5
+vless://d49eb175-facd-4c33-b1be-32c746701184@developer.projectauths.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=U-aI9goYn0iGJ31emKZ1ltON45Ry0LjCl15MnumMD2c&host=developer.projectauths.com&fp=random&type=xhttp&sni=developer.projectauths.com&sid=68d14e7adba07698#🌐 XX | ⚫ Чёрный #6
+vless://79475016-7b3c-414d-9110-9b9faac6922d@panel.dibaux.ir:80?encryption=none&security=none&type=ws&path=%2Fstream#🌐 XX | ⚫ Чёрный #7
+vless://205d6869-02ca-3b36-b933-be2465250c7e@s644.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s644.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u716087ud3c8s644.ccgfw.top&serviceName=&mode=&alpn=#🌐 XX | ⚫ Чёрный #8
+vless://205d6869-02ca-3b36-b933-be2465250c7e@s77.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=&fp=&host=s77.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u716087us77.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#🌐 XX | ⚫ Чёрный #9
+vless://205d6869-02ca-3b36-b933-be2465250c7e@s860.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=&fp=&host=s860.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u716087us860.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#🌐 XX | ⚫ Чёрный #10
 

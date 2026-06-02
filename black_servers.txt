@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-02 17:59 UTC
+# Updated: 2026-06-02 20:53 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🚀 Автовыбор | ⚫ Чёрные
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🌐 XX | ⚫ Чёрный #1
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?type=grpc&headerType=none&security=none&encryption=none#🌐 XX | ⚫ Чёрный #2
-vless://69016f2a-91e4-43af-a4e0-c5ab03fb9c46@germany.devpirate.baby:21463?path=%2F&security=none&encryption=none&host=www.google.com&type=ws#🇺🇸 US | ⚫ Чёрный #3
-vless://f76c2df5-4f10-45e0-a4f3-cdb23a559f51@bi.amooyam.com:443?security=tls&type=tcp&headerType=&path=%2Fin-1&host=bi.amooyam.com&sni=bi.amooyam.com&fp=chrome&alpn=http%2F1.1#🌐 XX | ⚫ Чёрный #4
-vless://4086c00a-67a4-4d96-9c5f-2f177f26cb51@tw4.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dlcdnets.asus.com&fp=chrome&pbk=IqsN_cPeCP6oEXtYQMMWBiUim-r9lxq7YGj_mE3992g&sid=e6d59aff03e5b0&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #5
-vless://d49eb175-facd-4c33-b1be-32c746701184@developer.projectauths.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=U-aI9goYn0iGJ31emKZ1ltON45Ry0LjCl15MnumMD2c&host=developer.projectauths.com&fp=random&type=xhttp&sni=developer.projectauths.com&sid=68d14e7adba07698#🌐 XX | ⚫ Чёрный #6
-vless://79475016-7b3c-414d-9110-9b9faac6922d@panel.dibaux.ir:80?encryption=none&security=none&type=ws&path=%2Fstream#🌐 XX | ⚫ Чёрный #7
-vless://205d6869-02ca-3b36-b933-be2465250c7e@s644.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s644.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u716087ud3c8s644.ccgfw.top&serviceName=&mode=&alpn=#🌐 XX | ⚫ Чёрный #8
-vless://205d6869-02ca-3b36-b933-be2465250c7e@s77.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=&fp=&host=s77.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u716087us77.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#🌐 XX | ⚫ Чёрный #9
-vless://205d6869-02ca-3b36-b933-be2465250c7e@s860.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=&fp=&host=s860.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u716087us860.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#🌐 XX | ⚫ Чёрный #10
+vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🚀 Автовыбор | ⚫ Чёрные
+vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #1
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🌐 XX | ⚫ Чёрный #2
+vless://204a8a6a-03ef-4444-b31f-85c17dbabcad@google.com.kolman.com.de:443?hiddify=1&sni=cd1.serviceali.ir&type=xhttp&alpn=h2&path=%2FeQ7EK5s88mh1QkaLDB4v5psc&host=cd1.serviceali.ir&encryption=none&fp=firefox&core=xray&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.6.5%20Chrome%2F124.0.6367.243%20Electron%2F30.1.2%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&headerType=none&allowInsecure=true&insecure=true&security=tls#🌐 XX | ⚫ Чёрный #3
+vless://712a76b0-5afb-4e4b-8255-ae239bafd894@r21.asemonyfixco.ir:2084?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&security=reality&encryption=none&pbk=cAIQdlrxG1qf65imq2XaFr4DZ_sYiogb5oNjvlZ1_Rs&host=unpkg.com&fp=firefox&type=xhttp&sni=unpkg.com#🌐 XX | ⚫ Чёрный #4
+vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #5
+vless://205d6869-02ca-3b36-b933-be2465250c7e@s356.ccgfw.online:443?encryption=none&type=tcp&headerType=none&fp=random&host=s356.ccgfw.online&flow=xtls-rprx-vision&security=tls&sni=u716087u09d7s356.ccgfw.online#🌐 XX | ⚫ Чёрный #6
+vless://205d6869-02ca-3b36-b933-be2465250c7e@s356.ccgfw.online:443?encryption=none&type=tcp&headerType=none&fp=random&host=s356.ccgfw.online&path=&flow=xtls-rprx-vision&security=tls&sni=u716087u09d7s356.ccgfw.online&serviceName=&mode=&alpn=#🌐 XX | ⚫ Чёрный #7
+vless://205d6869-02ca-3b36-b933-be2465250c7e@s359.ccgfw.online:443?encryption=none&type=tcp&headerType=none&fp=random&host=s359.ccgfw.online&flow=xtls-rprx-vision&security=tls&sni=u716087u4da2s359.ccgfw.online#🌐 XX | ⚫ Чёрный #8
+vless://205d6869-02ca-3b36-b933-be2465250c7e@s359.ccgfw.online:443?encryption=none&type=tcp&headerType=none&fp=random&host=s359.ccgfw.online&path=&flow=xtls-rprx-vision&security=tls&sni=u716087u4da2s359.ccgfw.online&serviceName=&mode=&alpn=#🌐 XX | ⚫ Чёрный #9
+vless://958100e2-40fa-4903-aaaf-d9b7690ae7f9@217.163.76.118:2086?encryption=none&host=xvh.andishehparenting.com&path=%2F&security=none&type=xhttp&mode=packet-up#🌐 XX | ⚫ Чёрный #10
 

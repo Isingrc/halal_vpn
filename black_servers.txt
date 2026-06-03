@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-03 02:50 UTC
+# Updated: 2026-06-03 08:47 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://891d43f1-e360-4b3a-96a8-5c5ff9697940@by.capynode.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=by.capynode.com&fp=firefox&pbk=kmUTHyW5iaY4k3IEQHuOFhd87gQE5PuplLf48D-Lp1I&sid=f1ebe89f2b112d64&spx=%2F#🚀 Автовыбор | ⚫ Чёрные
-vless://891d43f1-e360-4b3a-96a8-5c5ff9697940@by.capynode.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=by.capynode.com&fp=firefox&pbk=kmUTHyW5iaY4k3IEQHuOFhd87gQE5PuplLf48D-Lp1I&sid=f1ebe89f2b112d64&spx=%2F#🌐 XX | ⚫ Чёрный #1
-vless://ee258b89-6004-43cb-a404-69c4f1ac6b56@app.movise.org:19467?mode=auto&path=/&security=&encryption=none&type=xhttp#🌐 XX | ⚫ Чёрный #2
-vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #3
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?encryption=none&type=grpc&security=none#🌐 XX | ⚫ Чёрный #4
-vless://204a8a6a-03ef-4444-b31f-85c17dbabcad@google.com.kolman.com.de:443?hiddify=1&sni=cd1.serviceali.ir&type=xhttp&alpn=h2&path=%2FeQ7EK5s88mh1QkaLDB4v5psc&host=cd1.serviceali.ir&encryption=none&fp=firefox&core=xray&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.6.5%20Chrome%2F124.0.6367.243%20Electron%2F30.1.2%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&headerType=none&allowInsecure=true&insecure=true&security=tls#🌐 XX | ⚫ Чёрный #5
+vless://ee258b89-6004-43cb-a404-69c4f1ac6b56@app.movise.org:19467?mode=auto&path=/&security=&encryption=none&type=xhttp#🚀 Автовыбор | ⚫ Чёрные
+vless://ee258b89-6004-43cb-a404-69c4f1ac6b56@app.movise.org:19467?mode=auto&path=/&security=&encryption=none&type=xhttp#🌐 XX | ⚫ Чёрный #1
+vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #2
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?encryption=none&type=grpc&security=none#🌐 XX | ⚫ Чёрный #3
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🌐 XX | ⚫ Чёрный #4
+vless://204a8a6a-03ef-4444-b31f-85c17dbabcad@google.com.kolman.com.de:443?encryption=none&type=xhttp&security=tls&path=%2FeQ7EK5s88mh1QkaLDB4v5psc&host=cd1.serviceali.ir&mode=auto&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28Macintosh%3B%2BIntel%2BMac%2BOS%2BX%2B10_15_7%29%2BAppleWebKit%2F537.36%2B%28KHTML%2C%2Blike%2BGecko%29%2Bobsidian%2F1.6.5%2BChrome%2F124.0.6367.243%2BElectron%2F30.1.2%2BSafari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&sni=cd1.serviceali.ir&alpn=h2&fp=firefox&allowInsecure=0#🌐 XX | ⚫ Чёрный #5
 vless://204a8a6a-03ef-4444-b31f-85c17dbabcad@google.com.kolman.com.de:443?mode=auto&path=/eQ7EK5s88mh1QkaLDB4v5psc&security=tls&alpn=h2&encryption=none&extra={"headers":{"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.6.5 Chrome/124.0.6367.243 Electron/30.1.2 Safari/537.36","Pragma":"no-cache"}}&insecure=0&host=cd1.serviceali.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cd1.serviceali.ir#🌐 XX | ⚫ Чёрный #6
 vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #7
-vless://5a4514a3-be28-4655-9bd7-5ef391d7949f@de1.thefastspeedtest.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=de1.thefastspeedtest.net&fp=edge&pbk=PuOP1VAIjcpq6sU_eUxV-z-u_WYFsu2hKIv2uye6804&sid=2d8c125b546b669f#🌐 XX | ⚫ Чёрный #8
-vless://5a4514a3-be28-4655-9bd7-5ef391d7949f@de2.thefastspeedtest.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=de2.thefastspeedtest.net&fp=edge&pbk=PuOP1VAIjcpq6sU_eUxV-z-u_WYFsu2hKIv2uye6804&sid=26f8c993ac40d17d#🌐 XX | ⚫ Чёрный #9
-vless://69016f2a-91e4-43af-a4e0-c5ab03fb9c46@germany.devpirate.baby:21463?&security=false&fp=chrome&type=ws&headerType=none&host=www.google.com&path=%2F#🇺🇸 US | ⚫ Чёрный #10
+vless://5a4514a3-be28-4655-9bd7-5ef391d7949f@de1.thefastspeedtest.net:443?type=tcp&headerType=none&security=reality&encryption=none&sni=de1.thefastspeedtest.net&fp=edge&pbk=PuOP1VAIjcpq6sU_eUxV-z-u_WYFsu2hKIv2uye6804&sid=2d8c125b546b669f&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #8
+vless://5a4514a3-be28-4655-9bd7-5ef391d7949f@de2.thefastspeedtest.net:443?type=tcp&headerType=none&security=reality&encryption=none&sni=de2.thefastspeedtest.net&fp=edge&pbk=PuOP1VAIjcpq6sU_eUxV-z-u_WYFsu2hKIv2uye6804&sid=26f8c993ac40d17d&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #9
+vless://c129c997-119d-4177-a94b-ee1025383a6f@de1.gamelistak.com:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=de1.gamelistak.com&path=/MrNexTV2RAY&mode=auto&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #10
 

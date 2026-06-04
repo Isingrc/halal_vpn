@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-03 22:23 UTC
+# Updated: 2026-06-04 02:45 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🚀 Автовыбор | ⚫ Чёрные
-vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #1
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?encryption=none&type=grpc&security=none#🌐 XX | ⚫ Чёрный #2
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🌐 XX | ⚫ Чёрный #3
-vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #4
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@down.spectrumproxy.shop:443?mode=gun&type=grpc&security=reality&sni=down.spectrumproxy.shop&fp=chrome&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA&sid=a1c1d7e2f9b3&serviceName=vless#🌐 XX | ⚫ Чёрный #5
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?type=tcp&headerType=none&security=tls&encryption=none&sni=bero-3.bexum.fun&fp=chrome&flow=xtls-rprx-vision&insecure=0#🌐 XX | ⚫ Чёрный #6
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l1-2.l-itx.info:7443?type=grpc&headerType=none&security=reality&encryption=none&sni=colorlib.com&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&serviceName=xyz#🌐 XX | ⚫ Чёрный #7
-vless://0057983b-1342-40ce-a570-ad08046977e5@www.ujintan.com:443?path=%2F15284%2Fcoffee&security=tls&encryption=none&insecure=0&host=xh.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#🌐 XX | ⚫ Чёрный #8
-vless://ab268dc7-510f-4fb9-ace4-b7305a59c7bb@78.17.103.57.blanesik.space:443?type=grpc&headerType=none&security=tls&encryption=none&sni=78.17.103.57.blanesik.space&fp=safari&alpn=h2&serviceName=%2Fsequre%2Fgrpc&insecure=0#🌐 XX | ⚫ Чёрный #9
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?encryption=none&type=grpc&security=none#🚀 Автовыбор | ⚫ Чёрные
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?encryption=none&type=grpc&security=none#🌐 XX | ⚫ Чёрный #1
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@speedtest.net:80?mode=auto&path=%2FTignaliSWithYou&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofan.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #2
+vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #3
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@down.spectrumproxy.shop:443?mode=gun&type=grpc&security=reality&sni=down.spectrumproxy.shop&fp=chrome&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA&sid=a1c1d7e2f9b3&serviceName=vless#🌐 XX | ⚫ Чёрный #4
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=bero-3.bexum.fun&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #5
+vless://0057983b-1342-40ce-a570-ad08046977e5@static.iirose.cn:443?path=%2F15284%2Fcoffee&security=tls&encryption=none&insecure=0&host=xh.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#🌐 XX | ⚫ Чёрный #6
+vless://0057983b-1342-40ce-a570-ad08046977e5@www.ujintan.com:443?path=%2F15284%2Fcoffee&security=tls&encryption=none&insecure=0&host=xh.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#🌐 XX | ⚫ Чёрный #7
+vless://b5828ba2-89a0-4516-8d73-04c45c069991@static.iirose.cn:443?mode=auto&path=%2F22976%2Fmediaprocessing&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=xh.mmadcoffee.info&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmadcoffee.info#🌐 XX | ⚫ Чёрный #8
+vless://b5828ba2-89a0-4516-8d73-04c45c069991@www.ujintan.com:443?mode=auto&path=%2F22976%2Fmediaprocessing&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=xh.mmadcoffee.info&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmadcoffee.info#🌐 XX | ⚫ Чёрный #9
 vless://telegramchannel-probabblynot@probabblynot.fazelextremeisreal.com:18034?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&security=reality&encryption=none&pbk=ph_rbwXTPE724CilY2K21PHfgfj32QL2oApFve6s1nQ&headerType=none&fp=chrome&spx=/H5oluBwACzwmKsC&type=tcp&sni=refersion.com&sid=ef6a0ec24e7f#🌐 XX | ⚫ Чёрный #10
 

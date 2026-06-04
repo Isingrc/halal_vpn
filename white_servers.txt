@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-04 02:45 UTC
+# Updated: 2026-06-04 08:12 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@db.herumhas.shop:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=db.herumhas.shop&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🚀 Автовыбор | ⚪ Белые
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@db.herumhas.shop:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=db.herumhas.shop&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🌐 XX | ⚪ Белый #1
-vless://68affbc8-a654-4b29-a558-67d8e97b31a3@fr.pizza-italy.net:8443?encryption=none&security=reality&sni=www.play.google.com&fp=firefox&pbk=jIqivP2IRxdJVLCG6B97G64nxeq-JVYF19O30olxq3A&sid=30fdecd63cd631f2&spx=%2F&type=tcp&headerType=none#🇺🇸 US | ⚪ Белый #2
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@dnb.herumhas.shop:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=dnb.herumhas.shop&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🌐 XX | ⚪ Белый #3
-vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@ovh.furkbalancer.net:2053?security=tls&type=tcp&sni=de.chocolatemango.live&fp=chrome&flow=xtls-rprx-vision&encryption=none#🌐 XX | ⚪ Белый #4
-vless://%40JynMarket@63.141.128.25:443?mode=packet-up&path=%2FJynMarket&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=a.pedramdns.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=a.pedramdns.shop#🌐 XX | ⚪ Белый #5
-vless://abe3cb91-cf7e-468d-8c4e-6cbf61cab495@176.109.101.215:8083?encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🌐 XX | ⚪ Белый #6
-vless://8947a004-f439-4d23-b8f2-c720db4f35d7@51.250.47.192:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea#🌐 XX | ⚪ Белый #7
-vless://0966bc0b-593b-4ff0-bb98-682d1596f30a@51.250.47.192:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea#🌐 XX | ⚪ Белый #8
-vless://12b103d0-33fb-49af-b3ec-66ce19caf7bc@51.250.47.192:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a#🌐 XX | ⚪ Белый #9
-vless://91ff9381-17ea-478a-ba28-3b77a390fff9@51.250.47.192:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea#🌐 XX | ⚪ Белый #10
+vless://68affbc8-a654-4b29-a558-67d8e97b31a3@fr.pizza-italy.net:8443?encryption=none&security=reality&sni=www.play.google.com&fp=firefox&pbk=jIqivP2IRxdJVLCG6B97G64nxeq-JVYF19O30olxq3A&sid=30fdecd63cd631f2&spx=%2F&type=tcp&headerType=none#🚀 Автовыбор | ⚪ Белые
+vless://68affbc8-a654-4b29-a558-67d8e97b31a3@fr.pizza-italy.net:8443?encryption=none&security=reality&sni=www.play.google.com&fp=firefox&pbk=jIqivP2IRxdJVLCG6B97G64nxeq-JVYF19O30olxq3A&sid=30fdecd63cd631f2&spx=%2F&type=tcp&headerType=none#🇺🇸 US | ⚪ Белый #1
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@dnb.herumhas.shop:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=dnb.herumhas.shop&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🌐 XX | ⚪ Белый #2
+vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@ovh.furkbalancer.net:2053?security=tls&type=tcp&sni=de.chocolatemango.live&fp=chrome&flow=xtls-rprx-vision&encryption=none#🌐 XX | ⚪ Белый #3
+vless://bd91187b-aeeb-403d-8cff-5bdc5ebc04c1@cdn10.cloud-vk.com:8443?type=tcp&security=reality&sni=avito.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FGCQJa66btmmsTEqC-vhSUN9INHarHwKNyhLi131fAQ&sid=63992a9a07179bb2#🌐 XX | ⚪ Белый #4
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@auto.datamove.online:2040?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&fp=qq&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44&spx=%2F#🌐 XX | ⚪ Белый #5
+vless://9b25a73b-a67b-4efc-9462-5f14bb305ee7@usa2.vpnfreedom.tech:443?security=reality&encryption=none&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2404#🇺🇸 US | ⚪ Белый #6
+vless://9b25a73b-a67b-4efc-9462-5f14bb305ee7@usa2.vpnfreedom.tech:443?type=tcp&security=reality&sni=google.com&fp=firefox&flow=xtls-rprx-vision&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&sid=2404#🇺🇸 US | ⚪ Белый #7
+vless://346af57f-316c-4246-839d-6e363b1dbdf9@v6.cloudconsole.ru:443?type=xhttp&security=reality&path=/&sni=yandex.ru&fp=chrome&pbk=SQo6HHEMN-eGaCOdmN0_CX9F3cbCje4gVwuCrKh1MFU&sid=de#🌐 XX | ⚪ Белый #8
+vless://806c37e7-1865-47df-bf94-92345f67d83a@srv-2f2951.21freedom.net:443?mode=auto&path=/api/v1/35f40c80&security=reality&encryption=none&pbk=LiPjJnS3V2C-W1lbsslZERqXYn8b104bW7PetDA08XA&host=vk.com&fp=chrome&spx=/&allowinsecure=0&type=xhttp&sni=yandex.ru&sid=c897d075c4775e4c#🌐 XX | ⚪ Белый #9
+vless://%40a_amr79@141.193.213.11:443?security=tls&type=ws&path=%2Fmy-wbv&host=unnes.ac.id.cyylr.eu.cc&sni=unnes.ac.id.cyylr.eu.cc&fp=chrome&encryption=none#🌐 XX | ⚪ Белый #10
 

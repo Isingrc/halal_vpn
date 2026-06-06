@@ -1,18 +1,18 @@
 # FAST ALL SERVERS
-# Updated: 2026-06-06 19:05 UTC
+# Updated: 2026-06-06 20:54 UTC
 # Total: 35 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=ru-vk-2.1001notes.ru&fp=chrome&serviceName=vk&insecure=0#🚀 Автовыбор | ⚪ Белые
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=ru-vk-2.1001notes.ru&fp=chrome&serviceName=vk&insecure=0#🌐 XX | ⚪ Белый #1
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&fp=chrome&sni=ru-vk-2.1001notes.ru&mode=multi&serviceName=vk#🌐 XX | ⚪ Белый #2
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-3.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-3.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #3
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-5.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #4
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-5.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #3
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&path=/vk&sni=ru-vk-5.1001notes.ru&fp=chrome#🌐 XX | ⚪ Белый #4
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@de-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=de-xh-01.hpdata.click&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #5
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l1.l-itx.info:7443?type=grpc&security=reality&fp=chrome&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sni=colorlib.com&serviceName=xyz#🌐 XX | ⚪ Белый #6
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@de-xh-01.hpdata.click:443?type=xhttp&security=tls&path=/vk&sni=de-xh-01.hpdata.click&fp=chrome#🌐 XX | ⚪ Белый #6
 vless://f4e98990-648f-448a-9264-64040b413811@cdn14.cloud-vk.com:8443?security=reality&encryption=none&pbk=Ml-LF4yKs-OUHfQuCyLKcqMioe92UB8tRC_Vs-xKrR8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=6602554a2aa16bd1#🌐 XX | ⚪ Белый #7
-vless://f4e98990-648f-448a-9264-64040b413811@cdn8.cloud-vk.com:8443?security=reality&encryption=none&pbk=eOSTlPCwxYoFWH74DVgLUX_dJb9wmHL33MMU5lxMwCE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=d20b72a7#🌐 XX | ⚪ Белый #8
-vless://f4e98990-648f-448a-9264-64040b413811@cdn6.cloud-vk.com:8443?security=reality&encryption=none&pbk=7zsja5u9_tXdfEDIHNPdhIwyoawk7WUFLcthOwFt10k&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=99fc#🌐 XX | ⚪ Белый #9
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=#🌐 XX | ⚪ Белый #8
+vless://f4e98990-648f-448a-9264-64040b413811@cdn8.cloud-vk.com:8443?security=reality&encryption=none&pbk=eOSTlPCwxYoFWH74DVgLUX_dJb9wmHL33MMU5lxMwCE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=d20b72a7#🌐 XX | ⚪ Белый #9
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@es-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=es-xh-01.hpdata.click&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #10
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -32,16 +32,16 @@ vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=%2Fvless&se
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=ru-vk-2.1001notes.ru&fp=chrome&serviceName=vk&insecure=0#🚀 Автовыбор | ⚡ Fast All
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=ru-vk-2.1001notes.ru&fp=chrome&serviceName=vk&insecure=0#🌐 XX | ⚡ Fast #1
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&fp=chrome&sni=ru-vk-2.1001notes.ru&mode=multi&serviceName=vk#🌐 XX | ⚡ Fast #2
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-3.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-3.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚡ Fast #3
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-5.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚡ Fast #4
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-5.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚡ Fast #3
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&path=/vk&sni=ru-vk-5.1001notes.ru&fp=chrome#🌐 XX | ⚡ Fast #4
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@de-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=de-xh-01.hpdata.click&path=/vk&mode=packet-up#🌐 XX | ⚡ Fast #5
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l1.l-itx.info:7443?type=grpc&security=reality&fp=chrome&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sni=colorlib.com&serviceName=xyz#🌐 XX | ⚡ Fast #6
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@de-xh-01.hpdata.click:443?type=xhttp&security=tls&path=/vk&sni=de-xh-01.hpdata.click&fp=chrome#🌐 XX | ⚡ Fast #6
 vless://f4e98990-648f-448a-9264-64040b413811@cdn14.cloud-vk.com:8443?security=reality&encryption=none&pbk=Ml-LF4yKs-OUHfQuCyLKcqMioe92UB8tRC_Vs-xKrR8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=6602554a2aa16bd1#🌐 XX | ⚡ Fast #7
-vless://f4e98990-648f-448a-9264-64040b413811@cdn8.cloud-vk.com:8443?security=reality&encryption=none&pbk=eOSTlPCwxYoFWH74DVgLUX_dJb9wmHL33MMU5lxMwCE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=d20b72a7#🌐 XX | ⚡ Fast #8
-vless://f4e98990-648f-448a-9264-64040b413811@cdn6.cloud-vk.com:8443?security=reality&encryption=none&pbk=7zsja5u9_tXdfEDIHNPdhIwyoawk7WUFLcthOwFt10k&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=99fc#🌐 XX | ⚡ Fast #9
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=#🌐 XX | ⚡ Fast #8
+vless://f4e98990-648f-448a-9264-64040b413811@cdn8.cloud-vk.com:8443?security=reality&encryption=none&pbk=eOSTlPCwxYoFWH74DVgLUX_dJb9wmHL33MMU5lxMwCE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=d20b72a7#🌐 XX | ⚡ Fast #9
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@es-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=es-xh-01.hpdata.click&path=/vk&mode=packet-up#🌐 XX | ⚡ Fast #10
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@es-xh-02.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=es-xh-02.hpdata.click&path=/vk&mode=packet-up#🌐 XX | ⚡ Fast #11
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@nid.pink-perfect.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#🇺🇸 US | ⚡ Fast #12
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@nid2.pink-perfect.ru:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nid2.pink-perfect.ru&sid=8ffa160e608bf539#🌐 XX | ⚡ Fast #13
-vless://f4e98990-648f-448a-9264-64040b413811@cdn4.cloud-vk.com:443?security=reality&encryption=none&pbk=FmCNU-XuNo9Z5RUPzjr9raJtDLdl2rTOJa2AoQgBulI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=1f7b8197dcce92#🌐 XX | ⚡ Fast #14
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.7:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#🌐 XX | ⚡ Fast #15
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@es-xh-01.hpdata.click:443?type=xhttp&security=tls&path=/vk&sni=es-xh-01.hpdata.click&fp=chrome#🌐 XX | ⚡ Fast #11
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@es-xh-02.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=es-xh-02.hpdata.click&path=/vk&mode=packet-up#🌐 XX | ⚡ Fast #12
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@es-xh-02.hpdata.click:443?type=xhttp&security=tls&path=/vk&sni=es-xh-02.hpdata.click&fp=chrome#🌐 XX | ⚡ Fast #13
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#🌐 XX | ⚡ Fast #14
+vless://7283d2d5-7b14-431b-9d1f-96f2dac4a97b@92.223.65.67:58888?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=&pbk=oPb9QJL_Mys7JtX3P3O8Jygw511Z-M1Z3CL33nBL7wk&sid=6ba85179e30d4fc2#🌐 XX | ⚡ Fast #15

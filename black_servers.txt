@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-06-06 16:59 UTC
+# Updated: 2026-06-06 19:05 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -8,10 +8,10 @@ vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?type=xhtt
 vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?type=xhttp&security=reality&fp=chrome&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&sid=41774dc9dc721e&sni=www.amd.com&path=/api/v1/update&mode=packet-up#🌐 XX | ⚫ Чёрный #2
 vless://d2ce0b49-2b2c-46f6-9b43-4829d0075654@white77.alexanderoff.ru:1230?type=tcp&security=none&encryption=none#🌐 XX | ⚫ Чёрный #3
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@fr-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=fr-xh-01.hpdata.click&path=/vk&mode=packet-up#🌐 XX | ⚫ Чёрный #4
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&fp=chrome&sni=ru-vk-2.1001notes.ru&mode=multi&serviceName=vk#🌐 XX | ⚫ Чёрный #5
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-3.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-3.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚫ Чёрный #6
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-5.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚫ Чёрный #7
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@speedtest.net:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=xhttp&path=/TignaliSWithYou&host=tignaltofan.global.ssl.fastly.net&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #8
-vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #9
-vless://d6caf8b3-bef3-48ab-9277-34b186900cd8@ws-test-5.hysteria.ltd:6444?type=xhttp&security=tls#🌐 XX | ⚫ Чёрный #10
+vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?type=tcp&headerType=none&security=tls&encryption=none&sni=api-6a20f558.noooo.win&fp=edge&alpn=h2&flow=xtls-rprx-vision&insecure=0#🌐 XX | ⚫ Чёрный #5
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@speedtest.net:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=xhttp&path=/TignaliSWithYou&host=tignaltofan.global.ssl.fastly.net&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #6
+vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #7
+vless://d2ce0b49-2b2c-46f6-9b43-4829d0075654@white77.alexanderoff.ru:1210?type=tcp&security=none&encryption=none#🌐 XX | ⚫ Чёрный #8
+vless://d6caf8b3-bef3-48ab-9277-34b186900cd8@ws-test-5.hysteria.ltd:6444?type=xhttp&security=tls#🌐 XX | ⚫ Чёрный #9
+vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=%2Fvless&security=&encryption=none&type=ws#🌐 XX | ⚫ Чёрный #10
 

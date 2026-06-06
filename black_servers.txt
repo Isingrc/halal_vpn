@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-05 22:58 UTC
+# Updated: 2026-06-06 02:11 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@speedtest.net:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=xhttp&path=/TignaliSWithYou&host=tignaltofan.global.ssl.fastly.net&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🚀 Автовыбор | ⚫ Чёрные
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@speedtest.net:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=xhttp&path=/TignaliSWithYou&host=tignaltofan.global.ssl.fastly.net&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #1
-vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #2
-vless://f9558e6a-0447-48a0-94e9-cd69fc638d73@de2.niekotin.de:80?path=/vless&security=none&encryption=none&host=de2.niekotin.de&type=ws#🌐 XX | ⚫ Чёрный #3
-vless://3f714544-cb38-49cf-9b5d-e4ddf08e22c4@vip-srv-for-you.xn--5d3ak5w.com:2052?path=%2FphpMyAdmin%3Fq%3D%E4%B8%80%E4%BD%8D%E8%99%95%E5%A5%B3%E5%9C%A8%E5%AD%AB%E5%85%88%E7%94%9F%E7%9A%84%E8%BE%B2%E5%A0%B4%E5%B7%A5%E4%BD%9C%E3%80%82&security=&encryption=none&host=crj0p2x3yug5d5lv13en.1x.up.xn--1tq578b.com&type=httpupgrade#🌐 XX | ⚫ Чёрный #4
-vless://64297ec6-f701-49a7-8337-31af0561debc@de7.niekotin.de:80?path=%2Fvless&security=&encryption=none&host=de7.niekotin.de&type=ws#🌐 XX | ⚫ Чёрный #5
-vless://64297ec6-f701-49a7-8337-31af0561debc@de7.niekotin.de:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fvless&security=&encryption=none&host=&type=ws#🌐 XX | ⚫ Чёрный #6
-vless://ab268dc7-510f-4fb9-ace4-b7305a59c7bb@78.17.103.57.blanesik.space:443?type=grpc&headerType=none&security=tls&encryption=none&sni=78.17.103.57.blanesik.space&fp=safari&alpn=h2&serviceName=%2Fsequre%2Fgrpc&insecure=0#🌐 XX | ⚫ Чёрный #7
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🌐 XX | ⚫ Чёрный #8
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#🌐 XX | ⚫ Чёрный #9
-vless://1a135182-37b9-4b40-bb1b-34379d697ccb@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=%2Fstream&security=none&type=ws#🌐 XX | ⚫ Чёрный #10
+vless://9cab10a8-7936-457f-bf1f-b9842439f494@ar.vpnburger.ru:443?type=grpc&headerType=none&security=reality&encryption=none&sni=gentoo.ubuntuhosting.host&fp=chrome&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048&serviceName=gun#🚀 Автовыбор | ⚫ Чёрные
+vless://9cab10a8-7936-457f-bf1f-b9842439f494@ar.vpnburger.ru:443?type=grpc&headerType=none&security=reality&encryption=none&sni=gentoo.ubuntuhosting.host&fp=chrome&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048&serviceName=gun#🌐 XX | ⚫ Чёрный #1
+vless://9cab10a8-7936-457f-bf1f-b9842439f494@centos.ubuntuhosting.host:443?type=grpc&headerType=none&security=reality&encryption=none&sni=centos.ubuntuhosting.host&fp=chrome&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048&serviceName=gun#🌐 XX | ⚫ Чёрный #2
+vless://b0276310-5e06-45b1-b2e5-1d74c429825d@fl-modx.webedg.net:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl-modx.webedg.net&fp=firefox&pbk=MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #3
+vless://InternetAzadRobot@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #4
+vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l1-2.l-itx.info:7443?type=grpc&headerType=none&security=reality&encryption=none&sni=colorlib.com&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&serviceName=xyz#🌐 XX | ⚫ Чёрный #5
+vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/vless&security=none&encryption=none&host=&type=ws#🌐 XX | ⚫ Чёрный #6
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443?path=%2F16838%2Fc89d26b724fe%2F&security=tls&encryption=none&insecure=0&host=smtp.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#🌐 XX | ⚫ Чёрный #7
+vless://3f714544-cb38-49cf-9b5d-e4ddf08e22c4@vip-srv-for-you.xn--5d3ak5w.com:2052?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2FphpMyAdmin%3Fq%3D%E4%B8%80%E4%BD%8D%E8%99%95%E5%A5%B3%E5%9C%A8%E5%AD%AB%E5%85%88%E7%94%9F%E7%9A%84%E8%BE%B2%E5%A0%B4%E5%B7%A5%E4%BD%9C%E3%80%82&security=none&encryption=none&host=crj0p2x3yug5d5lv13en.1x.up.xn--1tq578b.com&type=httpupgrade#🌐 XX | ⚫ Чёрный #8
+vless://a0b7c251-a27c-410a-89a7-73a31e4e6af9@de2.unoix.co:38148?encryption=none&fp=chrome&pbk=CqnP5lpBUqGXHo1aqkUi4HuqD7SC3c27u0LqXQTSJGM&security=reality&sid=40&sni=www.yahoo.com&type=grpc#🌐 XX | ⚫ Чёрный #9
+vless://a0b7c251-a27c-410a-89a7-73a31e4e6af9@de2.unoix.co:38148?encryption=none&type=grpc&security=reality&mode=gun&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=CqnP5lpBUqGXHo1aqkUi4HuqD7SC3c27u0LqXQTSJGM&sid=40&spx=%2F1Emz8C4dxIxTb1z#🌐 XX | ⚫ Чёрный #10
 

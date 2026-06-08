@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-07 22:54 UTC
+# Updated: 2026-06-08 02:41 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@bul.sempai.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=bul.sempai.site&fp=chrome&pbk=vu-snSb4OmbomMUVyJeGmLNKaeo4REdJ2U5ISZOQvVo&flow=xtls-rprx-vision#🚀 Автовыбор | ⚫ Чёрные
-vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@bul.sempai.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=bul.sempai.site&fp=chrome&pbk=vu-snSb4OmbomMUVyJeGmLNKaeo4REdJ2U5ISZOQvVo&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #1
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?encryption=none&security=tls&sni=ca-xh-01.hpdata.click&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fvk&mode=packet-up#🌐 XX | ⚫ Чёрный #2
-vless://0752b610-6fd0-4382-a40c-39d59b416a1e@ca.gsupport.support:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8&sni=video.intfreed.ru#🌐 XX | ⚫ Чёрный #3
-vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?type=xhttp&security=reality&fp=chrome&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&sid=41774dc9dc721e&sni=www.amd.com&path=/api/v1/update&mode=packet-up#🌐 XX | ⚫ Чёрный #4
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@fr-xh-01.hpdata.click:443?encryption=none&security=tls&sni=fr-xh-01.hpdata.click&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fvk#🌐 XX | ⚫ Чёрный #5
-vless://InternetAzadRobot@151.101.128.223:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=%2Flogin&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🌐 XX | ⚫ Чёрный #6
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.128.223:80?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&mode=auto&path=%2Flogin&security=none&type=xhttp#🌐 XX | ⚫ Чёрный #7
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.130.133:80?mode=auto&path=%2Flogin&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #8
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@23.235.42.205:80?mode=auto&path=%2Flogin&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #9
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.156.47.96:8443?encryption=none&security=tls&sni=yyz-ca-01.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #10
+vless://9778a597-c81f-4459-9754-140b2ba8f784@rb01.bearvpn.win:443?type=grpc&headerType=none&security=reality&encryption=none&sni=5post-gate.x5.ru&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo#🚀 Автовыбор | ⚫ Чёрные
+vless://9778a597-c81f-4459-9754-140b2ba8f784@rb01.bearvpn.win:443?type=grpc&headerType=none&security=reality&encryption=none&sni=5post-gate.x5.ru&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo#🌐 XX | ⚫ Чёрный #1
+vless://9778a597-c81f-4459-9754-140b2ba8f784@rb01.bearvpn.win:443?type=grpc&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo&sid=#🌐 XX | ⚫ Чёрный #2
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?encryption=none&security=tls&sni=ca-xh-01.hpdata.click&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fvk#🌐 XX | ⚫ Чёрный #3
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?encryption=none&security=tls&sni=ca-xh-01.hpdata.click&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fvk&mode=packet-up#🌐 XX | ⚫ Чёрный #4
+vless://0752b610-6fd0-4382-a40c-39d59b416a1e@ca.gsupport.support:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8&sni=video.intfreed.ru#🌐 XX | ⚫ Чёрный #5
+vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #6
+vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?type=xhttp&security=reality&fp=chrome&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&sid=41774dc9dc721e&sni=www.amd.com&path=/api/v1/update&mode=packet-up#🌐 XX | ⚫ Чёрный #7
+vless://b0276310-5e06-45b1-b2e5-1d74c429825d@fl-modx.webedg.net:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl-modx.webedg.net&fp=firefox&pbk=MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #8
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@fr-xh-01.hpdata.click:443?encryption=none&security=tls&sni=fr-xh-01.hpdata.click&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fvk#🌐 XX | ⚫ Чёрный #9
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@fr-xh-01.hpdata.click:443?mode=packet-up&path=/vk&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=fr-xh-01.hpdata.click#🌐 XX | ⚫ Чёрный #10
 

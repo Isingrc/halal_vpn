@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-08 17:23 UTC
+# Updated: 2026-06-08 20:01 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-5.1001notes.ru&path=/vk&mode=packet-up#🚀 Автовыбор | ⚪ Белые
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-5.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #1
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&sni=ru-vk-5.1001notes.ru&path=/vk&mode=auto#🌐 XX | ⚪ Белый #2
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&sni=ru-vk-5.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #3
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@de-xh-01.hpdata.click:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=de-xh-01.hpdata.click&fp=chrome&path=%2Fvk&insecure=0#🌐 XX | ⚪ Белый #4
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@de-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=de-xh-01.hpdata.click&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #5
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@de-xh-01.hpdata.click:443?type=xhttp&security=tls&sni=de-xh-01.hpdata.click&path=%2Fvk&mode=packet-up#🌐 XX | ⚪ Белый #6
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?encryption=none&type=xhttp&sni=ru-vk-5.1001notes.ru&security=tls&fp=chrome&path=/vk&mode=packet-up&headerType=none#🚀 Автовыбор | ⚪ Белые
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?encryption=none&type=xhttp&sni=ru-vk-5.1001notes.ru&security=tls&fp=chrome&path=/vk&mode=packet-up&headerType=none#🌐 XX | ⚪ Белый #1
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@de-xh-01.hpdata.click:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=de-xh-01.hpdata.click&fp=chrome&path=%2Fvk&insecure=0#🌐 XX | ⚪ Белый #2
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@de-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=de-xh-01.hpdata.click&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #3
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@de-xh-01.hpdata.click:443?type=xhttp&security=tls&sni=de-xh-01.hpdata.click&path=%2Fvk&mode=packet-up#🌐 XX | ⚪ Белый #4
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@de-xh-01.hpdata.click:443?type=xhttp&security=tls&sni=de-xh-01.hpdata.click&path=/vk&mode=auto#🌐 XX | ⚪ Белый #5
+vless://7e961e0e-d2b2-4999-afbb-d36bd1c07ee5@de.riotvpn.eu:80?type=xhttp&security=tls&path=/&sni=obhod.riotvpn.eu&fp=chrome#🌐 XX | ⚪ Белый #6
 vless://9910e6e4-e540-4233-b88e-b1465434ad05@gp1.steptofsvo.com:18443?type=grpc&security=reality&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd&sni=gp1.steptofsvo.com&mode=multi&serviceName=grpc#🌐 XX | ⚪ Белый #7
-vless://9910e6e4-e540-4233-b88e-b1465434ad05@gp1.steptofsvo.com:18443?type=grpc&security=reality&fp=chrome&sni=gp1.steptofsvo.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd&serviceName=grpc#🌐 XX | ⚪ Белый #8
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l11.l-itx.info:443?type=xhttp&security=reality&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sni=yandex.by&path=/xh&mode=stream-up&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#🌐 XX | ⚪ Белый #9
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l11.l-itx.info:7443?type=grpc&security=reality&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3&sni=colorlib.com&mode=gun&serviceName=xyz&authority=colorlib.com#🌐 XX | ⚪ Белый #10
+vless://a38e4dd1-7111-4865-adb2-657723edfbdd@top1342980873.mwscdn.ru:443?mode=auto&path=%2Fbuy&security=tls&encryption=none&host=top1342980873.mwscdn.ru&fp=chrome&type=xhttp&sni=top1342980873.mwscdn.ru#🌐 XX | ⚪ Белый #8
+vless://a38e4dd1-7111-4865-adb2-657723edfbdd@top1342980873.mwscdn.ru:443?type=xhttp&security=tls&fp=chrome&sni=top1342980873.mwscdn.ru&path=/buy&mode=auto#🌐 XX | ⚪ Белый #9
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@es-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=es-xh-01.hpdata.click&path=/vk#🌐 XX | ⚪ Белый #10
 

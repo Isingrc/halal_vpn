@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-06-08 20:01 UTC
+# Updated: 2026-06-08 23:07 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -11,7 +11,7 @@ vless://e7cb547e-5a74-4695-9019-a2c93e7593ea@ru59.whost-solutions.ru:443?encrypt
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80?mode=auto&path=%2Flogin&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #5
 vless://InternetAzadRobot@fastly.com:80?encryption=none&type=xhttp&mode=auto&host=shangulin.global.ssl.fastly.net&path=/login&security=none#🌐 XX | ⚫ Чёрный #6
 vless://TOFAN-TRADE@fastly.com:80?type=xhttp&security=none&path=/&host=InternetAzadRobot31dx253.global.ssl.fastly.net&mode=auto#🌐 XX | ⚫ Чёрный #7
-vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?encryption=none&type=xhttp&mode=auto&host=Itsrezu2.dr-ping.com&path=/&security=tls&fp=chrome&sni=Itsrezu2.dr-ping.com&alpn=h2,http/1.1#🌐 XX | ⚫ Чёрный #8
-vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?type=xhttp&security=tls&path=/&sni=Itsrezu2.dr-ping.com&fp=chrome#🌐 XX | ⚫ Чёрный #9
-vless://6585a62b-4d8b-48cc-bdad-e2542504d748@167.68.5.43:8443?type=xhttp&security=tls&path=/&sni=Itsrezu2.dr-ping.com&fp=chrome#🌐 XX | ⚫ Чёрный #10
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@194.36.55.163:8443?encryption=none&type=xhttp&mode=auto&host=Itsrezu2.dr-ping.com&path=/&security=tls&fp=chrome&sni=Itsrezu2.dr-ping.com&alpn=h2,http/1.1#🌐 XX | ⚫ Чёрный #8
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@167.68.5.43:8443?encryption=none&type=xhttp&mode=auto&host=Itsrezu2.dr-ping.com&path=/&security=tls&fp=chrome&sni=Itsrezu2.dr-ping.com&alpn=h2,http/1.1#🌐 XX | ⚫ Чёрный #9
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.1.57:80?mode=auto&path=%2Flogin&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #10
 

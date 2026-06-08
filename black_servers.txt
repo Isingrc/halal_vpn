@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-08 08:45 UTC
+# Updated: 2026-06-08 13:59 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://738a43fa-b9d5-52f2-afb1-de4f5cd97753@argentina.cloudpath.live:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=leqUE6E3V7DNPI9Ia_5YwJHwl8mW3RfQFcswL3eZFkM&sid=95193833&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🚀 Автовыбор | ⚫ Чёрные
-vless://738a43fa-b9d5-52f2-afb1-de4f5cd97753@argentina.cloudpath.live:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=leqUE6E3V7DNPI9Ia_5YwJHwl8mW3RfQFcswL3eZFkM&sid=95193833&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇺🇸 US | ⚫ Чёрный #1
-vless://738a43fa-b9d5-52f2-afb1-de4f5cd97753@australia.cloudpath.live:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=Ovu-MEOWU1tUI8ppfuaGosmbiQLFaVY8YwZLKfMDhF4&sid=2c0157f1&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇺🇸 US | ⚫ Чёрный #2
-vless://738a43fa-b9d5-52f2-afb1-de4f5cd97753@belgium.cloudpath.live:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=9HzeVOO-_7-V3l4TCNqgO-cj32nlF3wsG8K4X3qFmFw&sid=cc52201b&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇺🇸 US | ⚫ Чёрный #3
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?encryption=none&security=tls&sni=ca-xh-01.hpdata.click&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fvk#🌐 XX | ⚫ Чёрный #4
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?encryption=none&security=tls&sni=ca-xh-01.hpdata.click&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fvk&mode=packet-up#🌐 XX | ⚫ Чёрный #5
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?type=xhttp&security=tls&sni=ca-xh-01.hpdata.click&path=/vk&mode=auto#🌐 XX | ⚫ Чёрный #6
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?type=xhttp&security=tls&sni=ca-xh-01.hpdata.click&path=/vk&mode=packet-up#🌐 XX | ⚫ Чёрный #7
-vless://738a43fa-b9d5-52f2-afb1-de4f5cd97753@canada.cloudpath.live:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=5greMGJatnVOsY6BKyjK3EpSEEg1qYDZ6sZcGmDBoCM&sid=24df1d9b&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇺🇸 US | ⚫ Чёрный #8
-vless://738a43fa-b9d5-52f2-afb1-de4f5cd97753@chile.cloudpath.live:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=L81jsdvefAescE0WIAp8rmmRfSo5YUejUBi_aj3tjw8&sid=485dded9&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇺🇸 US | ⚫ Чёрный #9
-vless://738a43fa-b9d5-52f2-afb1-de4f5cd97753@czech-republic.cloudpath.live:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=iuoxUZyl1ItwzUc-YXyv5iKkR7xKvPtmmK0EhgtgeTo&sid=87f08381&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇺🇸 US | ⚫ Чёрный #10
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?encryption=none&security=tls&sni=ca-xh-01.hpdata.click&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fvk#🚀 Автовыбор | ⚫ Чёрные
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?encryption=none&security=tls&sni=ca-xh-01.hpdata.click&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fvk#🌐 XX | ⚫ Чёрный #1
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?type=xhttp&security=tls&sni=ca-xh-01.hpdata.click&path=/vk&mode=auto#🌐 XX | ⚫ Чёрный #2
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ca-xh-01.hpdata.click:443?type=xhttp&security=tls&sni=ca-xh-01.hpdata.click&path=/vk&mode=packet-up#🌐 XX | ⚫ Чёрный #3
+vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?encryption=none&fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #4
+vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?fp=chrome&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #5
+vless://9a69c281-b698-4d4e-b76c-42ba116d9f74@coin.blacktoys.ru:443?security=reality&encryption=none&pbk=_3iPGceIoYphvzttZKP5bXSAImOW28i60fiPTILRYWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coin.blacktoys.ru&sid=c29d8c3c48a6f3c8#🌐 XX | ⚫ Чёрный #6
+vless://9a69c281-b698-4d4e-b76c-42ba116d9f74@coin.blacktoys.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=coin.blacktoys.ru&fp=randomized&pbk=_3iPGceIoYphvzttZKP5bXSAImOW28i60fiPTILRYWM&sid=c29d8c3c48a6f3c8&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #7
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@fr-xh-01.hpdata.click:443?encryption=none&security=tls&sni=fr-xh-01.hpdata.click&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fvk#🌐 XX | ⚫ Чёрный #8
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@fr-xh-01.hpdata.click:443?type=xhttp&security=tls&sni=fr-xh-01.hpdata.click&path=/vk&mode=auto#🌐 XX | ⚫ Чёрный #9
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@fr-xh-01.hpdata.click:443?type=xhttp&security=tls&sni=fr-xh-01.hpdata.click&path=/vk&mode=packet-up#🌐 XX | ⚫ Чёрный #10
 

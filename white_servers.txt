@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-08 02:41 UTC
+# Updated: 2026-06-08 08:45 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://0f6f77b1-8e7d-4266-b75d-d1fcce0a3daa@cdn0.s3-rus.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=hLx8TLJmiERzIkXT1rpRgV8S1oN-i9cE2N5o7Wi_0TQ&sid=7a3f9e2b1c8d4f6a&sni=ee.s3-cloud.xyz&spx=/#🚀 Автовыбор | ⚪ Белые
-vless://0f6f77b1-8e7d-4266-b75d-d1fcce0a3daa@cdn0.s3-rus.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=hLx8TLJmiERzIkXT1rpRgV8S1oN-i9cE2N5o7Wi_0TQ&sid=7a3f9e2b1c8d4f6a&sni=ee.s3-cloud.xyz&spx=/#🌐 XX | ⚪ Белый #1
-vless://0f6f77b1-8e7d-4266-b75d-d1fcce0a3daa@cdn6.s3-rus.ru:443?type=xhttp&security=tls&fp=chrome&sni=cdn6.s3-rus.ru&path=/api/ee&mode=packet-up&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"8-16","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"headers":{},"xPaddingBytes":"100-1000","scMaxEachPostBytes":200000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80"}#🌐 XX | ⚪ Белый #2
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=ru-vk-2.1001notes.ru&fp=chrome&serviceName=vk&insecure=0#🌐 XX | ⚪ Белый #3
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&fp=chrome&sni=ru-vk-2.1001notes.ru&mode=multi&serviceName=vk#🌐 XX | ⚪ Белый #4
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&sni=ru-vk-2.1001notes.ru&mode=multi&serviceName=vk#🌐 XX | ⚪ Белый #5
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&sni=ru-vk-2.1001notes.ru&serviceName=vk#🌐 XX | ⚪ Белый #6
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-3.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-3.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #7
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-3.1001notes.ru:443?type=xhttp&security=tls&sni=ru-vk-3.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #8
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=ru-vk-5.1001notes.ru&fp=chrome&path=%2Fvk&insecure=0#🌐 XX | ⚪ Белый #9
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-5.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #10
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=ru-vk-2.1001notes.ru&fp=chrome&serviceName=vk&insecure=0#🚀 Автовыбор | ⚪ Белые
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=ru-vk-2.1001notes.ru&fp=chrome&serviceName=vk&insecure=0#🌐 XX | ⚪ Белый #1
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&fp=chrome&sni=ru-vk-2.1001notes.ru&mode=multi&serviceName=vk#🌐 XX | ⚪ Белый #2
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&sni=ru-vk-2.1001notes.ru&mode=multi&serviceName=vk#🌐 XX | ⚪ Белый #3
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&sni=ru-vk-2.1001notes.ru&serviceName=vk#🌐 XX | ⚪ Белый #4
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-3.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-3.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #5
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-3.1001notes.ru:443?type=xhttp&security=tls&sni=ru-vk-3.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #6
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=ru-vk-5.1001notes.ru&fp=chrome&path=%2Fvk&insecure=0#🌐 XX | ⚪ Белый #7
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-5.1001notes.ru&path=/vk&mode=packet-up#🌐 XX | ⚪ Белый #8
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&sni=ru-vk-5.1001notes.ru&path=%2Fvk&mode=auto#🌐 XX | ⚪ Белый #9
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&sni=ru-vk-5.1001notes.ru&path=%2Fvk&mode=packet-up#🌐 XX | ⚪ Белый #10
 

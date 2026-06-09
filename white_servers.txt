@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-08 23:07 UTC
+# Updated: 2026-06-09 02:08 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@de.riotvpn.eu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#🚀 Автовыбор | ⚪ Белые
-vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@de.riotvpn.eu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#🌐 XX | ⚪ Белый #1
-vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@de.riotvpn.eu:80?type=xhttp&security=tls&fp=chrome&sni=obhod.riotvpn.eu&mode=auto#🌐 XX | ⚪ Белый #2
-vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@de.riotvpn.eu:8443?encryption=none&type=grpc&serviceName=grpc-yandex&mode=multi&security=reality&sni=ads.x5.ru&fp=chrome&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba#🌐 XX | ⚪ Белый #3
-vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@de.riotvpn.eu:8443?type=grpc&security=reality&fp=chrome&sni=ads.x5.ru&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba&serviceName=grpc-yandex#🌐 XX | ⚪ Белый #4
-vless://7e961e0e-d2b2-4999-afbb-d36bd1c07ee5@de.riotvpn.eu:80?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=obhod.riotvpn.eu#🌐 XX | ⚪ Белый #5
-vless://7e961e0e-d2b2-4999-afbb-d36bd1c07ee5@de.riotvpn.eu:80?type=xhttp&security=tls&path=/&sni=obhod.riotvpn.eu&fp=chrome#🌐 XX | ⚪ Белый #6
-vless://7fe363a0-c6e2-4609-9301-7a7d92ddb780@de.riotvpn.eu:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=obhod.riotvpn.eu#🌐 XX | ⚪ Белый #7
-vless://7fe363a0-c6e2-4609-9301-7a7d92ddb780@de.riotvpn.eu:80?type=xhttp&security=tls&path=/&sni=obhod.riotvpn.eu&fp=chrome#🌐 XX | ⚪ Белый #8
-vless://7fe363a0-c6e2-4609-9301-7a7d92ddb780@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=grpc&serviceName=grpc-yandex&sni=ads.x5.ru&sid=e67fb918ed6b9ffb#🌐 XX | ⚪ Белый #9
-vless://b42e34e3-d95c-4f9e-9e8c-e327e2323b6c@de.riotvpn.eu:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=grpc&serviceName=grpc-yandex&sni=ads.x5.ru&sid=844352756c1fabba#🌐 XX | ⚪ Белый #10
+vless://3e72a68f-e40d-44c6-a73d-13b99d0d1d50@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=grpc&serviceName=grpc-yandex&sni=ads.x5.ru&sid=e67fb918ed6b9ffb#🚀 Автовыбор | ⚪ Белые
+vless://3e72a68f-e40d-44c6-a73d-13b99d0d1d50@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=grpc&serviceName=grpc-yandex&sni=ads.x5.ru&sid=e67fb918ed6b9ffb#🌐 XX | ⚪ Белый #1
+vless://ec8c34f4-3576-4138-b847-61d177367e09@ru-2.videoproeditor.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru-2.videoproeditor.com&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#🌐 XX | ⚪ Белый #2
+vless://ec8c34f4-3576-4138-b847-61d177367e09@ru-2.videoproeditor.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#🌐 XX | ⚪ Белый #3
+vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l1.l-itx.info:7443?type=grpc&headerType=none&security=reality&encryption=none&sni=colorlib.com&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&serviceName=xyz#🌐 XX | ⚪ Белый #4
+vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l1.l-itx.info:7443?type=grpc&security=reality&fp=chrome&sni=colorlib.com&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&serviceName=xyz#🌐 XX | ⚪ Белый #5
+vless://e6990876-f78f-5f47-b716-fde1cbec10bc@kz-1.illusion-vpn.ru:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=kz-1.illusion-vpn.ru&fp=chrome&pbk=vgoHApJUN--t9eI7bCyYBJUO4ZgkZQBzxPzjNc_v314&sid=2e83619c7975b870&spx=%2F&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #6
+vless://2cfb47db-5b73-43cf-be67-6e28d73df7d4@ser.moktana.app:443?encryption=none&fp=chrome&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&security=reality&serviceName=moktana.net.v1.StreamService&sid=4a7d3e9f2b8c6a1d&sni=se.moktana.app&type=grpc#🌐 XX | ⚪ Белый #7
+vless://f7627a16-47bd-4900-a763-2802884064d0@ser.moktana.app:443?security=reality&allowInsecure=0&encryption=none&type=grpc&sni=se.moktana.app&sid=6f3c1b8e5d2a4f7c&fp=chrome&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&serviceName=moktana.net.v1.StreamService#🌐 XX | ⚪ Белый #8
+vless://fde8f78b-ec9b-4047-b288-d712f2d6c08d@ser.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=se.moktana.app&sid=2e9f4c7b1a8d6e3f#🌐 XX | ⚪ Белый #9
+vless://5ba2ac3f-167a-4aca-86df-7c72dc281bc0@de39.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&security=reality&sni=nl05.whost-solutions.ru&type=tcp#🌐 XX | ⚪ Белый #10
 

@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-09 07:37 UTC
+# Updated: 2026-06-09 10:51 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?encryption=none&fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🚀 Автовыбор | ⚫ Чёрные
 vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?encryption=none&fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #1
-vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?fp=chrome&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #2
-vless://b0276310-5e06-45b1-b2e5-1d74c429825d@fl-modx.webedg.net:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl-modx.webedg.net&fp=firefox&pbk=MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #3
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80?mode=auto&path=%2Flogin&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #4
-vless://InternetAzadRobot-AliKiller@fastly.com:80?mode=auto&path=%2F&security=&encryption=none&host=InternetAzadRobot31dx253.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #5
-vless://InternetAzadRobot@fastly.com:80?mode=auto&path=%2Flogin&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #6
-vless://InternetAzadRobot@151.101.1.57:80?mode=auto&path=%2Flogin&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #7
-vless://6585a62b-4d8b-48cc-bdad-e2542504d748@194.36.55.163:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Itsrezu2.dr-ping.com&fp=chrome&type=xhttp&allowInsecure=0&sni=Itsrezu2.dr-ping.com#🌐 XX | ⚫ Чёрный #8
-vless://InternetAzadRobot-AliKiller@151.101.193.57:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/&security=&encryption=none&host=InternetAzadRobot31dx253.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #9
-vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?type=xhttp&security=tls&path=/&sni=Itsrezu2.dr-ping.com&fp=chrome#🌐 XX | ⚫ Чёрный #10
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80?mode=auto&path=%2Flogin&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #2
+vless://InternetAzadRobot-AliKiller@fastly.com:80?mode=auto&path=%2F&security=&encryption=none&host=InternetAzadRobot31dx253.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #3
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=%2Flogin&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #4
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@194.36.55.163:8443?type=xhttp&security=tls&path=/&sni=Itsrezu2.dr-ping.com&fp=chrome#🌐 XX | ⚫ Чёрный #5
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@167.68.5.43:8443?type=xhttp&security=tls&path=/&sni=Itsrezu2.dr-ping.com&fp=chrome#🌐 XX | ⚫ Чёрный #6
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.129.57:80?mode=auto&path=%2Flogin&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #7
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.193.57:80?mode=auto&path=%2Flogin&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #8
+vless://InternetAzadRobot@151.101.193.57:80?encryption=none&type=xhttp&mode=auto&host=shangulin.global.ssl.fastly.net&path=/login&security=none#🌐 XX | ⚫ Чёрный #9
+vless://InternetAzadRobot@151.101.1.57:80?mode=auto&path=%2Flogin&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #10
 

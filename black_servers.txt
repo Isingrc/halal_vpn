@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-10 02:32 UTC
+# Updated: 2026-06-10 08:00 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@by01.botovod.space:443?encryption=none&security=tls&sni=by01.botovod.space&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🚀 Автовыбор | ⚫ Чёрные
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@by01.botovod.space:443?encryption=none&security=tls&sni=by01.botovod.space&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🌐 XX | ⚫ Чёрный #1
-vless://7e961e0e-d2b2-4999-afbb-d36bd1c07ee5@nl.riotvpn.eu:80?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=obhod.riotvpn.eu#🌐 XX | ⚫ Чёрный #2
+vless://90c60604-b214-4fe6-8396-9320674cfd68@rb01.bearvpn.win:443?type=grpc&headerType=none&security=reality&encryption=none&sni=5post-gate.x5.ru&fp=chrome&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo#🚀 Автовыбор | ⚫ Чёрные
+vless://90c60604-b214-4fe6-8396-9320674cfd68@rb01.bearvpn.win:443?type=grpc&headerType=none&security=reality&encryption=none&sni=5post-gate.x5.ru&fp=chrome&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo#🌐 XX | ⚫ Чёрный #1
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@by02.botovod.space:443?encryption=none&security=tls&sni=by02.botovod.space&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🌐 XX | ⚫ Чёрный #2
 vless://99a5e0ca-99b7-4b83-88f7-7d0f0943ae09@ca-dp-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=500aec9e9e5e2212&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #3
 vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@ee01.botovod.space:443?encryption=none&security=tls&sni=ee01.botovod.space&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🌐 XX | ⚫ Чёрный #4
 vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?encryption=none&fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #5
 vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?fp=chrome&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #6
 vless://6d199f80-7539-4eae-9a97-554657ed33ab@bypass.fi-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=f45c9665f3261108&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #7
-vless://0687273a-23e8-4735-97c2-db4d88cc0f6d@89.125.118.171.blanesik.space:443?type=grpc&headerType=none&security=tls&encryption=none&sni=89.125.118.171.blanesik.space&fp=safari&alpn=h2&serviceName=%2Fsequre%2Fgrpc&insecure=0#🌐 XX | ⚫ Чёрный #8
-vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=Itsrezu2.dr-ping.com&fp=chrome&mode=auto&alpn=h2,http/1.1#🌐 XX | ⚫ Чёрный #9
-vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Itsrezu2.dr-ping.com&fp=chrome&type=xhttp&allowInsecure=0&sni=Itsrezu2.dr-ping.com#🌐 XX | ⚫ Чёрный #10
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@fi01.botovod.space:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=fi01.botovod.space&fp=chrome&alpn=h2%2Chttp%2F1.1&path=%2F&insecure=0#🌐 XX | ⚫ Чёрный #8
+vless://0687273a-23e8-4735-97c2-db4d88cc0f6d@89.125.118.171.blanesik.space:443?type=grpc&headerType=none&security=tls&encryption=none&sni=89.125.118.171.blanesik.space&fp=safari&alpn=h2&serviceName=%2Fsequre%2Fgrpc&insecure=0#🌐 XX | ⚫ Чёрный #9
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@194.36.55.163:8443?encryption=none&type=xhttp&mode=auto&host=Itsrezu2.dr-ping.com&path=/&security=tls&fp=chrome&sni=Itsrezu2.dr-ping.com&alpn=h2,http/1.1#🌐 XX | ⚫ Чёрный #10
 

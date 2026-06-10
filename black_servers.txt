@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-10 12:48 UTC
+# Updated: 2026-06-10 16:54 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@by01.botovod.space:443?encryption=none&security=tls&sni=by01.botovod.space&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🚀 Автовыбор | ⚫ Чёрные
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@by01.botovod.space:443?encryption=none&security=tls&sni=by01.botovod.space&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🌐 XX | ⚫ Чёрный #1
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@by01.botovod.space:443?type=xhttp&security=tls&path=/&sni=by01.botovod.space&fp=chrome#🌐 XX | ⚫ Чёрный #2
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@ee01.botovod.space:443?type=xhttp&security=tls&path=/&sni=ee01.botovod.space&fp=chrome#🌐 XX | ⚫ Чёрный #3
-vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?encryption=none&fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #4
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@fi01.botovod.space:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=fi01.botovod.space&fp=chrome&alpn=h2%2Chttp%2F1.1&path=%2F&insecure=0#🌐 XX | ⚫ Чёрный #5
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@fi01.botovod.space:443?type=xhttp&security=tls&fp=chrome&sni=fi01.botovod.space#🌐 XX | ⚫ Чёрный #6
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80?mode=auto&path=%2Flogin&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #7
-vless://InternetAzadRobot@fastly.com:80?encryption=none&type=xhttp&mode=auto&host=shangulin.global.ssl.fastly.net&path=/login&security=none#🌐 XX | ⚫ Чёрный #8
-vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=api-6a20f558.noooo.win&type=tcp#🌐 XX | ⚫ Чёрный #9
-vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6a20f558.noooo.win&fp=edge&insecure=0&allowInsecure=0&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #10
+vless://99a5e0ca-99b7-4b83-88f7-7d0f0943ae09@ca-dp-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=500aec9e9e5e2212&flow=xtls-rprx-vision#🚀 Автовыбор | ⚫ Чёрные
+vless://99a5e0ca-99b7-4b83-88f7-7d0f0943ae09@ca-dp-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=500aec9e9e5e2212&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #1
+vless://f4779677-98b1-4bea-bc54-5ecfe4813732@ca-dp-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp#🌐 XX | ⚫ Чёрный #2
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@fastly.com:80?mode=auto&path=%2Flogin&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #3
+vless://InternetAzadRobot@fastly.com:80?encryption=none&type=xhttp&mode=auto&host=shangulin.global.ssl.fastly.net&path=/login&security=none#🌐 XX | ⚫ Чёрный #4
+vless://2e5af30a-19dd-49ce-9740-3c0ac2ed8349@fr-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=storage.yandex.net&type=tcp#🌐 XX | ⚫ Чёрный #5
+vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=api-6a20f558.noooo.win&type=tcp#🌐 XX | ⚫ Чёрный #6
+vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6a20f558.noooo.win&fp=edge&insecure=0&allowInsecure=0&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #7
+vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win#🌐 XX | ⚫ Чёрный #8
+vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?type=tcp&headerType=none&security=tls&encryption=none&sni=api-6a20f558.noooo.win&fp=edge&alpn=h2&flow=xtls-rprx-vision&insecure=0#🌐 XX | ⚫ Чёрный #9
+vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #10
 

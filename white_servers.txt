@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-10 16:54 UTC
+# Updated: 2026-06-10 20:12 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://b5d7c7ad-850f-4f80-8621-7c863eff1b49@br-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=57f5917841a2178f&sni=rbc.ru&type=tcp#🚀 Автовыбор | ⚪ Белые
-vless://b5d7c7ad-850f-4f80-8621-7c863eff1b49@br-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=57f5917841a2178f&sni=rbc.ru&type=tcp#🌐 XX | ⚪ Белый #1
-vless://b5d7c7ad-850f-4f80-8621-7c863eff1b49@bypass.br-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=57f5917841a2178f&sni=rbc.ru&type=tcp#🌐 XX | ⚪ Белый #2
-vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@hype-1.topupaxme.icu:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&security=reality&sid=&sni=max.ru&type=#🌐 XX | ⚪ Белый #3
-vless://c470171c-2951-4806-988d-61d4d811486d@auto.riotvpn.eu:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b#🌐 XX | ⚪ Белый #4
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l11.l-itx.info:2053?type=ws&headerType=none&security=tls&encryption=none&sni=6979d91dd100cfa5.itx-server.digital&fp=chrome&path=/ws&host=itx-server.digital&insecure=0#🌐 XX | ⚪ Белый #5
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l11.l-itx.info:2053?type=ws&headerType=none&security=tls&encryption=none&sni=6979d91dd100cfa5.itx-server.digital&fp=firefox&path=%2Fws&host=itx-server.digital&insecure=0#🌐 XX | ⚪ Белый #6
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l11.l-itx.info:443?type=xhttp&security=reality&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sni=yandex.by&path=/xh&mode=stream-up&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#🌐 XX | ⚪ Белый #7
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l11.l-itx.info:7443?type=grpc&security=reality&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3&sni=colorlib.com&mode=gun&serviceName=xyz&authority=colorlib.com#🌐 XX | ⚪ Белый #8
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l11.l-itx.info:7443?type=grpc&security=reality&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3&sni=colorlib.com&serviceName=xyz#🌐 XX | ⚪ Белый #9
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l13.l-itx.info:7443?type=grpc&headerType=none&security=reality&encryption=none&sni=colorlib.com&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3&serviceName=xyz#🌐 XX | ⚪ Белый #10
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@by02.botovod.space:443?type=xhttp&security=tls&fp=chrome&sni=by02.botovod.space&mode=auto#🚀 Автовыбор | ⚪ Белые
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@by02.botovod.space:443?type=xhttp&security=tls&fp=chrome&sni=by02.botovod.space&mode=auto#🌐 XX | ⚪ Белый #1
+vless://b5d7c7ad-850f-4f80-8621-7c863eff1b49@br-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=57f5917841a2178f&sni=rbc.ru&type=tcp#🌐 XX | ⚪ Белый #2
+vless://b5d7c7ad-850f-4f80-8621-7c863eff1b49@bypass.br-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=57f5917841a2178f&sni=rbc.ru&type=tcp#🌐 XX | ⚪ Белый #3
+vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@hype-1.topupaxme.icu:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&security=reality&sid=&sni=max.ru&type=#🌐 XX | ⚪ Белый #4
+vless://ac3225a8-5e7f-11f1-bd95-ee5f4ed81fa1@cam-msk-3.videomonitor.cloud:2053?type=grpc&security=reality&fp=chrome&pbk=WOf2IaQzzj3Kx0uIVKMu0njVKXyVJN-KDQ9ZFtOIcis&sid=d8c15eeb98b313f1&sni=cam-msk-3.videomonitor.cloud&mode=gun&serviceName=grpc-direct#🌐 XX | ⚪ Белый #5
+vless://ac3225a8-5e7f-11f1-bd95-ee5f4ed81fa1@cam-msk-7.videomonitor.cloud:2053?type=grpc&security=reality&fp=chrome&pbk=yjmr4nFrDGjHa32A9Uriq3co86CE-waGH3pmZt2_oQk&sid=255d380264ea7b58&sni=cam-msk-7.videomonitor.cloud&mode=gun&serviceName=grpc-direct#🌐 XX | ⚪ Белый #6
+vless://3b7950ed-e076-4a51-8df2-222a88689700@ch-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d037f6f67cc90016&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #7
+vless://c3df3ed1-5407-4d13-a6b4-de60608441d5@panel.novashop.fun:39935?encryption=none&security=none&type=tcp#🌐 XX | ⚪ Белый #8
+vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.67.215.134:8443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/?ed&sni=vo.new-persian-song.ir&fp=chrome&mode=auto&alpn=h2,h3#🌐 XX | ⚪ Белый #9
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@51.250.8.143:525?encryption=none&type=xhttp&security=reality&path=%2Fapi%2Fads&mode=auto&extra=null&fp=firefox&sni=ads.x5.ru&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=fe09c7eba9270a94#🌐 XX | ⚪ Белый #10
 

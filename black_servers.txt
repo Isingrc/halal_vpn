@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-12 19:53 UTC
+# Updated: 2026-06-12 21:24 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://b46caa37-244f-46b6-921e-664cb2cc6f9d@dney.gg-linkvault.online:48932?type=xhttp&security=reality&fp=random&pbk=Dl4-nKAkksLHmX2yR0LWAzyFBjIj1W10R4OxHKMX2AI&sid=fedcba9876543210&sni=www.nvidia.com&mode=auto&extra={"xmux":{"cMaxReuseTimes":"64-128","maxConcurrency":"16-32","maxConnections":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"noSSEHeader":true,"xPaddingBytes":"100-1000","scMaxBufferedPosts":30,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80"}#🚀 Автовыбор | ⚫ Чёрные
-vless://b46caa37-244f-46b6-921e-664cb2cc6f9d@dney.gg-linkvault.online:48932?type=xhttp&security=reality&fp=random&pbk=Dl4-nKAkksLHmX2yR0LWAzyFBjIj1W10R4OxHKMX2AI&sid=fedcba9876543210&sni=www.nvidia.com&mode=auto&extra={"xmux":{"cMaxReuseTimes":"64-128","maxConcurrency":"16-32","maxConnections":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"noSSEHeader":true,"xPaddingBytes":"100-1000","scMaxBufferedPosts":30,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80"}#🌐 XX | ⚫ Чёрный #1
-vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp#🌐 XX | ⚫ Чёрный #2
-vless://f4779677-98b1-4bea-bc54-5ecfe4813732@ca-dp-01.com:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=d3ee47fc2f553c44#🌐 XX | ⚫ Чёрный #3
-vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?encryption=none&fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #4
-vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?fp=chrome&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #5
-vless://12a74b5e-d2b8-45cb-b120-68a371c23366@fin83.alexanderoff.ru:11604?security=&encryption=none&headerType=&type=tcp#🌐 XX | ⚫ Чёрный #6
-vless://12a74b5e-d2b8-45cb-b120-68a371c23366@fin83.alexanderoff.ru:11604?type=tcp&security=none&fp=chrome#🌐 XX | ⚫ Чёрный #7
-vless://12a74b5e-d2b8-45cb-b120-68a371c23366@fin83.alexanderoff.ru:30516?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&type=xhttp&sni=fin83.alexanderoff.ru#🌐 XX | ⚫ Чёрный #8
-vless://8faaa0a0-cdc3-4469-abe2-bb20e623d270@fin185.alexanderoff.ru:36294?security=&encryption=none&headerType=&type=tcp#🌐 XX | ⚫ Чёрный #9
-vless://8faaa0a0-cdc3-4469-abe2-bb20e623d270@fin185.alexanderoff.ru:36294?type=tcp&security=none&fp=chrome#🌐 XX | ⚫ Чёрный #10
+vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?&security=reality&flow=xtls-rprx-vision&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp&headerType=none&host=storage.yandex.net&path=%2F#🚀 Автовыбор | ⚫ Чёрные
+vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?&security=reality&flow=xtls-rprx-vision&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp&headerType=none&host=storage.yandex.net&path=%2F#🌐 XX | ⚫ Чёрный #1
+vless://8faaa0a0-cdc3-4469-abe2-bb20e623d270@fin185.alexanderoff.ru:36294?security=&encryption=none&headerType=&type=tcp#🌐 XX | ⚫ Чёрный #2
+vless://8faaa0a0-cdc3-4469-abe2-bb20e623d270@fin185.alexanderoff.ru:36294?type=tcp&security=none&fp=chrome#🌐 XX | ⚫ Чёрный #3
+vless://8faaa0a0-cdc3-4469-abe2-bb20e623d270@fin185.alexanderoff.ru:58913?security=&encryption=none&headerType=&type=kcp#🌐 XX | ⚫ Чёрный #4
+vless://9cdabdab-05a7-4913-8520-eae3b5626489@free02.tunnely.ru:8080?encryption=none&type=ws&path=%2Fws%2F&security=none#🌐 XX | ⚫ Чёрный #5
+vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #6
+vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&sni=storage.yandex.net&headertype=none¬e=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---&telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#🌐 XX | ⚫ Чёрный #7
+vless://ac2d70ef-eceb-4f98-9477-f0f27a18aad0@fr-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #8
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=&security=tls&encryption=none&insecure=1&host=apiv2.global.ssl.fastly.net&type=ws&allowInsecure=1#🌐 XX | ⚫ Чёрный #9
+vless://e907e6a9-8602-4fc6-a66f-f8afa641dfea@del.fattsh8.ir:29113?type=tcp&encryption=none&security=reality&pbk=O022ghAvOsnRm9w68MKbfuyvlwWJsmytJBSj4F2dgkQ&fp=chrome&sni=aws.amazon.com&sid=2641062b76c9&spx=/#🇺🇸 US | ⚫ Чёрный #10
 

@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-11 23:14 UTC
+# Updated: 2026-06-12 02:37 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@hype-1.topupaxme.icu:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&security=reality&sid=&sni=max.ru&type=#🚀 Автовыбор | ⚪ Белые
-vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@hype-1.topupaxme.icu:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&security=reality&sid=&sni=max.ru&type=#🌐 XX | ⚪ Белый #1
-vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#🌐 XX | ⚪ Белый #2
-vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=ads.x5.ru&sid=e67fb918ed6b9ffb#🌐 XX | ⚪ Белый #3
-vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:8443?type=grpc&security=reality&fp=qq&sni=ads.x5.ru&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb&serviceName=grpc-yandex#🌐 XX | ⚪ Белый #4
-vless://6f11a1b7-0847-4972-ac3a-1776df94b4d2@de.riotvpn.eu:443?type=tcp&security=reality&sni=ads.x5.ru&fp=qq&flow=xtls-rprx-vision&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b#🌐 XX | ⚪ Белый #5
-vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.67.215.134:8443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/?ed&sni=vo.new-persian-song.ir&fp=chrome&mode=auto&alpn=h2,h3#🌐 XX | ⚪ Белый #6
-vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.67.215.134:8443?mode=auto&path=%2F%3Fed&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#🌐 XX | ⚪ Белый #7
-vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.67.215.134:8443?encryption=none&type=xhttp&security=tls&mode=auto&extra=null&fp=chrome&sni=vo.new-persian-song.ir#🌐 XX | ⚪ Белый #8
-vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.67.215.134:8443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#🌐 XX | ⚪ Белый #9
-vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=a12.crowsvpn.shop&type=xhttp#🌐 XX | ⚪ Белый #10
+vless://a1c11603-aefe-0007-9df3-4856f085811a@b02.connectv.net:443?security=reality&encryption=none&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=b02.connectv.net#🚀 Автовыбор | ⚪ Белые
+vless://a1c11603-aefe-0007-9df3-4856f085811a@b02.connectv.net:443?security=reality&encryption=none&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=b02.connectv.net#🌐 XX | ⚪ Белый #1
+vless://a1c11603-aefe-0007-9df3-4856f085811a@b02.connectv.net:443?security=reality&encryption=none&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=b02.connectv.net#🌐 XX | ⚪ Белый #2
+vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@hype-1.topupaxme.icu:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&security=reality&sid=&sni=max.ru&type=#🌐 XX | ⚪ Белый #3
+vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=ads.x5.ru&sid=e67fb918ed6b9ffb#🌐 XX | ⚪ Белый #4
+vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:8443?type=grpc&security=reality&fp=qq&sni=ads.x5.ru&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb&serviceName=grpc-yandex#🌐 XX | ⚪ Белый #5
+vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@de.riotvpn.eu:8443?encryption=none&type=grpc&serviceName=grpc-yandex&mode=multi&security=reality&sni=ads.x5.ru&fp=chrome&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba#🌐 XX | ⚪ Белый #6
+vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@de.riotvpn.eu:8443?type=grpc&security=reality&fp=chrome&sni=ads.x5.ru&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba&serviceName=grpc-yandex#🌐 XX | ⚪ Белый #7
+vless://6f11a1b7-0847-4972-ac3a-1776df94b4d2@de.riotvpn.eu:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ads.x5.ru&fp=qq&insecure=1&allowInsecure=1&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #8
+vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=a12.crowsvpn.shop&type=xhttp#🌐 XX | ⚪ Белый #9
+vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@185.229.9.38:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#🌐 XX | ⚪ Белый #10
 

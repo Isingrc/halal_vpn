@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-13 19:08 UTC
+# Updated: 2026-06-13 21:02 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@de.riotvpn.eu:6443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=xhttp&sni=avatars.mds.yandex.net&sid=844352756c1fabba#🚀 Автовыбор | ⚪ Белые
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@de.riotvpn.eu:6443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=xhttp&sni=avatars.mds.yandex.net&sid=844352756c1fabba#🌐 XX | ⚪ Белый #1
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=e67fb918ed6b9ffb#🌐 XX | ⚪ Белый #2
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l11.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=itx-server.digital#🌐 XX | ⚪ Белый #3
-vless://ac006062-f051-43c6-bd4c-f409285c8635@192.200.160.120:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#🌐 XX | ⚪ Белый #4
-vless://621373a2-606c-11f1-8f5c-027630170c1d@194.67.102.216:2053?type=grpc&headerType=none&security=reality&encryption=none&sni=cam-reg-2.live-cams.ru&fp=firefox&pbk=nd2gyce_j_Erx4odsTQnTY9W8Iz9n-ecR95k4l_dCSE&sid=f5fcd679e35aebd1&serviceName=grpc-direct#🌐 XX | ⚪ Белый #5
-vless://af1bc54d-4764-4b66-a824-dd80645eeafe@89.169.176.125:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=BBmixcZDs_ETN7JQfMblZfRFscTbwRbOL9J3KtRlPRc#🌐 XX | ⚪ Белый #6
+vless://a65d1817-49a5-449f-81b8-37e6e179dc57@br-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=e3152b486a086f4e&sni=rbc.ru&type=tcp#🚀 Автовыбор | ⚪ Белые
+vless://a65d1817-49a5-449f-81b8-37e6e179dc57@br-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=e3152b486a086f4e&sni=rbc.ru&type=tcp#🌐 XX | ⚪ Белый #1
+vless://d945d410-9a71-426f-964a-fc37c653a4b5@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=844352756c1fabba#🌐 XX | ⚪ Белый #2
+vless://ac006062-f051-43c6-bd4c-f409285c8635@192.200.160.120:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#🌐 XX | ⚪ Белый #3
+vless://af1bc54d-4764-4b66-a824-dd80645eeafe@89.169.176.125:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=BBmixcZDs_ETN7JQfMblZfRFscTbwRbOL9J3KtRlPRc#🌐 XX | ⚪ Белый #4
+vless://af1bc54d-4764-4b66-a824-dd80645eeafe@89.169.176.125:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=BBmixcZDs_ETN7JQfMblZfRFscTbwRbOL9J3KtRlPRc#🌐 XX | ⚪ Белый #5
+vless://af1bc54d-4764-4b66-a824-dd80645eeafe@89.169.176.125:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=S2HUSMt4MXbZTF7pBc2vBdIFat7kNlvq0QiTqEDrLUA#🌐 XX | ⚪ Белый #6
 vless://4c872cd3-7aa2-43ad-8f75-a71fb0d3c2c1@89.169.176.125:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=BBmixcZDs_ETN7JQfMblZfRFscTbwRbOL9J3KtRlPRc#🌐 XX | ⚪ Белый #7
-vless://0d27f12d-1632-5662-bdbf-5ac93eed5171@93.77.163.232:443?flow=xtls-rprx-vision&fp=chrome&pbk=kcsero7fsHn37IUNxLH0-RbpAd9tJx7hAhpwJboPFRI&security=reality&sid=a1104699aa13&sni=eh.vk.com&type=tcp#🌐 XX | ⚪ Белый #8
-vless://4c872cd3-7aa2-43ad-8f75-a71fb0d3c2c1@89.169.176.125:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=BBmixcZDs_ETN7JQfMblZfRFscTbwRbOL9J3KtRlPRc#🌐 XX | ⚪ Белый #9
-vless://af1bc54d-4764-4b66-a824-dd80645eeafe@89.169.176.125:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=BBmixcZDs_ETN7JQfMblZfRFscTbwRbOL9J3KtRlPRc#🌐 XX | ⚪ Белый #10
+vless://af1bc54d-4764-4b66-a824-dd80645eeafe@89.169.176.125:8442?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=S2HUSMt4MXbZTF7pBc2vBdIFat7kNlvq0QiTqEDrLUA&security=reality&sni=5post-gate.x5.ru&type=tcp#🌐 XX | ⚪ Белый #8
+vless://da7d81bc-a3f4-4865-a273-d0efacebc65c@154.91.157.144:8443?flow=xtls-rprx-vision&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=57f5917841a2178f&sni=rbc.ru&type=tcp#🌐 XX | ⚪ Белый #9
+vless://a65d1817-49a5-449f-81b8-37e6e179dc57@154.91.157.144:8443?flow=xtls-rprx-vision&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=e3152b486a086f4e&sni=rbc.ru&type=tcp#🌐 XX | ⚪ Белый #10
 

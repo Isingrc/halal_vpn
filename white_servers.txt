@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-13 22:54 UTC
+# Updated: 2026-06-14 02:42 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@de.riotvpn.eu:6443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=xhttp&sni=avatars.mds.yandex.net&sid=844352756c1fabba#🚀 Автовыбор | ⚪ Белые
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@de.riotvpn.eu:6443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=xhttp&sni=avatars.mds.yandex.net&sid=844352756c1fabba#🌐 XX | ⚪ Белый #1
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@de.riotvpn.eu:6443?mode=auto&path=/&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=xhttp&sni=avatars.mds.yandex.net&sid=844352756c1fabba#🌐 XX | ⚪ Белый #2
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=e67fb918ed6b9ffb#🌐 XX | ⚪ Белый #3
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=e67fb918ed6b9ffb#🌐 XX | ⚪ Белый #4
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@de.riotvpn.eu:8443?type=grpc&security=reality&fp=qq&sni=avatars.mds.yandex.net&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb&serviceName=grpc-yandex#🌐 XX | ⚪ Белый #5
-vless://4b49a248-5e9d-11f1-bd95-ee5f4ed81fa1@cam-msk-7.videomonitor.cloud:2053?type=grpc&headerType=none&security=reality&encryption=none&sni=cam-msk-7.videomonitor.cloud&fp=chrome&pbk=yjmr4nFrDGjHa32A9Uriq3co86CE-waGH3pmZt2_oQk&sid=619aad46679010cf&serviceName=grpc-direct#🌐 XX | ⚪ Белый #6
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l11.l-itx.info:2053?type=ws&headerType=none&security=tls&encryption=none&sni=6979d91dd100cfa5.itx-server.digital&fp=chrome&path=/ws&host=itx-server.digital&insecure=0#🌐 XX | ⚪ Белый #7
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l11.l-itx.info:2053?type=ws&headerType=none&security=tls&encryption=none&sni=6979d91dd100cfa5.itx-server.digital&fp=firefox&path=%2Fws&host=itx-server.digital&insecure=0#🌐 XX | ⚪ Белый #8
-vless://3314aee8-9420-440c-bc3c-a0daa545517b@auto.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=b76dcf9e1183fe1b#🌐 XX | ⚪ Белый #9
-vless://ac006062-f051-43c6-bd4c-f409285c8635@192.200.160.120:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#🌐 XX | ⚪ Белый #10
+vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#🚀 Автовыбор | ⚪ Белые
+vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#🌐 XX | ⚪ Белый #1
+vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=ads.x5.ru&sid=e67fb918ed6b9ffb#🌐 XX | ⚪ Белый #2
+vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:8443?type=grpc&security=reality&fp=qq&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb&sni=ads.x5.ru&serviceName=grpc-yandex#🌐 XX | ⚪ Белый #3
+vless://d945d410-9a71-426f-964a-fc37c653a4b5@de.riotvpn.eu:6443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=xhttp&sni=avatars.mds.yandex.net&sid=e67fb918ed6b9ffb#🌐 XX | ⚪ Белый #4
+vless://d945d410-9a71-426f-964a-fc37c653a4b5@de.riotvpn.eu:6443?mode=auto&path=/&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=xhttp&sni=avatars.mds.yandex.net&sid=e67fb918ed6b9ffb#🌐 XX | ⚪ Белый #5
+vless://d945d410-9a71-426f-964a-fc37c653a4b5@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=844352756c1fabba#🌐 XX | ⚪ Белый #6
+vless://d945d410-9a71-426f-964a-fc37c653a4b5@de.riotvpn.eu:8443?type=grpc&security=reality&fp=qq&sni=avatars.mds.yandex.net&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba&serviceName=grpc-yandex#🌐 XX | ⚪ Белый #7
+vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@de.riotvpn.eu:6443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=xhttp&sni=avatars.mds.yandex.net&sid=844352756c1fabba#🌐 XX | ⚪ Белый #8
+vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@de.riotvpn.eu:6443?mode=auto&path=/&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=xhttp&sni=avatars.mds.yandex.net&sid=844352756c1fabba#🌐 XX | ⚪ Белый #9
+vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=844352756c1fabba#🌐 XX | ⚪ Белый #10
 

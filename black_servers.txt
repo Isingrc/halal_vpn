@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-16 09:15 UTC
+# Updated: 2026-06-16 14:52 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://21ad715f-f0c2-48ec-9f4b-64f433f3cbe8@ca-dp-01.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=500aec9e9e5e2212&type=tcp&headerType=none#🚀 Автовыбор | ⚫ Чёрные
-vless://21ad715f-f0c2-48ec-9f4b-64f433f3cbe8@ca-dp-01.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=500aec9e9e5e2212&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #1
-vless://f4779677-98b1-4bea-bc54-5ecfe4813732@ca-dp-01.com:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=d3ee47fc2f553c44#🌐 XX | ⚫ Чёрный #2
-vless://aa196290-c532-484c-8c17-b31f53c72dfd@api.yandex-developer.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&sni=api.yandex-developer.org#🌐 XX | ⚫ Чёрный #3
-vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@tal.odavpn.online:443?type=xhttp&security=reality&fp=chrome&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&sid=41774dc9dc721e&sni=www.amd.com&path=/api/v1/update&mode=packet-up#🌐 XX | ⚫ Чёрный #4
-vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?encryption=none&fp=chrome&host=www.amd.com&mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&security=reality&sid=41774dc9dc721e&sni=www.amd.com&type=xhttp#🌐 XX | ⚫ Чёрный #5
-vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?type=xhttp&security=reality&fp=chrome&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&sid=41774dc9dc721e&sni=www.amd.com&path=/api/v1/update&mode=packet-up#🌐 XX | ⚫ Чёрный #6
-vless://5854d471-23a6-4c97-a398-95f483f885b0@aziz.carderrr.com:44114?security=none&encryption=none&headerType=none&type=tcp#🌐 XX | ⚫ Чёрный #7
-vless://5854d471-23a6-4c97-a398-95f483f885b0@aziz.carderrr.com:44114?type=tcp&security=none&fp=chrome#🌐 XX | ⚫ Чёрный #8
-vless://66ad2f3c-181c-4b1b-bb0e-33c50a6b6bc9@fin83.alexanderoff.ru:11604?security=&encryption=none&headerType=&type=tcp#🌐 XX | ⚫ Чёрный #9
-vless://66ad2f3c-181c-4b1b-bb0e-33c50a6b6bc9@fin83.alexanderoff.ru:11604?type=tcp&security=none&fp=chrome#🌐 XX | ⚫ Чёрный #10
+vless://5854d471-23a6-4c97-a398-95f483f885b0@aziz.carderrr.com:44114?type=tcp&security=none&fp=chrome#🚀 Автовыбор | ⚫ Чёрные
+vless://5854d471-23a6-4c97-a398-95f483f885b0@aziz.carderrr.com:44114?type=tcp&security=none&fp=chrome#🌐 XX | ⚫ Чёрный #1
+vless://b9f33025-9b40-4ece-9a10-85da0f0af052@fin185.alexanderoff.ru:36294?security=&encryption=none&headerType=&type=tcp#🌐 XX | ⚫ Чёрный #2
+vless://893b7c1f-f62c-4cac-8123-49991e114813@hu88.bearbeer.digital:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sni=hu88.bearbeer.digital&spx=/#🌐 XX | ⚫ Чёрный #3
+vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@bypass.ch-gt-02.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=40ce08cf20c67003&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #4
+vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@ch-gt-02.com:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#🌐 XX | ⚫ Чёрный #5
+vless://d6c8c72b-32ae-4ef5-8637-fb162d4eea81@199.232.244.3:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=ChromeAppleWebKit.global.ssl.fastly.net&fp=randomized&type=xhttp&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #6
+vless://d999eb9a-4aa8-43e4-a912-e86ef99ec143@5.175.141.223:2095?security=none&type=httpupgrade&headerType=&path=%2F&host=pl.carefreemob2.com.#🌐 XX | ⚫ Чёрный #7
+vless://bb94556c-2c7c-4ce3-87d8-fbb34078848a@82.22.175.105:2086?encryption=none&security=none&type=ws&path=%2F#🌐 XX | ⚫ Чёрный #8
+vless://e6f9ad6e-4166-4b98-85c8-53d75ec3832f@83.228.225.29:30781?fp=firefox&pbk=FVbLgN2sj_1WrbMhsh_vltW1NOX84WNC6x8Ed_DQSB0&security=reality&sid=94d8&sni=www.yahoo.com&spx=/oEGgDrGwGC5HR0H&type=tcp#🌐 XX | ⚫ Чёрный #9
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.109:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #10
 

@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-17 02:45 UTC
+# Updated: 2026-06-17 08:53 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://5854d471-23a6-4c97-a398-95f483f885b0@aziz.carderrr.com:44114?security=none&encryption=none&headerType=none&type=tcp#🚀 Автовыбор | ⚫ Чёрные
-vless://5854d471-23a6-4c97-a398-95f483f885b0@aziz.carderrr.com:44114?security=none&encryption=none&headerType=none&type=tcp#🌐 XX | ⚫ Чёрный #1
-vless://5854d471-23a6-4c97-a398-95f483f885b0@aziz.carderrr.com:44114?type=tcp&security=none&fp=chrome#🌐 XX | ⚫ Чёрный #2
-vless://b9f33025-9b40-4ece-9a10-85da0f0af052@fin185.alexanderoff.ru:36294?security=&encryption=none&headerType=&type=tcp#🌐 XX | ⚫ Чёрный #3
-vless://b9f33025-9b40-4ece-9a10-85da0f0af052@fin185.alexanderoff.ru:36294?type=tcp&security=none&fp=chrome#🌐 XX | ⚫ Чёрный #4
-vless://78aa0206-1598-4a75-b28b-ebfecb769a48@ital.sixsubstore.ru:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=uUUJjba7gp8DCOe2ZlhcLMqBuWi24YtPb_ybt61D2lc&security=reality&sid=7e7c80dac03b3229&sni=ital.sixsubstore.ru&spx=%2Fcdn&type=tcp#🌐 XX | ⚫ Чёрный #5
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l1.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=itx-server.digital#🌐 XX | ⚫ Чёрный #6
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l1.l-itx.info:7443?type=grpc&security=reality&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3&sni=colorlib.com&mode=gun&serviceName=xyz&authority=colorlib.com#🌐 XX | ⚫ Чёрный #7
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l1.l-itx.info:7443?type=grpc&security=reality&fp=firefox&sni=colorlib.com&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3&serviceName=xyz#🌐 XX | ⚫ Чёрный #8
-vless://78aa0206-1598-4a75-b28b-ebfecb769a48@ded.sixsubstore.ru:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=oXFvmNMkhudkuWiYZ8GFOx2aqMhnfI4szZkYnoxbpmY&security=reality&sid=1df92c98dce4edd8&sni=ded.sixsubstore.ru&spx=%2Fcdn&type=tcp#🌐 XX | ⚫ Чёрный #9
-vless://78aa0206-1598-4a75-b28b-ebfecb769a48@demax.sixsubstore.ru:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=n0nWsCd6oXCnTWVIt1pb2e90GP8BVbSEQkAOVz9hBFw&security=reality&sid=58e6ce0fb66c28ea&sni=demax.sixsubstore.ru&spx=%2Fcdn&type=tcp#🌐 XX | ⚫ Чёрный #10
+vless://5ab4237d-df12-4f12-aec0-7c10f0c9a76d@waltz.friedshrimp.xyz:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sy-GUEmNHIa5LVuPbYDmJqISRHuDfuk28ksPt5VDv3s&sni=waltz.friedshrimp.xyz#🚀 Автовыбор | ⚫ Чёрные
+vless://5ab4237d-df12-4f12-aec0-7c10f0c9a76d@waltz.friedshrimp.xyz:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sy-GUEmNHIa5LVuPbYDmJqISRHuDfuk28ksPt5VDv3s&sni=waltz.friedshrimp.xyz#🌐 XX | ⚫ Чёрный #1
+vless://5854d471-23a6-4c97-a398-95f483f885b0@aziz.carderrr.com:44114?fp=chrome&security=none&type=tcp#🌐 XX | ⚫ Чёрный #2
+vless://5854d471-23a6-4c97-a398-95f483f885b0@aziz.carderrr.com:44114?security=none&encryption=none&headerType=none&type=tcp#🌐 XX | ⚫ Чёрный #3
+vless://944977ee-2755-4e47-a9e2-ce25a09b2ea6@fi-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=b0c58c398abb6842&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #4
+vless://5ab4237d-df12-4f12-aec0-7c10f0c9a76d@roast.friedshrimp.xyz:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GNU9DPeL0qXZWWVOmS1jxGAi8PDay2NIIizx5lOBpQ8&sid=8e3c9baf&sni=github.com#🇺🇸 US | ⚫ Чёрный #5
+vless://78aa0206-1598-4a75-b28b-ebfecb769a48@ital.sixsubstore.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ital.sixsubstore.ru&fp=firefox&pbk=uUUJjba7gp8DCOe2ZlhcLMqBuWi24YtPb_ybt61D2lc&sid=7e7c80dac03b3229&spx=%2Fcdn&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #6
+vless://f00297b0-a501-4982-9a8e-2cf2df5b4f84@fr-01.slnode.cc:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Icm1TWywIJz1OVINqBXHYeQr1yxDoT-t3R9DDi-CD2U&sid=71b1677c130233d7&sni=fr-01.slnode.cc#🌐 XX | ⚫ Чёрный #7
+vless://78aa0206-1598-4a75-b28b-ebfecb769a48@ded.sixsubstore.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ded.sixsubstore.ru&fp=firefox&pbk=oXFvmNMkhudkuWiYZ8GFOx2aqMhnfI4szZkYnoxbpmY&sid=1df92c98dce4edd8&spx=%2Fcdn&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #8
+vless://7fa7fa33-8425-4150-8920-fbe6623bf611@de-dp-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=5be97fb85093a3a9&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #9
+vless://f552a78e-400c-4332-8265-8e5da1c21eeb@de-dp-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=firefox&security=reality&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=5be97fb85093a3a9#🌐 XX | ⚫ Чёрный #10
 

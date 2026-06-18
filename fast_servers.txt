@@ -1,19 +1,19 @@
 # FAST ALL SERVERS
-# Updated: 2026-06-18 20:11 UTC
+# Updated: 2026-06-18 23:28 UTC
 # Total: 35 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
 vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=itx-server.digital#🚀 Автовыбор | ⚪ Белые
 vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=itx-server.digital#🌐 XX | ⚪ Белый #1
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:443?fp=chrome&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sni=yandex.by&type=xhttp#🌐 XX | ⚪ Белый #2
+vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:443?fp=firefox&host=yandex.by&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sni=yandex.by&type=xhttp#🌐 XX | ⚪ Белый #2
 vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:443?fp=firefox&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sni=yandex.by&type=xhttp#🌐 XX | ⚪ Белый #3
 vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=yandex.by&fp=chrome&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&path=%2Fxh#🌐 XX | ⚪ Белый #4
 vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l12.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=554dad6ab34f7baf.itx-server.digital#🌐 XX | ⚪ Белый #5
 vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l12.l-itx.info:7443?type=grpc&security=reality&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sni=colorlib.com&mode=gun&serviceName=xyz#🌐 XX | ⚪ Белый #6
 vless://AlfredConfig@164.38.155.135:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http%2F1.1&path=%2F&host=alfi.yas-nowin.ir&insecure=0#🌐 XX | ⚪ Белый #7
-vless://0d735822-3785-11f1-b1ef-3e73c4f3b53d@155.212.215.179:2053?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-direct&fp=chrome&sni=vk.com&pbk=eskKUMw6Dwq1x4OL0VWvnxVAI_XDTTNSpJV5u-N9XzA&sid=ccbc9f41c7810443#🌐 XX | ⚪ Белый #8
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?encryption=none&type=grpc&security=reality&mode=gun&serviceName=api&fp=edge&sni=apple.com&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091#🇺🇸 US | ⚪ Белый #9
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@157.22.241.100:443?encryption=none&type=xhttp&security=reality&path=/xh&extra=null&fp=firefox&sni=yandex.by&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3#🌐 XX | ⚪ Белый #10
+vless://AlfredConfig@164.38.155.135:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=/&host=alfi.yas-nowin.ir#🌐 XX | ⚪ Белый #8
+vless://0d735822-3785-11f1-b1ef-3e73c4f3b53d@85.239.38.140:2053?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-direct&fp=chrome&sni=cam-msk-2.videomonitor.cloud&pbk=j7foTRo28WBVdkixNdb7IN7J9sTzfyH8Ks7SAbubpmo&sid=015707c2fd7afdbc#🌐 XX | ⚪ Белый #9
+vless://a30c3ae3-cecd-4dcd-b8f3-e3588cbd361b@31.31.197.82:10000?type=grpc&security=reality&fp=qq&pbk=9xzdm_jzkLpqPjYVEJ_74EtFkQUGp6UG1TtaVLPng2s&sid=afee962d&sni=max.ru&mode=multi&serviceName=grpc2#🌐 XX | ⚪ Белый #10
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://d483746d-3362-4280-9b89-6a2e49aa9397@nl.xanka.best:2761?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=d9ncsYIjJIiCaqLszDyLhZoZ9-XMYYhBrlHUyuHFxQo&security=reality&sid=a4e1fd84&sni=nl.xanka.best&type=tcp#🚀 Автовыбор | ⚫ Чёрные
@@ -24,24 +24,24 @@ vless://1f114f58-d23b-41ab-bacb-f7cd515d1945@sw.xanka.best:2761?flow=xtls-rprx-v
 vless://8937c203-8ec6-477f-830b-939992cba4eb@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#🌐 XX | ⚫ Чёрный #5
 vless://783d226a-2a05-4b38-a93e-616da5990c42@ch-gt-02.com:8443?flow=xtls-rprx-vision&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=cf9d145ad8f1ea55&sni=storage.yandex.net&type=tcp#🌐 XX | ⚫ Чёрный #6
 vless://EarnMoneyarzZoRo@zorovpn.xubi.org:58687?security=reality&encryption=none&pbk=vtF4x5YlLy7A-Ts1-mCZkXwqL7QFaapPxVRXdh1j_Qg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=4e37f3eeee73fc#🌐 XX | ⚫ Чёрный #7
-vless://35f16ad1-7eeb-45ef-a493-276cdd76c227@92.60.74.227:2087?path=/&security=tls&encryption=none&insecure=0&host=cdn.jorlima.ir&type=ws&allowInsecure=0&sni=cdn.jorlima.ir#🌐 XX | ⚫ Чёрный #8
-vless://AlfredConfig@159.246.55.251:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http%2F1.1&path=%2F&host=alfi.yas-nowin.ir&insecure=0#🌐 XX | ⚫ Чёрный #9
+vless://AlfredConfig@159.246.55.251:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http%2F1.1&path=%2F&host=alfi.yas-nowin.ir&insecure=0#🌐 XX | ⚫ Чёрный #8
+vless://35f16ad1-7eeb-45ef-a493-276cdd76c227@92.60.74.227:2087?path=/&security=tls&encryption=none&insecure=0&host=cdn.jorlima.ir&type=ws&allowInsecure=0&sni=cdn.jorlima.ir#🌐 XX | ⚫ Чёрный #9
 vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #10
 
 # ═══ ⚡ FAST ALL ═══
 vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=itx-server.digital#🚀 Автовыбор | ⚡ Fast All
 vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=itx-server.digital#🌐 XX | ⚡ Fast #1
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:443?fp=chrome&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sni=yandex.by&type=xhttp#🌐 XX | ⚡ Fast #2
+vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:443?fp=firefox&host=yandex.by&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sni=yandex.by&type=xhttp#🌐 XX | ⚡ Fast #2
 vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:443?fp=firefox&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sni=yandex.by&type=xhttp#🌐 XX | ⚡ Fast #3
 vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=yandex.by&fp=chrome&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&path=%2Fxh#🌐 XX | ⚡ Fast #4
 vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l12.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=554dad6ab34f7baf.itx-server.digital#🌐 XX | ⚡ Fast #5
 vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l12.l-itx.info:7443?type=grpc&security=reality&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sni=colorlib.com&mode=gun&serviceName=xyz#🌐 XX | ⚡ Fast #6
-vless://AlfredConfig@164.38.155.135:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http%2F1.1&path=%2F&host=alfi.yas-nowin.ir&insecure=0#🌐 XX | ⚡ Fast #7
-vless://0d735822-3785-11f1-b1ef-3e73c4f3b53d@155.212.215.179:2053?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-direct&fp=chrome&sni=vk.com&pbk=eskKUMw6Dwq1x4OL0VWvnxVAI_XDTTNSpJV5u-N9XzA&sid=ccbc9f41c7810443#🌐 XX | ⚡ Fast #8
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?encryption=none&type=grpc&security=reality&mode=gun&serviceName=api&fp=edge&sni=apple.com&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091#🇺🇸 US | ⚡ Fast #9
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@157.22.241.100:443?encryption=none&type=xhttp&security=reality&path=/xh&mode=stream-up&extra=null&fp=chrome&sni=yandex.by&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA#🌐 XX | ⚡ Fast #10
-vless://e0e44cfe-39b3-11f1-84d1-e6ad33f6a752@155.212.215.179:2053?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-direct&fp=chrome&sni=vk.com&pbk=eskKUMw6Dwq1x4OL0VWvnxVAI_XDTTNSpJV5u-N9XzA&sid=e98492849d852e54#🌐 XX | ⚡ Fast #11
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@157.22.241.100:443?fp=firefox&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sni=yandex.by&type=xhttp#🌐 XX | ⚡ Fast #12
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@157.22.241.100:2053?encryption=none&type=ws&security=tls&path=%2Fws&host=itx-server.digital&fp=firefox&sni=554dad6ab34f7baf.itx-server.digital#🌐 XX | ⚡ Fast #13
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@157.22.241.100:443?encryption=none&type=xhttp&security=reality&path=/xh&extra=null&fp=firefox&sni=yandex.by&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3#🌐 XX | ⚡ Fast #14
-vless://5a95bfac-2a72-11f1-92cb-12ba70109d32@155.212.215.179:2053?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-direct&fp=chrome&sni=vk.com&pbk=eskKUMw6Dwq1x4OL0VWvnxVAI_XDTTNSpJV5u-N9XzA&sid=e4073bc670efdc0c#🌐 XX | ⚡ Fast #15
+vless://AlfredConfig@164.38.155.135:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=/&host=alfi.yas-nowin.ir#🌐 XX | ⚡ Fast #7
+vless://AlfredConfig@164.38.155.135:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http%2F1.1&path=%2F&host=alfi.yas-nowin.ir&insecure=0#🌐 XX | ⚡ Fast #8
+vless://0d735822-3785-11f1-b1ef-3e73c4f3b53d@85.239.38.140:2053?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-direct&fp=chrome&sni=cam-msk-2.videomonitor.cloud&pbk=j7foTRo28WBVdkixNdb7IN7J9sTzfyH8Ks7SAbubpmo&sid=015707c2fd7afdbc#🌐 XX | ⚡ Fast #9
+vless://132160b1-214f-41f3-9442-eeeb32250df1@217.114.14.63:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru.kosmosapp.ru&fp=firefox&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e&flow=xtls-rprx-vision#🌐 XX | ⚡ Fast #10
+vless://a30c3ae3-cecd-4dcd-b8f3-e3588cbd361b@31.31.197.82:10000?type=grpc&security=reality&fp=qq&pbk=9xzdm_jzkLpqPjYVEJ_74EtFkQUGp6UG1TtaVLPng2s&sid=afee962d&sni=max.ru&mode=multi&serviceName=grpc2#🌐 XX | ⚡ Fast #11
+vless://ded3638e-ab7f-4ff8-bc60-9fc6666cff22@45.81.33.43:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=gun&fp=firefox&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=c86b#🌐 XX | ⚡ Fast #12
+vless://d46884d6-d78d-48a6-bd57-c1bbc6d1507c@217.114.14.63:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🌐 XX | ⚡ Fast #13
+vless://c1db9e72-4de3-4c0b-bbb9-65ffc29371c2@217.114.14.63:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🌐 XX | ⚡ Fast #14
+vless://90299b7d-b17a-44ec-892f-7b64875202e5@217.114.14.63:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🌐 XX | ⚡ Fast #15

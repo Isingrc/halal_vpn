@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-19 08:58 UTC
+# Updated: 2026-06-19 13:27 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://24f9982c-be82-4d09-be0e-a29e46cd3fd6@fin185.alexanderoff.ru:36294?encryption=none&security=none&type=tcp#🚀 Автовыбор | ⚫ Чёрные
-vless://24f9982c-be82-4d09-be0e-a29e46cd3fd6@fin185.alexanderoff.ru:36294?encryption=none&security=none&type=tcp#🌐 XX | ⚫ Чёрный #1
-vless://24f9982c-be82-4d09-be0e-a29e46cd3fd6@fin185.alexanderoff.ru:36294?type=tcp&security=none&fp=firefox#🌐 XX | ⚫ Чёрный #2
-vless://e72b431f-8179-4bf2-8ee6-1fdc5d2a8ec7@dusk.gconexustun.online:48932?encryption=none&security=reality&type=xhttp&sni=www.nvidia.com&fp=random&pbk=Dl4-nKAkksLHmX2yR0LWAzyFBjIj1W10R4OxHKMX2AI&sid=fedcba9876543210&path=%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noSSEHeader%22%3Atrue%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D#🌐 XX | ⚫ Чёрный #3
-vless://a365a98b-b655-4480-886f-fcaad4956b7d@dir3.gsm98.eu:1003?security=reality&encryption=none&pbk=OyxvimJx2EPWwJv1nBGi0y60V6zM7q4t_zLOR991Xzc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=8d#🌐 XX | ⚫ Чёрный #4
-vless://a365a98b-b655-4480-886f-fcaad4956b7d@dir3.webact.cc:1003?security=reality&encryption=none&pbk=OyxvimJx2EPWwJv1nBGi0y60V6zM7q4t_zLOR991Xzc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=soft98.ir&sid=8d#🌐 XX | ⚫ Чёрный #5
-vless://d296ae26-b357-474b-9bd0-eea3132b4813@hn.aitnt.cn:443?encryption=none&security=tls&sni=sni.mmadcoffee.info&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=smtp.mmadcoffee.info&path=%2F19322%2Fapi#🌐 XX | ⚫ Чёрный #6
-vless://d296ae26-b357-474b-9bd0-eea3132b4813@smtp.mmadcoffee.info:443?type=ws&security=tls&path=/19322/api&sni=sni.mmadcoffee.info&fp=chrome#🌐 XX | ⚫ Чёрный #7
-vless://d296ae26-b357-474b-9bd0-eea3132b4813@www.spark.red:443?path=/19322/api&security=tls&encryption=none&insecure=0&host=smtp.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#🌐 XX | ⚫ Чёрный #8
-vless://3b3d263c-21cc-440e-a463-5c15052dcfe4@white77.alexanderoff.ru:620?type=tcp&security=none&fp=firefox#🌐 XX | ⚫ Чёрный #9
-vless://3b3d263c-21cc-440e-a463-5c15052dcfe4@white77.alexanderoff.ru:630?&security=none&type=tcp&headerType=&host=white77.alexanderoff.ru&path=%2F#🌐 XX | ⚫ Чёрный #10
+vless://ca428a2e-7f82-4030-851b-cab731a5645a@l1-2.l-itx.info:2053?type=ws&headerType=none&security=tls&encryption=none&sni=e0d3c131423a84da.itx-server.digital&fp=firefox&path=%2Fws&host=itx-server.digital&insecure=0#🚀 Автовыбор | ⚫ Чёрные
+vless://ca428a2e-7f82-4030-851b-cab731a5645a@l1-2.l-itx.info:2053?type=ws&headerType=none&security=tls&encryption=none&sni=e0d3c131423a84da.itx-server.digital&fp=firefox&path=%2Fws&host=itx-server.digital&insecure=0#🌐 XX | ⚫ Чёрный #1
+vless://8a62761d-bd50-4c73-a596-73eb01729251@dir5.gsm98.eu:1005?security=reality&encryption=none&pbk=_AlhuldObs7s6AVVRBiNSA-c-1C7kOiRcZBraIpchSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=dc3864#🌐 XX | ⚫ Чёрный #2
+vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#🌐 XX | ⚫ Чёрный #3
+vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?type=ws&host=khodroshop.ir&sni=psf-1.zdshop.ir#🌐 XX | ⚫ Чёрный #4
+vless://38b4b113-ae06-46ea-bad3-78f76e90998e@zx.hostxyz.ir:53925?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#🇺🇸 US | ⚫ Чёрный #5
+vless://4d2f353f-73cd-44f0-834c-e4e6874551df@console.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=zH_3ABX1RiBh4Be_xH9QJcQMzOEI4L4zmiuTiA2_ThU&fp=qq&sni=deepl.com&sid=b9a9&spx=%2F#🌐 XX | ⚫ Чёрный #6
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #7
+vless://06795288-3b02-0c10-9b72-f26b7bdcd82e@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=%2Fws%2F06795288-3b02-0c10-9b72-f26b7bdcd82e#🌐 XX | ⚫ Чёрный #8
+vless://6aa91885-dc17-4d70-a58b-ccc29dd71b04@proxy.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=mimJ_uInBYERt8TayjrHu5Kmq4b1ko39G6WD72SUkGw&fp=qq&sni=deepl.com&sid=75cf&spx=%2F#🌐 XX | ⚫ Чёрный #9
+vless://83a30307-e371-40ed-ad56-0e9fdb98b4b4@hm.khoycityman.ir:57176?security=reality&encryption=none&pbk=0SiYe8YXJTlWr6n0f2nSSGngDeW2riD_fxHWIH-SEUI&headerType=none&fp=chrome&spx=%2FGSnUDE8l5bziyPj&type=tcp&sni=www.yahoo.com&sid=23e79596#🌐 XX | ⚫ Чёрный #10
 

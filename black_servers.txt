@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-06-19 19:26 UTC
+# Updated: 2026-06-19 21:01 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -9,9 +9,9 @@ vless://0b342486-d7c8-46fd-893a-5901225089d4@grinoree.ru:8443?type=tcp&security=
 vless://15e88554-8681-454e-b344-80941bc9ea76@free04.tunnely.ru:8080?encryption=none&type=ws&path=%2Fws%2F&security=none#🌐 XX | ⚫ Чёрный #3
 vless://47d30582-5dd4-4204-bb3c-7d02fba43e41@ir.crazymorghabi.ir:443?encryption=none&security=reality&sni=www.digikala.com&fp=chrome&pbk=Um85IblxVH_G6pTdYxJi28zKFPOjsAaYfokAkRqamls&sid=fddd6b15e2e08ae3&spx=%2F&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #4
 vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #5
-vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@151.101.66.219:80?security=none&encryption=none&host=khodroshop.ir&type=ws#🌐 XX | ⚫ Чёрный #6
-vless://AlfredConfig@199.181.197.176:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http%2F1.1&path=%2F&host=alfi.yas-nowin.ir&insecure=0#🌐 XX | ⚫ Чёрный #7
-vless://AlfredConfig@199.181.197.176:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=/&host=alfi.yas-nowin.ir#🌐 XX | ⚫ Чёрный #8
-vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #9
-vless://7b71f980-4e40-40a3-8994-41836ad4c3f4@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=1&host=hormiz5.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #10
+vless://AlfredConfig@199.181.197.176:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http%2F1.1&path=%2F&host=alfi.yas-nowin.ir&insecure=0#🌐 XX | ⚫ Чёрный #6
+vless://7b71f980-4e40-40a3-8994-41836ad4c3f4@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=1&host=hormiz5.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #7
+vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@151.101.66.219:80?security=none&encryption=none&host=khodroshop.ir&type=ws#🌐 XX | ⚫ Чёрный #8
+vless://AlfredConfig@199.181.197.176:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=/&host=alfi.yas-nowin.ir#🌐 XX | ⚫ Чёрный #9
+vless://29a7b527-e2b9-b5e0-bc7a-6f2c5738ac72@151.101.56.6:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=qoajwksjjsksjksj.global.ssl.fastly.net&fp=firefox&type=ws&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #10
 

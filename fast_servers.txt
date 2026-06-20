@@ -1,19 +1,19 @@
 # FAST ALL SERVERS
-# Updated: 2026-06-20 21:04 UTC
+# Updated: 2026-06-20 22:57 UTC
 # Total: 35 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&insecure=1&mode=multi&type=grpc&security=tls&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi#🚀 Автовыбор | ⚪ Белые
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&insecure=1&mode=multi&type=grpc&security=tls&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi#🌐 XX | ⚪ Белый #1
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&mode=multi&serviceName=multi#🌐 XX | ⚪ Белый #2
-vless://51af2ae4-b8db-4026-8d82-7801f3cbd3c3@ru-213.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq#🌐 XX | ⚪ Белый #3
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.118:8880?type=ws&security=none&fp=firefox&path=/cdn/assets/stream&host=cnd.finland.nexusdataroute.com#🌐 XX | ⚪ Белый #4
-vless://WANCLOUDFA-FREE@5.10.245.138:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#🌐 XX | ⚪ Белый #5
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #6
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?type=ws&security=none&fp=firefox&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #7
-vless://a1231b43-48aa-4e5b-895a-7f52309ba582@91.193.58.79:2086?encryption=none&host=dev.day18day19.com&path=/&security=none&type=xhttp&mode=packet-up#🌐 XX | ⚪ Белый #8
-vless://6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b@188.225.39.84:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=firefox&sni=most-ger-8.linkey46.ru&alpn=h2%2Chttp%2F1.1#🌐 XX | ⚪ Белый #9
-vless://8ebbdd3b-703c-47df-8bc9-bc9cf6606bc1@217.144.184.251:2053?fp=firefox&pbk=ugTbTcS4MurvJHkOsb2sGdVhUdhfyuJwv6yvJldeCXA&security=reality&serviceName=grpc&sid=d9a7c1e2b3f4481a&sni=cdn.jsdelivr.net&type=grpc#🌐 XX | ⚪ Белый #10
+vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&host=s10211.cdn.ngenix.net&fp=qq&type=ws&sni=s10211.cdn.ngenix.net#🚀 Автовыбор | ⚪ Белые
+vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&host=s10211.cdn.ngenix.net&fp=qq&type=ws&sni=s10211.cdn.ngenix.net#🌐 XX | ⚪ Белый #1
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&insecure=1&mode=multi&type=grpc&security=tls&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi#🌐 XX | ⚪ Белый #2
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&mode=multi&serviceName=multi#🌐 XX | ⚪ Белый #3
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?alpn=h2%2Chttp%2F1.1&authority=&encryption=none&fp=edge&mode=multi&security=tls&serviceName=multi&sni=cuisine.mikata.ru&type=grpc#🌐 XX | ⚪ Белый #4
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi&insecure=0#🌐 XX | ⚪ Белый #5
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&serviceName=multi#🌐 XX | ⚪ Белый #6
+vless://6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b@most-ger-8.linkey46.ru:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=most-ger-8.linkey46.ru#🌐 XX | ⚪ Белый #7
+vless://6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b@most-ger-8.linkey46.ru:8443?type=tcp&security=tls&sni=most-ger-8.linkey46.ru&fp=firefox&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #8
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #9
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.118:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland.nexusdataroute.com#🌐 XX | ⚪ Белый #10
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://9a2573c5-936f-4f93-8409-e43164793176@cdn2-09.cdn-vkvideo.com:443?security=reality&encryption=none&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&headerType=none&fp=firefox&spx=%2Fapi%2Fv1%2Fvideo%2Finit&type=tcp&flow=xtls-rprx-vision&sni=cdn2-09.cdn-vkvideo.com&sid=b0d8f964b7ac8ac0#🚀 Автовыбор | ⚫ Чёрные
@@ -24,24 +24,24 @@ vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?encryptio
 vless://74dd3bb4-8f4f-48d6-9a65-555eb808b9c7@trp.aradart.top:443?security=reality&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=aparat.com&sid=cf13&fp=chrome&pbk=dc3O5Dt33E1G0yRQ2QSeu1sHKmdm5qttYU7iX9vaxGY&spx=/OJvcwptSccl9SOr&mode=auto&extra={  "xPaddingBytes" : "100-1000"}#🌐 XX | ⚫ Чёрный #5
 vless://3cbf82a7-1f95-4a39-a77f-788b1737ed64@fra.pandaonline.org:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=t_UyYJCXeQjHMYh0fnK6SinlQ5vkeVy-8yKrkUgVNEE&security=reality&sid=&sni=fra.pandaonline.org&type=tcp#🌐 XX | ⚫ Чёрный #6
 vless://4c9b304f-ec00-41af-be5b-aa3f22ed430e@fsxhh.fastshop1.com:443?encryption=none&security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=xhttp&host=wizardali.global.ssl.fastly.net&path=/mammadalifsx&mode=packet-up#🌐 XX | ⚫ Чёрный #7
-vless://AlfredConfig@199.181.197.176:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=/&host=alfi.yas-nowin.ir#🌐 XX | ⚫ Чёрный #8
-vless://eb17b44d-4e27-4a40-b4d1-ecf4d59043dd@167.82.101.210:443?security=tls&type=xhttp&headerType=&path=%2F&host=hormiz5.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=global.fastly.com&fp=firefox&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🌐 XX | ⚫ Чёрный #9
+vless://AlfredConfig@199.181.197.176:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#🌐 XX | ⚫ Чёрный #8
+vless://2cad0994-46ed-44e6-8cab-48004e540445@45.85.119.181:2053?encryption=none&security=tls&sni=GOTarmin.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.CoM.&insecure=0&allowInsecure=0&type=xhttp&host=GOTarmin.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.CoM.&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#🌐 XX | ⚫ Чёрный #9
 vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #10
 
 # ═══ ⚡ FAST ALL ═══
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&insecure=1&mode=multi&type=grpc&security=tls&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi#🚀 Автовыбор | ⚡ Fast All
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&insecure=1&mode=multi&type=grpc&security=tls&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi#🌐 XX | ⚡ Fast #1
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&mode=multi&serviceName=multi#🌐 XX | ⚡ Fast #2
-vless://51af2ae4-b8db-4026-8d82-7801f3cbd3c3@ru-213.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq#🌐 XX | ⚡ Fast #3
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚡ Fast #4
-vless://a1231b43-48aa-4e5b-895a-7f52309ba582@91.193.58.79:2086?encryption=none&host=dev.day18day19.com&path=/&security=none&type=xhttp&mode=packet-up#🌐 XX | ⚡ Fast #5
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?type=ws&security=none&fp=firefox&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚡ Fast #6
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.118:8880?type=ws&security=none&fp=firefox&path=/cdn/assets/stream&host=cnd.finland.nexusdataroute.com#🌐 XX | ⚡ Fast #7
-vless://WANCLOUDFA-FREE@5.10.245.138:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#🌐 XX | ⚡ Fast #8
-vless://6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b@188.225.39.84:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=firefox&sni=most-ger-8.linkey46.ru&alpn=h2%2Chttp%2F1.1#🌐 XX | ⚡ Fast #9
-vless://8ebbdd3b-703c-47df-8bc9-bc9cf6606bc1@217.144.184.251:2053?fp=firefox&pbk=ugTbTcS4MurvJHkOsb2sGdVhUdhfyuJwv6yvJldeCXA&security=reality&serviceName=grpc&sid=d9a7c1e2b3f4481a&sni=cdn.jsdelivr.net&type=grpc#🌐 XX | ⚡ Fast #10
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@217.16.18.174:5443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=chrome&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&flow=xtls-rprx-vision#🌐 XX | ⚡ Fast #11
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.198.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rezerv11.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#🌐 XX | ⚡ Fast #12
-vless://3cbf82a7-1f95-4a39-a77f-788b1737ed64@62.152.56.157:443?flow=xtls-rprx-vision&fp=firefox&pbk=F_ibx7pBjkhhTBHhi-8Tma7w3DtfGTzpE6uqRDB-KWU&security=reality&sid=e75f556eef8f096f&sni=max.ru&type=tcp#🌐 XX | ⚡ Fast #13
-vless://51af2ae4-b8db-4026-8d82-7801f3cbd3c3@213.219.212.110:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sni=eh.vk.ru#🌐 XX | ⚡ Fast #14
-vless://51af2ae4-b8db-4026-8d82-7801f3cbd3c3@213.219.212.51:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#🌐 XX | ⚡ Fast #15
+vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&host=s10211.cdn.ngenix.net&fp=qq&type=ws&sni=s10211.cdn.ngenix.net#🚀 Автовыбор | ⚡ Fast All
+vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&host=s10211.cdn.ngenix.net&fp=qq&type=ws&sni=s10211.cdn.ngenix.net#🌐 XX | ⚡ Fast #1
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&insecure=1&mode=multi&type=grpc&security=tls&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi#🌐 XX | ⚡ Fast #2
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&mode=multi&serviceName=multi#🌐 XX | ⚡ Fast #3
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?alpn=h2%2Chttp%2F1.1&authority=&encryption=none&fp=edge&mode=multi&security=tls&serviceName=multi&sni=cuisine.mikata.ru&type=grpc#🌐 XX | ⚡ Fast #4
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi&insecure=0#🌐 XX | ⚡ Fast #5
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&serviceName=multi#🌐 XX | ⚡ Fast #6
+vless://6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b@most-ger-8.linkey46.ru:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=most-ger-8.linkey46.ru#🌐 XX | ⚡ Fast #7
+vless://6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b@most-ger-8.linkey46.ru:8443?type=tcp&security=tls&sni=most-ger-8.linkey46.ru&fp=firefox&flow=xtls-rprx-vision#🌐 XX | ⚡ Fast #8
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚡ Fast #9
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.118:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland.nexusdataroute.com#🌐 XX | ⚡ Fast #10
+vless://a1231b43-48aa-4e5b-895a-7f52309ba582@91.193.58.79:2086?encryption=none&host=dev.day18day19.com&path=/&security=none&type=xhttp&mode=packet-up#🌐 XX | ⚡ Fast #11
+vless://d7c2c036-5e3b-41ab-becf-0cf6e5b853a0@31.129.42.156:6443?type=grpc&security=reality&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=5c766813929a1fdd&sni=5post-gate.x5.ru&mode=gun&serviceName=grpc#🌐 XX | ⚡ Fast #12
+vless://6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b@188.225.39.84:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=most-ger-8.linkey46.ru#🌐 XX | ⚡ Fast #13
+vless://6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b@188.225.39.84:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=firefox&sni=most-ger-8.linkey46.ru&alpn=h2%2Chttp%2F1.1#🌐 XX | ⚡ Fast #14
+vless://51af2ae4-b8db-4026-8d82-7801f3cbd3c3@213.219.212.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#🌐 XX | ⚡ Fast #15

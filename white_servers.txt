@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-20 21:04 UTC
+# Updated: 2026-06-20 22:57 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&insecure=1&mode=multi&type=grpc&security=tls&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi#🚀 Автовыбор | ⚪ Белые
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&insecure=1&mode=multi&type=grpc&security=tls&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi#🌐 XX | ⚪ Белый #1
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&mode=multi&serviceName=multi#🌐 XX | ⚪ Белый #2
-vless://51af2ae4-b8db-4026-8d82-7801f3cbd3c3@ru-213.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq#🌐 XX | ⚪ Белый #3
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.118:8880?type=ws&security=none&fp=firefox&path=/cdn/assets/stream&host=cnd.finland.nexusdataroute.com#🌐 XX | ⚪ Белый #4
-vless://WANCLOUDFA-FREE@5.10.245.138:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#🌐 XX | ⚪ Белый #5
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #6
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?type=ws&security=none&fp=firefox&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #7
-vless://a1231b43-48aa-4e5b-895a-7f52309ba582@91.193.58.79:2086?encryption=none&host=dev.day18day19.com&path=/&security=none&type=xhttp&mode=packet-up#🌐 XX | ⚪ Белый #8
-vless://6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b@188.225.39.84:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=firefox&sni=most-ger-8.linkey46.ru&alpn=h2%2Chttp%2F1.1#🌐 XX | ⚪ Белый #9
-vless://8ebbdd3b-703c-47df-8bc9-bc9cf6606bc1@217.144.184.251:2053?fp=firefox&pbk=ugTbTcS4MurvJHkOsb2sGdVhUdhfyuJwv6yvJldeCXA&security=reality&serviceName=grpc&sid=d9a7c1e2b3f4481a&sni=cdn.jsdelivr.net&type=grpc#🌐 XX | ⚪ Белый #10
+vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&host=s10211.cdn.ngenix.net&fp=qq&type=ws&sni=s10211.cdn.ngenix.net#🚀 Автовыбор | ⚪ Белые
+vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&host=s10211.cdn.ngenix.net&fp=qq&type=ws&sni=s10211.cdn.ngenix.net#🌐 XX | ⚪ Белый #1
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&insecure=1&mode=multi&type=grpc&security=tls&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi#🌐 XX | ⚪ Белый #2
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&mode=multi&serviceName=multi#🌐 XX | ⚪ Белый #3
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?alpn=h2%2Chttp%2F1.1&authority=&encryption=none&fp=edge&mode=multi&security=tls&serviceName=multi&sni=cuisine.mikata.ru&type=grpc#🌐 XX | ⚪ Белый #4
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi&insecure=0#🌐 XX | ⚪ Белый #5
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&serviceName=multi#🌐 XX | ⚪ Белый #6
+vless://6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b@most-ger-8.linkey46.ru:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=most-ger-8.linkey46.ru#🌐 XX | ⚪ Белый #7
+vless://6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b@most-ger-8.linkey46.ru:8443?type=tcp&security=tls&sni=most-ger-8.linkey46.ru&fp=firefox&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #8
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #9
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.118:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland.nexusdataroute.com#🌐 XX | ⚪ Белый #10
 

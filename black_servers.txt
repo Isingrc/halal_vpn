@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-20 10:26 UTC
+# Updated: 2026-06-20 13:28 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://9f8d1585-502c-4911-a6c7-4f989ea3e059@bg.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bg.janusgate.org&sid=a08f46e4b03d9dd3#🚀 Автовыбор | ⚫ Чёрные
-vless://9f8d1585-502c-4911-a6c7-4f989ea3e059@bg.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bg.janusgate.org&sid=a08f46e4b03d9dd3#🌐 XX | ⚫ Чёрный #1
-vless://0a261e86-01cc-4416-bd18-d7bee811c9e8@kilime.xubi.org:443?mode=auto&path=/&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&type=xhttp#🌐 XX | ⚫ Чёрный #2
-vless://8684c32b-2ffb-4b75-802a-76f90fb15cba@finlandhomelesfound.life:8443?security=reality&encryption=none&pbk=6FTPxkRxzV_0Hb7lNCmNkUqnk-OdOJ-Ao1qPYa_-21g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finlandhomelesfound.life&sid=d7abeb515312dc2f#🌐 XX | ⚫ Чёрный #3
-vless://8684c32b-2ffb-4b75-802a-76f90fb15cba@finlandhomelesfound.life:8443?security=reality&encryption=none&pbk=6FTPxkRxzV_0Hb7lNCmNkUqnk-OdOJ-Ao1qPYa_-21g&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=finlandhomelesfound.life&sid=d7abeb515312dc2f#🌐 XX | ⚫ Чёрный #4
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#🌐 XX | ⚫ Чёрный #5
-vless://9f8d1585-502c-4911-a6c7-4f989ea3e059@fr2.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr2.janusgate.org&sid=c324fdcf18f3390e#🌐 XX | ⚫ Чёрный #6
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l1.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=itx-server.digital#🌐 XX | ⚫ Чёрный #7
-vless://97d1c3e3-36c5-49aa-a6f2-db286c23a2c1@lla.monicam.bio:11403?security=reality&encryption=none&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google-analytics.com#🌐 XX | ⚫ Чёрный #8
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?alpn=h3&authority=&encryption=none&fp=edge&mode=multi&security=tls&serviceName=multi&sni=cuisine.mikata.ru&type=grpc#🌐 XX | ⚫ Чёрный #9
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi&insecure=0#🌐 XX | ⚫ Чёрный #10
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#🚀 Автовыбор | ⚫ Чёрные
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#🌐 XX | ⚫ Чёрный #1
+vless://609b91e0-62a3-0003-82a8-16d75e1cea79@wl-back.coconutstrip.co:443?security=reality&encryption=none&pbk=7a0xjAoeGvlHx-Vy-JC-nr_eKQhQyFUDL16M85Z-Zzo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=wl-back.coconutstrip.co&sid=15affa0af66dfc79#🌐 XX | ⚫ Чёрный #2
+vless://ea2a860f-a1a1-4fd9-b975-f73a2eda5777@sl.sajadraft.ir:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=bhoenokqHQgYh_tgKKyGmqz6vNUrXlD1NQvk0rxu-js&headerType=none&fp=chrome&spx=%2FeRT7Cmbx48dVn4N&type=tcp&sni=www.sony.com&sid=9edd4c88f9#🌐 XX | ⚫ Чёрный #3
+vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l1.l-itx.info:7443?type=grpc&headerType=none&security=reality&encryption=none&sni=colorlib.com&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&serviceName=xyz#🌐 XX | ⚫ Чёрный #4
+vless://74dd3bb4-8f4f-48d6-9a65-555eb808b9c7@trp.aradart.top:443?security=reality&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=aparat.com&sid=cf13&fp=chrome&pbk=dc3O5Dt33E1G0yRQ2QSeu1sHKmdm5qttYU7iX9vaxGY&spx=/OJvcwptSccl9SOr&mode=auto&extra={  "xPaddingBytes" : "100-1000"}#🌐 XX | ⚫ Чёрный #5
+vless://74dd3bb4-8f4f-48d6-9a65-555eb808b9c7@trp.aradart.top:443?type=xhttp&security=reality&path=/&sni=aparat.com&fp=chrome&pbk=dc3O5Dt33E1G0yRQ2QSeu1sHKmdm5qttYU7iX9vaxGY&sid=cf13#🌐 XX | ⚫ Чёрный #6
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&insecure=1&mode=multi&type=grpc&security=tls&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi#🌐 XX | ⚫ Чёрный #7
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=cuisine.mikata.ru&fp=edge&alpn=h3&serviceName=multi&insecure=0#🌐 XX | ⚫ Чёрный #8
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&serviceName=multi#🌐 XX | ⚫ Чёрный #9
+vless://609b91e0-62a3-0001-82a8-16d75e1cea79@wl-back.coconutstrip.co:443?security=reality&encryption=none&pbk=7a0xjAoeGvlHx-Vy-JC-nr_eKQhQyFUDL16M85Z-Zzo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=wl-back.coconutstrip.co&sid=15affa0af66dfc79#🌐 XX | ⚫ Чёрный #10
 

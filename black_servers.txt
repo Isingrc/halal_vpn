@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-06-20 19:09 UTC
+# Updated: 2026-06-20 21:04 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -11,7 +11,7 @@ vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?encryptio
 vless://74dd3bb4-8f4f-48d6-9a65-555eb808b9c7@trp.aradart.top:443?security=reality&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=aparat.com&sid=cf13&fp=chrome&pbk=dc3O5Dt33E1G0yRQ2QSeu1sHKmdm5qttYU7iX9vaxGY&spx=/OJvcwptSccl9SOr&mode=auto&extra={  "xPaddingBytes" : "100-1000"}#🌐 XX | ⚫ Чёрный #5
 vless://3cbf82a7-1f95-4a39-a77f-788b1737ed64@fra.pandaonline.org:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=t_UyYJCXeQjHMYh0fnK6SinlQ5vkeVy-8yKrkUgVNEE&security=reality&sid=&sni=fra.pandaonline.org&type=tcp#🌐 XX | ⚫ Чёрный #6
 vless://4c9b304f-ec00-41af-be5b-aa3f22ed430e@fsxhh.fastshop1.com:443?encryption=none&security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=xhttp&host=wizardali.global.ssl.fastly.net&path=/mammadalifsx&mode=packet-up#🌐 XX | ⚫ Чёрный #7
-vless://AlfredConfig@199.181.197.176:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#🌐 XX | ⚫ Чёрный #8
-vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #9
-vless://AlfredConfig@199.181.197.176:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=/&host=alfi.yas-nowin.ir#🌐 XX | ⚫ Чёрный #10
+vless://AlfredConfig@199.181.197.176:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=/&host=alfi.yas-nowin.ir#🌐 XX | ⚫ Чёрный #8
+vless://eb17b44d-4e27-4a40-b4d1-ecf4d59043dd@167.82.101.210:443?security=tls&type=xhttp&headerType=&path=%2F&host=hormiz5.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=global.fastly.com&fp=firefox&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🌐 XX | ⚫ Чёрный #9
+vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #10
 

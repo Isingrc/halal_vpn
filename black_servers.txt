@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-21 21:04 UTC
+# Updated: 2026-06-21 23:00 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://15fc02f9-dadd-49fa-a259-baec0ee71339@89.125.118.171.blanesik.space:443?type=grpc&headerType=none&security=tls&encryption=none&sni=89.125.118.171.blanesik.space&fp=safari&alpn=h2&serviceName=%2Fsequre%2Fgrpc&insecure=0#🚀 Автовыбор | ⚫ Чёрные
-vless://15fc02f9-dadd-49fa-a259-baec0ee71339@89.125.118.171.blanesik.space:443?type=grpc&headerType=none&security=tls&encryption=none&sni=89.125.118.171.blanesik.space&fp=safari&alpn=h2&serviceName=%2Fsequre%2Fgrpc&insecure=0#🌐 XX | ⚫ Чёрный #1
-vless://4c9b304f-ec00-41af-be5b-aa3f22ed430e@fsxhh.fastshop1.com:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=wizardali.global.ssl.fastly.net&path=%2Fmammadalifsx&mode=packet-up#🌐 XX | ⚫ Чёрный #2
-vless://4c9b304f-ec00-41af-be5b-aa3f22ed430e@fsxhh.fastshop1.com:443?mode=packet-up&path=%2Fmammadalifsx&security=tls&encryption=none&insecure=0&host=wizardali.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#🌐 XX | ⚫ Чёрный #3
-vless://4c9b304f-ec00-41af-be5b-aa3f22ed430e@fsxhh.fastshop1.com:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=ssl.fastly.com&path=%2Fmammadalifsx&host=wizardali.global.ssl.fastly.net&insecure=0#🌐 XX | ⚫ Чёрный #4
-vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.ar3.plusmusical8.ir:8880?encryption=none&security=none&type=httpupgrade&host=cdn-pro1.topshopingg.com.&path=/?ed=2082#🌐 XX | ⚫ Чёрный #5
-vless://75d4d24d-ba8d-3676-a5c6-edd6ea6dbfb6@s5.db-link.in:17820?type=ws&encryption=none&host=48afa0c5c9.shopify.com&path=%2Fdb102448afa0c5c9fp%3Dchrome&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=48afa0c5c9.shopify.com#🌐 XX | ⚫ Чёрный #6
-vless://d8a8fb02-a05b-4fa4-8f17-09ab74d63473@85.113.71.97:8080?flow=xtls-rprx-vision&fp=firefox&pbk=gIZroPoitLL_o4L_u4krqQl_y5PcwlZDH3VogB789Fg&security=reality&sni=www.amazon.com&type=tcp#🇺🇸 US | ⚫ Чёрный #7
-vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.106:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=auto.malina24.xyz&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&fp=qq#🌐 XX | ⚫ Чёрный #8
-vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.104:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=auto.malina24.xyz&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&fp=qq#🌐 XX | ⚫ Чёрный #9
-vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.106:443?flow=xtls-rprx-vision&fp=firefox&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=abcd&sni=auto.malina24.xyz&type=tcp#🌐 XX | ⚫ Чёрный #10
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@bg.janusgate.org:443?type=tcp&headerType=none&security=reality&encryption=none&sni=bg.janusgate.org&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=9b8c895dde4803ed&flow=xtls-rprx-vision#🚀 Автовыбор | ⚫ Чёрные
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@bg.janusgate.org:443?type=tcp&headerType=none&security=reality&encryption=none&sni=bg.janusgate.org&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=9b8c895dde4803ed&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #1
+vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@estoshka.1o0.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Fw2xfDpIesFqZuoH8IYBdTL160a7G5ReoEHL10HRjkw&sid=5063ba978295ebd4&sni=estoshka-cdn.1o0.net&spx=/#🌐 XX | ⚫ Чёрный #2
+vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@estoshka.1o0.net:443?type=xhttp&security=tls&fp=firefox&sni=estoshka.1o0.net&path=/OvjNUuHp&mode=packet-up#🌐 XX | ⚫ Чёрный #3
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@fi.janusgate.org:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fi.janusgate.org&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=d7b0dab7f95c437d&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #4
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@fr.janusgate.org:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fr.janusgate.org&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=c6ff7424cb12c5ed&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #5
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@fr2.janusgate.org:443?type=tcp&security=reality&sni=fr2.janusgate.org&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=98c637e074b03225&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #6
+vless://5adf90fd-fad8-4495-a122-89b0f38aecb5@ger1.fghy27.top:2053?type=tcp&security=reality&sni=cloudflare.com&fp=firefox&pbk=46kqulJ5_D8Cw51esUZXGjHrmOt02kOJenC45PxAwQM&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇺🇸 US | ⚫ Чёрный #7
+vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@porsche.1o0.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oao4dqu5dOLSLuwqYBlEnPa0R_dAHSOHZdZgshh0rBg&sid=07569e49f5fc83ba&sni=porsche-cdn.1o0.net&spx=/#🌐 XX | ⚫ Чёрный #8
+vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@porsche.1o0.net:443?type=xhttp&security=tls&fp=firefox&sni=porsche.1o0.net&path=/zFff4BJO&mode=packet-up#🌐 XX | ⚫ Чёрный #9
+vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@geg.xxee.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fxYPLrSzBFwZ3IUuLyrv_OTtgHgbx8GL7HuD3walpwc&sid=5f75688e69eb611f&sni=getgegin.xxee.ru&spx=/#🌐 XX | ⚫ Чёрный #10
 

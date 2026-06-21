@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-21 12:04 UTC
+# Updated: 2026-06-21 15:46 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://94c2936d-f073-4f25-9634-abe83ba64cfd@cuisine.mikata.ru:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=edge&host=cuisine.mikata.ru&mode=stream-up&path=%2F%3Fed%3D2048&security=tls&sni=cuisine.mikata.ru&type=xhttp&x_padding_bytes=100-1000#🚀 Автовыбор | ⚪ Белые
-vless://94c2936d-f073-4f25-9634-abe83ba64cfd@cuisine.mikata.ru:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=edge&host=cuisine.mikata.ru&mode=stream-up&path=%2F%3Fed%3D2048&security=tls&sni=cuisine.mikata.ru&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚪ Белый #1
-vless://94c2936d-f073-4f25-9634-abe83ba64cfd@cuisine.mikata.ru:443?type=xhttp&security=tls&fp=edge&sni=cuisine.mikata.ru&path=/?ed=2048&mode=stream-up&extra={"xPaddingBytes":"100-1000"}&x_padding_bytes=100-1000#🌐 XX | ⚪ Белый #2
-vless://2a2ac65e-ff89-49c8-bf7a-f218206bb419@multi.fresedvpn.site:2096?host=rebus.rustore.ru&path=%2Fapi%2Fv3%2Fws&security=none&type=ws#🌐 XX | ⚪ Белый #3
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@154.83.2.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#🌐 XX | ⚪ Белый #4
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@45.67.215.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#🌐 XX | ⚪ Белый #5
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@5.10.245.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#🌐 XX | ⚪ Белый #6
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@184.168.47.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#🌐 XX | ⚪ Белый #7
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@92.53.190.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#🌐 XX | ⚪ Белый #8
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@45.40.150.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#🌐 XX | ⚪ Белый #9
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.245.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐 XX | ⚪ Белый #10
+vless://ec242fb6-faeb-4f34-afb8-3fbf80e527e3@fr-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#🚀 Автовыбор | ⚪ Белые
+vless://ec242fb6-faeb-4f34-afb8-3fbf80e527e3@fr-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#🇺🇸 US | ⚪ Белый #1
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv12.yunus.guru:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&security=reality&sid=34256b39b4ebb864&sni=rezerv7.yunus.guru&type=tcp#🌐 XX | ⚪ Белый #2
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐 XX | ⚪ Белый #3
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.148.106.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐 XX | ⚪ Белый #4
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.1.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐 XX | ⚪ Белый #5
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@170.114.45.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐 XX | ⚪ Белый #6
+vless://a1231b43-48aa-4e5b-895a-7f52309ba582@91.193.58.79:2086?encryption=none&host=dev.day18day19.com&path=/&security=none&type=xhttp&mode=packet-up#🌐 XX | ⚪ Белый #7
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.67.215.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐 XX | ⚪ Белый #8
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.246.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐 XX | ⚪ Белый #9
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.37.33.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐 XX | ⚪ Белый #10
 

@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-06-21 15:46 UTC
+# Updated: 2026-06-21 17:19 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -7,11 +7,11 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443?flow=xtls-rprx-vis
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#🌐 XX | ⚫ Чёрный #1
 vless://ea2a860f-a1a1-4fd9-b975-f73a2eda5777@sl.sajadraft.ir:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=bhoenokqHQgYh_tgKKyGmqz6vNUrXlD1NQvk0rxu-js&headerType=none&fp=chrome&spx=%2FeRT7Cmbx48dVn4N&type=tcp&sni=www.sony.com&sid=9edd4c88f9#🌐 XX | ⚫ Чёрный #2
 vless://7314de12-a58b-4018-b744-fc98bcc4ec6e@69b1ghpghu.vk-maps.net:52006?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api2.vk-maps.net&fp=qq&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&sid=96962fed#🌐 XX | ⚫ Чёрный #3
-vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.104:443?flow=xtls-rprx-vision&fp=firefox&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=abcd&sni=auto.malina24.xyz&type=tcp#🌐 XX | ⚫ Чёрный #4
-vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.104:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=abcd&sni=auto.malina24.xyz&type=tcp#🌐 XX | ⚫ Чёрный #5
-vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.104:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=auto.malina24.xyz&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&fp=qq#🌐 XX | ⚫ Чёрный #6
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.254:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#🌐 XX | ⚫ Чёрный #7
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.246:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#🌐 XX | ⚫ Чёрный #8
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.250:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#🌐 XX | ⚫ Чёрный #9
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.254:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=enterprisekitten.com&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🌐 XX | ⚫ Чёрный #10
+vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@87.58.206.28:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=firefox&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&flow=xtls-rprx-vision#🇺🇸 US | ⚫ Чёрный #4
+vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.104:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=auto.malina24.xyz&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&fp=qq#🌐 XX | ⚫ Чёрный #5
+vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.104:443?flow=xtls-rprx-vision&fp=firefox&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=abcd&sni=auto.malina24.xyz&type=tcp#🌐 XX | ⚫ Чёрный #6
+vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.104:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=abcd&sni=auto.malina24.xyz&type=tcp#🌐 XX | ⚫ Чёрный #7
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=enterprisekitten.com&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🌐 XX | ⚫ Чёрный #8
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=enterprisekitten.com&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🌐 XX | ⚫ Чёрный #9
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.250:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#🌐 XX | ⚫ Чёрный #10
 

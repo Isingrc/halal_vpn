@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-22 15:13 UTC
+# Updated: 2026-06-22 19:18 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.tututrutu.ru:2053?type=tcp&security=reality&fp=firefox&sni=web.tututrutu.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🚀 Автовыбор | ⚫ Чёрные
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.tututrutu.ru:2053?type=tcp&security=reality&fp=firefox&sni=web.tututrutu.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🌐 XX | ⚫ Чёрный #1
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.poezdkafun.ru:443?type=grpc&security=reality&fp=firefox&sni=web.poezdkafun.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&serviceName=poezdkafun-grpc#🌐 XX | ⚫ Чёрный #2
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.wikihow.com&fp=chrome&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #3
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&fp=firefox&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #4
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #5
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry4.brocollisuper.click:443?type=grpc&security=tls&fp=firefox&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #6
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry4.brocollisuper.click:443?type=grpc&security=tls&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #7
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.terminatorr.ru:2053?type=tcp&security=reality&fp=firefox&sni=web.terminatorr.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🌐 XX | ⚫ Чёрный #8
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@nl1.univesalsrv.com:443?type=grpc&security=tls&fp=firefox&serviceName=mobile.api.Event#🌐 XX | ⚫ Чёрный #9
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@nl1.univesalsrv.com:443?type=grpc&security=tls&serviceName=mobile.api.Event#🌐 XX | ⚫ Чёрный #10
+vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.tututrutu.ru:2053?encryption=none&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=web.tututrutu.ru&type=tcp#🚀 Автовыбор | ⚫ Чёрные
+vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.tututrutu.ru:2053?encryption=none&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=web.tututrutu.ru&type=tcp#🌐 XX | ⚫ Чёрный #1
+vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.tututrutu.ru:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.tututrutu.ru#🌐 XX | ⚫ Чёрный #2
+vless://88e56831-ce33-4e31-b829-1ca3154330a5@cz2.voxyvpn.ru:6443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.led.samsung.com&fp=randomized&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=deadbeef&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #3
+vless://690b43e7-be88-4cec-b4de-fde89330a602@firez.xanka.best:1337?encryption=none&flow=xtls-rprx-vision&security=reality&sni=firez.xanka.best&fp=firefox&pbk=WAf6HQ1ZTFHrDnSm32wnEbRmgjyETyCMw1yczrPbZRg&sid=12778dd1&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #4
+vless://88e56831-ce33-4e31-b829-1ca3154330a5@fl2.voxyvpn.ru:6443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.led.samsung.com&fp=randomized&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=deadbeef&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #5
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&sni=www.wikihow.com#🌐 XX | ⚫ Чёрный #6
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?allowInsecure=1&insecure=1&type=grpc&security=tls&sni=fry2.brocollisuper.click&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #7
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&fp=firefox&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #8
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #9
+vless://485f9437-a541-48c4-831d-b296ce068ffe@199.232.221.231:443?security=tls&type=xhttp&headerType=&path=%2F&host=poland.alexander.com&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=docs.fastly.com&fp=chrome&alpn=h3#🌐 XX | ⚫ Чёрный #10
 

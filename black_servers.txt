@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-22 09:39 UTC
+# Updated: 2026-06-22 15:13 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.tututrutu.ru:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.tututrutu.ru#🚀 Автовыбор | ⚫ Чёрные
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.tututrutu.ru:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.tututrutu.ru#🌐 XX | ⚫ Чёрный #1
-vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@estia.1o0.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=H4aAbn-X8IPNhsoxUtSNW3E5lOioX6QGmUTyFmsyNms&sid=4ee732e1c4da6fa4&sni=estia-cdn.1o0.net&spx=/#🌐 XX | ⚫ Чёрный #2
-vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@estoshka.1o0.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Fw2xfDpIesFqZuoH8IYBdTL160a7G5ReoEHL10HRjkw&sid=5063ba978295ebd4&sni=estoshka-cdn.1o0.net&spx=/#🌐 XX | ⚫ Чёрный #3
-vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@estoshka.1o0.net:443?type=xhttp&security=tls&fp=firefox&sni=estoshka.1o0.net&path=/OvjNUuHp&mode=packet-up#🌐 XX | ⚫ Чёрный #4
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.poezdkafun.ru:443?type=grpc&security=reality&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.poezdkafun.ru&mode=gun&serviceName=poezdkafun-grpc#🌐 XX | ⚫ Чёрный #5
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #6
+vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.tututrutu.ru:2053?type=tcp&security=reality&fp=firefox&sni=web.tututrutu.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🚀 Автовыбор | ⚫ Чёрные
+vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.tututrutu.ru:2053?type=tcp&security=reality&fp=firefox&sni=web.tututrutu.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🌐 XX | ⚫ Чёрный #1
+vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.poezdkafun.ru:443?type=grpc&security=reality&fp=firefox&sni=web.poezdkafun.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&serviceName=poezdkafun-grpc#🌐 XX | ⚫ Чёрный #2
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.wikihow.com&fp=chrome&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #3
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&fp=firefox&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #4
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #5
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry4.brocollisuper.click:443?type=grpc&security=tls&fp=firefox&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #6
 vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry4.brocollisuper.click:443?type=grpc&security=tls&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #7
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.terminatorr.ru:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.terminatorr.ru#🌐 XX | ⚫ Чёрный #8
-vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@bmw.1o0.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fttWZh0xD5Cw0R1F7py6eDD0Xe21JzmFeDqYF6Mn3jM&sid=0a6f5f685d215952&sni=bmw-cdn.1o0.net&spx=/#🌐 XX | ⚫ Чёрный #9
-vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@bmw.1o0.net:443?type=xhttp&security=tls&fp=firefox&sni=bmw.1o0.net&path=/oSv5PRil&mode=packet-up#🌐 XX | ⚫ Чёрный #10
+vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.terminatorr.ru:2053?type=tcp&security=reality&fp=firefox&sni=web.terminatorr.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🌐 XX | ⚫ Чёрный #8
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@nl1.univesalsrv.com:443?type=grpc&security=tls&fp=firefox&serviceName=mobile.api.Event#🌐 XX | ⚫ Чёрный #9
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@nl1.univesalsrv.com:443?type=grpc&security=tls&serviceName=mobile.api.Event#🌐 XX | ⚫ Чёрный #10
 

@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-23 10:54 UTC
+# Updated: 2026-06-23 14:28 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?allowInsecure=1&insecure=1&type=grpc&security=tls&sni=fry2.brocollisuper.click&fp=firefox&serviceName=grpc-api#🚀 Автовыбор | ⚫ Чёрные
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?allowInsecure=1&insecure=1&type=grpc&security=tls&sni=fry2.brocollisuper.click&fp=firefox&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #1
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?allowInsecure=1&insecure=1&type=grpc&security=tls&sni=fry2.brocollisuper.click&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #2
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&fp=firefox&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #3
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #4
-vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.ar.plus.mashtinet.shop:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=wwwfffffii.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #5
-vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.ar.plus.mashtinet.shop:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=wwwfffffii.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #6
-vless://c37ec320-6af4-11f1-a103-aef63c7126b0@cam-msk-4.videomonitor.cloud:2053?type=grpc&security=reality&fp=chrome&pbk=uKbIByAq9ZpRu9XkvD8wnI1yLvDhEOjaV41YLz3TRF8&sid=a8fe94f8e774523a&sni=cam-msk-4.videomonitor.cloud&mode=gun&serviceName=grpc-direct#🌐 XX | ⚫ Чёрный #7
-vless://bdcfaeed-ddf1-4817-bc90-c22b22fcb2b5@www.fghrsh.net:443?encryption=none&host=pop.mmadcoffee.info&path=%2F14391%2Fapi&security=tls&sni=sni.mmadcoffee.info&type=ws#🌐 XX | ⚫ Чёрный #8
-vless://02af3b31-2696-4b1c-a7d3-19ecf6318f64@84.75.161.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.malina24.xyz&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=5678&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #9
-vless://02af3b31-2696-4b1c-a7d3-19ecf6318f64@84.75.161.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.malina24.xyz&fp=qq&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=5678&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #10
+vless://f6a92fa2-5685-3c70-16d5-ba38b388dbbf@empty-water-a05b.gfbghfbfngbdgbghngf.workers.dev:443?type=ws&security=tls&path=/sync&sni=empty-water-a05b.gfbghfbfngbdgbghngf.workers.dev&fp=chrome#🚀 Автовыбор | ⚫ Чёрные
+vless://f6a92fa2-5685-3c70-16d5-ba38b388dbbf@empty-water-a05b.gfbghfbfngbdgbghngf.workers.dev:443?type=ws&security=tls&path=/sync&sni=empty-water-a05b.gfbghfbfngbdgbghngf.workers.dev&fp=chrome#🌐 XX | ⚫ Чёрный #1
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?allowInsecure=1&insecure=1&type=grpc&security=tls&sni=fry2.brocollisuper.click&fp=firefox&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #2
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?allowInsecure=1&insecure=1&type=grpc&security=tls&sni=fry2.brocollisuper.click&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #3
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&fp=firefox&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #4
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?type=grpc&security=tls&serviceName=grpc-api#🌐 XX | ⚫ Чёрный #5
+vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@de-3.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#🇺🇸 US | ⚫ Чёрный #6
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.72.162:8443?type=ws&security=tls&sni=&host=srv37.hamiibar.com&path=%2F#🌐 XX | ⚫ Чёрный #7
+vless://0e0059b1-9a87-4b6c-86f1-34d683c0619b@151.101.69.219:443?encryption=none&type=xhttp&mode=auto&host=nlqeshm.global.ssl.fastly.net&path=/GaMeOpTiMiZeR?ed=2048&security=tls&fp=chrome&sni=global.fastly.com&alpn=h2,http/1.1#🌐 XX | ⚫ Чёрный #8
+vless://0e0059b1-9a87-4b6c-86f1-34d683c0619b@151.101.69.219:443?encryption=none&type=xhttp&mode=auto&host=nlqeshm.global.ssl.fastly.net&path=/GaMeOpTiMiZeR?ed%3D2048&security=tls&fp=firefox&sni=global.fastly.com&alpn=h2,http/1.1#🌐 XX | ⚫ Чёрный #9
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=&encryption=none&headerType=none&fp=firefox&type=tcp#🌐 XX | ⚫ Чёрный #10
 

@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-24 19:26 UTC
+# Updated: 2026-06-24 21:16 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🚀 Автовыбор | ⚪ Белые
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🌐 XX | ⚪ Белый #1
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#🌐 XX | ⚪ Белый #2
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=support.zoom.us#🌐 XX | ⚪ Белый #3
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=%2F#🌐 XX | ⚪ Белый #4
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?security=tls&sni=fta.fontanvpn.com#🌐 XX | ⚪ Белый #5
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#🌐 XX | ⚪ Белый #6
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com#🌐 XX | ⚪ Белый #7
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&__rand=42b96464#🌐 XX | ⚪ Белый #8
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&_t=3badc77d#🌐 XX | ⚪ Белый #9
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&burmalda=32b7a0bc#🌐 XX | ⚪ Белый #10
+vless://12a49340-fd9c-4a70-8ebc-d2cf0dd36b2a@cuisine.mikata.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=velory.space&alpn&fp=edge&pbk=Ac5rtr-Pm4OPkfMps_b97GQmh-ez2sEP_N5X0EQBoF4&sid=5ce8c5e79aa9&packetEncoding=xudp#🚀 Автовыбор | ⚪ Белые
+vless://12a49340-fd9c-4a70-8ebc-d2cf0dd36b2a@cuisine.mikata.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=velory.space&alpn&fp=edge&pbk=Ac5rtr-Pm4OPkfMps_b97GQmh-ez2sEP_N5X0EQBoF4&sid=5ce8c5e79aa9&packetEncoding=xudp#🌐 XX | ⚪ Белый #1
+vless://12a49340-fd9c-4a70-8ebc-d2cf0dd36b2a@cuisine.mikata.ru:443?packetEncoding=xudp&type=tcp&security=reality&sni=velory.space&fp=edge&pbk=Ac5rtr-Pm4OPkfMps_b97GQmh-ez2sEP_N5X0EQBoF4&sid=5ce8c5e79aa9&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #2
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🌐 XX | ⚪ Белый #3
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#🌐 XX | ⚪ Белый #4
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=support.zoom.us#🌐 XX | ⚪ Белый #5
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🌐 XX | ⚪ Белый #6
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=/dula#🌐 XX | ⚪ Белый #7
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #8
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=/dula&host=speed.dulacloud.store#🌐 XX | ⚪ Белый #9
+vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#🌐 XX | ⚪ Белый #10
 

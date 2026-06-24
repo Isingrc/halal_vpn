@@ -1,19 +1,19 @@
 # FAST ALL SERVERS
-# Updated: 2026-06-24 19:26 UTC
+# Updated: 2026-06-24 21:16 UTC
 # Total: 35 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🚀 Автовыбор | ⚪ Белые
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🌐 XX | ⚪ Белый #1
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#🌐 XX | ⚪ Белый #2
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=support.zoom.us#🌐 XX | ⚪ Белый #3
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=%2F#🌐 XX | ⚪ Белый #4
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?security=tls&sni=fta.fontanvpn.com#🌐 XX | ⚪ Белый #5
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#🌐 XX | ⚪ Белый #6
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com#🌐 XX | ⚪ Белый #7
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&__rand=42b96464#🌐 XX | ⚪ Белый #8
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&_t=3badc77d#🌐 XX | ⚪ Белый #9
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&burmalda=32b7a0bc#🌐 XX | ⚪ Белый #10
+vless://12a49340-fd9c-4a70-8ebc-d2cf0dd36b2a@cuisine.mikata.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=velory.space&alpn&fp=edge&pbk=Ac5rtr-Pm4OPkfMps_b97GQmh-ez2sEP_N5X0EQBoF4&sid=5ce8c5e79aa9&packetEncoding=xudp#🚀 Автовыбор | ⚪ Белые
+vless://12a49340-fd9c-4a70-8ebc-d2cf0dd36b2a@cuisine.mikata.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=velory.space&alpn&fp=edge&pbk=Ac5rtr-Pm4OPkfMps_b97GQmh-ez2sEP_N5X0EQBoF4&sid=5ce8c5e79aa9&packetEncoding=xudp#🌐 XX | ⚪ Белый #1
+vless://12a49340-fd9c-4a70-8ebc-d2cf0dd36b2a@cuisine.mikata.ru:443?packetEncoding=xudp&type=tcp&security=reality&sni=velory.space&fp=edge&pbk=Ac5rtr-Pm4OPkfMps_b97GQmh-ez2sEP_N5X0EQBoF4&sid=5ce8c5e79aa9&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #2
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🌐 XX | ⚪ Белый #3
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#🌐 XX | ⚪ Белый #4
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=support.zoom.us#🌐 XX | ⚪ Белый #5
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🌐 XX | ⚪ Белый #6
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=/dula#🌐 XX | ⚪ Белый #7
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #8
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=/dula&host=speed.dulacloud.store#🌐 XX | ⚪ Белый #9
+vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#🌐 XX | ⚪ Белый #10
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://e026a9f0-e5fe-49a4-b8ad-f4a0f895442c@cz-smart.t1n2.com:443?type=tcp&security=reality&sni=cz-smart.t1n2.com&fp=firefox&flow=xtls-rprx-vision&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&sid=c01fe3d45017db58#🚀 Автовыбор | ⚫ Чёрные
@@ -29,19 +29,19 @@ vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto&
 vless://ae2bed26-3f4b-4fe9-ac67-7e505fa70d4b@gp1.steptofsvo.com:18443?type=grpc&headerType=none&security=reality&encryption=none&sni=gp1.steptofsvo.com&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd&serviceName=grpc#🌐 XX | ⚫ Чёрный #10
 
 # ═══ ⚡ FAST ALL ═══
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🚀 Автовыбор | ⚡ Fast All
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🌐 XX | ⚡ Fast #1
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#🌐 XX | ⚡ Fast #2
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=support.zoom.us#🌐 XX | ⚡ Fast #3
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=%2F#🌐 XX | ⚡ Fast #4
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?security=tls&sni=fta.fontanvpn.com#🌐 XX | ⚡ Fast #5
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#🌐 XX | ⚡ Fast #6
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com#🌐 XX | ⚡ Fast #7
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&__rand=42b96464#🌐 XX | ⚡ Fast #8
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&_t=3badc77d#🌐 XX | ⚡ Fast #9
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&burmalda=32b7a0bc#🌐 XX | ⚡ Fast #10
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&seq=you_are_beautiful4578#🌐 XX | ⚡ Fast #11
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&freeinternet=kizyak_vpn1782262504674#🌐 XX | ⚡ Fast #12
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&freeinternet=kizyak_vpn1782318548520#🌐 XX | ⚡ Fast #13
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&nonce=dPzla-4Q#🌐 XX | ⚡ Fast #14
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&seq=you_are_beautiful1378#🌐 XX | ⚡ Fast #15
+vless://12a49340-fd9c-4a70-8ebc-d2cf0dd36b2a@cuisine.mikata.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=velory.space&alpn&fp=edge&pbk=Ac5rtr-Pm4OPkfMps_b97GQmh-ez2sEP_N5X0EQBoF4&sid=5ce8c5e79aa9&packetEncoding=xudp#🚀 Автовыбор | ⚡ Fast All
+vless://12a49340-fd9c-4a70-8ebc-d2cf0dd36b2a@cuisine.mikata.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=velory.space&alpn&fp=edge&pbk=Ac5rtr-Pm4OPkfMps_b97GQmh-ez2sEP_N5X0EQBoF4&sid=5ce8c5e79aa9&packetEncoding=xudp#🌐 XX | ⚡ Fast #1
+vless://12a49340-fd9c-4a70-8ebc-d2cf0dd36b2a@cuisine.mikata.ru:443?packetEncoding=xudp&type=tcp&security=reality&sni=velory.space&fp=edge&pbk=Ac5rtr-Pm4OPkfMps_b97GQmh-ez2sEP_N5X0EQBoF4&sid=5ce8c5e79aa9&flow=xtls-rprx-vision#🌐 XX | ⚡ Fast #2
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🌐 XX | ⚡ Fast #3
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#🌐 XX | ⚡ Fast #4
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=support.zoom.us#🌐 XX | ⚡ Fast #5
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=/dula#🌐 XX | ⚡ Fast #6
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #7
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🌐 XX | ⚡ Fast #8
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=/dula&host=speed.dulacloud.store#🌐 XX | ⚡ Fast #9
+vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#🌐 XX | ⚡ Fast #10
+vless://448f6d1f-b658-4dea-a7c6-942f19022ac6@45.151.62.25:3444?type=grpc&security=reality&fp=chrome&sni=epp.genproc.gov.ru&pbk=q17q48JzJDfUbyY6ywXyAoD41m90QkIJ-ytwMULKjhY&sid=995c9191053a0d54&serviceName=xyz#🌐 XX | ⚡ Fast #11
+vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=yandex.ru&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#🌐 XX | ⚡ Fast #12
+vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=yandex.ru&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#🌐 XX | ⚡ Fast #13
+vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@62.152.60.158:8443?encryption=none&type=xhttp&security=reality&path=%2Fcheck-update&mode=auto&extra=null&fp=firefox&sni=iv.kommersant.ru&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&sid=a55215a9509841#🌐 XX | ⚡ Fast #14
+vless://4256cc0e-469e-4769-9d17-305e4ebca1bf@176.109.108.175:443?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=&mode=auto&path=%2Fapi%2Fv1%2Falexander7777&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚡ Fast #15

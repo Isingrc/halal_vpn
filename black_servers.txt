@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-06-24 07:32 UTC
+# Updated: 2026-06-24 10:40 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -11,7 +11,7 @@ vless://1ac8add1-ca1b-4ded-8a21-bd7f5270b92e@lvmw.verymad.net:50207?type=tcp&sec
 vless://97dc60fb-31cf-4156-be16-a3815ce64b60@lt.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=lt.moktana.app&sid=6f3c1b8e5d2a4f7c#🌐 XX | ⚫ Чёрный #5
 vless://73bb419b-743f-4502-bfb5-08211272a325@94.140.0.100:80?security=&path=%2Fnexus&host=your.nexuschat.fun&encryption=none&type=ws#🌐 XX | ⚫ Чёрный #6
 vless://73bb419b-743f-4502-bfb5-08211272a325@199.181.197.176:80?path=%2Fnexus&security=&encryption=none&host=your.nexuschat.fun&type=ws#🌐 XX | ⚫ Чёрный #7
-vless://e36360b4-052a-4b56-8f22-4cc8b06884a2@199.232.86.186:443?security=tls&type=xhttp&headerType=&path=/&host=oh8.global.ssl.fastly.net&mode=packet-up&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=api.fastly.com&fp=chrome&alpn=h3freenettirUnited#🌐 XX | ⚫ Чёрный #8
+vless://e36360b4-052a-4b56-8f22-4cc8b06884a2@199.232.86.186:443?security=tls&type=xhttp&headerType=&path=/&host=oh9.global.ssl.fastly.net&mode=packet-up&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=api.fastly.com&fp=chrome&alpn=h3freenettirUnited#🌐 XX | ⚫ Чёрный #8
 vless://e36360b4-052a-4b56-8f22-4cc8b06884a2@199.232.86.186:443?security=tls&type=xhttp&headerType=&path=/&host=oh10.global.ssl.fastly.net&mode=packet-up&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=api.fastly.com&fp=chrome&alpn=h3freenettirUnited StatesChicagoping:45ms#🌐 XX | ⚫ Чёрный #9
 vless://e36360b4-052a-4b56-8f22-4cc8b06884a2@199.232.86.186:443?security=tls&type=xhttp&headerType=&path=/&host=oh8.global.ssl.fastly.net&mode=packet-up&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=api.fastly.com&fp=chrome&alpn=h3👉🆔freenettir📡🇺🇸®️United States©️Chicago🅿️ping:49ms#🌐 XX | ⚫ Чёрный #10
 

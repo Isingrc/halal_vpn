@@ -1,5 +1,5 @@
 # FAST ALL SERVERS
-# Updated: 2026-06-24 21:16 UTC
+# Updated: 2026-06-24 22:59 UTC
 # Total: 35 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
@@ -9,24 +9,24 @@ vless://12a49340-fd9c-4a70-8ebc-d2cf0dd36b2a@cuisine.mikata.ru:443?packetEncodin
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🌐 XX | ⚪ Белый #3
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#🌐 XX | ⚪ Белый #4
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=support.zoom.us#🌐 XX | ⚪ Белый #5
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🌐 XX | ⚪ Белый #6
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=/dula#🌐 XX | ⚪ Белый #7
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #8
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=/dula&host=speed.dulacloud.store#🌐 XX | ⚪ Белый #9
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #6
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🌐 XX | ⚪ Белый #7
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=/dula&host=speed.dulacloud.store#🌐 XX | ⚪ Белый #8
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=/dula#🌐 XX | ⚪ Белый #9
 vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#🌐 XX | ⚪ Белый #10
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://e026a9f0-e5fe-49a4-b8ad-f4a0f895442c@cz-smart.t1n2.com:443?type=tcp&security=reality&sni=cz-smart.t1n2.com&fp=firefox&flow=xtls-rprx-vision&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&sid=c01fe3d45017db58#🚀 Автовыбор | ⚫ Чёрные
-vless://e026a9f0-e5fe-49a4-b8ad-f4a0f895442c@cz-smart.t1n2.com:443?type=tcp&security=reality&sni=cz-smart.t1n2.com&fp=firefox&flow=xtls-rprx-vision&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&sid=c01fe3d45017db58#🌐 XX | ⚫ Чёрный #1
-vless://9c5ea2a8-150f-45b6-886c-be0d9e90f5d3@fastly.videobazi.com:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=dutschh.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #2
-vless://bf7c81f8-ff8a-43e7-a87b-353838d89ad7@nl2-unlimited.q09.ir:1020?security=reality&encryption=none&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&host=snapp.ir&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3fa2fdb7dce16b8b#🌐 XX | ⚫ Чёрный #3
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@nl1.univesalsrv.com:443?type=grpc&security=tls&fp=firefox&serviceName=mobile.api.Event#🌐 XX | ⚫ Чёрный #4
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@nl2.univesalsrv.com:443?type=grpc&security=tls&fp=firefox&serviceName=mobile.api.Event#🌐 XX | ⚫ Чёрный #5
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@nl3.univesalsrv.com:443?allowInsecure=1&type=grpc&security=tls&sni=nl3.univesalsrv.com&serviceName=mobile.api.Event#🌐 XX | ⚫ Чёрный #6
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@nl3.univesalsrv.com:443?type=grpc&security=tls&fp=firefox&serviceName=mobile.api.Event#🌐 XX | ⚫ Чёрный #7
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto&path=%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nurenbbbB.appleseraj.IR.&fp=chrome&type=xhttp&allowInsecure=0&sni=nurenbbbB.appleseraj.IR.#🌐 XX | ⚫ Чёрный #8
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto&path=?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=nurenbbbB.appleseraj.IR.&fp=chrome&type=xhttp&sni=nurenbbbB.appleseraj.IR.#🌐 XX | ⚫ Чёрный #9
-vless://ae2bed26-3f4b-4fe9-ac67-7e505fa70d4b@gp1.steptofsvo.com:18443?type=grpc&headerType=none&security=reality&encryption=none&sni=gp1.steptofsvo.com&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd&serviceName=grpc#🌐 XX | ⚫ Чёрный #10
+vless://b11e7062-4508-4188-9d66-e48c66e6a4f9@old2.v2xpin.de:8443?mode=auto&path=%2Frandom&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=base1.korvian.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=base1.korvian.ir#🚀 Автовыбор | ⚫ Чёрные
+vless://b11e7062-4508-4188-9d66-e48c66e6a4f9@old2.v2xpin.de:8443?mode=auto&path=%2Frandom&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=base1.korvian.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=base1.korvian.ir#🌐 XX | ⚫ Чёрный #1
+vless://b11e7062-4508-4188-9d66-e48c66e6a4f9@old2.v2xpin.de:8443?type=xhttp&security=tls&fp=chrome&sni=base1.korvian.ir&path=/random&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #2
+vless://140e4c28-8af1-4be9-88ac-68a8fa5da868@sv3.wwwss-taro.ru:12579?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=cdn.wwwss-taro.ru&mode=auto&path=%2Fcamera%2Fh.264%2Fstream&pbk=VEYTp8jAYiC9N9hrQYN7aiWNTa8wUOjKAyVOuLgSyB0&security=reality&sid=864c5efeeb&sni=www.nvidia.com&spx=%2F12gHFitbwLgps1e&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #3
+vless://140e4c28-8af1-4be9-88ac-68a8fa5da868@sv3.wwwss-taro.ru:49911?encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%222-8%22%2C%22length%22%3A%2286-170%22%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&host=cdn.wwwss-taro.ru&path=%2Fassigned&security=none&type=httpupgrade#🌐 XX | ⚫ Чёрный #4
+vless://4f22dc34-804c-41a7-9f7d-c2802a52a056@api.yandex-api.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&sni=api.yandex-api.org#🌐 XX | ⚫ Чёрный #5
+vless://9c5ea2a8-150f-45b6-886c-be0d9e90f5d3@fastly.videobazi.com:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=dutschh.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #6
+vless://bf7c81f8-ff8a-43e7-a87b-353838d89ad7@nl2-unlimited.q09.ir:1020?security=reality&encryption=none&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&host=snapp.ir&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3fa2fdb7dce16b8b#🌐 XX | ⚫ Чёрный #7
+vless://bf7c81f8-ff8a-43e7-a87b-353838d89ad7@nl2-unlimited.q09.ir:1020?type=tcp&security=reality&fp=chrome&sni=yahoo.com&flow=xtls-rprx-vision&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&sid=3fa2fdb7dce16b8b#🌐 XX | ⚫ Чёрный #8
+vless://5582f622-f805-4a7a-81c5-f99b74b5bdfb@www.spark.red:443?path=%2F10835%2Fcdn-cgi&security=tls&encryption=none&insecure=0&host=raz.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#🌐 XX | ⚫ Чёрный #9
+vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@de-3.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#🇺🇸 US | ⚫ Чёрный #10
 
 # ═══ ⚡ FAST ALL ═══
 vless://12a49340-fd9c-4a70-8ebc-d2cf0dd36b2a@cuisine.mikata.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=velory.space&alpn&fp=edge&pbk=Ac5rtr-Pm4OPkfMps_b97GQmh-ez2sEP_N5X0EQBoF4&sid=5ce8c5e79aa9&packetEncoding=xudp#🚀 Автовыбор | ⚡ Fast All
@@ -36,12 +36,12 @@ vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&sec
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#🌐 XX | ⚡ Fast #4
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=support.zoom.us#🌐 XX | ⚡ Fast #5
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=/dula#🌐 XX | ⚡ Fast #6
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #7
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🌐 XX | ⚡ Fast #8
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🌐 XX | ⚡ Fast #7
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #8
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=/dula&host=speed.dulacloud.store#🌐 XX | ⚡ Fast #9
-vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#🌐 XX | ⚡ Fast #10
-vless://448f6d1f-b658-4dea-a7c6-942f19022ac6@45.151.62.25:3444?type=grpc&security=reality&fp=chrome&sni=epp.genproc.gov.ru&pbk=q17q48JzJDfUbyY6ywXyAoD41m90QkIJ-ytwMULKjhY&sid=995c9191053a0d54&serviceName=xyz#🌐 XX | ⚡ Fast #11
-vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=yandex.ru&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#🌐 XX | ⚡ Fast #12
+vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@62.152.60.158:8443?encryption=none&type=xhttp&security=reality&path=%2Fcheck-update&mode=auto&extra=null&fp=firefox&sni=iv.kommersant.ru&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&sid=a55215a9509841#🌐 XX | ⚡ Fast #10
+vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=yandex.ru&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#🌐 XX | ⚡ Fast #11
+vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#🌐 XX | ⚡ Fast #12
 vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=yandex.ru&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#🌐 XX | ⚡ Fast #13
-vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@62.152.60.158:8443?encryption=none&type=xhttp&security=reality&path=%2Fcheck-update&mode=auto&extra=null&fp=firefox&sni=iv.kommersant.ru&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&sid=a55215a9509841#🌐 XX | ⚡ Fast #14
-vless://4256cc0e-469e-4769-9d17-305e4ebca1bf@176.109.108.175:443?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=&mode=auto&path=%2Fapi%2Fv1%2Falexander7777&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚡ Fast #15
+vless://67b004ae-50a6-40f4-ac17-17336e5de35e@185.171.202.201:443?type=tcp&security=reality&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=XP021Gnd6DIRMV_-JmMw50SPWQRWRcLrke5Uq_-OMk8&sid=e3170c535dcdd117#🌐 XX | ⚡ Fast #14
+vless://12a49340-fd9c-4a70-8ebc-d2cf0dd36b2a@95.181.213.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=velory.space&pbk=Ac5rtr-Pm4OPkfMps_b97GQmh-ez2sEP_N5X0EQBoF4&sid=5ce8c5e79aa9#🌐 XX | ⚡ Fast #15

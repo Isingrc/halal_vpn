@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-24 02:26 UTC
+# Updated: 2026-06-24 07:32 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@up.king-ston.store:443?type=tcp&security=reality&fp=firefox&sni=up.king-ston.store&flow=xtls-rprx-vision&pbk=iOyInEua-HgrNQf2MwlKiVx8BCPbLP1uv5tbwy5IDmo#🚀 Автовыбор | ⚪ Белые
-vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@up.king-ston.store:443?type=tcp&security=reality&fp=firefox&sni=up.king-ston.store&flow=xtls-rprx-vision&pbk=iOyInEua-HgrNQf2MwlKiVx8BCPbLP1uv5tbwy5IDmo#🌐 XX | ⚪ Белый #1
-vless://55ff1fff-2ecd-44e9-940d-7420c862b7d2@plmw.verymad.net:28737?type=tcp&security=reality&encryption=none&fp=firefox&pbk=Q8yB9j_8uP7SgGdVZdQQBzcnB7IROViEbnGtedncSVo&sid=790693&sni=www.vk.com&spx=/L11802LebVvHowb#🌐 XX | ⚪ Белый #2
-vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@sw-1.coinbridge.nl:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d&type=grpc&authority=&serviceName=data-sync&mode=gun#🇺🇸 US | ⚪ Белый #3
-vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@sw-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#🇺🇸 US | ⚪ Белый #4
-vless://7b3b6e39-dd78-000b-af6e-6d00da419aa0@ru20.aimodelhub.top:443?encryption=none&security=reality&sni=ru20.aimodelhub.top&fp=edge&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🌐 XX | ⚪ Белый #5
-vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@nl.prx1.raketa-balance.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#🌐 XX | ⚪ Белый #6
-vless://696915f2-5ad4-452b-987c-d83d29d0503a@nl.moktana.app:443?type=grpc&security=reality&fp=firefox&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=3f8e2d1c9b4a7e6f&sni=nl.moktana.app&mode=gun&serviceName=moktana.net.v1.StreamService#🌐 XX | ⚪ Белый #7
-vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@185.229.9.78:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=QJ147H5yfcsJqQt_hYKgYjWjaViC0fQUCBCji3VFAm4&sid=ad7dab462a323b#🌐 XX | ⚪ Белый #8
-vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@5.188.141.35:993?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&sid=bad5722c72a038#🌐 XX | ⚪ Белый #9
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@104.167.198.198:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7kOgSBnHMeClMoLD0PdTQGflVNiYl47pT94TBsTXh1Y&security=reality&sid=8166&sni=www.nvidia.com&type=tcp#🌐 XX | ⚪ Белый #10
+vless://7b3b6e39-dd78-000b-af6e-6d00da419aa0@ru20.aimodelhub.top:443?encryption=none&security=reality&sni=ru20.aimodelhub.top&fp=edge&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🚀 Автовыбор | ⚪ Белые
+vless://7b3b6e39-dd78-000b-af6e-6d00da419aa0@ru20.aimodelhub.top:443?encryption=none&security=reality&sni=ru20.aimodelhub.top&fp=edge&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🌐 XX | ⚪ Белый #1
+vless://7b3b6e39-dd78-000d-af6e-6d00da419aa0@ru20.aimodelhub.top:443?mode=gun&security=reality&encryption=none&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&fp=edge&type=grpc&serviceName=vless-grpc&sni=ru20.aimodelhub.top&sid=a73cf719b624#🌐 XX | ⚪ Белый #2
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🌐 XX | ⚪ Белый #3
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐 XX | ⚪ Белый #4
+vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@185.229.9.78:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=QJ147H5yfcsJqQt_hYKgYjWjaViC0fQUCBCji3VFAm4&sid=ad7dab462a323b#🌐 XX | ⚪ Белый #5
+vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@46.8.208.30:6443?type=grpc&headerType=none&security=reality&encryption=none&sni=m.vk.com&fp=qq&pbk=93nYyn9oIzal5QCYHaIhQq9-xkp-OLPwZemQKJhMyhQ&sid=c3d4e5f6a7b8c9d0&serviceName=grpc#🌐 XX | ⚪ Белый #6
+vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@89.208.228.221:5445?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=firefox&sni=ads.x5.ru&pbk=cSQW3a_64jadi8uInU7XKZzTDyYKBxWj7c5MgIesIws&sid=bad5722c72a0#🌐 XX | ⚪ Белый #7
+vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@5.188.141.35:993?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&sid=bad5722c72a038#🌐 XX | ⚪ Белый #8
+vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@89.208.228.221:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=0y72WqjYlRKbU-VzinCglBJt6ZD7GvDhNnkwDHB8l0Q&sid=bad5722c72a038#🌐 XX | ⚪ Белый #9
+vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@89.208.228.221:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=0y72WqjYlRKbU-VzinCglBJt6ZD7GvDhNnkwDHB8l0Q&sid=bad5722c72a038#🌐 XX | ⚪ Белый #10
 

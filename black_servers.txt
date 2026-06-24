@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-24 14:07 UTC
+# Updated: 2026-06-24 17:47 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?type=httpupgrade&path=%2Fgraphql&host=CAdaba.amki.IR.&sni=suolar.yellowsky.ir#🚀 Автовыбор | ⚫ Чёрные
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?type=httpupgrade&path=%2Fgraphql&host=CAdaba.amki.IR.&sni=suolar.yellowsky.ir#🌐 XX | ⚫ Чёрный #1
-vless://77c911b4-c1c8-4c07-9e73-4d3523046280@fl-1.ladaclubs.xyz:443?security=reality&encryption=none&pbk=Fhl5LbHHu05uMYcE2_uyFONbSkibFf4rpfI4RmamjG4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fl-1.ladaclubs.xyz&sid=9dab89379839#🌐 XX | ⚫ Чёрный #2
-vless://77c911b4-c1c8-4c07-9e73-4d3523046280@fl-1.ladaclubs.xyz:443?security=reality&type=tcp&packetEncoding=xudp&sni=fl-1.ladaclubs.xyz&fp=chrome&flow=xtls-rprx-vision&sid=9dab89379839&pbk=Fhl5LbHHu05uMYcE2_uyFONbSkibFf4rpfI4RmamjG4&encryption=none#🌐 XX | ⚫ Чёрный #3
-vless://b11e7062-4508-4188-9d66-e48c66e6a4f9@old2.v2xpin.de:8443?mode=auto&path=%2Frandom&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=base1.korvian.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=base1.korvian.ir#🌐 XX | ⚫ Чёрный #4
-vless://a36b1024-70b2-476e-9caf-0fd644d5b9ac@cdn4.portalcode.ir:2095?security=none&type=httpupgrade&path=%2F&host=amnpl3.monopolitass.ir&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #5
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2Fjdhfyws&host=amooaliii.net&sni=amooaliii.net&insecure=0&allowInsecure=0#🌐 XX | ⚫ Чёрный #6
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=%2Fjdhfyws&security=tls&encryption=none&host=amooaliii.net&fp=chrome&type=ws&sni=amooaliii.net#🌐 XX | ⚫ Чёрный #7
-vless://06081ec9-2f11-4839-bb5b-04764ea922e7@108.162.194.165:2053?mode=packet-up&path=/dl?unit=7441&security=tls&encryption=none&extra=&insecure=0&host=de.zarzirzor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.zarzirzor.ir#🌐 XX | ⚫ Чёрный #8
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@108.162.192.75:443?encryption=none&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#🌐 XX | ⚫ Чёрный #9
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@173.245.58.75:443?encryption=none&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#🌐 XX | ⚫ Чёрный #10
+vless://e026a9f0-e5fe-49a4-b8ad-f4a0f895442c@cz-smart.t1n2.com:443?type=tcp&security=reality&sni=cz-smart.t1n2.com&fp=firefox&flow=xtls-rprx-vision&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&sid=c01fe3d45017db58#🚀 Автовыбор | ⚫ Чёрные
+vless://e026a9f0-e5fe-49a4-b8ad-f4a0f895442c@cz-smart.t1n2.com:443?type=tcp&security=reality&sni=cz-smart.t1n2.com&fp=firefox&flow=xtls-rprx-vision&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&sid=c01fe3d45017db58#🌐 XX | ⚫ Чёрный #1
+vless://9c5ea2a8-150f-45b6-886c-be0d9e90f5d3@fastly.videobazi.com:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=dutschh.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #2
+vless://bf7c81f8-ff8a-43e7-a87b-353838d89ad7@nl2-unlimited.q09.ir:1020?security=reality&encryption=none&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&host=snapp.ir&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3fa2fdb7dce16b8b#🌐 XX | ⚫ Чёрный #3
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@nl1.univesalsrv.com:443?type=grpc&security=tls&fp=firefox&serviceName=mobile.api.Event#🌐 XX | ⚫ Чёрный #4
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@nl2.univesalsrv.com:443?type=grpc&security=tls&fp=firefox&serviceName=mobile.api.Event#🌐 XX | ⚫ Чёрный #5
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@nl3.univesalsrv.com:443?allowInsecure=1&type=grpc&security=tls&sni=nl3.univesalsrv.com&serviceName=mobile.api.Event#🌐 XX | ⚫ Чёрный #6
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@nl3.univesalsrv.com:443?type=grpc&security=tls&fp=firefox&serviceName=mobile.api.Event#🌐 XX | ⚫ Чёрный #7
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto&path=%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nurenbbbB.appleseraj.IR.&fp=chrome&type=xhttp&allowInsecure=0&sni=nurenbbbB.appleseraj.IR.#🌐 XX | ⚫ Чёрный #8
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto&path=?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=nurenbbbB.appleseraj.IR.&fp=chrome&type=xhttp&sni=nurenbbbB.appleseraj.IR.#🌐 XX | ⚫ Чёрный #9
+vless://ae2bed26-3f4b-4fe9-ac67-7e505fa70d4b@gp1.steptofsvo.com:18443?type=grpc&headerType=none&security=reality&encryption=none&sni=gp1.steptofsvo.com&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd&serviceName=grpc#🌐 XX | ⚫ Чёрный #10
 

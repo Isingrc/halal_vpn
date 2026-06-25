@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-25 07:33 UTC
+# Updated: 2026-06-25 10:34 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?security=tls&sni=fta.fontanvpn.com#🚀 Автовыбор | ⚪ Белые
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?security=tls&sni=fta.fontanvpn.com#🌐 XX | ⚪ Белый #1
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#🌐 XX | ⚪ Белый #2
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&burmalda=f3ababc1&insecure=0&sni=fta.fontanvpn.com#🌐 XX | ⚪ Белый #3
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #4
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #5
-vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#🌐 XX | ⚪ Белый #6
-vless://55ff1fff-2ecd-44e9-940d-7420c862b7d2@138.124.19.48:28737?type=tcp&headerType=none&security=reality&encryption=none&sni=www.vk.com&fp=firefox&pbk=Q8yB9j_8uP7SgGdVZdQQBzcnB7IROViEbnGtedncSVo&sid=790693&spx=%2FL11802LebVvHowb#🌐 XX | ⚪ Белый #7
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?headerType=none&encryption=none&sni=fta.fontanvpn.com&insecure=0#🌐 XX | ⚪ Белый #8
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com&freeinternet=kizyak_vpn1782323570413#🌐 XX | ⚪ Белый #9
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com&freeinternet=kizyak_vpn1782361810721#🌐 XX | ⚪ Белый #10
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#🚀 Автовыбор | ⚪ Белые
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#🌐 XX | ⚪ Белый #1
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&burmalda=f3ababc1&sni=fta.fontanvpn.com&descriptions=141#🌐 XX | ⚪ Белый #2
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com#🌐 XX | ⚪ Белый #3
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&__rand=42b96464#🌐 XX | ⚪ Белый #4
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&burmalda=32b7a0bc#🌐 XX | ⚪ Белый #5
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&seq=you_are_beautiful4578#🌐 XX | ⚪ Белый #6
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Fa4cf7d#🌐 XX | ⚪ Белый #7
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#🌐 XX | ⚪ Белый #8
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #9
+vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@62.152.60.158:8443?encryption=none&type=xhttp&security=reality&path=/check-update&extra=null&fp=firefox&sni=iv.kommersant.ru&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&sid=a55215a9509841#🌐 XX | ⚪ Белый #10
 

@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-25 21:22 UTC
+# Updated: 2026-06-25 23:07 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🚀 Автовыбор | ⚪ Белые
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚪ Белый #1
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #2
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #3
-vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@37.9.4.209:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#🌐 XX | ⚪ Белый #4
-vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@213.219.212.30:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#🌐 XX | ⚪ Белый #5
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=0&headerType=none&encryption=none&sni=fta.fontanvpn.com&__rand=21fb77d3#🌐 XX | ⚪ Белый #6
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?headerType=none&sni=fta.fontanvpn.com&insecure=0&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&encryption=none#🌐 XX | ⚪ Белый #7
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=0&encryption=none&sni=fta.fontanvpn.com&headerType=none&_t=d1c0cc0c&seq=you_are_beautiful0919#🌐 XX | ⚪ Белый #8
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?headerType=none&encryption=none&insecure=0&sni=fta.fontanvpn.com&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%8390#🌐 XX | ⚪ Белый #9
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?headerType=none&encryption=none&sni=fta.fontanvpn.com&insecure=0&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F1275ab#🌐 XX | ⚪ Белый #10
+vless://15fd3d79-3ff8-4c10-9790-547496aeec56@lv.rexten.cc:443?encryption=none&security=reality&sni=lv.rexten.cc&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&flow=xtls-rprx-vision#🚀 Автовыбор | ⚪ Белые
+vless://15fd3d79-3ff8-4c10-9790-547496aeec56@lv.rexten.cc:443?encryption=none&security=reality&sni=lv.rexten.cc&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #1
+vless://15fd3d79-3ff8-4c10-9790-547496aeec56@wln.rexten.cc:2053?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=2dh6JEN82TzFbSjv2aLL-2xaPg5TQs8X_ulZCrGyfGc&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #2
+vless://15fd3d79-3ff8-4c10-9790-547496aeec56@wln.rexten.cc:443?encryption=none&security=reality&sni=ads.x5.ru%3A443&fp=firefox&pbk=2dh6JEN82TzFbSjv2aLL-2xaPg5TQs8X_ulZCrGyfGc&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #3
+vless://15fd3d79-3ff8-4c10-9790-547496aeec56@tr2.rexten.cc:443?encryption=none&security=reality&sni=tr2.rexten.cc&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #4
+vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?path=/&security=none&encryption=none&host=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN&type=ws#🌐 XX | ⚪ Белый #5
+vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?type=ws&sni=/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip#🌐 XX | ⚪ Белый #6
+vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?type=ws&security=none&path=/#🌐 XX | ⚪ Белый #7
+vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?security=none&type=ws&sni=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN&path=/&encryption=none&headerType=none#🌐 XX | ⚪ Белый #8
+vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?path=%2F&security=none&encryption=none&host=%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip&type=ws#🌐 XX | ⚪ Белый #9
+vless://95ced04a-e23c-49c2-85ff-4c2788e9631d@31.129.42.243:6443?encryption=none&security=reality&type=grpc&sni=5post-gate.x5.ru&fp=qq&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=5c766813929a1fdd&serviceName=grpc&mode=gun#🌐 XX | ⚪ Белый #10
 

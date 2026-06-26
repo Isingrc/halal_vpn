@@ -1,19 +1,19 @@
 # FAST ALL SERVERS
-# Updated: 2026-06-26 07:42 UTC
+# Updated: 2026-06-26 10:43 UTC
 # Total: 35 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://69de2fc8-d12f-451c-82b3-d5b578120e50@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-turbo-core-c842.nova-4ab463.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-turbo-core-c842.nova-4ab463.workers.dev#🚀 Автовыбор | ⚪ Белые
-vless://69de2fc8-d12f-451c-82b3-d5b578120e50@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-turbo-core-c842.nova-4ab463.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-turbo-core-c842.nova-4ab463.workers.dev#🌐 XX | ⚪ Белый #1
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #2
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚪ Белый #3
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #4
-vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?type=ws&sni=/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip#🌐 XX | ⚪ Белый #5
-vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?path=%2F&security=none&encryption=none&host=%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip&type=ws#🌐 XX | ⚪ Белый #6
-vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?security=none&type=ws&sni=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN&path=/&encryption=none&headerType=none#🌐 XX | ⚪ Белый #7
-vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?type=ws&security=none&path=/#🌐 XX | ⚪ Белый #8
-vless://ae0959f1-f25a-43d0-9c88-be1672641fc3@37.139.34.124:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4#🌐 XX | ⚪ Белый #9
-vless://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU&sni=d.primarymaster.online#🌐 XX | ⚪ Белый #10
+vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@pro-ru-s.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq&sni=ads.x5.ru&flow=xtls-rprx-vision#🚀 Автовыбор | ⚪ Белые
+vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@pro-ru-s.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq&sni=ads.x5.ru&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #1
+vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@pro-ru-213.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq&sni=eh.vk.ru&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #2
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#🌐 XX | ⚪ Белый #3
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?type=ws&security=tls&fp=firefox&sni=c7dabe95.proxy-978.pages.dev&path=/&host=c7dabe95.proxy-978.pages.dev#🌐 XX | ⚪ Белый #4
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=%2F#🌐 XX | ⚪ Белый #5
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #6
+vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?&security=tls&fp=chrome&sni=freetools-h2s.pages.dev&type=ws&headerType=none&host=freetools-h2s.pages.dev&path=%2F#🌐 XX | ⚪ Белый #7
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚪ Белый #8
+vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@213.219.212.24:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#🌐 XX | ⚪ Белый #9
+vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@213.219.212.30:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#🌐 XX | ⚪ Белый #10
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://5fdf2809-9b94-4c77-bd50-81027af9cef4@austria.anotherboring.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=austria.anotherboring.top&fp=qq&pbk=vrVQUS7kxjMbHBQGiMS1MO_G2Ib7dEDeJhyPtvHB1n8&sid=0831ac40b4eee18c&packetEncoding=xudp#🚀 Автовыбор | ⚫ Чёрные
@@ -29,19 +29,19 @@ vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-api.org:443?flow=xtls-rp
 vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-dev.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.yandex-dev.online&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #10
 
 # ═══ ⚡ FAST ALL ═══
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🚀 Автовыбор | ⚡ Fast All
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #1
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #2
-vless://69de2fc8-d12f-451c-82b3-d5b578120e50@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-turbo-core-c842.nova-4ab463.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-turbo-core-c842.nova-4ab463.workers.dev#🌐 XX | ⚡ Fast #3
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚡ Fast #4
-vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?type=ws&sni=/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip#🌐 XX | ⚡ Fast #5
-vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?security=none&type=ws&sni=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN&path=/&encryption=none&headerType=none#🌐 XX | ⚡ Fast #6
-vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?path=%2F&security=none&encryption=none&host=%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip&type=ws#🌐 XX | ⚡ Fast #7
-vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?type=ws&security=none&path=/#🌐 XX | ⚡ Fast #8
-vless://ae0959f1-f25a-43d0-9c88-be1672641fc3@37.139.34.124:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4#🌐 XX | ⚡ Fast #9
-vless://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU&sni=d.primarymaster.online#🌐 XX | ⚡ Fast #10
-vless://295d4d20-c332-4b9a-9f3c-741f44c91f89@178.248.232.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rutube.ru&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&sid=6ba85179e30d4fc2#🌐 XX | ⚡ Fast #11
-vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.17:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🌐 XX | ⚡ Fast #12
-vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.22:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🌐 XX | ⚡ Fast #13
-vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.22:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ai.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🌐 XX | ⚡ Fast #14
-vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.219:443?encryption=none&security=reality&type=tcp&sni=fr.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🌐 XX | ⚡ Fast #15
+vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@pro-ru-s.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq&sni=ads.x5.ru&flow=xtls-rprx-vision#🚀 Автовыбор | ⚡ Fast All
+vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@pro-ru-s.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq&sni=ads.x5.ru&flow=xtls-rprx-vision#🌐 XX | ⚡ Fast #1
+vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@pro-ru-213.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq&sni=eh.vk.ru&flow=xtls-rprx-vision#🌐 XX | ⚡ Fast #2
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#🌐 XX | ⚡ Fast #3
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?type=ws&security=tls&fp=firefox&sni=c7dabe95.proxy-978.pages.dev&path=/&host=c7dabe95.proxy-978.pages.dev#🌐 XX | ⚡ Fast #4
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=%2F#🌐 XX | ⚡ Fast #5
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #6
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚡ Fast #7
+vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?&security=tls&fp=chrome&sni=freetools-h2s.pages.dev&type=ws&headerType=none&host=freetools-h2s.pages.dev&path=%2F#🌐 XX | ⚡ Fast #8
+vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@213.219.212.39:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#🌐 XX | ⚡ Fast #9
+vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@213.219.212.24:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#🌐 XX | ⚡ Fast #10
+vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@213.219.212.30:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#🌐 XX | ⚡ Fast #11
+vless://f1ff82bd-33d1-496f-a82f-a6bc5a73f1f6@109.120.190.41:1829?security=reality&encryption=none&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c3607d#🌐 XX | ⚡ Fast #12
+vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@95.163.209.42:443?security=reality&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1&sni=vk.com&fp=chrome&flow=xtls-rprx-vision#🌐 XX | ⚡ Fast #13
+vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@95.163.209.42:443?flow=xtls-rprx-vision&fp=firefox&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&security=reality&sid=a1&sni=vk.com&type=tcp#🌐 XX | ⚡ Fast #14
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443/?insecure=1&sni=fta.fontanvpn.com#🌐 XX | ⚡ Fast #15

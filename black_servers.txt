@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-26 02:29 UTC
+# Updated: 2026-06-26 07:42 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://f0e922b3-c907-461c-904f-91607e7a5b8b@sweden1.banovano.space:443?security=reality&encryption=none&pbk=hi7Lg2t9ywAKWSuo0-I6zJdHA_kve_xJnLKzgbKk7VE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=49944d1e00#🚀 Автовыбор | ⚫ Чёрные
-vless://f0e922b3-c907-461c-904f-91607e7a5b8b@sweden1.banovano.space:443?security=reality&encryption=none&pbk=hi7Lg2t9ywAKWSuo0-I6zJdHA_kve_xJnLKzgbKk7VE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=49944d1e00#🌐 XX | ⚫ Чёрный #1
-vless://f0e922b3-c907-461c-904f-91607e7a5b8b@sweden1.banovano.space:443?security=reality&encryption=none&pbk=hi7Lg2t9ywAKWSuo0-I6zJdHA_kve_xJnLKzgbKk7VE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=49944d1e00#🌐 XX | ⚫ Чёрный #2
-vless://95ced04a-e23c-49c2-85ff-4c2788e9631d@f5.steptofsvo.com:443?encryption=none&security=reality&sni=f5.steptofsvo.com&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #3
-vless://e722d19e-7eec-4090-8012-a6c7c7afa20e@fl2.voxyvpn.ru:6443?encryption=none&security=reality&sni=api.led.samsung.com&fp=randomized&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=deadbeef&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #4
-vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-api.org:443?encryption=none&security=reality&sni=api.yandex-api.org&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #5
-vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-dev.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.yandex-dev.online&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #6
-vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #7
-vless://5be745ad-ec3a-4bf3-a016-e477ffb12197@iro.bearnetwork.ir:19022?path=%2Ft&security=&encryption=none&host=iro.bearnetwork.ir&type=httpupgrade#🌐 XX | ⚫ Чёрный #8
-vless://5be745ad-ec3a-4bf3-a016-e477ffb12197@iro.bearnetwork.ir:19022?type=httpupgrade&security=none&path=/t#🌐 XX | ⚫ Чёрный #9
-vless://95ced04a-e23c-49c2-85ff-4c2788e9631d@gp2.steptofsvo.com:18443?encryption=none&security=reality&type=grpc&sni=gp2.steptofsvo.com&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd&serviceName=grpc&mode=multi#🌐 XX | ⚫ Чёрный #10
+vless://5fdf2809-9b94-4c77-bd50-81027af9cef4@austria.anotherboring.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=austria.anotherboring.top&fp=qq&pbk=vrVQUS7kxjMbHBQGiMS1MO_G2Ib7dEDeJhyPtvHB1n8&sid=0831ac40b4eee18c&packetEncoding=xudp#🚀 Автовыбор | ⚫ Чёрные
+vless://5fdf2809-9b94-4c77-bd50-81027af9cef4@austria.anotherboring.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=austria.anotherboring.top&fp=qq&pbk=vrVQUS7kxjMbHBQGiMS1MO_G2Ib7dEDeJhyPtvHB1n8&sid=0831ac40b4eee18c&packetEncoding=xudp#🌐 XX | ⚫ Чёрный #1
+vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@bg.janusgate.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=13171b0dd8985179&sni=bg.janusgate.org&spx=/#🌐 XX | ⚫ Чёрный #2
+vless://e722d19e-7eec-4090-8012-a6c7c7afa20e@cz2.voxyvpn.ru:6443?flow=xtls-rprx-vision&fp=randomized&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=deadbeef&sni=api.led.samsung.com#🌐 XX | ⚫ Чёрный #3
+vless://12db7fe7-d705-4b6e-ab30-7a758e0bcd3f@java.cdnforge.top:8080?encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&pbk=uJsZX-if1IP9EJsNfq2wnTSAFCvnFawwMW6ZdoXfvQE&security=reality&sid=8a2e23bd40418b7e&sni=Zarebin.ir&spx=/G2ZG31nD8t9qYwY&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #4
+vless://12db7fe7-d705-4b6e-ab30-7a758e0bcd3f@java.cdnforge.top:8080?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=uJsZX-if1IP9EJsNfq2wnTSAFCvnFawwMW6ZdoXfvQE&fp=chrome&spx=%2FG2ZG31nD8t9qYwY&type=xhttp&sni=Zarebin.ir&sid=8a2e23bd40418b7e#🌐 XX | ⚫ Чёрный #5
+vless://12db7fe7-d705-4b6e-ab30-7a758e0bcd3f@java.cdnforge.top:8080?type=xhttp&security=reality&path=/&sni=Zarebin.ir&fp=chrome&pbk=uJsZX-if1IP9EJsNfq2wnTSAFCvnFawwMW6ZdoXfvQE&sid=8a2e23bd40418b7e#🌐 XX | ⚫ Чёрный #6
+vless://e722d19e-7eec-4090-8012-a6c7c7afa20e@fl2.voxyvpn.ru:6443?flow=xtls-rprx-vision&fp=randomized&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&security=reality&sid=deadbeef&sni=api.led.samsung.com#🌐 XX | ⚫ Чёрный #7
+vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@fi.janusgate.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=05cf93ad9f36e28e&sni=fi.janusgate.org&spx=/#🌐 XX | ⚫ Чёрный #8
+vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-api.org:443?flow=xtls-rprx-vision&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-api.org#🌐 XX | ⚫ Чёрный #9
+vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-dev.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.yandex-dev.online&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #10
 

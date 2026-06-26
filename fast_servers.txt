@@ -1,19 +1,19 @@
 # FAST ALL SERVERS
-# Updated: 2026-06-26 17:29 UTC
+# Updated: 2026-06-26 19:28 UTC
 # Total: 35 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://84205690-b389-4689-86ad-95cd169ba862@support.zoom.us:80?path=%2F&security=none&encryption=none&host=free.sahanwickramasinghevip.shop&type=ws#🚀 Автовыбор | ⚪ Белые
-vless://84205690-b389-4689-86ad-95cd169ba862@support.zoom.us:80?path=%2F&security=none&encryption=none&host=free.sahanwickramasinghevip.shop&type=ws#🌐 XX | ⚪ Белый #1
-vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?&security=tls&fp=chrome&sni=freetools-h2s.pages.dev&type=ws&headerType=none&host=freetools-h2s.pages.dev&path=%2F#🌐 XX | ⚪ Белый #2
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #3
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #4
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚪ Белый #5
-vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.250.251:25567?type=tcp&security=reality&sni=iv.kommersant.ru&fp=chrome&flow=xtls-rprx-vision&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&sid=a5bd715847213387#🌐 XX | ⚪ Белый #6
-vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.245.101:25567?type=tcp&security=reality&sni=iv.kommersant.ru&fp=chrome&flow=xtls-rprx-vision&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&sid=a5bd715847213387#🌐 XX | ⚪ Белый #7
-vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.250.189:1111?flow=xtls-rprx-vision&fp=chrome&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA&security=reality&sid=&sni=api-maps.yandex.ru&type=tcp#🌐 XX | ⚪ Белый #8
-vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.250.251:25567?flow=xtls-rprx-vision&fp=qq&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&security=reality&sid=a5bd715847213387&sni=iv.kommersant.ru&type=tcp#🌐 XX | ⚪ Белый #9
-vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.245.101:25567?flow=xtls-rprx-vision&fp=qq&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&security=reality&sid=a5bd715847213387&sni=iv.kommersant.ru&type=tcp#🌐 XX | ⚪ Белый #10
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:2053?encryption=none&security=tls&sni=balafi7691.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=balafi7691.pages.dev&path=/jump/tv/content?ed=2560#🚀 Автовыбор | ⚪ Белые
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:2053?encryption=none&security=tls&sni=balafi7691.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=balafi7691.pages.dev&path=/jump/tv/content?ed=2560#🌐 XX | ⚪ Белый #1
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:2087?encryption=none&security=tls&sni=febeyop587.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=febeyop587.pages.dev&path=/pics/share/teacher?ed=2560#🌐 XX | ⚪ Белый #2
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=jakafi1724.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jakafi1724.pages.dev&path=/register/shop?ed=2560#🌐 XX | ⚪ Белый #3
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=pavah949141.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=pavah949141.pages.dev&path=/trade/photo?ed=2560#🌐 XX | ⚪ Белый #4
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=febeyop587.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=febeyop587.pages.dev&path=/service?ed=2560#🌐 XX | ⚪ Белый #5
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=mocik38250.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mocik38250.pages.dev&path=/friend/list/shop?ed=2560#🌐 XX | ⚪ Белый #6
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #7
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #8
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚪ Белый #9
+vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?&security=tls&fp=chrome&sni=freetools-h2s.pages.dev&type=ws&headerType=none&host=freetools-h2s.pages.dev&path=%2F#🌐 XX | ⚪ Белый #10
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@bg.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=&sid=13171b0dd8985179#🚀 Автовыбор | ⚫ Чёрные
@@ -29,19 +29,19 @@ vless://6e9893e3-e3db-48d7-b909-e185517c44e9@local.cloud-play.ir:80?mode=packet-
 vless://6e9893e3-e3db-48d7-b909-e185517c44e9@mci.cloud-play.ir:80?encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=connectingissues.pl&mode=packet-up&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #10
 
 # ═══ ⚡ FAST ALL ═══
-vless://84205690-b389-4689-86ad-95cd169ba862@support.zoom.us:80?path=%2F&security=none&encryption=none&host=free.sahanwickramasinghevip.shop&type=ws#🚀 Автовыбор | ⚡ Fast All
-vless://84205690-b389-4689-86ad-95cd169ba862@support.zoom.us:80?path=%2F&security=none&encryption=none&host=free.sahanwickramasinghevip.shop&type=ws#🌐 XX | ⚡ Fast #1
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚡ Fast #2
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #3
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #4
-vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?&security=tls&fp=chrome&sni=freetools-h2s.pages.dev&type=ws&headerType=none&host=freetools-h2s.pages.dev&path=%2F#🌐 XX | ⚡ Fast #5
-vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.250.251:25567?type=tcp&security=reality&sni=iv.kommersant.ru&fp=chrome&flow=xtls-rprx-vision&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&sid=a5bd715847213387#🌐 XX | ⚡ Fast #6
-vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.245.43:25567?flow=xtls-rprx-vision&fp=qq&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&security=reality&sid=a5bd715847213387&sni=iv.kommersant.ru&type=tcp#🌐 XX | ⚡ Fast #7
-vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.245.101:25567?type=tcp&security=reality&sni=iv.kommersant.ru&fp=chrome&flow=xtls-rprx-vision&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&sid=a5bd715847213387#🌐 XX | ⚡ Fast #8
-vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.245.101:25567?flow=xtls-rprx-vision&fp=qq&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&security=reality&sid=a5bd715847213387&sni=iv.kommersant.ru&type=tcp#🌐 XX | ⚡ Fast #9
-vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.250.189:1111?flow=xtls-rprx-vision&fp=chrome&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA&security=reality&sid=&sni=api-maps.yandex.ru&type=tcp#🌐 XX | ⚡ Fast #10
-vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.250.251:25567?flow=xtls-rprx-vision&fp=qq&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&security=reality&sid=a5bd715847213387&sni=iv.kommersant.ru&type=tcp#🌐 XX | ⚡ Fast #11
-vless://ddcf56cf-d20d-4aa4-9a68-608209c26d2f@5.255.120.242:443?flow=xtls-rprx-vision&fp=firefox&pbk=JGtZTmOKU2e9kUWZSeqganO0CIwVgC7Bl-FDSYmh4AI&security=reality&sni=nl.boxypn.com&type=tcp#🌐 XX | ⚡ Fast #12
-vless://ddcf56cf-d20d-4aa4-9a68-608209c26d2f@5.255.106.129:443?flow=xtls-rprx-vision&fp=firefox&pbk=JGtZTmOKU2e9kUWZSeqganO0CIwVgC7Bl-FDSYmh4AI&security=reality&sni=nl.boxypn.com&type=tcp#🌐 XX | ⚡ Fast #13
-vless://ddcf56cf-d20d-4aa4-9a68-608209c26d2f@5.255.116.197:443?flow=xtls-rprx-vision&fp=firefox&pbk=JGtZTmOKU2e9kUWZSeqganO0CIwVgC7Bl-FDSYmh4AI&security=reality&sni=nl.boxypn.com&type=tcp#🌐 XX | ⚡ Fast #14
-vless://ddcf56cf-d20d-4aa4-9a68-608209c26d2f@207.2.120.88:443?flow=xtls-rprx-vision&fp=firefox&pbk=SUTv6bVuL6TnWcPGf03-1QFmJ8Q_ISoA1WIajvct32M&security=reality&sni=sw-new.boxypn.com&type=tcp#🌐 XX | ⚡ Fast #15
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:2053?encryption=none&security=tls&sni=balafi7691.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=balafi7691.pages.dev&path=/jump/tv/content?ed=2560#🚀 Автовыбор | ⚡ Fast All
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:2053?encryption=none&security=tls&sni=balafi7691.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=balafi7691.pages.dev&path=/jump/tv/content?ed=2560#🌐 XX | ⚡ Fast #1
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:2087?encryption=none&security=tls&sni=febeyop587.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=febeyop587.pages.dev&path=/pics/share/teacher?ed=2560#🌐 XX | ⚡ Fast #2
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=jakafi1724.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jakafi1724.pages.dev&path=/register/shop?ed=2560#🌐 XX | ⚡ Fast #3
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=pavah949141.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=pavah949141.pages.dev&path=/trade/photo?ed=2560#🌐 XX | ⚡ Fast #4
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=febeyop587.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=febeyop587.pages.dev&path=/service?ed=2560#🌐 XX | ⚡ Fast #5
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=mocik38250.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mocik38250.pages.dev&path=/friend/list/shop?ed=2560#🌐 XX | ⚡ Fast #6
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #7
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚡ Fast #8
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #9
+vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?&security=tls&fp=chrome&sni=freetools-h2s.pages.dev&type=ws&headerType=none&host=freetools-h2s.pages.dev&path=%2F#🌐 XX | ⚡ Fast #10
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@94.26.249.65:9830/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=qq&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=#🇺🇸 US | ⚡ Fast #11
+vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.250.189:1111?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA#🌐 XX | ⚡ Fast #12
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@176.108.251.45:9893/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=io.ozone.ru&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=random&security=reality&pbk=GVNhQWxHlpnqLnhlOeFpagU1QLVVHBepBQN0YcPjXVg&sid=#🌐 XX | ⚡ Fast #13
+vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.245.43:25567?flow=xtls-rprx-vision&fp=qq&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&security=reality&sid=a5bd715847213387&sni=iv.kommersant.ru&type=tcp#🌐 XX | ⚡ Fast #14
+vless://29d0bb5e-1301-4d79-95da-82e28d3e61ef@78.159.250.189:1111?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA#🌐 XX | ⚡ Fast #15

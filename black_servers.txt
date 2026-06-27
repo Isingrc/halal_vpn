@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-06-27 20:51 UTC
+# Updated: 2026-06-27 22:54 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -10,8 +10,8 @@ vless://60300afa-3366-4ae3-959a-7b50438acebb@fi.wequ.host:443?encryption=none&fl
 vless://8247eb9e-68b3-4269-5bf2-933652ce72e9@s1.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=sub.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sub.zynavo.ir#🌐 XX | ⚫ Чёрный #4
 vless://60300afa-3366-4ae3-959a-7b50438acebb@hk.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk.wequ.host&fp=edge&pbk=7pD1hCAsY7SBk7XkhzhnkcpkQMisvjlUiIcDS_xsCT8&sid=b81ee2c8&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #5
 vless://60300afa-3366-4ae3-959a-7b50438acebb@kz.wequ.host:8443?encryption=none&security=reality&sni=kz.wequ.host&fp=edge&pbk=SHELCigv5VdwOAqMQJsoLCU5sbI51zW5F_Gh6DWJYls&sid=40d78f08&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #6
-vless://e57c2a3a-e8df-4254-bb2d-8af45fea7ef4@152.236.3.28:8443?fp=firefox&mode=gun&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&security=reality&serviceName=api.v1.telemetry.EventStream&sid=530db35e324c3aa5&sni=addons.mozilla.org&type=grpc#🌐 XX | ⚫ Чёрный #7
+vless://58e4800a-db5a-0457-afa9-eeb5e9b342dc@193.23.219.144:8443?encryption=none&security=reality&type=grpc&sni=developer.mozilla.org&fp=random&pbk=FH727FT-Avk7ZwDDiRHphvtQwV4klEIT1AKAxRzitVk&spx=%2F&serviceName=grpc&mode=multi#🌐 XX | ⚫ Чёрный #7
 vless://e57c2a3a-e8df-4254-bb2d-8af45fea7ef4@152.236.3.28:8443?mode=gun&security=reality&encryption=none&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&fp=random&type=grpc&serviceName=api.v1.telemetry.EventStream&sni=addons.mozilla.org&sid=530db35e324c3aa5#🌐 XX | ⚫ Чёрный #8
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?type=ws&security=none&fp=firefox&path=/A2&host=play.google.com#🇺🇸 US | ⚫ Чёрный #9
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?path=%2FA2&security=none&encryption=none&host=play.google.com&type=ws#🇺🇸 US | ⚫ Чёрный #10
+vless://e57c2a3a-e8df-4254-bb2d-8af45fea7ef4@152.236.3.28:8443?fp=firefox&mode=gun&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&security=reality&serviceName=api.v1.telemetry.EventStream&sid=530db35e324c3aa5&sni=addons.mozilla.org&type=grpc#🌐 XX | ⚫ Чёрный #9
+vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?type=ws&security=none&fp=firefox&path=/A2&host=play.google.com#🇺🇸 US | ⚫ Чёрный #10
 

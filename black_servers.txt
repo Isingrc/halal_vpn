@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-06-27 06:46 UTC
+# Updated: 2026-06-27 09:56 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -11,7 +11,7 @@ vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?&security=fal
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?allowInsecure=0&sni=azsv2.ir5ive.ir&type=ws&host=azsv2.ir5ive.ir&path=/#🌐 XX | ⚫ Чёрный #5
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?encryption=none&security=none&flow=&type=ws&sni=azsv2.ir5ive.ir&fp=&alpn=&host=azsv2.ir5ive.ir&path=%2F&allowInsecure=0#🌐 XX | ⚫ Чёрный #6
 vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?encryption=none&security=none&type=ws&host=azsv2.ir5ive.ir&path=%252F#🌐 XX | ⚫ Чёрный #7
-vless://50ab6b59-4596-4b28-9440-fde9f5540514@18.153.49.40:2053?fp=firefox&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&security=reality&sid=76101ace&sni=www.intel.com&spx=/v2raybazi&type=tcp#🌐 XX | ⚫ Чёрный #8
-vless://50ab6b59-4596-4b28-9440-fde9f5540514@18.153.49.40:2053?security=reality&encryption=none&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&headerType=none&fp=chrome&spx=%2Fv2raybazi&type=tcp&sni=www.intel.com&sid=76101ace#🌐 XX | ⚫ Чёрный #9
-vless://58e4800a-db5a-0457-afa9-eeb5e9b342dc@193.23.219.144:8443?encryption=none&security=reality&type=grpc&sni=developer.mozilla.org&fp=random&pbk=FH727FT-Avk7ZwDDiRHphvtQwV4klEIT1AKAxRzitVk&spx=%2F&serviceName=grpc&mode=multi#🌐 XX | ⚫ Чёрный #10
+vless://58e4800a-db5a-0457-afa9-eeb5e9b342dc@193.23.219.144:8443?encryption=none&security=reality&type=grpc&sni=developer.mozilla.org&fp=random&pbk=FH727FT-Avk7ZwDDiRHphvtQwV4klEIT1AKAxRzitVk&spx=%2F&serviceName=grpc&mode=multi#🌐 XX | ⚫ Чёрный #8
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@82.148.20.44:9893/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=qq&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd#🇺🇸 US | ⚫ Чёрный #9
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@82.148.20.44:9893?alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#🇺🇸 US | ⚫ Чёрный #10
 

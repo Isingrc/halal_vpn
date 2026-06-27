@@ -1,5 +1,5 @@
 # WHITE SERVERS
-# Updated: 2026-06-27 19:04 UTC
+# Updated: 2026-06-27 20:51 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
@@ -11,7 +11,7 @@ vless://60300afa-3366-4ae3-959a-7b50438acebb@nl2.wequ.host:8443?encryption=none&
 vless://60300afa-3366-4ae3-959a-7b50438acebb@lte24.wequ.host:6443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-dev-omni.x5.ru&fp=qq&pbk=cOo6ONUU2yurrQgdFleebnVCySvkvWiJd59kEk09cwE&sid=55c9bce1&type=tcp&headerType=none#🌐 XX | ⚪ Белый #5
 vless://60300afa-3366-4ae3-959a-7b50438acebb@tiger.ickly.co.uk:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tiger.ickly.co.uk&fp=edge&pbk=WRLY3yTNIqMcu-R0TwkAS4M9uMP8R1CnDVe_RvNvBWg&sid=46d7e37e&type=tcp&headerType=none#🌐 XX | ⚪ Белый #6
 vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=mocik38250.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mocik38250.pages.dev&path=/friend/list/shop?ed=2560#🌐 XX | ⚪ Белый #7
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #8
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #9
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚪ Белый #10
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #8
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚪ Белый #9
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #10
 

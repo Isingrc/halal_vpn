@@ -1,5 +1,5 @@
 # FAST ALL SERVERS
-# Updated: 2026-06-27 19:04 UTC
+# Updated: 2026-06-27 20:51 UTC
 # Total: 35 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
@@ -11,22 +11,22 @@ vless://60300afa-3366-4ae3-959a-7b50438acebb@nl2.wequ.host:8443?encryption=none&
 vless://60300afa-3366-4ae3-959a-7b50438acebb@lte24.wequ.host:6443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-dev-omni.x5.ru&fp=qq&pbk=cOo6ONUU2yurrQgdFleebnVCySvkvWiJd59kEk09cwE&sid=55c9bce1&type=tcp&headerType=none#🌐 XX | ⚪ Белый #5
 vless://60300afa-3366-4ae3-959a-7b50438acebb@tiger.ickly.co.uk:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tiger.ickly.co.uk&fp=edge&pbk=WRLY3yTNIqMcu-R0TwkAS4M9uMP8R1CnDVe_RvNvBWg&sid=46d7e37e&type=tcp&headerType=none#🌐 XX | ⚪ Белый #6
 vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=mocik38250.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mocik38250.pages.dev&path=/friend/list/shop?ed=2560#🌐 XX | ⚪ Белый #7
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #8
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #9
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚪ Белый #10
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #8
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚪ Белый #9
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #10
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://3283529b-3bc4-4e15-803a-7d5751a3df07@rubr3.cheburnetnastalgia1998.com:50054?security=reality&encryption=none&pbk=UC7-PeUa2Hc_qJqN6gad454qrfqjM1x1CCX5qxGyuj0&fp=firefox&type=grpc&sni=rubr3.cheburnetnastalgia1998.com&sid=878d777ed4005cb4#🚀 Автовыбор | ⚫ Чёрные
-vless://3283529b-3bc4-4e15-803a-7d5751a3df07@rubr3.cheburnetnastalgia1998.com:50054?security=reality&encryption=none&pbk=UC7-PeUa2Hc_qJqN6gad454qrfqjM1x1CCX5qxGyuj0&fp=firefox&type=grpc&sni=rubr3.cheburnetnastalgia1998.com&sid=878d777ed4005cb4#🌐 XX | ⚫ Чёрный #1
-vless://3283529b-3bc4-4e15-803a-7d5751a3df07@rubr3.cheburnetnastalgia1998.com:50054?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=UC7-PeUa2Hc_qJqN6gad454qrfqjM1x1CCX5qxGyuj0&fp=firefox&type=grpc&sni=&sid=878d777ed4005cb4#🌐 XX | ⚫ Чёрный #2
-vless://199c3ee4-6c00-4902-8b12-ede0ba4c8957@tw-ing-10.redfoxvpn.ru:2053?encryption=none&type=grpc&security=reality&sni=www.google.com&fp=chrome&pbk=XrNOGI1TNjL2rcq65LBsjw8ouZ9PQMOZt466XeJt8XE&sid=dd70b6a4e3e9e7ce&serviceName=grpc&mode=gun&spx=%2F#🇺🇸 US | ⚫ Чёрный #3
-vless://f353b55f-4624-4031-94ee-457eed8889de@euro.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #4
-vless://f353b55f-4624-4031-94ee-457eed8889de@global.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #5
-vless://f353b55f-4624-4031-94ee-457eed8889de@local.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #6
-vless://f353b55f-4624-4031-94ee-457eed8889de@mci.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #7
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?&security=false&fp=chrome&type=ws&headerType=none&host=play.google.com&path=%2FA2#🇺🇸 US | ⚫ Чёрный #8
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=%2FA2&security=none&encryption=none&host=play.google.com&type=ws#🇺🇸 US | ⚫ Чёрный #9
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?type=ws&path=%2FA2&host=play.google.com&sni=car2.carcloudsix.site#🌐 XX | ⚫ Чёрный #10
+vless://60300afa-3366-4ae3-959a-7b50438acebb@ru-dc.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-dc.wequ.host&fp=edge&pbk=JH077KoB3PWwc8qs7D2SPRWLDS7xKE4JbjDzEoSVvzQ&sid=37164c3e&type=tcp&headerType=none#🚀 Автовыбор | ⚫ Чёрные
+vless://60300afa-3366-4ae3-959a-7b50438acebb@ru-dc.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-dc.wequ.host&fp=edge&pbk=JH077KoB3PWwc8qs7D2SPRWLDS7xKE4JbjDzEoSVvzQ&sid=37164c3e&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #1
+vless://60300afa-3366-4ae3-959a-7b50438acebb@ee2.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ee2.wequ.host&fp=qq&pbk=hs5nrW02rLJqYpAFrG_N02I3pbgm0ENmsDaAtD5RfDc&sid=258ff96f&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #2
+vless://60300afa-3366-4ae3-959a-7b50438acebb@fi.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.wequ.host&fp=qq&pbk=lmL4HN_bqIRcSVZRzpBQ9Vwe7QBWCU98D3oRIcuvNxc&sid=ba0eab94983e0633&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #3
+vless://8247eb9e-68b3-4269-5bf2-933652ce72e9@s1.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=sub.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sub.zynavo.ir#🌐 XX | ⚫ Чёрный #4
+vless://60300afa-3366-4ae3-959a-7b50438acebb@hk.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk.wequ.host&fp=edge&pbk=7pD1hCAsY7SBk7XkhzhnkcpkQMisvjlUiIcDS_xsCT8&sid=b81ee2c8&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #5
+vless://60300afa-3366-4ae3-959a-7b50438acebb@kz.wequ.host:8443?encryption=none&security=reality&sni=kz.wequ.host&fp=edge&pbk=SHELCigv5VdwOAqMQJsoLCU5sbI51zW5F_Gh6DWJYls&sid=40d78f08&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #6
+vless://e57c2a3a-e8df-4254-bb2d-8af45fea7ef4@152.236.3.28:8443?fp=firefox&mode=gun&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&security=reality&serviceName=api.v1.telemetry.EventStream&sid=530db35e324c3aa5&sni=addons.mozilla.org&type=grpc#🌐 XX | ⚫ Чёрный #7
+vless://e57c2a3a-e8df-4254-bb2d-8af45fea7ef4@152.236.3.28:8443?mode=gun&security=reality&encryption=none&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&fp=random&type=grpc&serviceName=api.v1.telemetry.EventStream&sni=addons.mozilla.org&sid=530db35e324c3aa5#🌐 XX | ⚫ Чёрный #8
+vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?type=ws&security=none&fp=firefox&path=/A2&host=play.google.com#🇺🇸 US | ⚫ Чёрный #9
+vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?path=%2FA2&security=none&encryption=none&host=play.google.com&type=ws#🇺🇸 US | ⚫ Чёрный #10
 
 # ═══ ⚡ FAST ALL ═══
 vless://60300afa-3366-4ae3-959a-7b50438acebb@bear.wequ.host:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bear.wequ.host&fp=firefox&pbk=HAX7wOHrpxsVsDXpcE5MXaXdz3_GR3Hpf56YIDbmsyQ&sid=cdba5a3c&type=tcp&headerType=none#🚀 Автовыбор | ⚡ Fast All
@@ -38,10 +38,10 @@ vless://60300afa-3366-4ae3-959a-7b50438acebb@lte24.wequ.host:6443?encryption=non
 vless://60300afa-3366-4ae3-959a-7b50438acebb@tiger.ickly.co.uk:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tiger.ickly.co.uk&fp=edge&pbk=WRLY3yTNIqMcu-R0TwkAS4M9uMP8R1CnDVe_RvNvBWg&sid=46d7e37e&type=tcp&headerType=none#🌐 XX | ⚡ Fast #6
 vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=mocik38250.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mocik38250.pages.dev&path=/friend/list/shop?ed=2560#🌐 XX | ⚡ Fast #7
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚡ Fast #8
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #9
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #10
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@217.149.29.251:9888/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd#🇺🇸 US | ⚡ Fast #11
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@217.149.29.251:9888?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🇺🇸 US | ⚡ Fast #12
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #9
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚡ Fast #10
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@217.149.29.251:9888?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🇺🇸 US | ⚡ Fast #11
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@217.149.29.251:9888/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd#🇺🇸 US | ⚡ Fast #12
 vless://222ca353-a842-44f8-a86f-317fbbf73f2c@185.147.27.96:8443?flow=xtls-rprx-vision&fp=firefox&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&security=reality&sid=30095c0f0d&sni=max.ru&type=tcp#🌐 XX | ⚡ Fast #13
 vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@176.123.165.134:9878?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-tunnel&fp=qq&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb#🇺🇸 US | ⚡ Fast #14
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=_4bf2f6&sni=fta.fontanvpn.com&descriptions=615#🌐 XX | ⚡ Fast #15
+vless://0c1597d7-0f54-44b0-b1fa-b30847d94bbf@5.188.114.132:443?encryption=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=ypAgSPG-CWVHPf8PHg9sPmG7R9v2NJRxC6QthZ2ClQA&spx=%2F&type=xhttp&mode=stream-one&path=%2Fapi%2Fv2%2Fupdates#🌐 XX | ⚡ Fast #15

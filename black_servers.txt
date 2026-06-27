@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-27 02:13 UTC
+# Updated: 2026-06-27 06:46 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://e3be59a5-6d25-404f-9bb0-714bb2b5c211@vl2.webnetvpn.xyz:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=HszyZgyKuGWmEDOhUlcu986w14asEMMqdXzSiE7lTmM&security=reality&sid=9d733e9254f5cc94&sni=vl2.webnetvpn.xyz&type=tcp#🚀 Автовыбор | ⚫ Чёрные
-vless://e3be59a5-6d25-404f-9bb0-714bb2b5c211@vl2.webnetvpn.xyz:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=HszyZgyKuGWmEDOhUlcu986w14asEMMqdXzSiE7lTmM&security=reality&sid=9d733e9254f5cc94&sni=vl2.webnetvpn.xyz&type=tcp#🌐 XX | ⚫ Чёрный #1
-vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?type=xhttp&security=tls&fp=chrome&sni=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0#🌐 XX | ⚫ Чёрный #2
-vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?type=xhttp&security=tls&fp=firefox&sni=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0#🌐 XX | ⚫ Чёрный #3
-vless://6e9893e3-e3db-48d7-b909-e185517c44e9@euro.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #4
-vless://6e9893e3-e3db-48d7-b909-e185517c44e9@global.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #5
-vless://6e9893e3-e3db-48d7-b909-e185517c44e9@local.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #6
-vless://6e9893e3-e3db-48d7-b909-e185517c44e9@mci.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #7
-vless://2b947013-7551-4a8e-bc4f-470e9e987e88@brn.perecmus.ru:443?security=reality&encryption=none&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=e1f8a3b6#🌐 XX | ⚫ Чёрный #8
-vless://6e9893e3-e3db-48d7-b909-e185517c44e9@151.101.2.5:80?mode=packet-up&path=/&security=none&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=connectingissues.pl&type=xhttp#🌐 XX | ⚫ Чёрный #9
+vless://17550015-678f-43ad-b0d2-65c0a829bedb@ee.cloudload.org:443?security=reality&sni=ee.cloudload.org&fp=qq&pbk=-g4of4WXB_tZXwESYpRXmCh310I_ikI8tVcHgBsIDR8&sid=a1ab5a56bc42a1&flow=xtls-rprx-vision&type=tcp&encryption=none#🚀 Автовыбор | ⚫ Чёрные
+vless://17550015-678f-43ad-b0d2-65c0a829bedb@ee.cloudload.org:443?security=reality&sni=ee.cloudload.org&fp=qq&pbk=-g4of4WXB_tZXwESYpRXmCh310I_ikI8tVcHgBsIDR8&sid=a1ab5a56bc42a1&flow=xtls-rprx-vision&type=tcp&encryption=none#🌐 XX | ⚫ Чёрный #1
+vless://199c3ee4-6c00-4902-8b12-ede0ba4c8957@tw-ing-10.redfoxvpn.ru:2053?encryption=none&type=grpc&security=reality&sni=www.google.com&fp=chrome&pbk=XrNOGI1TNjL2rcq65LBsjw8ouZ9PQMOZt466XeJt8XE&sid=dd70b6a4e3e9e7ce&serviceName=grpc&mode=gun&spx=%2F#🇺🇸 US | ⚫ Чёрный #2
+vless://2336b7b3-96da-4b5e-422f-6e10d34f54ca@s2.zynavo.ir:2087?pcs=02dbd988f959ab1da732a2ededea00a5907badd9ec17f77e2ab72658ddcb8454&alpn=h3,h2,http/1.1&fp=chrome&type=xhttp&sni=cdn.zynavo.ir&mode=auto&path=/BetForward&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=1&host=cdn.zynavo.ir&allowInsecure=1#🌐 XX | ⚫ Чёрный #3
+vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?&security=false&fp=chrome&type=ws&headerType=none&host=azsv2.ir5ive.ir&path=%2F#🌐 XX | ⚫ Чёрный #4
+vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?allowInsecure=0&sni=azsv2.ir5ive.ir&type=ws&host=azsv2.ir5ive.ir&path=/#🌐 XX | ⚫ Чёрный #5
+vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?encryption=none&security=none&flow=&type=ws&sni=azsv2.ir5ive.ir&fp=&alpn=&host=azsv2.ir5ive.ir&path=%2F&allowInsecure=0#🌐 XX | ⚫ Чёрный #6
+vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?encryption=none&security=none&type=ws&host=azsv2.ir5ive.ir&path=%252F#🌐 XX | ⚫ Чёрный #7
+vless://50ab6b59-4596-4b28-9440-fde9f5540514@18.153.49.40:2053?fp=firefox&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&security=reality&sid=76101ace&sni=www.intel.com&spx=/v2raybazi&type=tcp#🌐 XX | ⚫ Чёрный #8
+vless://50ab6b59-4596-4b28-9440-fde9f5540514@18.153.49.40:2053?security=reality&encryption=none&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&headerType=none&fp=chrome&spx=%2Fv2raybazi&type=tcp&sni=www.intel.com&sid=76101ace#🌐 XX | ⚫ Чёрный #9
 vless://58e4800a-db5a-0457-afa9-eeb5e9b342dc@193.23.219.144:8443?encryption=none&security=reality&type=grpc&sni=developer.mozilla.org&fp=random&pbk=FH727FT-Avk7ZwDDiRHphvtQwV4klEIT1AKAxRzitVk&spx=%2F&serviceName=grpc&mode=multi#🌐 XX | ⚫ Чёрный #10
 

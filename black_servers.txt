@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-06-26 22:58 UTC
+# Updated: 2026-06-27 02:13 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -13,5 +13,5 @@ vless://6e9893e3-e3db-48d7-b909-e185517c44e9@local.cloud-play.ir:80?encryption=n
 vless://6e9893e3-e3db-48d7-b909-e185517c44e9@mci.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #7
 vless://2b947013-7551-4a8e-bc4f-470e9e987e88@brn.perecmus.ru:443?security=reality&encryption=none&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=e1f8a3b6#🌐 XX | ⚫ Чёрный #8
 vless://6e9893e3-e3db-48d7-b909-e185517c44e9@151.101.2.5:80?mode=packet-up&path=/&security=none&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=connectingissues.pl&type=xhttp#🌐 XX | ⚫ Чёрный #9
-vless://58e4800a-db5a-0457-afa9-eeb5e9b342dc@193.23.219.144:8443?type=grpc&security=reality&fp=random&sni=developer.mozilla.org&pbk=FH727FT-Avk7ZwDDiRHphvtQwV4klEIT1AKAxRzitVk&serviceName=grpc#🌐 XX | ⚫ Чёрный #10
+vless://58e4800a-db5a-0457-afa9-eeb5e9b342dc@193.23.219.144:8443?encryption=none&security=reality&type=grpc&sni=developer.mozilla.org&fp=random&pbk=FH727FT-Avk7ZwDDiRHphvtQwV4klEIT1AKAxRzitVk&spx=%2F&serviceName=grpc&mode=multi#🌐 XX | ⚫ Чёрный #10
 

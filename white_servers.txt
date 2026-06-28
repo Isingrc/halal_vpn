@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-28 02:34 UTC
+# Updated: 2026-06-28 07:43 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
 vless://40bd77e6-256d-4524-b982-6a9bbd5719ee@cdn.stroimvmeste.icu:443?type=ws&security=tls&fp=chrome&sni=cdn.stroimvmeste.icu&path=/start&host=cdn.stroimvmeste.icu#🚀 Автовыбор | ⚪ Белые
 vless://40bd77e6-256d-4524-b982-6a9bbd5719ee@cdn.stroimvmeste.icu:443?type=ws&security=tls&fp=chrome&sni=cdn.stroimvmeste.icu&path=/start&host=cdn.stroimvmeste.icu#🌐 XX | ⚪ Белый #1
-vless://40bd77e6-256d-4524-b982-6a9bbd5719ee@cdn.stroimvmeste.icu:443?type=ws&security=tls&path=/start&sni=cdn.stroimvmeste.icu&fp=chrome#🌐 XX | ⚪ Белый #2
+vless://40bd77e6-256d-4524-b982-6a9bbd5719ee@cdn.stroimvmeste.icu:443?type=ws&security=tls&path=%2Fstart&sni=cdn.stroimvmeste.icu&fp=chrome#🌐 XX | ⚪ Белый #2
 vless://60300afa-3366-4ae3-959a-7b50438acebb@bear.wequ.host:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bear.wequ.host&fp=firefox&pbk=HAX7wOHrpxsVsDXpcE5MXaXdz3_GR3Hpf56YIDbmsyQ&sid=cdba5a3c&type=tcp&headerType=none#🌐 XX | ⚪ Белый #3
-vless://d281d652-5b51-47f1-bffc-aced043536df@ruh.nodes.rocketnetwork.ru:443?type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #4
-vless://60300afa-3366-4ae3-959a-7b50438acebb@lte24.wequ.host:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdp.x5.ru&fp=qq&pbk=Cr8VDiGXx_snPQxqIOvPP2aFdaGe1BNTZxWypAItHzU&sid=907a2eec&type=tcp&headerType=none#🌐 XX | ⚪ Белый #5
-vless://60300afa-3366-4ae3-959a-7b50438acebb@lte24.wequ.host:6443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-dev-omni.x5.ru&fp=qq&pbk=cOo6ONUU2yurrQgdFleebnVCySvkvWiJd59kEk09cwE&sid=55c9bce1&type=tcp&headerType=none#🌐 XX | ⚪ Белый #6
-vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🌐 XX | ⚪ Белый #7
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443/?type=ws&encryption=none&flow=&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome#🌐 XX | ⚪ Белый #8
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚪ Белый #9
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #10
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@ll0ll.vip:8082?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🌐 XX | ⚪ Белый #4
+vless://60300afa-3366-4ae3-959a-7b50438acebb@lte24.wequ.host:6443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-dev-omni.x5.ru&fp=qq&pbk=cOo6ONUU2yurrQgdFleebnVCySvkvWiJd59kEk09cwE&sid=55c9bce1&type=tcp&headerType=none#🌐 XX | ⚪ Белый #5
+vless://f40ea80a-7848-4d49-b2ff-19585e4db8de@91.193.58.128:2096?path=/&security=tls&encryption=none&insecure=0&host=sw.captainsparo.ir&type=ws&allowInsecure=0&sni=sw.captainsparo.ir#🌐 XX | ⚪ Белый #6
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@185.251.89.9:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🌐 XX | ⚪ Белый #7
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@185.218.0.41:2096?fp=firefox&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#🌐 XX | ⚪ Белый #8
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@185.251.89.9:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=firefox&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🌐 XX | ⚪ Белый #9
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@185.218.0.41:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🌐 XX | ⚪ Белый #10
 

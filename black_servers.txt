@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-28 10:20 UTC
+# Updated: 2026-06-28 13:17 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://60300afa-3366-4ae3-959a-7b50438acebb@ru-dc.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-dc.wequ.host&fp=edge&pbk=JH077KoB3PWwc8qs7D2SPRWLDS7xKE4JbjDzEoSVvzQ&sid=37164c3e&type=tcp&headerType=none#🚀 Автовыбор | ⚫ Чёрные
 vless://60300afa-3366-4ae3-959a-7b50438acebb@ru-dc.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-dc.wequ.host&fp=edge&pbk=JH077KoB3PWwc8qs7D2SPRWLDS7xKE4JbjDzEoSVvzQ&sid=37164c3e&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #1
-vless://60300afa-3366-4ae3-959a-7b50438acebb@ee2.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ee2.wequ.host&fp=qq&pbk=hs5nrW02rLJqYpAFrG_N02I3pbgm0ENmsDaAtD5RfDc&sid=258ff96f&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #2
-vless://60300afa-3366-4ae3-959a-7b50438acebb@de5.wequ.host:443?type=tcp&headerType=none&security=reality&encryption=none&sni=de5.wequ.host&fp=edge&pbk=sL-WH6OA3-ed-5vxu5wWuTmQ-8Y4Fbfpx24kkgu3s1M&sid=17b3b79c&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #3
-vless://60300afa-3366-4ae3-959a-7b50438acebb@hk.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk.wequ.host&fp=edge&pbk=7pD1hCAsY7SBk7XkhzhnkcpkQMisvjlUiIcDS_xsCT8&sid=b81ee2c8&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #4
-vless://de69cf39-5c03-4b38-b9fb-daa45a0c674a@199.232.244.213:443?mode=packet-up&path=%2FLunex&security=tls&encryption=none&alpn=h3&extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&echfq=none&host=lunex.store&fp=chrome&allowinsecure=0&type=xhttp&sni=manage.fastly.com#🌐 XX | ⚫ Чёрный #5
-vless://da6aefc9-23a9-4e03-89c6-8ab4949e81b9@31.70.94.144:7443?mode=gun&security=reality&encryption=none&pbk=vStJ8UQGw-vJh0eefhPjvoL0IVepFeaFKSwN46V041k&fp=chrome&type=grpc&sni=www.nach-holland.de&sid=83aecde5b0f9112f#🌐 XX | ⚫ Чёрный #6
-vless://e57c2a3a-e8df-4254-bb2d-8af45fea7ef4@152.236.3.28:8443?mode=gun&security=reality&encryption=none&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&fp=random&type=grpc&serviceName=api.v1.telemetry.EventStream&sni=addons.mozilla.org&sid=530db35e324c3aa5#🌐 XX | ⚫ Чёрный #7
-vless://e57c2a3a-e8df-4254-bb2d-8af45fea7ef4@152.236.3.28:8443?fp=firefox&mode=gun&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&security=reality&serviceName=api.v1.telemetry.EventStream&sid=530db35e324c3aa5&sni=addons.mozilla.org&type=grpc#🌐 XX | ⚫ Чёрный #8
-vless://da6aefc9-23a9-4e03-89c6-8ab4949e81b9@31.70.94.144:7443?fp=firefox&pbk=vStJ8UQGw-vJh0eefhPjvoL0IVepFeaFKSwN46V041k&security=reality&sid=83aecde5b0f9112f&sni=www.nach-holland.de&type=grpc#🌐 XX | ⚫ Чёрный #9
-vless://60300afa-3366-4ae3-959a-7b50438acebb@77.90.52.36:443?flow=xtls-rprx-vision&fp=firefox&pbk=sL-WH6OA3-ed-5vxu5wWuTmQ-8Y4Fbfpx24kkgu3s1M&security=reality&sid=17b3b79c&sni=de5.wequ.host&type=tcp#🌐 XX | ⚫ Чёрный #10
+vless://60300afa-3366-4ae3-959a-7b50438acebb@cz.wequ.ickly.co.uk:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cz.wequ.ickly.co.uk&fp=qq&pbk=fadYuQJhIBXNeakk7Xzwawmsy-tprz91GzU2oHiXKB0&sid=0f047e2c&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #2
+vless://60300afa-3366-4ae3-959a-7b50438acebb@fi.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.wequ.host&fp=qq&pbk=lmL4HN_bqIRcSVZRzpBQ9Vwe7QBWCU98D3oRIcuvNxc&sid=ba0eab94983e0633&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #3
+vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.ar.plus.mashtinet.shop:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=wwwfffffii.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #4
+vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=%2F&security=&encryption=none&type=ws#🌐 XX | ⚫ Чёрный #5
+vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?encryption=none&security=tls&sni=s10211.cdn.ngenix.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s10211.cdn.ngenix.net&path=%2Fapi%2Fuser#🌐 XX | ⚫ Чёрный #6
+vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@167.82.101.126:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=swwwwfgggffffii.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #7
+vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@140.248.185.253:443?encryption=none&type=ws&host=nesfzzeshab.global.ssl.fastly.net&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #8
+vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@167.82.101.126:443?security=tls&sni=global.fastly.com&type=ws&host=swwwwfgggffffii.global.ssl.fastly.net&path=%2F&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=0#🌐 XX | ⚫ Чёрный #9
+vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@140.248.185.253:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=nesfzzeshab.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #10
 

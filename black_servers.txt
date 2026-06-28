@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-06-28 13:17 UTC
+# Updated: 2026-06-28 15:11 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -10,8 +10,8 @@ vless://60300afa-3366-4ae3-959a-7b50438acebb@fi.wequ.host:443?encryption=none&fl
 vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.ar.plus.mashtinet.shop:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=wwwfffffii.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #4
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=%2F&security=&encryption=none&type=ws#🌐 XX | ⚫ Чёрный #5
 vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?encryption=none&security=tls&sni=s10211.cdn.ngenix.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s10211.cdn.ngenix.net&path=%2Fapi%2Fuser#🌐 XX | ⚫ Чёрный #6
-vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@167.82.101.126:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=swwwwfgggffffii.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #7
-vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@140.248.185.253:443?encryption=none&type=ws&host=nesfzzeshab.global.ssl.fastly.net&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #8
-vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@167.82.101.126:443?security=tls&sni=global.fastly.com&type=ws&host=swwwwfgggffffii.global.ssl.fastly.net&path=%2F&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=0#🌐 XX | ⚫ Чёрный #9
-vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@140.248.185.253:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=nesfzzeshab.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #10
+vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@140.248.185.253:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=nesfzzeshab.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #7
+vless://de69cf39-5c03-4b38-b9fb-daa45a0c674a@199.232.244.213:443?mode=packet-up&path=%2FLunex&security=tls&alpn=h3&encryption=none&insecure=0&host=lunex.store&fp=chrome&type=xhttp&allowInsecure=0&sni=manage.fastly.com#🌐 XX | ⚫ Чёрный #8
+vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@167.82.101.126:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=swwwwfgggffffii.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #9
+vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@140.248.185.253:443?encryption=none&type=ws&host=nesfzzeshab.global.ssl.fastly.net&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=global.fastly.com#🌐 XX | ⚫ Чёрный #10
 

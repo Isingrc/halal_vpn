@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-28 22:54 UTC
+# Updated: 2026-06-29 02:35 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?encryption=none&type=xhttp&security=tls&path=%2FJoin-JavidnamanIran-on-Telegram&host=static.lotussec.com&mode=stream-one&sni=static.lotussec.com&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#🚀 Автовыбор | ⚪ Белые
-vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?encryption=none&type=xhttp&security=tls&path=%2FJoin-JavidnamanIran-on-Telegram&host=static.lotussec.com&mode=stream-one&sni=static.lotussec.com&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#🌐 XX | ⚪ Белый #1
-vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#🌐 XX | ⚪ Белый #2
-vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&host=&mode=stream-one&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}&sni=&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#🌐 XX | ⚪ Белый #3
-vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?type=xhttp&security=tls&fp=chrome&sni=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0#🌐 XX | ⚪ Белый #4
-vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🌐 XX | ⚪ Белый #5
-vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=mocik38250.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mocik38250.pages.dev&path=/friend/list/shop?ed=2560#🌐 XX | ⚪ Белый #6
-vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?encryption=none&fp=chrome&host=freetools-h2s.pages.dev&path=%2F&security=tls&sni=freetools-h2s.pages.dev&type=ws#🌐 XX | ⚪ Белый #7
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🌐 XX | ⚪ Белый #8
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443/?type=ws&encryption=none&flow=&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome#🌐 XX | ⚪ Белый #9
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #10
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🚀 Автовыбор | ⚪ Белые
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚪ Белый #1
+vless://2b947013-7551-4a8e-bc4f-470e9e987e88@brn.perecmus.ru:443?security=reality&encryption=none&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=e1f8a3b6#🌐 XX | ⚪ Белый #2
+vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?encryption=none&security=tls&sni=s10211.cdn.ngenix.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s10211.cdn.ngenix.net&path=%2Fapi%2Fuser#🌐 XX | ⚪ Белый #3
+vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?type=ws&security=tls&path=/api/user&sni=s10211.cdn.ngenix.net&fp=chrome#🌐 XX | ⚪ Белый #4
+vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@partner.zoom.us:8080?type=ws&encryption=none&path=%2Ffree-server.techsonic.me&host=free-server.techsonic.me&security=none#🌐 XX | ⚪ Белый #5
+vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@partner.zoom.us:8080?type=ws&path=%2Ffree-server.techsonic.me&host=free-server.techsonic.me&sni=partner.zoom.us#🌐 XX | ⚪ Белый #6
+vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@partner.zoom.us:8080?type=ws&security=none&fp=firefox&path=/free-server.techsonic.me&host=free-server.techsonic.me#🌐 XX | ⚪ Белый #7
+vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@support.zoom.us:8080?type=ws&encryption=none&path=%2Ffree-server.techsonic.me&host=free-server.techsonic.me&security=none#🌐 XX | ⚪ Белый #8
+vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@support.zoom.us:8080?type=ws&path=%2Ffree-server.techsonic.me&host=free-server.techsonic.me&sni=support.zoom.us#🌐 XX | ⚪ Белый #9
+vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@support.zoom.us:8080?type=ws&security=none&fp=firefox&path=/free-server.techsonic.me&host=free-server.techsonic.me#🌐 XX | ⚪ Белый #10
 

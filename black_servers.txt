@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-06-29 16:55 UTC
+# Updated: 2026-06-29 19:43 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -8,10 +8,10 @@ vless://74dd3bb4-8f4f-48d6-9a65-555eb808b9c7@trp.aradart.top:443?type=xhttp&secu
 vless://43df00c9-f209-4773-b1cc-48e175bfb606@dp-hu-01.live:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🌐 XX | ⚫ Чёрный #2
 vless://17d53a3b-ba7f-4adb-8885-8bb135ee2ebe@cdn-mws.garagecloud.ru:443?mode=packet-up&path=%2Fxh%2Fae8091c1597a&security=tls&alpn=h2&encryption=none&extra=%7BscMaxBufferedPosts%3D200.0%2C%20scMaxEachPostBytes%3D1000000.0%2C%20scMinPostsIntervalMs%3D30-60%2C%20uplinkHTTPMethod%3DGET%2C%20xPaddingBytes%3D100-1000%7D&host=cdn-mws.garagecloud.ru&fp=firefox&type=xhttp&sni=cdn-mws.garagecloud.ru#🌐 XX | ⚫ Чёрный #3
 vless://203fea15-b8f7-46cf-bd6a-a59811589308@199.232.78.159:80?mode=auto&path=/&security=none&encryption=none&host=rostife.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #4
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@14.137.238.160:10000?security=none&encryption=none&headerType=none&type=tcp#🌐 XX | ⚫ Чёрный #5
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@14.137.238.160:10000?type=tcp&security=none&fp=firefox#🌐 XX | ⚫ Чёрный #6
-vless://939a8de1-f071-4a5d-9874-45148f8a6a39@152.236.3.28:8443?fp=firefox&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&security=reality&serviceName=api.v1.telemetry.EventStream&sid=530db35e324c3aa5&sni=addons.mozilla.org&type=grpc#🌐 XX | ⚫ Чёрный #7
-vless://939a8de1-f071-4a5d-9874-45148f8a6a39@152.236.3.28:8443?encryption=none&type=grpc&serviceName=api.v1.telemetry.EventStream&mode=gun&security=reality&sni=addons.mozilla.org&fp=random&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&sid=530db35e324c3aa5#🌐 XX | ⚫ Чёрный #8
-vless://63b43d54-3bdc-4d9e-b3f3-10163c892936@64.90.7.102:8443?type=ws&path=/ws&host=play.google.com&security=none#🇺🇸 US | ⚫ Чёрный #9
-vless://64c1b992-47ff-42ef-8d6d-d7ee13c5b716@103.100.158.109:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=t0i2PDg8pHUCNi_GHbe7PHAUvI3wKIvH3d3c_g26kCE&sid=4a670fd6fdbb91ad#🇺🇸 US | ⚫ Чёрный #10
+vless://939a8de1-f071-4a5d-9874-45148f8a6a39@152.236.3.28:8443?fp=firefox&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&security=reality&serviceName=api.v1.telemetry.EventStream&sid=530db35e324c3aa5&sni=addons.mozilla.org&type=grpc#🌐 XX | ⚫ Чёрный #5
+vless://939a8de1-f071-4a5d-9874-45148f8a6a39@152.236.3.28:8443?encryption=none&type=grpc&serviceName=api.v1.telemetry.EventStream&mode=gun&security=reality&sni=addons.mozilla.org&fp=random&pbk=56QUSkgaBUAruo4LoZnfo6z6Y4CGZRTx1zdNLYKKGRk&sid=530db35e324c3aa5#🌐 XX | ⚫ Чёрный #6
+vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.250.119:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#🌐 XX | ⚫ Чёрный #7
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@14.137.238.160:10000?type=tcp&security=none&fp=firefox#🌐 XX | ⚫ Чёрный #8
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@14.137.238.160:10000?security=none&encryption=none&headerType=none&type=tcp#🌐 XX | ⚫ Чёрный #9
+vless://63b43d54-3bdc-4d9e-b3f3-10163c892936@64.90.7.102:8443?type=ws&path=/ws&host=play.google.com&security=none#🇺🇸 US | ⚫ Чёрный #10
 

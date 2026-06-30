@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-30 19:42 UTC
+# Updated: 2026-06-30 21:22 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=firefox&sni=sca12.afterdomain.shop#🚀 Автовыбор | ⚪ Белые
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=firefox&sni=sca12.afterdomain.shop#🌐 XX | ⚪ Белый #1
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca12.afterdomain.shop&fp=chrome&alpn=h2#🌐 XX | ⚪ Белый #2
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#🌐 XX | ⚪ Белый #3
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=dat1.afterdomain.shop#🌐 XX | ⚪ Белый #4
-vless://7968c546-02dc-4f8c-b791-934591a94cb2@cf3.466688.xyz:443?encryption=none&security=tls&sni=hhvl.hhapp.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=hhvl.hhapp.kdns.fr&path=/cbasur#🌐 XX | ⚪ Белый #5
-hysteria2://c059a786-3a03-4300-9ace-4f9cda0f360c@wlte8.nimarko.org:8450?__rand=15e393df&__rand=04559c2e&sni=testing6.nimarko.org#🌐 XX | ⚪ Белый #6
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#🌐 XX | ⚪ Белый #7
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🌐 XX | ⚪ Белый #8
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?path=%2Frsedgws&security=tls&fragment=2,0-1,tlshello,null&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&echfq=none&host=shegeftihaaa.net&allowinsecure=0&type=ws&sni=shegeftihaaa.net#🌐 XX | ⚪ Белый #9
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🌐 XX | ⚪ Белый #10
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?mode=auto&path=%2Fforall&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=fl2.forall-npv.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=fl2.forall-npv.shop#🚀 Автовыбор | ⚪ Белые
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?mode=auto&path=%2Fforall&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=fl2.forall-npv.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=fl2.forall-npv.shop#🌐 XX | ⚪ Белый #1
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#🌐 XX | ⚪ Белый #2
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&type=grpc&security=tls&sni=sca12.afterdomain.shop&insecure=0&allowInsecure=0#🌐 XX | ⚪ Белый #3
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=firefox&sni=sca12.afterdomain.shop#🌐 XX | ⚪ Белый #4
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca12.afterdomain.shop&alpn=h2#🌐 XX | ⚪ Белый #5
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca39.afterdomain.shop&fp=chrome&alpn=h2#🌐 XX | ⚪ Белый #6
+vless://06ac0ab6-0c4c-4275-b3f6-236c4ffa4479@shk-techblog.icu:443?path=%2Fmessages%2Fv1%2Fstream%2Fsync&security=tls&encryption=none&host=shk-techblog.icu&type=ws&sni=shk-techblog.icu#🌐 XX | ⚪ Белый #7
+vless://06ac0ab6-0c4c-4275-b3f6-236c4ffa4479@shk-techblog.icu:443?type=ws&security=tls&fp=firefox&sni=shk-techblog.icu&path=/messages/v1/stream/sync&host=shk-techblog.icu#🌐 XX | ⚪ Белый #8
+vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#🌐 XX | ⚪ Белый #9
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?&security=tls&alpn=h2&sni=gco1.afterdomain.shop&type=grpc&serviceName=&mode=gun#🌐 XX | ⚪ Белый #10
 

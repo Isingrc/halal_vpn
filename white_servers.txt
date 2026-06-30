@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-30 10:48 UTC
+# Updated: 2026-06-30 13:56 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🚀 Автовыбор | ⚪ Белые
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚪ Белый #1
-vless://5bae1b75-e03e-44f3-bf25-27baaf6c0471@hollowcon-6ogo.onrender.com:443?encryption=none&security=tls&sni=hollowcon-6ogo.onrender.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon-6ogo.onrender.com&path=%2Fws%2F5bae1b75-e03e-44f3-bf25-27baaf6c0471#🌐 XX | ⚪ Белый #2
-vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?security=none&type=ws&path=%2F&host=5d74fed1.apruxdomain.lol&packetEncoding=xudp#🌐 XX | ⚪ Белый #3
-vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?type=ws#🌐 XX | ⚪ Белый #4
-vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?type=ws&security=none&fp=firefox#🌐 XX | ⚪ Белый #5
-vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?type=ws&security=none&fp=firefox&path=/&host=5d74fed1.apruxdomain.lol#🌐 XX | ⚪ Белый #6
-vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?type=ws&sni=5d74fed1.apruxdomain.lol#🌐 XX | ⚪ Белый #7
-vless://214906b4-96fd-48f6-977b-a26a89b7b973@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=28a059440d3d5ba1#🌐 XX | ⚪ Белый #8
-vless://214906b4-96fd-48f6-977b-a26a89b7b973@81.94.148.75:8443?fp=firefox&mode=gun&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&serviceName=ads.x5.ru&sid=6a608eaf9117&sni=ads.x5.ru&type=grpc#🌐 XX | ⚪ Белый #9
-vless://214906b4-96fd-48f6-977b-a26a89b7b973@81.94.148.75:8443?fp=firefox&mode=gun&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&serviceName=ads.x5.ru&sid=28a059440d3d5ba1&sni=ads.x5.ru&type=grpc#🌐 XX | ⚪ Белый #10
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca39.afterdomain.shop&alpn=h2&type=grpc&host=sca39.afterdomain.shop#🚀 Автовыбор | ⚪ Белые
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca39.afterdomain.shop&alpn=h2&type=grpc&host=sca39.afterdomain.shop#🌐 XX | ⚪ Белый #1
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=firefox&sni=sca12.afterdomain.shop#🌐 XX | ⚪ Белый #2
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca12.afterdomain.shop&fp=chrome&alpn=h2#🌐 XX | ⚪ Белый #3
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca39.afterdomain.shop&fp=chrome&alpn=h2#🌐 XX | ⚪ Белый #4
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?alpn=h2&encryption=none&security=tls&sni=dat1.afterdomain.shop&type=grpc#🌐 XX | ⚪ Белый #5
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=dat1.afterdomain.shop#🌐 XX | ⚪ Белый #6
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=dat1.afterdomain.shop&fp=chrome&alpn=h2#🌐 XX | ⚪ Белый #7
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@cf3.466688.xyz:443?encryption=none&security=tls&sni=hhvl.hhapp.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=hhvl.hhapp.kdns.fr&path=/cbasur#🌐 XX | ⚪ Белый #8
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🌐 XX | ⚪ Белый #9
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=/rsedgws&host=shegeftihaaa.net#🌐 XX | ⚪ Белый #10
 

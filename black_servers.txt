@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-06-30 10:48 UTC
+# Updated: 2026-06-30 13:56 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -13,5 +13,5 @@ vless://43df00c9-f209-4773-b1cc-48e175bfb606@dp-hu-01.live:443?flow=xtls-rprx-vi
 vless://43df00c9-f209-4773-b1cc-48e175bfb606@dp-hu-01.live:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#🌐 XX | ⚫ Чёрный #7
 vless://203fea15-b8f7-46cf-bd6a-a59811589308@199.232.78.159:80?mode=auto&path=%2F&security=none&encryption=none&host=rostife.global.ssl.fastly.net&type=xhttp#🌐 XX | ⚫ Чёрный #8
 vless://4c4d64bd-7a94-4e42-8ea8-b45d320f4ccd@199.232.244.97:443?mode=packet-up&path=%2FLunex&security=tls&encryption=none&alpn=h3&extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=lunex.store&fp=chrome&allowinsecure=0&type=xhttp&sni=manage.fastly.com#🌐 XX | ⚫ Чёрный #9
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@92.38.139.63:9891?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=&encryption=none&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&type=xhttp#🌐 XX | ⚫ Чёрный #10
+vless://9794d18f-9280-3553-a7a5-a23da75aca76@179.61.138.177:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=d822cc65s71.okgfwbackxyz.xyz&path=12743e6c90fa8429becf5ec50661cdd0&flow=&security=tls&sni=u691611ud822cc65s71.okgfwbackxyz.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#🌐 XX | ⚫ Чёрный #10
 

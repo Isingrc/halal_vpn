@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-06-29 22:46 UTC
+# Updated: 2026-06-30 02:29 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -12,6 +12,6 @@ vless://203fea15-b8f7-46cf-bd6a-a59811589308@199.232.78.159:80?mode=auto&path=%2
 vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@92.38.139.63:9891?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=&encryption=none&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&type=xhttp#🌐 XX | ⚫ Чёрный #6
 vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@92.38.139.63:9891?type=xhttp&sni=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&mode=auto#🌐 XX | ⚫ Чёрный #7
 vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@92.38.139.63:9891/?type=xhttp&encryption=none&flow=#🌐 XX | ⚫ Чёрный #8
-vless://f4ffe80b-7ab8-4962-96d3-199e67d0375f@185.136.12.120:443?flow=xtls-rprx-vision&fp=firefox&pbk=0H_PTLPHXWKF_hY5AYpwW-MY88YWyWWLnUsigJaeshQ&security=reality&sid=9e5a335de26d1f5a&sni=bol.com&type=tcp#🌐 XX | ⚫ Чёрный #9
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@192.145.29.52:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#🌐 XX | ⚫ Чёрный #10
+vless://4f8d3923-a356-0066-97c6-44ba7e05a4c2@2.27.13.63:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=MDHyU7BEvdRBhk5674KyecFr1cwh8rA9WSr3OMSVyW0&sid=d794b159&sni=fl2.spoofik.fun#🌐 XX | ⚫ Чёрный #9
+vless://f4ffe80b-7ab8-4962-96d3-199e67d0375f@185.136.12.120:443?flow=xtls-rprx-vision&fp=firefox&pbk=0H_PTLPHXWKF_hY5AYpwW-MY88YWyWWLnUsigJaeshQ&security=reality&sid=9e5a335de26d1f5a&sni=bol.com&type=tcp#🌐 XX | ⚫ Чёрный #10
 

@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-06-30 07:42 UTC
+# Updated: 2026-06-30 10:48 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🚀 Автовыбор | ⚪ Белые
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚪ Белый #1
-vless://c0961459-f199-4c41-899b-b16138f875e7@plmw.verymad.net:28737?encryption=none&fp=firefox&pbk=Q8yB9j_8uP7SgGdVZdQQBzcnB7IROViEbnGtedncSVo&security=reality&sid=5dcc574365&sni=www.vk.com&spx=%2F9XAp5VbEXkOhR62&type=tcp#🌐 XX | ⚪ Белый #2
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac&flow=xtls-rprx-vision#🌐 XX | ⚪ Белый #3
-vless://56fbead0-74c1-4047-882a-2b7ee23e532b@185.91.54.46:8443?security=reality&encryption=none&pbk=vgECJ1J0IOIrxpnh7Pu7nhy2wJ_RJWq5wp_5sxp-3Bk&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=9db07670a7b491cb#🌐 XX | ⚪ Белый #4
-vless://9d748910-8306-411a-9b2e-11f0a2a4486f@78.159.250.32:1111?&security=reality&flow=xtls-rprx-vision&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA&fp=firefox&sni=api-maps.yandex.ru&type=tcp&headerType=none&host=api-maps.yandex.ru&path=%2F#🌐 XX | ⚪ Белый #5
-vless://9d748910-8306-411a-9b2e-11f0a2a4486f@78.159.250.32:1111?security=reality&encryption=none&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🌐 XX | ⚪ Белый #6
-vless://214906b4-96fd-48f6-977b-a26a89b7b973@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=28a059440d3d5ba1#🌐 XX | ⚪ Белый #7
-vless://214906b4-96fd-48f6-977b-a26a89b7b973@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=6a608eaf9117#🌐 XX | ⚪ Белый #8
-vless://214906b4-96fd-48f6-977b-a26a89b7b973@81.94.148.75:8443?fp=firefox&mode=gun&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&serviceName=ads.x5.ru&sid=825867&sni=ads.x5.ru&type=grpc#🌐 XX | ⚪ Белый #9
-vless://214906b4-96fd-48f6-977b-a26a89b7b973@81.94.148.75:8443?fp=firefox&mode=gun&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&serviceName=ads.x5.ru&sid=bf45&sni=ads.x5.ru&type=grpc#🌐 XX | ⚪ Белый #10
+vless://5bae1b75-e03e-44f3-bf25-27baaf6c0471@hollowcon-6ogo.onrender.com:443?encryption=none&security=tls&sni=hollowcon-6ogo.onrender.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon-6ogo.onrender.com&path=%2Fws%2F5bae1b75-e03e-44f3-bf25-27baaf6c0471#🌐 XX | ⚪ Белый #2
+vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?security=none&type=ws&path=%2F&host=5d74fed1.apruxdomain.lol&packetEncoding=xudp#🌐 XX | ⚪ Белый #3
+vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?type=ws#🌐 XX | ⚪ Белый #4
+vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?type=ws&security=none&fp=firefox#🌐 XX | ⚪ Белый #5
+vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?type=ws&security=none&fp=firefox&path=/&host=5d74fed1.apruxdomain.lol#🌐 XX | ⚪ Белый #6
+vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?type=ws&sni=5d74fed1.apruxdomain.lol#🌐 XX | ⚪ Белый #7
+vless://214906b4-96fd-48f6-977b-a26a89b7b973@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=28a059440d3d5ba1#🌐 XX | ⚪ Белый #8
+vless://214906b4-96fd-48f6-977b-a26a89b7b973@81.94.148.75:8443?fp=firefox&mode=gun&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&serviceName=ads.x5.ru&sid=6a608eaf9117&sni=ads.x5.ru&type=grpc#🌐 XX | ⚪ Белый #9
+vless://214906b4-96fd-48f6-977b-a26a89b7b973@81.94.148.75:8443?fp=firefox&mode=gun&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&serviceName=ads.x5.ru&sid=28a059440d3d5ba1&sni=ads.x5.ru&type=grpc#🌐 XX | ⚪ Белый #10
 

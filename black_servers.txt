@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-07-01 02:35 UTC
+# Updated: 2026-07-01 08:03 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://03e7f55f-22f8-4564-880f-b86c8cdbf140@m247-fi-02.live:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&sid=de8d3223e7d85761#🚀 Автовыбор | ⚫ Чёрные
-vless://03e7f55f-22f8-4564-880f-b86c8cdbf140@m247-fi-02.live:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&sid=de8d3223e7d85761#🌐 XX | ⚫ Чёрный #1
-vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio2.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=fr0.eorqen.ir&mode=auto&sni=fr0.eorqen.ir&fp=chrome&insecure=0&allowInsecure=0#🌐 XX | ⚫ Чёрный #2
-vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio2.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=fr0.eorqen.ir&mode=auto&sni=fr0.eorqen.ir&fp=random&insecure=0&allowInsecure=0#🌐 XX | ⚫ Чёрный #3
-vless://9794d18f-9280-3553-a7a5-a23da75aca76@s85.wagahaha.xyz:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=d822cc65s71.okgfwbackxyz.xyz&path=12743e6c90fa8429becf5ec50661cdd0&flow=&security=tls&sni=u691611ud822cc65s71.okgfwbackxyz.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#🌐 XX | ⚫ Чёрный #4
-vless://9794d18f-9280-3553-a7a5-a23da75aca76@s88.wagahaha.xyz:443?encryption=none&type=xhttp&fp=firefox&host=d822cc65s71.okgfwbackxyz.xyz&path=12743e6c90fa8429becf5ec50661cdd0&security=tls&sni=u691611ud822cc65s71.okgfwbackxyz.xyz&alpn=h2%2Chttp/1.1#🌐 XX | ⚫ Чёрный #5
-vless://9794d18f-9280-3553-a7a5-a23da75aca76@s88.wagahaha.xyz:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=d822cc65s71.okgfwbackxyz.xyz&path=12743e6c90fa8429becf5ec50661cdd0&flow=&security=tls&sni=u691611ud822cc65s71.okgfwbackxyz.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#🌐 XX | ⚫ Чёрный #6
-vless://9794d18f-9280-3553-a7a5-a23da75aca76@s88.wagahaha.xyz:443?type=xhttp&security=tls&fp=firefox&sni=u691611ud822cc65s71.okgfwbackxyz.xyz&path=12743e6c90fa8429becf5ec50661cdd0#🌐 XX | ⚫ Чёрный #7
-vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=liz11.jooje.lat&mode=auto&sni=liz11.jooje.lat&fp=chrome&insecure=0&allowInsecure=0#🌐 XX | ⚫ Чёрный #8
-vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=liz11.jooje.lat&mode=auto&sni=liz11.jooje.lat&fp=qq&insecure=0&allowInsecure=0#🌐 XX | ⚫ Чёрный #9
-vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?type=xhttp&security=tls&fp=chrome&sni=liz11.jooje.lat&mode=auto#🌐 XX | ⚫ Чёрный #10
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@belgium.cloudpath.live:443?security=reality&type=tcp&sni=microsoft.com&fp=chrome&sid=cc52201b&pbk=9HzeVOO-_7-V3l4TCNqgO-cj32nlF3wsG8K4X3qFmFw&encryption=none#🚀 Автовыбор | ⚫ Чёрные
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@belgium.cloudpath.live:443?security=reality&type=tcp&sni=microsoft.com&fp=chrome&sid=cc52201b&pbk=9HzeVOO-_7-V3l4TCNqgO-cj32nlF3wsG8K4X3qFmFw&encryption=none#🇺🇸 US | ⚫ Чёрный #1
+vless://e84c124e-b176-409c-a6b6-69844127bdfa@media.nothingchange.com:10443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eKyUyIzbzn0TL5ip_00Buvum95qnWy8gTCwjZvv-olc&sid=3f7b1e5a9c2d8f46&sni=media.nothingchange.com#🌐 XX | ⚫ Чёрный #2
+vless://e84c124e-b176-409c-a6b6-69844127bdfa@media.nothingchange.com:10443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=eKyUyIzbzn0TL5ip_00Buvum95qnWy8gTCwjZvv-olc&sid=3f7b1e5a9c2d8f46&sni=media.nothingchange.com#🌐 XX | ⚫ Чёрный #3
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@denmark.cloudpath.live:443?security=reality&encryption=none&pbk=8H8GZYml4FGVF9EcnZsUTOt0lFiIh20vS9TnX4Dn-z8&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=2721a041#🇺🇸 US | ⚫ Чёрный #4
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@estonia.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=yBrF1OAz3Rq2cyQkPytpsVNgbqAW5J7C5jE2ZWJkMBo&sid=5674d66f#🇺🇸 US | ⚫ Чёрный #5
+vless://1bd98268-1a22-4cf9-804d-b8a7650b1304@latv1.panel11.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=latv1.panel11.ru&fp=firefox&pbk=D7aIddmYg_5juAzx62eYKxJiy8siAV8QcG_dO05TCQU&sid=2987b20b2bd97168&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #6
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@finland.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=f7IfVwkipbZFQN0MDsBrHiANTcpSebrdIyOwL_0pOGc&sid=2478b338#🇺🇸 US | ⚫ Чёрный #7
+vless://e84c124e-b176-409c-a6b6-69844127bdfa@hub.nothingchange.com:8447?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eKyUyIzbzn0TL5ip_00Buvum95qnWy8gTCwjZvv-olc&sid=3f7b1e5a9c2d8f46&sni=hub.nothingchange.com#🌐 XX | ⚫ Чёрный #8
+vless://e84c124e-b176-409c-a6b6-69844127bdfa@stream.nothingchange.com:8447?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eKyUyIzbzn0TL5ip_00Buvum95qnWy8gTCwjZvv-olc&sid=3f7b1e5a9c2d8f46&sni=stream.nothingchange.com#🌐 XX | ⚫ Чёрный #9
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=reality&encryption=none&pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=b00e098b#🇺🇸 US | ⚫ Чёрный #10
 

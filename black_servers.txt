@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-06-30 23:03 UTC
+# Updated: 2026-07-01 02:35 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://9794d18f-9280-3553-a7a5-a23da75aca76@s85.wagahaha.xyz:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=d822cc65s71.okgfwbackxyz.xyz&path=12743e6c90fa8429becf5ec50661cdd0&flow=&security=tls&sni=u691611ud822cc65s71.okgfwbackxyz.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#🚀 Автовыбор | ⚫ Чёрные
-vless://9794d18f-9280-3553-a7a5-a23da75aca76@s85.wagahaha.xyz:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=d822cc65s71.okgfwbackxyz.xyz&path=12743e6c90fa8429becf5ec50661cdd0&flow=&security=tls&sni=u691611ud822cc65s71.okgfwbackxyz.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#🌐 XX | ⚫ Чёрный #1
-vless://9794d18f-9280-3553-a7a5-a23da75aca76@s88.wagahaha.xyz:443?encryption=none&type=xhttp&fp=firefox&host=d822cc65s71.okgfwbackxyz.xyz&path=12743e6c90fa8429becf5ec50661cdd0&security=tls&sni=u691611ud822cc65s71.okgfwbackxyz.xyz&alpn=h2%2Chttp/1.1#🌐 XX | ⚫ Чёрный #2
-vless://9794d18f-9280-3553-a7a5-a23da75aca76@s88.wagahaha.xyz:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=d822cc65s71.okgfwbackxyz.xyz&path=12743e6c90fa8429becf5ec50661cdd0&flow=&security=tls&sni=u691611ud822cc65s71.okgfwbackxyz.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#🌐 XX | ⚫ Чёрный #3
-vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=liz11.jooje.lat&mode=auto&sni=liz11.jooje.lat&fp=chrome&insecure=0&allowInsecure=0#🌐 XX | ⚫ Чёрный #4
-vless://0d608098-a5b6-41f8-b394-b07c0c53d718@de.monkeyisland.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=de.monkeyisland.xyz&fp=firefox&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=ecca56e9a9963ed7&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #5
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#🌐 XX | ⚫ Чёрный #6
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#🌐 XX | ⚫ Чёрный #7
-vless://43df00c9-f209-4773-b1cc-48e175bfb606@dp-hu-01.live:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#🌐 XX | ⚫ Чёрный #8
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?&security=tls&sni=sca12.afterdomain.shop&type=grpc&serviceName=&mode=gun#🌐 XX | ⚫ Чёрный #9
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca19.afterdomain.shop&alpn=h2&type=grpc&host=sca19.afterdomain.shop#🌐 XX | ⚫ Чёрный #10
+vless://03e7f55f-22f8-4564-880f-b86c8cdbf140@m247-fi-02.live:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&sid=de8d3223e7d85761#🚀 Автовыбор | ⚫ Чёрные
+vless://03e7f55f-22f8-4564-880f-b86c8cdbf140@m247-fi-02.live:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&sid=de8d3223e7d85761#🌐 XX | ⚫ Чёрный #1
+vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio2.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=fr0.eorqen.ir&mode=auto&sni=fr0.eorqen.ir&fp=chrome&insecure=0&allowInsecure=0#🌐 XX | ⚫ Чёрный #2
+vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio2.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=fr0.eorqen.ir&mode=auto&sni=fr0.eorqen.ir&fp=random&insecure=0&allowInsecure=0#🌐 XX | ⚫ Чёрный #3
+vless://9794d18f-9280-3553-a7a5-a23da75aca76@s85.wagahaha.xyz:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=d822cc65s71.okgfwbackxyz.xyz&path=12743e6c90fa8429becf5ec50661cdd0&flow=&security=tls&sni=u691611ud822cc65s71.okgfwbackxyz.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#🌐 XX | ⚫ Чёрный #4
+vless://9794d18f-9280-3553-a7a5-a23da75aca76@s88.wagahaha.xyz:443?encryption=none&type=xhttp&fp=firefox&host=d822cc65s71.okgfwbackxyz.xyz&path=12743e6c90fa8429becf5ec50661cdd0&security=tls&sni=u691611ud822cc65s71.okgfwbackxyz.xyz&alpn=h2%2Chttp/1.1#🌐 XX | ⚫ Чёрный #5
+vless://9794d18f-9280-3553-a7a5-a23da75aca76@s88.wagahaha.xyz:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=d822cc65s71.okgfwbackxyz.xyz&path=12743e6c90fa8429becf5ec50661cdd0&flow=&security=tls&sni=u691611ud822cc65s71.okgfwbackxyz.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#🌐 XX | ⚫ Чёрный #6
+vless://9794d18f-9280-3553-a7a5-a23da75aca76@s88.wagahaha.xyz:443?type=xhttp&security=tls&fp=firefox&sni=u691611ud822cc65s71.okgfwbackxyz.xyz&path=12743e6c90fa8429becf5ec50661cdd0#🌐 XX | ⚫ Чёрный #7
+vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=liz11.jooje.lat&mode=auto&sni=liz11.jooje.lat&fp=chrome&insecure=0&allowInsecure=0#🌐 XX | ⚫ Чёрный #8
+vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=liz11.jooje.lat&mode=auto&sni=liz11.jooje.lat&fp=qq&insecure=0&allowInsecure=0#🌐 XX | ⚫ Чёрный #9
+vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?type=xhttp&security=tls&fp=chrome&sni=liz11.jooje.lat&mode=auto#🌐 XX | ⚫ Чёрный #10
 

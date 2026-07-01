@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-07-01 08:03 UTC
+# Updated: 2026-07-01 12:27 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🚀 Автовыбор | ⚪ Белые
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚪ Белый #1
-vless://47667ac5-ac51-7fc6-181f-65321ee2387b@svg-2.onrender.com:443?path=/ws/47667ac5-ac51-7fc6-181f-65321ee2387b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=svg-2.onrender.com&fp=chrome&type=ws&allowInsecure=0&sni=svg-2.onrender.com#🌐 XX | ⚪ Белый #2
-vless://9910e6e4-e540-4233-b88e-b1465434ad05@gp1.steptofsvo.com:18443?type=grpc&security=reality&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd&sni=gp1.steptofsvo.com&mode=multi&serviceName=grpc#🌐 XX | ⚪ Белый #3
-vless://9910e6e4-e540-4233-b88e-b1465434ad05@gp1.steptofsvo.com:18443?type=grpc&security=reality&fp=chrome&sni=gp1.steptofsvo.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd&serviceName=grpc#🌐 XX | ⚪ Белый #4
-vless://ae2bed26-3f4b-4fe9-ac67-7e505fa70d4b@gp1.steptofsvo.com:18443?mode=gun&security=reality&encryption=none&authority=&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=gp1.steptofsvo.com&sid=5c766813929a1fdd#🌐 XX | ⚪ Белый #5
-vless://f40ef9e3-ce9d-438f-a421-2b3f3361c86a@hollowcon6.onrender.com:443?encryption=none&security=tls&sni=hollowcon6.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon6.onrender.com&path=/ws/f40ef9e3-ce9d-438f-a421-2b3f3361c86a#🌐 XX | ⚪ Белый #6
-vless://f40ef9e3-ce9d-438f-a421-2b3f3361c86a@hollowcon6.onrender.com:443?type=ws&security=tls&path=/ws/f40ef9e3-ce9d-438f-a421-2b3f3361c86a&sni=hollowcon6.onrender.com&fp=chrome#🌐 XX | ⚪ Белый #7
-vless://0a1afeba-642f-11f1-9ca8-da0cb7a547ac@cam-msk-3.videomonitor.cloud:2053?mode=gun&security=reality&encryption=none&pbk=WOf2IaQzzj3Kx0uIVKMu0njVKXyVJN-KDQ9ZFtOIcis&fp=chrome&type=grpc&serviceName=grpc-direct&sni=cam-msk-3.videomonitor.cloud&sid=d6381024c55afb14#🌐 XX | ⚪ Белый #8
-vless://0a1afeba-642f-11f1-9ca8-da0cb7a547ac@cam-msk-7.videomonitor.cloud:2053?mode=gun&security=reality&encryption=none&pbk=yjmr4nFrDGjHa32A9Uriq3co86CE-waGH3pmZt2_oQk&fp=chrome&type=grpc&serviceName=grpc-direct&sni=cam-msk-7.videomonitor.cloud&sid=da5f3e182bc85077#🌐 XX | ⚪ Белый #9
-vless://4b49a248-5e9d-11f1-bd95-ee5f4ed81fa1@cam-msk-7.videomonitor.cloud:2053?type=grpc&headerType=none&security=reality&encryption=none&sni=cam-msk-7.videomonitor.cloud&fp=chrome&pbk=yjmr4nFrDGjHa32A9Uriq3co86CE-waGH3pmZt2_oQk&sid=619aad46679010cf&serviceName=grpc-direct#🌐 XX | ⚪ Белый #10
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?encryption=none&security=tls&sni=fl2.forall-npv.shop&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=fl2.forall-npv.shop&path=%2Fforall&mode=auto#🚀 Автовыбор | ⚪ Белые
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?encryption=none&security=tls&sni=fl2.forall-npv.shop&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=fl2.forall-npv.shop&path=%2Fforall&mode=auto#🌐 XX | ⚪ Белый #1
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚪ Белый #2
+vless://ae2bed26-3f4b-4fe9-ac67-7e505fa70d4b@gp1.steptofsvo.com:18443?mode=gun&security=reality&encryption=none&authority=&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=gp1.steptofsvo.com&sid=5c766813929a1fdd#🌐 XX | ⚪ Белый #3
+vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=liz11.jooje.lat&mode=auto&sni=liz11.jooje.lat&fp=chrome&insecure=0&allowInsecure=0#🌐 XX | ⚪ Белый #4
+vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=liz11.jooje.lat&mode=auto&sni=liz11.jooje.lat&fp=qq&insecure=0&allowInsecure=0#🌐 XX | ⚪ Белый #5
+vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?type=xhttp&security=tls&fp=qq&sni=liz11.jooje.lat&mode=auto#🌐 XX | ⚪ Белый #6
+vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?type=xhttp&security=tls&sni=liz11.jooje.lat&fp=chrome#🌐 XX | ⚪ Белый #7
+vless://90ccad81-9d13-401e-ac8f-a8eff1d8b574@germ.ardor-cloud.ru:444?encryption=none&security=reality&sni=web.max.ru&fp=chrome&pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&sid=8614956789abcdef&type=grpc&authority=&serviceName=web.max.ru&mode=gun#🌐 XX | ⚪ Белый #8
+vless://9910e6e4-e540-4233-b88e-b1465434ad05@gp1.steptofsvo.com:18443?type=grpc&security=reality&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd&sni=gp1.steptofsvo.com&mode=multi&serviceName=grpc#🌐 XX | ⚪ Белый #9
+vless://9910e6e4-e540-4233-b88e-b1465434ad05@gp1.steptofsvo.com:18443?type=grpc&security=reality&fp=chrome&sni=gp1.steptofsvo.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd&serviceName=grpc#🌐 XX | ⚪ Белый #10
 

@@ -1,5 +1,5 @@
 # FAST ALL SERVERS
-# Updated: 2026-07-02 19:09 UTC
+# Updated: 2026-07-02 20:54 UTC
 # Total: 35 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
@@ -11,9 +11,9 @@ vless://1c20357e-be52-4e5e-8eb6-6434adcb4b71@gp1.steptofsvo.com:18443?type=grpc&
 vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@ws-2.hysteria.ltd:9443?type=ws&headerType=none&security=tls&encryption=none&sni=ws-2.hysteria.ltd&fp=chrome&path=%2Fws&insecure=0#🌐 XX | ⚪ Белый #5
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-pl-hn.ray-balance.space:4443?type=grpc&mode=gun#🌐 XX | ⚪ Белый #6
 vless://23fc1494-e845-4ef2-b207-8437f72e20cd@sg-sin-2-x.blook.network:443?mode=stream-one&path=%2FVLSpdG9k&security=tls&alpn=h3&encryption=none&extra=%7BnoGRPCHeader%3Dtrue%2C%20scMaxConcurrentPosts%3D100.0%2C%20scMaxEachPostBytes%3D1000000.0%2C%20scMinPostsIntervalMs%3D30.0%2C%20xPaddingBytes%3D100-1000%2C%20xmux%3D%7BmaxConcurrency%3D128%2C%20hMaxReusableSecs%3D1800-3000%7D%7D&fp=firefox&type=xhttp&sni=sg-sin-2-x.blook.network#🌐 XX | ⚪ Белый #7
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?security=tls&type=ws&path=/api/v1/stream&host=sync.amordad.xyz&sni=sync.amordad.xyz&fp=chrome&encryption=none#🌐 XX | ⚪ Белый #8
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚪ Белый #8
 vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?type=ws&security=tls&fp=firefox&sni=sync.amordad.xyz&path=/api/v1/stream&host=sync.amordad.xyz#🌐 XX | ⚪ Белый #9
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚪ Белый #10
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?path=%2Frsedgws&security=tls&fragment=2,0-1,tlshello,null&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&echfq=none&host=shegeftihaaa.net&allowinsecure=0&type=ws&sni=shegeftihaaa.net#🌐 XX | ⚪ Белый #10
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://3b715892-8610-4fdc-9086-647b36af5443@fastly.videobazi.com:80?encryption=none&security=none&type=xhttp&headerType=none&path=%2F&host=dutschh.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🚀 Автовыбор | ⚫ Чёрные
@@ -37,11 +37,11 @@ vless://1c20357e-be52-4e5e-8eb6-6434adcb4b71@gp1.steptofsvo.com:18443?type=grpc&
 vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@ws-2.hysteria.ltd:9443?type=ws&headerType=none&security=tls&encryption=none&sni=ws-2.hysteria.ltd&fp=chrome&path=%2Fws&insecure=0#🌐 XX | ⚡ Fast #5
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-pl-hn.ray-balance.space:4443?type=grpc&mode=gun#🌐 XX | ⚡ Fast #6
 vless://23fc1494-e845-4ef2-b207-8437f72e20cd@sg-sin-2-x.blook.network:443?mode=stream-one&path=%2FVLSpdG9k&security=tls&alpn=h3&encryption=none&extra=%7BnoGRPCHeader%3Dtrue%2C%20scMaxConcurrentPosts%3D100.0%2C%20scMaxEachPostBytes%3D1000000.0%2C%20scMinPostsIntervalMs%3D30.0%2C%20xPaddingBytes%3D100-1000%2C%20xmux%3D%7BmaxConcurrency%3D128%2C%20hMaxReusableSecs%3D1800-3000%7D%7D&fp=firefox&type=xhttp&sni=sg-sin-2-x.blook.network#🌐 XX | ⚡ Fast #7
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🌐 XX | ⚡ Fast #8
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?path=%2Frsedgws&security=tls&fragment=2,0-1,tlshello,null&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&echfq=none&host=shegeftihaaa.net&allowinsecure=0&type=ws&sni=shegeftihaaa.net#🌐 XX | ⚡ Fast #9
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚡ Fast #10
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚡ Fast #8
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🌐 XX | ⚡ Fast #9
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚡ Fast #10
 vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?security=tls&type=ws&path=/api/v1/stream&host=sync.amordad.xyz&sni=sync.amordad.xyz&fp=chrome&encryption=none#🌐 XX | ⚡ Fast #11
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?type=ws&security=tls&fp=firefox&sni=sync.amordad.xyz&path=/api/v1/stream&host=sync.amordad.xyz#🌐 XX | ⚡ Fast #12
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚡ Fast #13
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?&security=tls&fp=chrome&sni=shegeftihaaa.net&type=ws&headerType=none&host=shegeftihaaa.net&path=%2Frsedgws#🌐 XX | ⚡ Fast #14
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚡ Fast #15
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚡ Fast #12
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?&security=tls&fp=chrome&sni=shegeftihaaa.net&type=ws&headerType=none&host=shegeftihaaa.net&path=%2Frsedgws#🌐 XX | ⚡ Fast #13
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?path=%2Frsedgws&security=tls&fragment=2,0-1,tlshello,null&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&echfq=none&host=shegeftihaaa.net&allowinsecure=0&type=ws&sni=shegeftihaaa.net#🌐 XX | ⚡ Fast #14
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream#🌐 XX | ⚡ Fast #15

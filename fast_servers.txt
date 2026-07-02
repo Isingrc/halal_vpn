@@ -1,47 +1,47 @@
 # FAST ALL SERVERS
-# Updated: 2026-07-02 10:28 UTC
+# Updated: 2026-07-02 13:30 UTC
 # Total: 35 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?security=tls&type=ws&path=%2Fdula&host=speed.dulacloud.store&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#🚀 Автовыбор | ⚪ Белые
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?security=tls&type=ws&path=%2Fdula&host=speed.dulacloud.store&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#🌐 XX | ⚪ Белый #1
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚪ Белый #2
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?path=%2Frsedgws&security=tls&fragment=2,0-1,tlshello,null&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&echfq=none&host=shegeftihaaa.net&allowinsecure=0&type=ws&sni=shegeftihaaa.net#🌐 XX | ⚪ Белый #3
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚪ Белый #4
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚪ Белый #5
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🌐 XX | ⚪ Белый #6
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🌐 XX | ⚪ Белый #7
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?&security=tls&fp=chrome&sni=shegeftihaaa.net&type=ws&headerType=none&host=shegeftihaaa.net&path=%2Frsedgws#🌐 XX | ⚪ Белый #8
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=%2Fdula&host=speed.dulacloud.store#🌐 XX | ⚪ Белый #9
-vless://8ebbdd3b-703c-47df-8bc9-bc9cf6606bc1@217.144.184.251:2053?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=firefox&sni=cdn.jsdelivr.net&pbk=ugTbTcS4MurvJHkOsb2sGdVhUdhfyuJwv6yvJldeCXA&sid=d9a7c1e2b3f4481a#🌐 XX | ⚪ Белый #10
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🚀 Автовыбор | ⚪ Белые
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚪ Белый #1
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=%2Fdula#🌐 XX | ⚪ Белый #2
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🌐 XX | ⚪ Белый #3
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=%2Fdula&host=speed.dulacloud.store#🌐 XX | ⚪ Белый #4
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🌐 XX | ⚪ Белый #5
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?type=ws&security=none&fp=firefox&path=/dula&host=speed.dulacloud.store#🌐 XX | ⚪ Белый #6
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?path=%2Frsedgws&security=tls&fragment=2,0-1,tlshello,null&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&echfq=none&host=shegeftihaaa.net&allowinsecure=0&type=ws&sni=shegeftihaaa.net#🌐 XX | ⚪ Белый #7
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?security=tls&type=ws&path=/api/v1/stream&host=sync.amordad.xyz&sni=sync.amordad.xyz&fp=chrome&encryption=none#🌐 XX | ⚪ Белый #8
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream#🌐 XX | ⚪ Белый #9
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚪ Белый #10
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://d45fba72-a95f-488e-87f6-7c27294cdf50@poland1.azmov.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=poland1.azmov.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&serviceName=media.session.poll&insecure=0#🚀 Автовыбор | ⚫ Чёрные
-vless://d45fba72-a95f-488e-87f6-7c27294cdf50@poland1.azmov.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=poland1.azmov.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&serviceName=media.session.poll&insecure=0#🌐 XX | ⚫ Чёрный #1
-vless://5a51aefc-b13b-4072-a43b-b05eb1d34798@cz-smart1.t1n2.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cz-smart1.t1n2.com&fp=firefox&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&sid=87898644116d7cca&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #2
-vless://3b715892-8610-4fdc-9086-647b36af5443@fastly.videobazi.com:80?encryption=none&security=none&type=xhttp&headerType=none&path=%2F&host=dutschh.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🌐 XX | ⚫ Чёрный #3
-vless://68f68e9d-e1f2-4904-9971-10983e47ffc4@cdn.fonix1.com:443?mode=stream-one&path=/mahdiisalivedkllksdhlkv6468464@&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=dustream.hediehjavani.com#🌐 XX | ⚫ Чёрный #4
-vless://68f68e9d-e1f2-4904-9971-10983e47ffc4@cdn1.sudonetwork.com:443?mode=stream-one&path=/mahdiisalivedkllksdhlkv6468464@&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=dustream.hediehjavani.com#🌐 XX | ⚫ Чёрный #5
-vless://68f68e9d-e1f2-4904-9971-10983e47ffc4@cdn6.sudonetwork.com:443?mode=stream-one&path=/mahdiisalivedkllksdhlkv6468464@&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=dustream.hediehjavani.com#🌐 XX | ⚫ Чёрный #6
-vless://9316bdbe-64c3-11f1-a103-aef63c7126b0@cam-msk-6.videomonitor.cloud:2053?mode=gun&security=reality&encryption=none&authority=&pbk=waaYYZNd0vgbsNi8BO5e0FFjxFJMWnumuOdaarKsnQs&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc-direct&sni=cam-msk-6.videomonitor.cloud&sid=e4fb18c16a95e52d#🌐 XX | ⚫ Чёрный #7
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#🌐 XX | ⚫ Чёрный #8
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=/rsedgws&host=shegeftihaaa.net#🌐 XX | ⚫ Чёрный #9
-vless://ebbc0685-0297-41b8-b86c-049caeb668e0@ger-new.private.ir.com.onthiswebsiteonlycanwin.shakhle.ir:22000?security=reality&encryption=none&pbk=xLCgdUiKeBpYK3YsT96d81yuhFuVgUeANbVeiQACRWw&headerType=none&fp=firefox&type=tcp&sni=fontawesome.com&sid=6ba85179e30d4fc2#🌐 XX | ⚫ Чёрный #10
+vless://3b715892-8610-4fdc-9086-647b36af5443@fastly.videobazi.com:80?encryption=none&security=none&type=xhttp&headerType=none&path=%2F&host=dutschh.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🚀 Автовыбор | ⚫ Чёрные
+vless://3b715892-8610-4fdc-9086-647b36af5443@fastly.videobazi.com:80?encryption=none&security=none&type=xhttp&headerType=none&path=%2F&host=dutschh.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🌐 XX | ⚫ Чёрный #1
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚫ Чёрный #2
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#🌐 XX | ⚫ Чёрный #3
+vless://b7d8604b-e24b-4973-840a-d02ed34053f1@ipv4.daimondweb.ir:2053?path=/salsaserver&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.daimondweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daimondweb.ir#🌐 XX | ⚫ Чёрный #4
+vless://4af89b09-ce0c-4dab-b798-629d8b900af0@dp-hu-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #5
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=chrome&sni=sca12.afterdomain.shop#🌐 XX | ⚫ Чёрный #6
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=chrome&sni=sca38.afterdomain.shop#🌐 XX | ⚫ Чёрный #7
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=chrome&sni=sca39.afterdomain.shop#🌐 XX | ⚫ Чёрный #8
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=firefox&sni=sca12.afterdomain.shop#🌐 XX | ⚫ Чёрный #9
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=firefox&sni=sca39.afterdomain.shop#🌐 XX | ⚫ Чёрный #10
 
 # ═══ ⚡ FAST ALL ═══
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🚀 Автовыбор | ⚡ Fast All
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🌐 XX | ⚡ Fast #1
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?&security=tls&fp=chrome&sni=shegeftihaaa.net&type=ws&headerType=none&host=shegeftihaaa.net&path=%2Frsedgws#🌐 XX | ⚡ Fast #2
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?security=tls&type=ws&path=%2Fdula&host=speed.dulacloud.store&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#🌐 XX | ⚡ Fast #3
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=%2Fdula&host=speed.dulacloud.store#🌐 XX | ⚡ Fast #4
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚡ Fast #5
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?path=%2Frsedgws&security=tls&fragment=2,0-1,tlshello,null&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&echfq=none&host=shegeftihaaa.net&allowinsecure=0&type=ws&sni=shegeftihaaa.net#🌐 XX | ⚡ Fast #6
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚡ Fast #7
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🚀 Автовыбор | ⚡ Fast All
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚡ Fast #1
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=%2Fdula#🌐 XX | ⚡ Fast #2
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🌐 XX | ⚡ Fast #3
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🌐 XX | ⚡ Fast #4
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🌐 XX | ⚡ Fast #5
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?security=tls&type=ws&path=/api/v1/stream&host=sync.amordad.xyz&sni=sync.amordad.xyz&fp=chrome&encryption=none#🌐 XX | ⚡ Fast #6
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=%2Fdula&host=speed.dulacloud.store#🌐 XX | ⚡ Fast #7
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚡ Fast #8
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🌐 XX | ⚡ Fast #9
-vless://8ebbdd3b-703c-47df-8bc9-bc9cf6606bc1@217.144.184.251:2053?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=firefox&sni=cdn.jsdelivr.net&pbk=ugTbTcS4MurvJHkOsb2sGdVhUdhfyuJwv6yvJldeCXA&sid=d9a7c1e2b3f4481a#🌐 XX | ⚡ Fast #10
-vless://8ebbdd3b-703c-47df-8bc9-bc9cf6606bc1@217.144.184.251:2053?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=cdn.jsdelivr.net&pbk=ugTbTcS4MurvJHkOsb2sGdVhUdhfyuJwv6yvJldeCXA&sid=d9a7c1e2b3f4481a#🌐 XX | ⚡ Fast #11
-vless://6d1cf8d0-d903-4a64-9e2b-fe2c5d2c3e12@46.243.235.184:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=6nsVaGZyZOiD9A0Rd9ci-r-7PO_i2ZP5kPK-0orxdS4&sid=aabb&type=tcp&headerType=none#🌐 XX | ⚡ Fast #12
-vless://a2736100-42c4-410b-b879-a6e5a6cdf2f1@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#🌐 XX | ⚡ Fast #13
-vless://4e662673-8f86-411a-ba48-e64f63c24792@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#🌐 XX | ⚡ Fast #14
-vless://1bfc278e-9ee7-4ac8-88a6-1f65b41a85fa@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#🌐 XX | ⚡ Fast #15
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?security=tls&type=ws&path=%2Fdula&host=speed.dulacloud.store&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#🌐 XX | ⚡ Fast #9
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?type=ws&security=none&fp=firefox&path=/dula&host=speed.dulacloud.store#🌐 XX | ⚡ Fast #10
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream#🌐 XX | ⚡ Fast #11
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?path=%2Frsedgws&security=tls&fragment=2,0-1,tlshello,null&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&echfq=none&host=shegeftihaaa.net&allowinsecure=0&type=ws&sni=shegeftihaaa.net#🌐 XX | ⚡ Fast #12
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚡ Fast #13
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚡ Fast #14
+vless://3283529b-3bc4-4e15-803a-7d5751a3df07@51.250.87.30:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=MofBU4YalVzrV7O_T5OmaUA5BmkITNw8qbkVSeOMvTE&sid=33ebf55b473ae1dd#🌐 XX | ⚡ Fast #15

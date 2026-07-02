@@ -1,5 +1,5 @@
 # WHITE SERVERS
-# Updated: 2026-07-02 15:59 UTC
+# Updated: 2026-07-02 17:51 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
@@ -7,11 +7,11 @@ vless://3b715892-8610-4fdc-9086-647b36af5443@earth.lukelucky.com:2086?type=xhttp
 vless://3b715892-8610-4fdc-9086-647b36af5443@earth.lukelucky.com:2086?type=xhttp&security=none&host=E.cafearen.ir&path=%2F%3Fed%3D2082&mode=auto&encryption=none#🌐 XX | ⚪ Белый #1
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🌐 XX | ⚪ Белый #2
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=support.zoom.us#🌐 XX | ⚪ Белый #3
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚪ Белый #4
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🌐 XX | ⚪ Белый #5
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🌐 XX | ⚪ Белый #6
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?&security=tls&fp=chrome&sni=shegeftihaaa.net&type=ws&headerType=none&host=shegeftihaaa.net&path=%2Frsedgws#🌐 XX | ⚪ Белый #7
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream#🌐 XX | ⚪ Белый #8
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?type=ws&security=none&fp=firefox&path=/dula&host=speed.dulacloud.store#🌐 XX | ⚪ Белый #9
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚪ Белый #10
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚪ Белый #4
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=/dula#🌐 XX | ⚪ Белый #5
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚪ Белый #6
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=%2Fdula&host=speed.dulacloud.store#🌐 XX | ⚪ Белый #7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🌐 XX | ⚪ Белый #8
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#🌐 XX | ⚪ Белый #9
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?security=tls&type=ws&path=%2Fdula&host=speed.dulacloud.store&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#🌐 XX | ⚪ Белый #10
 

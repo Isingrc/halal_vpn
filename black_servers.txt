@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-07-04 13:00 UTC
+# Updated: 2026-07-04 14:57 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?type=tcp&security=reality&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&fp=firefox&sni=storage.yandex.net&sid=d020b987f84eb78a&flow=xtls-rprx-vision#🚀 Автовыбор | ⚫ Чёрные
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?type=tcp&security=reality&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&fp=firefox&sni=storage.yandex.net&sid=d020b987f84eb78a&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #1
-vless://3e0a91ec-05a3-461f-9367-14b289a5b54b@de.monkeyisland.xyz:443?type=tcp&security=reality&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&fp=firefox&sni=de.monkeyisland.xyz&sid=19e741a804f420a7&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #2
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@relay-6bcjt33c.edgecompute.app:443?allowInsecure=0&host=relay-6bcjt33c.edgecompute.app&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&mode=auto&sni=relay-6bcjt33c.edgecompute.app&path=%2Fdana1365#🌐 XX | ⚫ Чёрный #3
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@relay-6bcjt33c.edgecompute.app:443?type=xhttp&security=tls&path=/dana1365&sni=relay-6bcjt33c.edgecompute.app&fp=chrome#🌐 XX | ⚫ Чёрный #4
-vless://ada4f294-b5c1-4de4-82ba-a654e2c3a30b@hu99.bearbeer.digital:443?type=xhttp&security=reality&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sni=hu99.bearbeer.digital&mode=auto&spx=/#🌐 XX | ⚫ Чёрный #5
-vless://43df00c9-f209-4773-b1cc-48e175bfb606@dp-hu-01.live:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🌐 XX | ⚫ Чёрный #6
-vless://43df00c9-f209-4773-b1cc-48e175bfb606@dp-hu-01.live:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#🌐 XX | ⚫ Чёрный #7
-vless://4af89b09-ce0c-4dab-b798-629d8b900af0@dp-hu-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #8
-vless://4af89b09-ce0c-4dab-b798-629d8b900af0@dp-hu-01.live:443?flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=storage.yandex.net#🌐 XX | ⚫ Чёрный #9
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?&security=tls&sni=sca12.afterdomain.shop&type=grpc&serviceName=&mode=gun#🌐 XX | ⚫ Чёрный #10
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@franceclouding.iranlast.com:7000?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=qq&type=tcp&sni=yahoo.com#🌐 XX | ⚫ Чёрный #2
+vless://3e0a91ec-05a3-461f-9367-14b289a5b54b@de.monkeyisland.xyz:443?type=tcp&security=reality&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&fp=firefox&sni=de.monkeyisland.xyz&sid=19e741a804f420a7&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #3
+vless://bdcac7d2-b7e0-49bb-9eb0-1192324ceb90@de3-r.vortexio.cc:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&sid=b2c3d4e5&sni=www.cloudflare.com#🇺🇸 US | ⚫ Чёрный #4
+vless://e63daf8b-d5ef-4dab-a43b-f731eb72e1f4@de3-r.vortexio.cc:443?flow=xtls-rprx-vision&fp=chrome&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&security=reality&sid=b2c3d4e5&sni=www.cloudflare.com#🇺🇸 US | ⚫ Чёрный #5
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@relay-6bcjt33c.edgecompute.app:443?allowInsecure=0&host=relay-6bcjt33c.edgecompute.app&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&mode=auto&sni=relay-6bcjt33c.edgecompute.app&path=%2Fdana1365#🌐 XX | ⚫ Чёрный #6
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@relay-6bcjt33c.edgecompute.app:443?type=xhttp&security=tls&path=/dana1365&sni=relay-6bcjt33c.edgecompute.app&fp=chrome#🌐 XX | ⚫ Чёрный #7
+vless://bdcac7d2-b7e0-49bb-9eb0-1192324ceb90@hk2-r.vortexio.cc:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&sid=b2c3d4e5&sni=www.cloudflare.com#🇺🇸 US | ⚫ Чёрный #8
+vless://e63daf8b-d5ef-4dab-a43b-f731eb72e1f4@hk2-r.vortexio.cc:443?flow=xtls-rprx-vision&fp=chrome&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&security=reality&sid=b2c3d4e5&sni=www.cloudflare.com#🇺🇸 US | ⚫ Чёрный #9
+vless://ada4f294-b5c1-4de4-82ba-a654e2c3a30b@hu99.bearbeer.digital:443?type=xhttp&security=reality&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sni=hu99.bearbeer.digital&mode=auto&spx=/#🌐 XX | ⚫ Чёрный #10
 

@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-07-04 13:00 UTC
+# Updated: 2026-07-04 14:57 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🚀 Автовыбор | ⚪ Белые
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚪ Белый #1
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?type=ws&security=none&fp=chrome&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #2
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=none&fp=firefox&path=%2Fcdn%2Fassets%2Fstream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #3
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allowinsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws&fragment=2%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#🌐 XX | ⚪ Белый #4
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?type=ws&host=cnd.finland2.nexusdataroute.com&path=/cdn/assets/stream#🌐 XX | ⚪ Белый #5
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚪ Белый #6
-vless://6a372c32-1b32-4c23-9671-bb1c1a13a54e@192.144.13.35:42942?encryption=none&security=none&type=tcp#🌐 XX | ⚪ Белый #7
-vless://6a372c32-1b32-4c23-9671-bb1c1a13a54e@192.144.13.35:18054?encryption=none&security=none&type=tcp#🌐 XX | ⚪ Белый #8
-vless://6a372c32-1b32-4c23-9671-bb1c1a13a54e@192.144.13.35:33837?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=&mode=auto&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚪ Белый #9
-vless://6a372c32-1b32-4c23-9671-bb1c1a13a54e@192.144.13.35:54328?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=&mode=auto&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚪ Белый #10
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🚀 Автовыбор | ⚪ Белые
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚪ Белый #1
+vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#🌐 XX | ⚪ Белый #2
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?type=ws&security=tls&fp=firefox&sni=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream&host=sync.amordad.xyz#🌐 XX | ⚪ Белый #3
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚪ Белый #4
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream#🌐 XX | ⚪ Белый #5
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚪ Белый #6
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allowinsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws&fragment=2%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#🌐 XX | ⚪ Белый #7
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=none&fp=firefox&path=%2Fcdn%2Fassets%2Fstream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #8
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?type=ws&security=none&fp=chrome&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #9
+vless://53396bf6-c215-414b-8de6-70915edb5dec@185.147.27.110:48444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yastatic.net&pbk=otX-zQKcxAsBpzEEAmeuPI3NwkN3QFZMklk_qSHwBTU#🌐 XX | ⚪ Белый #10
 

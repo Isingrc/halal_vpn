@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-04 05:45 UTC
+# Updated: 2026-07-04 08:24 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -10,8 +10,8 @@ vless://83048224-1465-4dc7-9492-d7f5ba339fee@relay-6bcjt33c.edgecompute.app:443?
 vless://83048224-1465-4dc7-9492-d7f5ba339fee@relay-6bcjt33c.edgecompute.app:443?type=xhttp&security=tls&path=/dana1365&sni=relay-6bcjt33c.edgecompute.app&fp=chrome#🌐 XX | ⚫ Чёрный #4
 vless://ada4f294-b5c1-4de4-82ba-a654e2c3a30b@hu99.bearbeer.digital:443?type=xhttp&security=reality&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sni=hu99.bearbeer.digital&mode=auto&spx=/#🌐 XX | ⚫ Чёрный #5
 vless://43df00c9-f209-4773-b1cc-48e175bfb606@dp-hu-01.live:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🌐 XX | ⚫ Чёрный #6
-vless://4af89b09-ce0c-4dab-b798-629d8b900af0@dp-hu-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #7
-vless://4af89b09-ce0c-4dab-b798-629d8b900af0@dp-hu-01.live:443?flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=storage.yandex.net#🌐 XX | ⚫ Чёрный #8
-vless://f9ae5aed-9f23-4d9b-b4b2-e82a24c2d74a@dp-hu-01.live:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&sni=storage.yandex.net#🌐 XX | ⚫ Чёрный #9
+vless://43df00c9-f209-4773-b1cc-48e175bfb606@dp-hu-01.live:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#🌐 XX | ⚫ Чёрный #7
+vless://4af89b09-ce0c-4dab-b798-629d8b900af0@dp-hu-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #8
+vless://4af89b09-ce0c-4dab-b798-629d8b900af0@dp-hu-01.live:443?flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=storage.yandex.net#🌐 XX | ⚫ Чёрный #9
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?&security=tls&sni=sca12.afterdomain.shop&type=grpc&serviceName=&mode=gun#🌐 XX | ⚫ Чёрный #10
 

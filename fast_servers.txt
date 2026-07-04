@@ -1,19 +1,19 @@
 # FAST ALL SERVERS
-# Updated: 2026-07-04 14:57 UTC
+# Updated: 2026-07-04 16:53 UTC
 # Total: 35 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🚀 Автовыбор | ⚪ Белые
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚪ Белый #1
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#🌐 XX | ⚪ Белый #2
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?type=ws&security=tls&fp=firefox&sni=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream&host=sync.amordad.xyz#🌐 XX | ⚪ Белый #3
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚪ Белый #4
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream#🌐 XX | ⚪ Белый #5
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚪ Белый #6
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allowinsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws&fragment=2%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#🌐 XX | ⚪ Белый #7
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=none&fp=firefox&path=%2Fcdn%2Fassets%2Fstream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #8
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?type=ws&security=none&fp=chrome&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #9
-vless://53396bf6-c215-414b-8de6-70915edb5dec@185.147.27.110:48444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yastatic.net&pbk=otX-zQKcxAsBpzEEAmeuPI3NwkN3QFZMklk_qSHwBTU#🌐 XX | ⚪ Белый #10
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?encryption=none&security=tls&sni=fl2.forall-npv.shop&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=fl2.forall-npv.shop&path=%2Fforall&mode=auto#🚀 Автовыбор | ⚪ Белые
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?encryption=none&security=tls&sni=fl2.forall-npv.shop&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=fl2.forall-npv.shop&path=%2Fforall&mode=auto#🌐 XX | ⚪ Белый #1
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?encryption=none&security=tls&sni=fl2.forall-npv.shop&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fforall&mode=auto#🌐 XX | ⚪ Белый #2
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚪ Белый #3
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?type=ws&security=none&fp=chrome&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #4
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚪ Белый #5
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allowinsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws&fragment=2%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#🌐 XX | ⚪ Белый #6
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=none&fp=firefox&path=%2Fcdn%2Fassets%2Fstream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚪ Белый #7
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚪ Белый #8
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?type=ws&host=cnd.finland2.nexusdataroute.com&path=/cdn/assets/stream#🌐 XX | ⚪ Белый #9
+vless://0a3f4e17-70a2-47cd-9fb6-56fe57caf15a@195.208.65.150:443?type=ws&security=tls&fp=chrome&sni=s46270.cdn.ngenix.net&path=/v1/data/sync/&host=s46270.cdn.ngenix.net#🌐 XX | ⚪ Белый #10
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?type=tcp&security=reality&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&fp=firefox&sni=storage.yandex.net&sid=d020b987f84eb78a&flow=xtls-rprx-vision#🚀 Автовыбор | ⚫ Чёрные
@@ -29,19 +29,19 @@ vless://e63daf8b-d5ef-4dab-a43b-f731eb72e1f4@hk2-r.vortexio.cc:443?flow=xtls-rpr
 vless://ada4f294-b5c1-4de4-82ba-a654e2c3a30b@hu99.bearbeer.digital:443?type=xhttp&security=reality&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sni=hu99.bearbeer.digital&mode=auto&spx=/#🌐 XX | ⚫ Чёрный #10
 
 # ═══ ⚡ FAST ALL ═══
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🚀 Автовыбор | ⚡ Fast All
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚡ Fast #1
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443?type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#🌐 XX | ⚡ Fast #2
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allowinsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws&fragment=2%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#🌐 XX | ⚡ Fast #3
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?type=ws&security=tls&fp=firefox&sni=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream&host=sync.amordad.xyz#🌐 XX | ⚡ Fast #4
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?type=ws&security=none&fp=chrome&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚡ Fast #5
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream#🌐 XX | ⚡ Fast #6
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚡ Fast #7
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚡ Fast #8
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=none&fp=firefox&path=%2Fcdn%2Fassets%2Fstream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚡ Fast #9
-vless://53396bf6-c215-414b-8de6-70915edb5dec@185.147.27.110:48444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yastatic.net&pbk=otX-zQKcxAsBpzEEAmeuPI3NwkN3QFZMklk_qSHwBTU#🌐 XX | ⚡ Fast #10
-vless://3483aa7a-8a7d-4561-8f77-4fbf7a0b1033@5.188.115.226:9443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ns&fp=firefox&sni=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8#🌐 XX | ⚡ Fast #11
-vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@185.22.234.32:7443?encryption=none&type=ws&security=tls&path=/ws&fp=qq&sni=mms-2.hysteria.ltd#🌐 XX | ⚡ Fast #12
-vless://72edcaa1-685e-4022-9576-273746529e1f@78.159.245.43:25567?allowInsecure=1&flow=xtls-rprx-vision&fp=qq&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&security=reality&sid=a5bd715847213387&sni=iv.kommersant.ru&type=tcp#🌐 XX | ⚡ Fast #13
-vless://58b700b0-0ee8-4bb1-9069-bdf347377f54@194.55.239.155:69?encryption=none&type=xhttp&host=ads.x5.ru&path=%2Fapi%2Fv1%2Fevents&mode=auto#🌐 XX | ⚡ Fast #14
-vless://72edcaa1-685e-4022-9576-273746529e1f@78.159.250.189:1111?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA#🌐 XX | ⚡ Fast #15
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?encryption=none&security=tls&sni=fl2.forall-npv.shop&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=fl2.forall-npv.shop&path=%2Fforall&mode=auto#🚀 Автовыбор | ⚡ Fast All
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?encryption=none&security=tls&sni=fl2.forall-npv.shop&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=fl2.forall-npv.shop&path=%2Fforall&mode=auto#🌐 XX | ⚡ Fast #1
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?encryption=none&security=tls&sni=fl2.forall-npv.shop&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fforall&mode=auto#🌐 XX | ⚡ Fast #2
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚡ Fast #3
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚡ Fast #4
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?type=ws&host=cnd.finland2.nexusdataroute.com&path=/cdn/assets/stream#🌐 XX | ⚡ Fast #5
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚡ Fast #6
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=none&fp=firefox&path=%2Fcdn%2Fassets%2Fstream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚡ Fast #7
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?type=ws&security=none&fp=chrome&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com#🌐 XX | ⚡ Fast #8
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allowinsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws&fragment=2%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#🌐 XX | ⚡ Fast #9
+vless://2766fda3-bb08-438a-94d7-0022e188ca31@195.208.65.192:443?type=ws&security=tls&encryption=none&path=%2Fv1%2Fdata%2Fsync%2F&host=s46270.cdn.ngenix.net&sni=s46270.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1&headerType=none#🌐 XX | ⚡ Fast #10
+vless://2766fda3-bb08-438a-94d7-0022e188ca31@195.208.65.150:443?type=ws&security=tls&fp=chrome&sni=s46270.cdn.ngenix.net&path=/v1/data/sync/&host=s46270.cdn.ngenix.net#🌐 XX | ⚡ Fast #11
+vless://2766fda3-bb08-438a-94d7-0022e188ca31@195.208.65.150:443?type=ws&security=tls&encryption=none&path=%2Fv1%2Fdata%2Fsync%2F&host=s46270.cdn.ngenix.net&sni=s46270.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1&headerType=none#🌐 XX | ⚡ Fast #12
+vless://4d94361c-f1a4-46e1-a627-20b2af06173b@195.208.65.150:443?type=ws&security=tls&encryption=none&path=%2Fv1%2Fdata%2Fsync%2F&host=s46270.cdn.ngenix.net&sni=s46270.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1&headerType=none#🌐 XX | ⚡ Fast #13
+vless://3b85590e-225c-4a6e-a5f0-f7cd1ad62f44@195.208.65.192:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s46270.cdn.ngenix.net&fp=chrome&sni=s46270.cdn.ngenix.net&alpn=http%2F1.1#🌐 XX | ⚡ Fast #14
+vless://4d94361c-f1a4-46e1-a627-20b2af06173b@195.208.65.150:443?type=ws&security=tls&fp=chrome&sni=s46270.cdn.ngenix.net&path=/v1/data/sync/&host=s46270.cdn.ngenix.net#🌐 XX | ⚡ Fast #15

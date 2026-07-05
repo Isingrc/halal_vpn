@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-05 19:01 UTC
+# Updated: 2026-07-05 20:47 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -10,8 +10,8 @@ vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?type=tcp&securi
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌐 XX | ⚫ Чёрный #4
 vless://934ad6e9-90a2-4fb9-957a-29905d63ebd0@199.232.237.66:443?encryption=none&security=tls&sni=global.fastly.com&insecure=0&allowInsecure=0&type=xhttp&host=website-alfredo.global.ssl.fastly.net&path=%2F%40Alfred_Config&mode=auto#🌐 XX | ⚫ Чёрный #5
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@45.13.119.246:7000?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=qq&type=tcp&sni=yahoo.com#🌐 XX | ⚫ Чёрный #6
-vless://497631c4-a1a4-009d-a86a-f42873473bb6@130.94.117.28:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #7
-vless://608fb1de-d1bb-4277-8496-8c2e584ce626@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🌐 XX | ⚫ Чёрный #8
-vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.58:443?type=tcp&security=reality&sni=cdn6-49.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=3c9c5d01c6f824dd#🌐 XX | ⚫ Чёрный #9
-vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.225:443?type=tcp&security=reality&sni=cdn6-49.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=3c9c5d01c6f824dd#🌐 XX | ⚫ Чёрный #10
+vless://0b08b1c4-342a-4992-ac5f-5b9eff2327a0@20.151.233.69:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=safari&pbk=dalyPgxW_YMUf1O3cgNWc-3XDeShAzU43307V4rBr3s&sid=64597fca#🇺🇸 US | ⚫ Чёрный #7
+vless://497631c4-a1a4-009d-a86a-f42873473bb6@130.94.117.28:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #8
+vless://608fb1de-d1bb-4277-8496-8c2e584ce626@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🌐 XX | ⚫ Чёрный #9
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:8443?flow=xtls-rprx-vision&fp=firefox&pbk=EIlnBMyH--EIasnzGPJAAFSP5WM_4FNU4ktFUQI0O00&security=reality&sid=a13edee689fca1da&sni=cdn2.swaginozip.fun&type=tcp#🌐 XX | ⚫ Чёрный #10
 

@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-07-05 20:47 UTC
+# Updated: 2026-07-05 22:53 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🚀 Автовыбор | ⚪ Белые
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚪ Белый #1
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚪ Белый #2
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🌐 XX | ⚪ Белый #3
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream#🌐 XX | ⚪ Белый #4
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream#🌐 XX | ⚪ Белый #2
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚪ Белый #3
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🌐 XX | ⚪ Белый #4
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚪ Белый #5
 vless://497631c4-a1a4-0007-a86a-f42873473bb6@46.8.209.134:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=43dcff53849b81e6#🌐 XX | ⚪ Белый #6
-vless://497631c4-a1a4-000a-a86a-f42873473bb6@194.55.239.132:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#🌐 XX | ⚪ Белый #7
+vless://497631c4-a1a4-0012-a86a-f42873473bb6@46.243.142.157:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#🌐 XX | ⚪ Белый #7
 vless://497631c4-a1a4-000b-a86a-f42873473bb6@46.8.209.161:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=43dcff53849b81e6#🌐 XX | ⚪ Белый #8
-vless://497631c4-a1a4-0012-a86a-f42873473bb6@46.8.208.14:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#🌐 XX | ⚪ Белый #9
-vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:18054?type=tcp&security=none&fp=firefox#🌐 XX | ⚪ Белый #10
+vless://497631c4-a1a4-0012-a86a-f42873473bb6@46.243.142.104:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#🌐 XX | ⚪ Белый #9
+vless://497631c4-a1a4-0007-a86a-f42873473bb6@46.243.142.104:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#🌐 XX | ⚪ Белый #10
 

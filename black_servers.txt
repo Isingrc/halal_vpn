@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-07-07 07:29 UTC
+# Updated: 2026-07-07 10:45 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://1144c488-b3e9-470b-977c-a12fb75b1113@m247-br-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=b4f3a05896b60039&type=tcp&headerType=none#🚀 Автовыбор | ⚫ Чёрные
-vless://1144c488-b3e9-470b-977c-a12fb75b1113@m247-br-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=b4f3a05896b60039&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #1
-vless://5163b7f3-c9bd-42ec-9841-350c84cbcdb5@ee.lockaway.top:443?type=xhttp&security=tls&path=/api/v2/stream/&sni=ee.lockaway.top&fp=firefox#🌐 XX | ⚫ Чёрный #2
-vless://bd99da97-265e-0021-82cc-4ec009fe9ce2@perecbass.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=a7b2c9d4&sni=www.amd.com&spx=/#🌐 XX | ⚫ Чёрный #3
-vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?type=ws&security=tls&fp=firefox&sni=ssl.fastly.com&host=firsttime.global.ssl.fastly.net#🌐 XX | ⚫ Чёрный #4
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#🌐 XX | ⚫ Чёрный #5
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?type=tcp&security=reality&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&fp=firefox&sni=storage.yandex.net&sid=d020b987f84eb78a&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #6
-vless://f646f45d-7b20-43a4-ad11-6c6fd6a28e09@fin67.voidshield.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=fin67.voidshield.site&pbk=V28fN5S91Q9kqKyu9DrLkoNcSkWy4S0HXKzJX-r_HxU&fp=edge#🌐 XX | ⚫ Чёрный #7
-vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌐 XX | ⚫ Чёрный #8
-vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&type=ws&path=%2F&host=sevenfeshab.global.ssl.fastly.net&packetEncoding=xudp&sni=ssl.fastly.com&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #9
-vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?type=ws&security=tls&fp=firefox&sni=ssl.fastly.com&host=sevenfeshab.global.ssl.fastly.net#🌐 XX | ⚫ Чёрный #10
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=firsttime.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🚀 Автовыбор | ⚫ Чёрные
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=firsttime.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌐 XX | ⚫ Чёрный #1
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?type=ws&security=tls&fp=firefox&sni=ssl.fastly.com&host=firsttime.global.ssl.fastly.net#🌐 XX | ⚫ Чёрный #2
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌐 XX | ⚫ Чёрный #3
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&type=ws&path=%2F&host=sevenfeshab.global.ssl.fastly.net&packetEncoding=xudp&sni=ssl.fastly.com&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #4
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?type=ws&security=tls&fp=firefox&sni=ssl.fastly.com&host=sevenfeshab.global.ssl.fastly.net#🌐 XX | ⚫ Чёрный #5
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=sevenfeshab.global.ssl.fastly.net&path=/#🌐 XX | ⚫ Чёрный #6
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@199.232.78.159:443?type=ws&security=tls&fp=firefox&sni=ssl.fastly.com&path=/&host=sevenfeshab.global.ssl.fastly.net#🌐 XX | ⚫ Чёрный #7
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=firsttime.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#🌐 XX | ⚫ Чёрный #8
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@199.232.78.159:443?security=tls&type=ws&path=%2F&host=sevenfeshab.global.ssl.fastly.net&packetEncoding=xudp&sni=ssl.fastly.com&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #9
+vless://fee5bf09-5d07-45e8-9a47-859b06694971@5.181.202.222:8443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=CzI1Zft9ToNgciMIfMhtn_Q5RRO0Q3AyURYvrvnKL14&sni=ads.x5.ru&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #10
 

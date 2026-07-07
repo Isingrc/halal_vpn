@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-07-07 02:06 UTC
+# Updated: 2026-07-07 07:29 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://1144c488-b3e9-470b-977c-a12fb75b1113@m247-br-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=b4f3a05896b60039&type=tcp&headerType=none#🚀 Автовыбор | ⚪ Белые
-vless://1144c488-b3e9-470b-977c-a12fb75b1113@m247-br-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=b4f3a05896b60039&type=tcp&headerType=none#🌐 XX | ⚪ Белый #1
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚪ Белый #2
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚪ Белый #3
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚪ Белый #4
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🌐 XX | ⚪ Белый #5
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚪ Белый #6
-vless://b39714dd-b1b2-4a34-95ae-22d7c78a54d6@81.94.148.75:8443?fp=firefox&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&serviceName=ads.x5.ru&sid=c05d4c564d2bcd&sni=ads.x5.ru&type=grpc#🌐 XX | ⚪ Белый #7
-vless://15173b3d-22bf-5ac2-85ac-2bddaae12574@78.159.250.22:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=firefox&sni=yandex.ru&pbk=k0bArveUYPbO0W53IQDSSJYKllFFQUnHmtA_WjJjvCc&sid=54d21365d229cc8b&spx=/#🌐 XX | ⚪ Белый #8
-vless://5e72f963-bad4-4d82-a2e4-6d9cc9ee9bd1@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#🌐 XX | ⚪ Белый #9
-vless://1ddf33c9-917f-4d3a-8a3e-a8f499a22d69@5.188.115.226:13443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=cdn.byteark.com&pbk=N6RiU4XHQl31HeKmBNOFDypgfDqqshGa7zxfqe72hjk&sid=e42075de64c24511&spx=%2F#🌐 XX | ⚪ Белый #10
+vless://b22d87f9-3098-429f-a9fe-56463e0dc741@fast_s24.slopllex.app:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=edge&sni=fast_s24.slopllex.app&fm={#🚀 Автовыбор | ⚪ Белые
+vless://b22d87f9-3098-429f-a9fe-56463e0dc741@fast_s24.slopllex.app:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=edge&sni=fast_s24.slopllex.app&fm={#🌐 XX | ⚪ Белый #1
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?type=xhttp&security=tls&fp=chrome&sni=fl2.forall-npv.shop&path=/forall&mode=auto#🌐 XX | ⚪ Белый #2
+vless://8e62a80b-83ee-4eb8-9852-e8f8c7a6c4fa@fast_s8.screw.page:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=fast_s8.screw.page&fm={#🌐 XX | ⚪ Белый #3
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚪ Белый #4
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.208.61:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🌐 XX | ⚪ Белый #5
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚪ Белый #6
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚪ Белый #7
+vless://1ddf33c9-917f-4d3a-8a3e-a8f499a22d69@5.188.115.226:13443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=cdn.byteark.com&pbk=N6RiU4XHQl31HeKmBNOFDypgfDqqshGa7zxfqe72hjk&sid=e42075de64c24511&spx=%2F#🌐 XX | ⚪ Белый #8
+vless://1144c488-b3e9-470b-977c-a12fb75b1113@154.91.157.65:443?flow=xtls-rprx-vision&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=b4f3a05896b60039&sni=storage.yandex.net&type=tcp#🌐 XX | ⚪ Белый #9
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@45.12.28.47:443?encryption=none&security=tls&sni=premium.click-connect.online&fp=safari&insecure=0&allowInsecure=0&type=xhttp&host=premium.click-connect.online&path=%2Fapi%2Fv2%2Fsync%2F&mode=auto#🌐 XX | ⚪ Белый #10
 

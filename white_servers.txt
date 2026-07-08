@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-07-08 08:08 UTC
+# Updated: 2026-07-08 11:42 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?security=tls&type=xhttp&path=/forall&host=fl2.forall-npv.shop&packetEncoding=xudp&alpn=h2,http/1.1&sni=fl2.forall-npv.shop&fp=chrome&mode=auto&encryption=none#🚀 Автовыбор | ⚪ Белые
-vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?security=tls&type=xhttp&path=/forall&host=fl2.forall-npv.shop&packetEncoding=xudp&alpn=h2,http/1.1&sni=fl2.forall-npv.shop&fp=chrome&mode=auto&encryption=none#🌐 XX | ⚪ Белый #1
-vless://1cb3deac-0708-46f0-a54f-0e9ed32bcda7@s58225.cdn.ngenix.net:443?path=%2Fv1%2Fdata%2Fsync%2F&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws#🌐 XX | ⚪ Белый #2
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚪ Белый #3
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🌐 XX | ⚪ Белый #4
-vless://73f6e13f-c723-4e39-a93b-21328b1e5cf0@8.6.112.0:443?type=ws&security=tls&fp=chrome&sni=polshaov.ochmaybrooooo.online&path=/&host=polshaov.ochmaybrooooo.online#🌐 XX | ⚪ Белый #5
-vless://73f6e13f-c723-4e39-a93b-21328b1e5cf0@8.6.112.0:443?type=ws&headerType=none&security=tls&encryption=none&sni=polshaov.ochmaybrooooo.online&fp=chrome&alpn=http%2F1.1&path=%2F&host=polshaov.ochmaybrooooo.online&insecure=0#🌐 XX | ⚪ Белый #6
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚪ Белый #7
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@217.26.27.149:12443?encryption=none&type=xhttp&security=reality&sni=vk.ru&pbk=UIpd1ZrRZxWI2HUazgIBL-pt4bFpYvu-b8SL7uQvdBM&fp=qq&path=%2F#🌐 XX | ⚪ Белый #8
-vless://4cc53e63-1cda-4bbb-9c79-3b72c0669f4a@78.41.110.128:443?type=ws&security=tls&encryption=none&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&sni=s36978.cdn.ngenix.net&fp=chrome&headerType=none#🌐 XX | ⚪ Белый #9
-vless://317cc64a-4149-40f2-9f71-f4376acab8b2@78.41.110.128:443?type=ws&security=tls&encryption=none&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&sni=s36978.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1&headerType=none#🌐 XX | ⚪ Белый #10
+vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:42942?encryption=none&type=raw&security=none#🚀 Автовыбор | ⚪ Белые
+vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:42942?encryption=none&type=raw&security=none#🌐 XX | ⚪ Белый #1
+vless://8d1b19e5-424f-4c74-8d66-5a702d03c6b6@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#🌐 XX | ⚪ Белый #2
+vless://d6b7e4f1-0f7a-46d7-99ae-53ac73b073d2@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#🌐 XX | ⚪ Белый #3
+vless://fee5bf09-5d07-45e8-9a47-859b06694971@217.26.27.149:12443?encryption=none&type=xhttp&security=reality&sni=vk.ru&pbk=UIpd1ZrRZxWI2HUazgIBL-pt4bFpYvu-b8SL7uQvdBM&fp=qq&path=%2F#🌐 XX | ⚪ Белый #4
+vless://4cc53e63-1cda-4bbb-9c79-3b72c0669f4a@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#🌐 XX | ⚪ Белый #5
+vless://78fe8411-ffa8-4ef5-8447-c887e62bf2a7@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#🌐 XX | ⚪ Белый #6
+vless://41fc2bf8-86cb-4c01-93e8-a5c00f73247d@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#🌐 XX | ⚪ Белый #7
+vless://191a7787-ebcc-412f-9adb-e39830ac2c10@78.41.110.128:443?type=ws&security=tls&fp=chrome&sni=s36978.cdn.ngenix.net&path=/v1/data/sync/&host=s36978.cdn.ngenix.net#🌐 XX | ⚪ Белый #8
+vless://a5109545-4309-4884-937a-d060f751fe43@51.250.4.111:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RlS6X9Zlvd0gK00gVDob0_kTticM95kvCS3Jx6eVjVA&sid=979d7c35b8e05ce1&sni=ads.x5.ru#🌐 XX | ⚪ Белый #9
+vless://a5109545-4309-4884-937a-d060f751fe43@194.156.119.13:444?type=xhttp&security=reality&fp=firefox&pbk=rclzSW2J_TfH_vtaL4gEs3hPH1OLRKF7whw33PtqdgM&sid=35ac2f4d&sni=m.vk.com&path=/api/vpn/&mode=auto#🌐 XX | ⚪ Белый #10
 

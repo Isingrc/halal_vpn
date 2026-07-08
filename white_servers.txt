@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-07-08 11:42 UTC
+# Updated: 2026-07-08 13:41 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:42942?encryption=none&type=raw&security=none#🚀 Автовыбор | ⚪ Белые
-vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:42942?encryption=none&type=raw&security=none#🌐 XX | ⚪ Белый #1
-vless://8d1b19e5-424f-4c74-8d66-5a702d03c6b6@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#🌐 XX | ⚪ Белый #2
-vless://d6b7e4f1-0f7a-46d7-99ae-53ac73b073d2@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#🌐 XX | ⚪ Белый #3
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@217.26.27.149:12443?encryption=none&type=xhttp&security=reality&sni=vk.ru&pbk=UIpd1ZrRZxWI2HUazgIBL-pt4bFpYvu-b8SL7uQvdBM&fp=qq&path=%2F#🌐 XX | ⚪ Белый #4
-vless://4cc53e63-1cda-4bbb-9c79-3b72c0669f4a@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#🌐 XX | ⚪ Белый #5
-vless://78fe8411-ffa8-4ef5-8447-c887e62bf2a7@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#🌐 XX | ⚪ Белый #6
-vless://41fc2bf8-86cb-4c01-93e8-a5c00f73247d@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#🌐 XX | ⚪ Белый #7
-vless://191a7787-ebcc-412f-9adb-e39830ac2c10@78.41.110.128:443?type=ws&security=tls&fp=chrome&sni=s36978.cdn.ngenix.net&path=/v1/data/sync/&host=s36978.cdn.ngenix.net#🌐 XX | ⚪ Белый #8
-vless://a5109545-4309-4884-937a-d060f751fe43@51.250.4.111:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RlS6X9Zlvd0gK00gVDob0_kTticM95kvCS3Jx6eVjVA&sid=979d7c35b8e05ce1&sni=ads.x5.ru#🌐 XX | ⚪ Белый #9
-vless://a5109545-4309-4884-937a-d060f751fe43@194.156.119.13:444?type=xhttp&security=reality&fp=firefox&pbk=rclzSW2J_TfH_vtaL4gEs3hPH1OLRKF7whw33PtqdgM&sid=35ac2f4d&sni=m.vk.com&path=/api/vpn/&mode=auto#🌐 XX | ⚪ Белый #10
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#🚀 Автовыбор | ⚪ Белые
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#🌐 XX | ⚪ Белый #1
+vless://7cec3808-65d4-4dbd-941f-e9b640977071@cdn.stroimvmeste.icu:443?mode=auto&path=%2Fstart&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.stroimvmeste.icu#🌐 XX | ⚪ Белый #2
+vless://7cec3808-65d4-4dbd-941f-e9b640977071@cdn.stroimvmeste.icu:443?path=%2Fstart&security=tls&alpn=h2%2C%20http%2F1.1&encryption=none&insecure=0&host=cdn.stroimvmeste.icu&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.stroimvmeste.icu#🌐 XX | ⚪ Белый #3
+vless://7cec3808-65d4-4dbd-941f-e9b640977071@cdn.stroimvmeste.icu:443?type=xhttp&security=tls&sni=cdn.stroimvmeste.icu&path=/start&mode=auto#🌐 XX | ⚪ Белый #4
+vless://ff3f3ba2-79e4-11f1-b665-b6c158fa8593@cam-msk-3.videomonitor.cloud:2053?encryption=none&security=reality&sni=cam-msk-3.videomonitor.cloud&fp=chrome&pbk=WOf2IaQzzj3Kx0uIVKMu0njVKXyVJN-KDQ9ZFtOIcis&sid=6679d242e392dfb8&type=grpc&authority=&serviceName=grpc-direct&mode=gun#🌐 XX | ⚪ Белый #5
+vless://1144c488-b3e9-470b-977c-a12fb75b1113@mws-ru-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=caa0a516476ad539&type=tcp&headerType=none#🌐 XX | ⚪ Белый #6
+vless://3a1c0a73-7ff1-4ddd-a196-92219fa04f93@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#🌐 XX | ⚪ Белый #7
+vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:59242?encryption=none&security=none&type=tcp#🌐 XX | ⚪ Белый #8
+vless://7cec3808-65d4-4dbd-941f-e9b640977071@185.71.67.223:443?encryption=none&type=xhttp&security=tls&path=%2Fstart&mode=auto&extra=null&fp=qq&sni=cdn.stroimvmeste.icu#🌐 XX | ⚪ Белый #9
+vless://7cec3808-65d4-4dbd-941f-e9b640977071@185.71.67.223:443?encryption=none&type=xhttp&security=tls&host=cdn.stroimvmeste.icu&path=%2Fstart&extra=null&fp=chrome&sni=cdn.stroimvmeste.icu&alpn=h2%2Chttp%2F1.1#🌐 XX | ⚪ Белый #10
 

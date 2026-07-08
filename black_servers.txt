@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-08 11:42 UTC
+# Updated: 2026-07-08 13:41 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -12,6 +12,6 @@ vless://5163b7f3-c9bd-42ec-9841-350c84cbcdb5@pl.lockaway.top:443?mode=auto&path=
 vless://5163b7f3-c9bd-42ec-9841-350c84cbcdb5@pl.lockaway.top:443?type=xhttp&security=tls&path=/api/v2/stream/&sni=pl.lockaway.top&fp=firefox#🌐 XX | ⚫ Чёрный #6
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #7
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🌐 XX | ⚫ Чёрный #8
-vless://73f6e13f-c723-4e39-a93b-21328b1e5cf0@8.6.112.0:443?type=ws&headerType=none&security=tls&encryption=none&sni=polshaov.ochmaybrooooo.online&fp=chrome&alpn=http%2F1.1&path=%2F&host=polshaov.ochmaybrooooo.online&insecure=0#🌐 XX | ⚫ Чёрный #9
-vless://82c50d0a-707f-4d23-9718-4ccd383ad6d7@199.232.244.132:443?encryption=none&security=tls&sni=manage.fastly.com&alpn=h3&fp=chrome&allowinsecure=0&type=xhttp&mode=packet-up&host=lunex.store&path=%2FLunex&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D#🌐 XX | ⚫ Чёрный #10
+vless://73f6e13f-c723-4e39-a93b-21328b1e5cf0@8.6.112.0:443?type=ws&security=tls&fp=chrome&sni=polshaov.ochmaybrooooo.online&path=/&host=polshaov.ochmaybrooooo.online#🌐 XX | ⚫ Чёрный #9
+vless://73f6e13f-c723-4e39-a93b-21328b1e5cf0@8.6.112.0:443?type=ws&headerType=none&security=tls&encryption=none&sni=polshaov.ochmaybrooooo.online&fp=chrome&alpn=http%2F1.1&path=%2F&host=polshaov.ochmaybrooooo.online&insecure=0#🌐 XX | ⚫ Чёрный #10
 

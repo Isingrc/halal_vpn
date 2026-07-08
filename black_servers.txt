@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-07-08 15:57 UTC
+# Updated: 2026-07-08 17:25 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://5163b7f3-c9bd-42ec-9841-350c84cbcdb5@ee.lockaway.top:443?type=xhttp&security=tls&path=/api/v2/stream/&sni=ee.lockaway.top&fp=firefox#🚀 Автовыбор | ⚫ Чёрные
-vless://5163b7f3-c9bd-42ec-9841-350c84cbcdb5@ee.lockaway.top:443?type=xhttp&security=tls&path=/api/v2/stream/&sni=ee.lockaway.top&fp=firefox#🌐 XX | ⚫ Чёрный #1
-vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?security=tls&type=xhttp&path=/forall&host=fl2.forall-npv.shop&packetEncoding=xudp&alpn=h2,http/1.1&sni=fl2.forall-npv.shop&fp=chrome&mode=auto&encryption=none#🌐 XX | ⚫ Чёрный #2
-vless://90c09d42-c5f6-4602-bba8-957df1ed5598@securitytrails.com:443?security=tls&type=xhttp&path=/forall&host=cdn.webhookapi.dpdns.org&packetEncoding=xudp&alpn=h2,http/1.1&sni=cdn.webhookapi.dpdns.org&fp=chrome&mode=auto&extra={"xPaddingBytes":"100-1000"}&encryption=none#🌐 XX | ⚫ Чёрный #3
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#🌐 XX | ⚫ Чёрный #4
-vless://5163b7f3-c9bd-42ec-9841-350c84cbcdb5@pl.lockaway.top:443?mode=auto&path=%2Fapi%2Fv2%2Fstream%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D&host=pl.lockaway.top&fp=firefox&type=xhttp&sni=pl.lockaway.top#🌐 XX | ⚫ Чёрный #5
-vless://5163b7f3-c9bd-42ec-9841-350c84cbcdb5@pl.lockaway.top:443?type=xhttp&security=tls&path=/api/v2/stream/&sni=pl.lockaway.top&fp=firefox#🌐 XX | ⚫ Чёрный #6
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🌐 XX | ⚫ Чёрный #7
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #8
-vless://73f6e13f-c723-4e39-a93b-21328b1e5cf0@8.6.112.0:443?type=ws&headerType=none&security=tls&encryption=none&sni=polshaov.ochmaybrooooo.online&fp=chrome&alpn=http%2F1.1&path=%2F&host=polshaov.ochmaybrooooo.online&insecure=0#🌐 XX | ⚫ Чёрный #9
-vless://82c50d0a-707f-4d23-9718-4ccd383ad6d7@199.232.244.132:443?encryption=none&security=tls&sni=manage.fastly.com&alpn=h3&fp=chrome&allowinsecure=0&type=xhttp&mode=packet-up&host=lunex.store&path=%2FLunex&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D#🌐 XX | ⚫ Чёрный #10
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?security=tls&type=xhttp&path=/forall&host=fl2.forall-npv.shop&packetEncoding=xudp&alpn=h2,http/1.1&sni=fl2.forall-npv.shop&fp=chrome&mode=auto&encryption=none#🚀 Автовыбор | ⚫ Чёрные
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?security=tls&type=xhttp&path=/forall&host=fl2.forall-npv.shop&packetEncoding=xudp&alpn=h2,http/1.1&sni=fl2.forall-npv.shop&fp=chrome&mode=auto&encryption=none#🌐 XX | ⚫ Чёрный #1
+vless://90c09d42-c5f6-4602-bba8-957df1ed5598@securitytrails.com:443?security=tls&type=xhttp&path=/forall&host=cdn.webhookapi.dpdns.org&packetEncoding=xudp&alpn=h2,http/1.1&sni=cdn.webhookapi.dpdns.org&fp=chrome&mode=auto&extra={"xPaddingBytes":"100-1000"}&encryption=none#🌐 XX | ⚫ Чёрный #2
+vless://90c09d42-c5f6-4602-bba8-957df1ed5598@securitytrails.com:443?type=xhttp&security=tls&fp=chrome&sni=cdn.webhookapi.dpdns.org&path=/forall&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#🌐 XX | ⚫ Чёрный #3
+vless://90c09d42-c5f6-4602-bba8-957df1ed5598@securitytrails.com:443?type=xhttp&security=tls&sni=cdn.webhookapi.dpdns.org&path=/forall&mode=auto#🌐 XX | ⚫ Чёрный #4
+vless://6ef949ca-e300-45e6-9abc-c1f62d030239@s58225.cdn.ngenix.net:443?encryption=none&security=tls&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fv1%2Fdata%2Fsync%2F#🌐 XX | ⚫ Чёрный #5
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@ro.spectrum.vu:443?encryption=none&type=grpc&security=reality&sni=ro.spectrum.vu&pbk=Ia9JdXTzAzoqPEkarBg6HFdXrSKYcUh_dt59tyMjukk&sid=c9e0a2f4b6d8&fp=chrome&serviceName=vless#🌐 XX | ⚫ Чёрный #6
+vless://00cb997f-aebb-4c0b-93de-616962738aa0@news.zoom.us:8443?type=ws&security=tls&fp=chrome&sni=apexcloud.ggff.net&path=/apexcloud.ggff.net&host=apexcloud.ggff.net#🌐 XX | ⚫ Чёрный #7
+vless://7983f39c-7251-43b9-991d-62677bfee640@support.zoom.us:80?packetEncoding=xudp&type=ws&path=%2Fapexcloud.ggff.net&host=apexcloud.ggff.net&sni=support.zoom.us#🌐 XX | ⚫ Чёрный #8
+vless://7983f39c-7251-43b9-991d-62677bfee640@support.zoom.us:80?security=none&type=ws&path=%2Fapexcloud.ggff.net&host=apexcloud.ggff.net&packetEncoding=xudp&encryption=none#🌐 XX | ⚫ Чёрный #9
+vless://7983f39c-7251-43b9-991d-62677bfee640@support.zoom.us:80?type=ws&security=none&fp=firefox&path=/apexcloud.ggff.net&host=apexcloud.ggff.net#🌐 XX | ⚫ Чёрный #10
 

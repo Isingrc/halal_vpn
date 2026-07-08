@@ -1,5 +1,5 @@
 # WHITE SERVERS
-# Updated: 2026-07-08 17:25 UTC
+# Updated: 2026-07-08 19:07 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
@@ -10,8 +10,8 @@ vless://1144c488-b3e9-470b-977c-a12fb75b1113@mws-ru-01.live:443?encryption=none&
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@185.22.234.32:7443?encryption=none&type=ws&security=tls&path=/ws&sni=mms-2.hysteria.ltd#🌐 XX | ⚪ Белый #4
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@185.22.234.32:7443?encryption=none&type=ws&security=tls&path=/ws&fp=qq&sni=mms-2.hysteria.ltd#🌐 XX | ⚪ Белый #5
 vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@194.55.239.181:7443?encryption=none&type=ws&security=tls&path=%2Fws&sni=sw-1-al.hysteria.ltd#🌐 XX | ⚪ Белый #6
-vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@46.8.208.49:7443?encryption=none&fp=chrome&path=/ws&security=tls&sni=nl-cnn-1.hysteria.ltd&type=ws#🌐 XX | ⚪ Белый #7
-vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@46.8.208.17:7443?encryption=none&type=ws&security=tls&path=/ws&fp=qq&sni=mms-3.hysteria.ltd#🌐 XX | ⚪ Белый #8
-vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@46.8.208.17:7443?encryption=none&type=ws&security=tls&path=%2Fws&sni=mms-3.hysteria.ltd#🌐 XX | ⚪ Белый #9
-vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@46.8.208.49:7443?encryption=none&type=ws&security=tls&path=%2Fws&sni=nl-cnn-1.hysteria.ltd#🌐 XX | ⚪ Белый #10
+vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@46.8.208.49:7443?encryption=none&fp=qq&path=/ws&security=tls&sni=nl-cnn-1.hysteria.ltd&type=ws#🌐 XX | ⚪ Белый #7
+vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@46.8.208.17:7443?encryption=none&type=ws&security=tls&path=%2Fws&sni=mms-3.hysteria.ltd#🌐 XX | ⚪ Белый #8
+vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@46.8.208.49:7443?encryption=none&type=ws&security=tls&path=%2Fws&sni=nl-cnn-1.hysteria.ltd#🌐 XX | ⚪ Белый #9
+vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@46.8.208.49:7443?encryption=none&fp=chrome&path=/ws&security=tls&sni=nl-cnn-1.hysteria.ltd&type=ws#🌐 XX | ⚪ Белый #10
 

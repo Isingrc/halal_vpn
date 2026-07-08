@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-07-07 22:51 UTC
+# Updated: 2026-07-08 01:47 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://5163b7f3-c9bd-42ec-9841-350c84cbcdb5@ee.lockaway.top:443?type=xhttp&security=tls&path=/api/v2/stream/&sni=ee.lockaway.top&fp=firefox#🚀 Автовыбор | ⚫ Чёрные
 vless://5163b7f3-c9bd-42ec-9841-350c84cbcdb5@ee.lockaway.top:443?type=xhttp&security=tls&path=/api/v2/stream/&sni=ee.lockaway.top&fp=firefox#🌐 XX | ⚫ Чёрный #1
-vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?type=xhttp&security=tls&fp=chrome&sni=fl2.forall-npv.shop&path=/forall&mode=auto#🌐 XX | ⚫ Чёрный #2
-vless://90c09d42-c5f6-4602-bba8-957df1ed5598@securitytrails.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=cdn.webhookapi.dpdns.org&mode=auto&path=%2Fforall&security=tls&sni=cdn.webhookapi.dpdns.org&type=xhttp#🌐 XX | ⚫ Чёрный #3
-vless://90c09d42-c5f6-4602-bba8-957df1ed5598@securitytrails.com:443?mode=auto&path=/forall&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=cdn.webhookapi.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.webhookapi.dpdns.org#🌐 XX | ⚫ Чёрный #4
-vless://54e7f948-b4ac-4747-9d09-0fe4c25ae832@gorger.pupvup.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=qq&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=6b45455662&type=tcp&headerType=none#🇺🇸 US | ⚫ Чёрный #5
-vless://39f30f2e-d7ff-4098-a757-678e44ecc491@vm852-10052-20055-73.888877778888.top:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=lqdXPtmlK9emOPzmvYD6XoWrT6laiRRXglFz0VMVCFc&sni=www.icloud.com&servername=www.icloud.com&spx=%2F&fp=chrome#🌐 XX | ⚫ Чёрный #6
-vless://39f30f2e-d7ff-4098-a757-678e44ecc491@vm852-10053-20056-242.888877778888.top:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=lqdXPtmlK9emOPzmvYD6XoWrT6laiRRXglFz0VMVCFc&sni=www.icloud.com&servername=www.icloud.com&spx=%2F&fp=safari#🌐 XX | ⚫ Чёрный #7
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=chrome&sni=sca13.afterdomain.shop#🌐 XX | ⚫ Чёрный #8
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=chrome&sni=sca38.afterdomain.shop#🌐 XX | ⚫ Чёрный #9
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=firefox&sni=sca31.afterdomain.shop#🌐 XX | ⚫ Чёрный #10
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌐 XX | ⚫ Чёрный #2
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&type=ws&path=/&host=sevenfeshab.global.ssl.fastly.net&packetEncoding=xudp&sni=ssl.fastly.com&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #3
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?type=ws&security=tls&fp=firefox&sni=ssl.fastly.com&host=sevenfeshab.global.ssl.fastly.net#🌐 XX | ⚫ Чёрный #4
+vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@france-2.hysteria.ltd:9443?type=ws&headerType=none&security=tls&encryption=none&sni=france-2.hysteria.ltd&fp=chrome&path=%2Fws&insecure=0#🌐 XX | ⚫ Чёрный #5
+vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@de-bero-1.hysteria.ltd:9443?type=ws&headerType=none&security=tls&encryption=none&sni=de-bero-1.hysteria.ltd&fp=qq&path=%2Fws&insecure=0#🌐 XX | ⚫ Чёрный #6
+vless://95ce82f2-5dc3-45b6-a541-b614da0cfdb1@de.mohammadaz22.shop:53427?mode=auto&path=/upload&security=reality&encryption=none&pbk=T_SUGr4M4jLxDmDIefo402DdZTfB6kdzxsuJr2Qpuiw&host=de.mohammadaz22.shop&fp=chrome&spx=/1Q8HRZtpIkv423p&type=xhttp&sni=yahoo.com&sid=2cbed2#🌐 XX | ⚫ Чёрный #7
+vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&host=s10211.cdn.ngenix.net&fp=qq&type=ws&sni=s10211.cdn.ngenix.net#🌐 XX | ⚫ Чёрный #8
+vless://fede1a02-16f8-47f9-a8ea-d9b839ce6994@speedtest.net:80?security=none&type=xhttp&headerType=&path=%2F&host=farangis.global.ssl.fastly.neT.&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#🌐 XX | ⚫ Чёрный #9
+vless://54e7f948-b4ac-4747-9d09-0fe4c25ae832@gorger.pupvup.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=qq&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=6b45455662&type=tcp&headerType=none#🇺🇸 US | ⚫ Чёрный #10
 

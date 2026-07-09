@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-08 22:56 UTC
+# Updated: 2026-07-09 01:59 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -9,9 +9,9 @@ vless://4dbb4d3f-2b9a-45b6-b741-e839c570ffd8@jason.ilovezhenjiu.top:42670?securi
 vless://7cec3808-65d4-4dbd-941f-e9b640977071@cdn.stroimvmeste.icu:443?type=xhttp&security=tls&sni=cdn.stroimvmeste.icu&path=/start&mode=auto#🌐 XX | ⚫ Чёрный #3
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@ro.spectrum.vu:443?encryption=none&type=grpc&security=reality&sni=ro.spectrum.vu&pbk=Ia9JdXTzAzoqPEkarBg6HFdXrSKYcUh_dt59tyMjukk&sid=c9e0a2f4b6d8&fp=chrome&serviceName=vless#🌐 XX | ⚫ Чёрный #4
 vless://7983f39c-7251-43b9-991d-62677bfee640@support.zoom.us:80?type=ws&security=none&fp=firefox&sni=support.zoom.us&path=/apexcloud.ggff.net&host=apexcloud.ggff.net#🌐 XX | ⚫ Чёрный #5
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #6
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?type=ws&security=none&fp=firefox&path=/dula&host=speed.dulacloud.store#🌐 XX | ⚫ Чёрный #7
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&host=speed.dulacloud.store&type=ws&sni=speed.dulacloud.store&allowInsecure=0&insecure=0#🌐 XX | ⚫ Чёрный #8
-vless://7983f39c-7251-43b9-991d-62677bfee640@170.114.45.6:80?type=ws&security=none&fp=firefox&path=/apexcloud.ggff.net&host=apexcloud.ggff.net#🌐 XX | ⚫ Чёрный #9
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🌐 XX | ⚫ Чёрный #10
+vless://7983f39c-7251-43b9-991d-62677bfee640@170.114.45.6:80?type=ws&security=none&fp=firefox&path=/apexcloud.ggff.net&host=apexcloud.ggff.net#🌐 XX | ⚫ Чёрный #6
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #7
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?type=ws&security=none&fp=firefox&path=/dula&host=speed.dulacloud.store#🌐 XX | ⚫ Чёрный #8
+vless://7983f39c-7251-43b9-991d-62677bfee640@170.114.46.6:80?security=none&type=ws&host=apexcloud.ggff.net&path=/apexcloud.ggff.net#🌐 XX | ⚫ Чёрный #9
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=/dula&host=speed.dulacloud.store#🌐 XX | ⚫ Чёрный #10
 

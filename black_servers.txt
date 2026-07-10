@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-10 10:44 UTC
+# Updated: 2026-07-10 13:59 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -13,5 +13,5 @@ vless://3693c9e8-70de-46d5-89bf-856ae12ee852@turboindian.iranfreemarz.com:7007?&
 vless://3693c9e8-70de-46d5-89bf-856ae12ee852@turboindian.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=qq&type=tcp&sni=yahoo.com#🌐 XX | ⚫ Чёрный #7
 vless://eefe7517-7167-33e0-8f1d-8ea1aaca7098@t1.hhaakk9922.com:46780?encryption=none&security=tls&sni=t1.hhaakk9922.com&fp=chrome&type=grpc&authority=&serviceName=ljfxz&mode=gun&allowInsecure=0&insecure=0#🌐 XX | ⚫ Чёрный #8
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #9
-vless://00cb997f-aebb-4c0b-93de-616962738aa0@141.193.213.20:8443?type=ws&security=tls&fp=chrome&sni=apexcloud.ggff.net&path=/apexcloud.ggff.net&host=apexcloud.ggff.net#🌐 XX | ⚫ Чёрный #10
+vless://7983f39c-7251-43b9-991d-62677bfee640@170.114.45.6:80?security=none&type=ws&host=apexcloud.ggff.net&path=/apexcloud.ggff.net#🌐 XX | ⚫ Чёрный #10
 

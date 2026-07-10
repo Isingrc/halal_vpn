@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-07-10 01:58 UTC
+# Updated: 2026-07-10 06:04 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🚀 Автовыбор | ⚫ Чёрные
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚫ Чёрный #1
-vless://e28d9514-bf9c-4f87-9d1a-1cb990045970@nlsk.mcqueenconnection.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nlsk.mcqueenconnection.ru&fp=firefox&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&sid=59f5cda53ddadac7&allowinsecure=0&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #2
-vless://c50b50c9-6868-4231-859a-691da85a2e60@takehost-ger.shakhle.ir:22000?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=firefox&pbk=xLCgdUiKeBpYK3YsT96d81yuhFuVgUeANbVeiQACRWw&encryption=none#🌐 XX | ⚫ Чёрный #3
-vless://3693c9e8-70de-46d5-89bf-856ae12ee852@turboindian.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=qq&type=tcp&sni=yahoo.com#🌐 XX | ⚫ Чёрный #4
-vless://7499f0a0-3670-4cf6-a31c-ad4cd943cf18@pl.hagrid-connected.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pl.hagrid-connected.com&fp=edge&pbk=nfkwd9xJCoNuWrvvieBB9VfpcDldsARAdFPL0dF5A1Q&sid=305570274c0c72cc&allowinsecure=0&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #5
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #6
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allowinsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws&fragment=2%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#🌐 XX | ⚫ Чёрный #7
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚫ Чёрный #8
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #9
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=/?ed=1024#🌐 XX | ⚫ Чёрный #10
+vless://668869b1-860e-4308-b1da-386e222defce@c1.fineartsnet.org:8443?encryption=none&security=tls&sni=Ikaho.soralink.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=Ikaho.soralink.ir&path=/&mode=auto#🚀 Автовыбор | ⚫ Чёрные
+vless://668869b1-860e-4308-b1da-386e222defce@c1.fineartsnet.org:8443?encryption=none&security=tls&sni=Ikaho.soralink.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=Ikaho.soralink.ir&path=/&mode=auto#🌐 XX | ⚫ Чёрный #1
+vless://668869b1-860e-4308-b1da-386e222defce@c1.fineartsnet.org:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Ikaho.soralink.ir&fp=qq&type=xhttp&allowInsecure=0&sni=Ikaho.soralink.ir#🌐 XX | ⚫ Чёрный #2
+vless://46a77657-ddc3-49a2-985b-ea5826e2942b@telemetry.celerisdigital.top:8443?encryption=none&security=reality&sni=celerisdigital.top&fp=firefox&pbk=Mcv3R76eZQvl7SSFBb1BfCBBbbt9nAMe7cNvjRouVAE&sid=a4f8c92d&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #3
+vless://c50b50c9-6868-4231-859a-691da85a2e60@takehost-ger.shakhle.ir:22000?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=firefox&pbk=xLCgdUiKeBpYK3YsT96d81yuhFuVgUeANbVeiQACRWw&encryption=none#🌐 XX | ⚫ Чёрный #4
+vless://3693c9e8-70de-46d5-89bf-856ae12ee852@turboindian.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=qq&type=tcp&sni=yahoo.com#🌐 XX | ⚫ Чёрный #5
+vless://46a77657-ddc3-49a2-985b-ea5826e2942b@assets-store.celerisdigital.top:8443?encryption=none&security=reality&sni=celerisdigital.top&fp=firefox&pbk=Mn2g1NRhdBnQwgENX46jjtbnTwK1r-Y1BLQjrcUe0n0&sid=a4f8c92d&flow=xtls-rprx-vision#🌐 XX | ⚫ Чёрный #6
+vless://7499f0a0-3670-4cf6-a31c-ad4cd943cf18@pl.hagrid-connected.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pl.hagrid-connected.com&fp=edge&pbk=nfkwd9xJCoNuWrvvieBB9VfpcDldsARAdFPL0dF5A1Q&sid=305570274c0c72cc&allowinsecure=0&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #7
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allowinsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws&fragment=2%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#🌐 XX | ⚫ Чёрный #8
+vless://b73006bc-1a7a-44e2-9865-d8d302714adf@159.246.55.180:2053?path=/ZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-otnc61.rtfastest.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-otnc61.rtfastest.workers.dev#🌐 XX | ⚫ Чёрный #9
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #10
 

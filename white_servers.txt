@@ -1,5 +1,5 @@
 # WHITE SERVERS
-# Updated: 2026-07-11 09:17 UTC
+# Updated: 2026-07-11 10:54 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
@@ -12,6 +12,6 @@ vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@s97944.cdn.ngenix.net:443?encryptio
 vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@s97944.cdn.ngenix.net:443?type=ws&security=tls&path=/v1/data/sync/&fp=chrome#🌐 XX | ⚪ Белый #6
 vless://2797a040-443c-4249-ab49-546b37519642@limited.cloud134.ru:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UZZZh7NCnRvU1y7D45FgrZFwIDVIrdLm8TVjx6IudGQ&sid=a1b2c3d4e5f60789&sni=yandex.ru#🌐 XX | ⚪ Белый #7
 vless://a588b572-5142-11f1-9b07-7a2bf7e13604@eu-gw.videomonitor.cloud:2053?mode=gun&security=reality&encryption=none&pbk=j8OW1foMwfeiy3VMbNPHLgTXgy_ZPdFFxv-H3HrbNF0&fp=qq&type=grpc&serviceName=grpc-direct&sni=dzen.ru&sid=2c60309fa586eb60#🌐 XX | ⚪ Белый #8
-vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.75:5443?fp=firefox&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&security=reality&sid=9c4d6cc74ba8968d&sni=api-maps.yandex.ru&type=xhttp#🌐 XX | ⚪ Белый #9
-vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.75:5443?fp=firefox&mode=stream-one&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&security=reality&sid=9c4d6cc74ba8968d&sni=api-maps.yandex.ru&type=xhttp#🌐 XX | ⚪ Белый #10
+vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.75:5443?fp=firefox&mode=stream-one&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&security=reality&sid=9c4d6cc74ba8968d&sni=api-maps.yandex.ru&type=xhttp#🌐 XX | ⚪ Белый #9
+vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@185.22.234.32:7443?path=%2Fws&security=tls&encryption=none&fp=qq&type=ws&sni=mms-2.hysteria.ltd#🌐 XX | ⚪ Белый #10
 

@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-07-11 20:38 UTC
+# Updated: 2026-07-11 22:37 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://2797a040-443c-4249-ab49-546b37519642@limited2.cloud134.ru:5443?mode=stream-one&path=%2F&security=reality&encryption=none&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&fp=firefox&type=xhttp&sni=api-maps.yandex.ru&sid=9c4d6cc74ba8968d#🚀 Автовыбор | ⚫ Чёрные
-vless://2797a040-443c-4249-ab49-546b37519642@limited2.cloud134.ru:5443?mode=stream-one&path=%2F&security=reality&encryption=none&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&fp=firefox&type=xhttp&sni=api-maps.yandex.ru&sid=9c4d6cc74ba8968d#🌐 XX | ⚫ Чёрный #1
-vless://2797a040-443c-4249-ab49-546b37519642@limited2.cloud134.ru:5443?mode=stream-one&path=%2F&security=reality&encryption=none&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&fp=qq&type=xhttp&sni=api-maps.yandex.ru&sid=9c4d6cc74ba8968d#🌐 XX | ⚫ Чёрный #2
-vless://2797a040-443c-4249-ab49-546b37519642@limited2.cloud134.ru:5443?type=xhttp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=qq&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&sid=9c4d6cc74ba8968d&path=%2F#🌐 XX | ⚫ Чёрный #3
-vless://2797a040-443c-4249-ab49-546b37519642@limited2.cloud134.ru:5443?type=xhttp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=safari&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&sid=9c4d6cc74ba8968d&path=%2F#🌐 XX | ⚫ Чёрный #4
-vless://2797a040-443c-4249-ab49-546b37519642@limited2.cloud134.ru:5443?type=xhttp&security=reality&fp=chrome&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&sid=9c4d6cc74ba8968d&sni=api-maps.yandex.ru&mode=stream-one#🌐 XX | ⚫ Чёрный #5
-vless://2797a040-443c-4249-ab49-546b37519642@limited2.cloud134.ru:5443?mode=stream-one&path=%2F&security=reality&encryption=none&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&fp=safari&type=xhttp&sni=api-maps.yandex.ru&sid=9c4d6cc74ba8968d#🌐 XX | ⚫ Чёрный #6
-vless://e8651ff3-3581-4fa6-bfc5-f78f71c85d6c@ee2.s812331.shop:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=1zh2Hpt0vu0Cu6o8m87XCps16Uv119v06tzXw8N4fSc&sid=a1b2c3d4e5f6#🌐 XX | ⚫ Чёрный #7
-vless://58be4691-5430-417a-96e3-02736d151490@securitytrails.com:2083?type=xhttp&security=tls&path=/forall&sni=log.beforenext.dpdns.org&fp=chrome#🌐 XX | ⚫ Чёрный #8
-vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@france.nicqy.com:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&pbk=7gxn8PNz075RJAh5IoBroZMdAu7OL_qTSK90-xsAFgw&security=reality&sid=cf69&sni=www.yahoo.com&spx=/RpV5zvQMpdr0AFx&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #9
-vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@france2.nicqy.com:43264?type=xhttp&security=reality&path=/&sni=samsung.com&fp=chrome&pbk=V7HRYFnC_mCHvqcO5o9sKVN-vs_tQ1FnB9seskMAB0A&sid=eb#🌐 XX | ⚫ Чёрный #10
+vless://58be4691-5430-417a-96e3-02736d151490@securitytrails.com:2083?mode=auto&path=%2Fforall&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=log.beforenext.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=log.beforenext.dpdns.org#🚀 Автовыбор | ⚫ Чёрные
+vless://58be4691-5430-417a-96e3-02736d151490@securitytrails.com:2083?mode=auto&path=%2Fforall&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=log.beforenext.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=log.beforenext.dpdns.org#🌐 XX | ⚫ Чёрный #1
+vless://58be4691-5430-417a-96e3-02736d151490@securitytrails.com:2083?type=xhttp&security=tls&path=/forall&sni=log.beforenext.dpdns.org&fp=chrome#🌐 XX | ⚫ Чёрный #2
+vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@france.nicqy.com:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=xsIXgTL2OCh9mf2_8ng_944Kr5fxC0dypVocZ_NFb18&security=reality&sid=76de498b&sni=www.samsung.com&spx=%2F4tobn2X9m2O0IuQ&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #3
+vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@france.nicqy.com:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=7gxn8PNz075RJAh5IoBroZMdAu7OL_qTSK90-xsAFgw&sid=cf69#🌐 XX | ⚫ Чёрный #4
+vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@france2.nicqy.com:43264?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=V7HRYFnC_mCHvqcO5o9sKVN-vs_tQ1FnB9seskMAB0A&security=reality&sid=eb&sni=samsung.com&spx=%2FBb72M8dxE7yQVmm&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #5
+vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@france2.nicqy.com:43264?type=xhttp&security=reality&path=/&sni=samsung.com&fp=chrome&pbk=V7HRYFnC_mCHvqcO5o9sKVN-vs_tQ1FnB9seskMAB0A&sid=eb#🌐 XX | ⚫ Чёрный #6
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚫ Чёрный #7
+vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@france.nicqy.com:8443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=7gxn8PNz075RJAh5IoBroZMdAu7OL_qTSK90-xsAFgw&security=reality&sid=cf69&sni=www.yahoo.com&spx=%2FRpV5zvQMpdr0AFx&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #8
+vless://45c8814c-c06f-4444-acda-1b745e74d33e@s76276.cdn.ngenix.net:443?encryption=none&security=tls&type=ws&sni=s76276.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1&host=s76276.cdn.ngenix.net&path=%2Fv1%2Fdata%2Fsync%2F#🌐 XX | ⚫ Чёрный #9
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚫ Чёрный #10
 

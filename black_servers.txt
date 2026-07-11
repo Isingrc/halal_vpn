@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-07-11 07:40 UTC
+# Updated: 2026-07-11 09:17 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://d1e0821b-f7f5-43fa-adb7-486edfac448e@ee2.s812331.shop:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=1zh2Hpt0vu0Cu6o8m87XCps16Uv119v06tzXw8N4fSc&sid=a1b2c3d4e5f6#🚀 Автовыбор | ⚫ Чёрные
 vless://d1e0821b-f7f5-43fa-adb7-486edfac448e@ee2.s812331.shop:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=1zh2Hpt0vu0Cu6o8m87XCps16Uv119v06tzXw8N4fSc&sid=a1b2c3d4e5f6#🌐 XX | ⚫ Чёрный #1
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚫ Чёрный #2
-vless://b73006bc-1a7a-44e2-9865-d8d302714adf@159.246.55.180:443?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-otnc61.rtfastest.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-otnc61.rtfastest.workers.dev#🌐 XX | ⚫ Чёрный #3
-vless://1a755815-1d8f-4fdb-8616-ceedbd15c33f@66.81.247.209:8880?path=%2Fcdn%2Fassets%2Fstream&security=&encryption=none&host=cnd.finland2.2.newwaycdn.com&type=ws#🌐 XX | ⚫ Чёрный #4
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚫ Чёрный #5
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #6
-vless://b73006bc-1a7a-44e2-9865-d8d302714adf@159.246.55.180:8443?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-otnc61.rtfastest.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-otnc61.rtfastest.workers.dev#🌐 XX | ⚫ Чёрный #7
-vless://1a755815-1d8f-4fdb-8616-ceedbd15c33f@45.80.111.208:8880?path=%2Fcdn%2Fassets%2Fstream&security=&encryption=none&host=cnd.germany.1.bestcdnshare.com&type=ws#🌐 XX | ⚫ Чёрный #8
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #9
-vless://b73006bc-1a7a-44e2-9865-d8d302714adf@159.246.55.180:2087?path=/ZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-otnc61.rtfastest.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-otnc61.rtfastest.workers.dev#🌐 XX | ⚫ Чёрный #10
+vless://b73006bc-1a7a-44e2-9865-d8d302714adf@159.246.55.180:2053?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-otnc61.rtfastest.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-otnc61.rtfastest.workers.dev#🌐 XX | ⚫ Чёрный #3
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #4
+vless://1a755815-1d8f-4fdb-8616-ceedbd15c33f@45.80.111.208:8880?path=%2Fcdn%2Fassets%2Fstream&security=&encryption=none&host=cnd.germany.1.bestcdnshare.com&type=ws#🌐 XX | ⚫ Чёрный #5
+vless://b73006bc-1a7a-44e2-9865-d8d302714adf@159.246.55.180:2087?path=/ZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-otnc61.rtfastest.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-otnc61.rtfastest.workers.dev#🌐 XX | ⚫ Чёрный #6
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #7
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚫ Чёрный #8
+vless://b73006bc-1a7a-44e2-9865-d8d302714adf@159.246.55.180:2083?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-otnc61.rtfastest.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-otnc61.rtfastest.workers.dev#🌐 XX | ⚫ Чёрный #9
+vless://b73006bc-1a7a-44e2-9865-d8d302714adf@159.246.55.180:443?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-otnc61.rtfastest.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-otnc61.rtfastest.workers.dev#🌐 XX | ⚫ Чёрный #10
 

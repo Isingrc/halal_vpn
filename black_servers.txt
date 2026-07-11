@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-11 10:54 UTC
+# Updated: 2026-07-11 12:55 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -13,5 +13,5 @@ vless://104e38f0-9946-4bf4-a684-4c558fa35818@de10.s812331.shop:443?encryption=no
 vless://104e38f0-9946-4bf4-a684-4c558fa35818@dgm.maxg.ch:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dgm.maxg.ch&fp=qq&pbk=F5iLVcnDlp4Uj00hu8aRLdReOFa5Nh-678AGyDBmlAA&sid=e713f2f6405b0159#🌐 XX | ⚫ Чёрный #7
 vless://2797a040-443c-4249-ab49-546b37519642@limited.cloud134.ru:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UZZZh7NCnRvU1y7D45FgrZFwIDVIrdLm8TVjx6IudGQ&sid=a1b2c3d4e5f60789&sni=yandex.ru#🌐 XX | ⚫ Чёрный #8
 vless://0ad65088-3cd9-43f1-b07a-c37304a4d296@que.chapjavan.ir:3445?encryption=none&type=ws&path=/&security=tls&fp=firefox&sni=que.chapjavan.ir&alpn=h3,h2,http/1.1&pcs=47e16fee2860c8eeb8bbb4bb3da99b8a63ea74987429ff0c37722369d9e556b5#🌐 XX | ⚫ Чёрный #9
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.192.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐 XX | ⚫ Чёрный #10
+vless://c115c8c5-fa02-479b-8193-26f334e8e88b@45.85.119.181:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/PvNetwork?=2048&security=tls&sni=dl3.softarg.ir&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #10
 

@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-12 14:47 UTC
+# Updated: 2026-07-12 16:46 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -11,7 +11,7 @@ vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@france.nicqy.com:8443?type=xhttp&se
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚫ Чёрный #5
 vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@de-vip-unlimited.relqino.ir:1020?security=reality&encryption=none&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3fa2fdb7dce16b8b#🌐 XX | ⚫ Чёрный #6
 vless://02e6cc73-5657-498e-a936-4ef5b1d68eaa@ge-6.flowersyellow.ru:443?security=reality&encryption=none&pbk=SAw2LG0CxynFfpOpX9-5PZOxlz7eQloRLSnbQh9pRUs&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🌐 XX | ⚫ Чёрный #7
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?fp=firefox&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚫ Чёрный #8
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚫ Чёрный #9
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=%2Fjdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #10
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allowinsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws&fragment=2%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#🌐 XX | ⚫ Чёрный #8
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=%2Fjdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #9
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?fp=firefox&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚫ Чёрный #10
 

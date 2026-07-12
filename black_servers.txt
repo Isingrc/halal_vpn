@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-12 20:35 UTC
+# Updated: 2026-07-12 22:37 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -9,9 +9,9 @@ vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@france.nicqy.com:8443?type=xhttp&se
 vless://17d53a3b-ba7f-4adb-8885-8bb135ee2ebe@cdn-mws.garagecloud.ru:443?path=%2Fxh%2Fae8091c1597a&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=cdn-mws.garagecloud.ru#🌐 XX | ⚫ Чёрный #3
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚫ Чёрный #4
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=firefox&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚫ Чёрный #5
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #6
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=%2Fjdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #7
-vless://8157e24e-d18e-438c-8bc4-b9c1a8404ab6@151.101.117.184:443?alpn=h3&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22length%22%3A%223%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&echfq=none&fp=chrome&type=xhttp&sni=manage.fastly.com&mode=packet-up&path=%2F&security=tls&fragment=3%2C1%2Ctlshello%2Cnull&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=ovd5.global.ssl.fastly.net&allowinsecure=0#🌐 XX | ⚫ Чёрный #8
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@151.101.193.57:80?encryption=none&security=none&type=xhttp&headerType=none&path=%2F&host=monopoli.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000-1000000%22%7D#🌐 XX | ⚫ Чёрный #9
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=%2Fjdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #6
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@151.101.193.57:80?encryption=none&security=none&type=xhttp&headerType=none&path=%2F&host=monopoli.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000-1000000%22%7D#🌐 XX | ⚫ Чёрный #7
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #8
+vless://8157e24e-d18e-438c-8bc4-b9c1a8404ab6@151.101.117.184:443?alpn=h3&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22length%22%3A%223%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&echfq=none&fp=chrome&type=xhttp&sni=manage.fastly.com&mode=packet-up&path=%2F&security=tls&fragment=3%2C1%2Ctlshello%2Cnull&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=ovd5.global.ssl.fastly.net&allowinsecure=0#🌐 XX | ⚫ Чёрный #9
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allowinsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws&fragment=2%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#🌐 XX | ⚫ Чёрный #10
 

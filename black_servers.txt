@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-11 22:37 UTC
+# Updated: 2026-07-12 01:48 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -13,5 +13,5 @@ vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@france2.nicqy.com:43264?type=xhttp&
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚫ Чёрный #7
 vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@france.nicqy.com:8443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=7gxn8PNz075RJAh5IoBroZMdAu7OL_qTSK90-xsAFgw&security=reality&sid=cf69&sni=www.yahoo.com&spx=%2FRpV5zvQMpdr0AFx&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #8
 vless://45c8814c-c06f-4444-acda-1b745e74d33e@s76276.cdn.ngenix.net:443?encryption=none&security=tls&type=ws&sni=s76276.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1&host=s76276.cdn.ngenix.net&path=%2Fv1%2Fdata%2Fsync%2F#🌐 XX | ⚫ Чёрный #9
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚫ Чёрный #10
+vless://c115c8c5-fa02-479b-8193-26f334e8e88b@45.85.119.181:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/PvNetwork?=2048&security=tls&sni=dl3.softarg.ir&type=xhttp&x_padding_bytes=100-1000#🌐 XX | ⚫ Чёрный #10
 

@@ -1,17 +1,17 @@
 # WHITE SERVERS
-# Updated: 2026-07-13 08:49 UTC
+# Updated: 2026-07-13 12:25 UTC
 # Total: 10 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://1db3cf89-7ca0-4d7d-8c7c-4f57ae2a29da@78.159.250.112:1111?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA#🚀 Автовыбор | ⚪ Белые
-vless://1db3cf89-7ca0-4d7d-8c7c-4f57ae2a29da@78.159.250.112:1111?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA#🌐 XX | ⚪ Белый #1
-vless://45c8814c-c06f-4444-acda-1b745e74d33e@93.93.88.78:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=qq&sni=s76276.cdn.ngenix.net&alpn=http%2F1.1#🌐 XX | ⚪ Белый #2
-vless://45c8814c-c06f-4444-acda-1b745e74d33e@93.93.88.78:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=chrome&sni=s76276.cdn.ngenix.net&alpn=http%2F1.1#🌐 XX | ⚪ Белый #3
-vless://45c8814c-c06f-4444-acda-1b745e74d33e@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=qq&sni=s76276.cdn.ngenix.net#🌐 XX | ⚪ Белый #4
-vless://45c8814c-c06f-4444-acda-1b745e74d33e@195.209.86.193:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=firefox&sni=s76276.cdn.ngenix.net&alpn=http%2F1.1#🌐 XX | ⚪ Белый #5
-vless://45c8814c-c06f-4444-acda-1b745e74d33e@93.93.88.78:443?type=ws&security=tls&fp=qq&sni=s76276.cdn.ngenix.net&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net#🌐 XX | ⚪ Белый #6
-vless://45c8814c-c06f-4444-acda-1b745e74d33e@195.209.87.181:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=qq&sni=s76276.cdn.ngenix.net#🌐 XX | ⚪ Белый #7
-vless://45c8814c-c06f-4444-acda-1b745e74d33e@195.209.86.193:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=chrome&sni=s76276.cdn.ngenix.net#🌐 XX | ⚪ Белый #8
-vless://45c8814c-c06f-4444-acda-1b745e74d33e@93.93.88.78:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=safari&sni=s76276.cdn.ngenix.net&alpn=http%2F1.1#🌐 XX | ⚪ Белый #9
-vless://c479bb89-eae3-4807-ad0d-e377c4bb3403@62.152.58.114:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-13-1.nodes.ac&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&sid=3130197867c23edb#🌐 XX | ⚪ Белый #10
+vless://45c8814c-c06f-4444-acda-1b745e74d33e@s76276.cdn.ngenix.net:443?encryption=none&security=tls&type=ws&sni=s76276.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1&host=s76276.cdn.ngenix.net&path=%2Fv1%2Fdata%2Fsync%2F#🚀 Автовыбор | ⚪ Белые
+vless://45c8814c-c06f-4444-acda-1b745e74d33e@s76276.cdn.ngenix.net:443?encryption=none&security=tls&type=ws&sni=s76276.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1&host=s76276.cdn.ngenix.net&path=%2Fv1%2Fdata%2Fsync%2F#🌐 XX | ⚪ Белый #1
+vless://45c8814c-c06f-4444-acda-1b745e74d33e@s76276.cdn.ngenix.net:443?type=ws&security=tls&path=/v1/data/sync/&sni=s76276.cdn.ngenix.net&fp=chrome#🌐 XX | ⚪ Белый #2
+vless://17d53a3b-ba7f-4adb-8885-8bb135ee2ebe@cdn-mws.garagecloud.ru:443?path=%2Fxh%2Fae8091c1597a&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=cdn-mws.garagecloud.ru#🌐 XX | ⚪ Белый #3
+vless://010730f8-86c7-42ff-8d8e-fe258b3f36e7@84.201.173.79:80?flow=&type=grpc&mode=gun&serviceName=grpc&security=none#🌐 XX | ⚪ Белый #4
+vless://45c8814c-c06f-4444-acda-1b745e74d33e@195.209.196.184:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=firefox&sni=s76276.cdn.ngenix.net#🌐 XX | ⚪ Белый #5
+vless://45c8814c-c06f-4444-acda-1b745e74d33e@195.209.86.193:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=qq&sni=s76276.cdn.ngenix.net#🌐 XX | ⚪ Белый #6
+vless://54f08092-7fca-4533-be3f-22a6fa1b5889@212.233.121.186:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=yandex.ru&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY#🌐 XX | ⚪ Белый #7
+vless://45c8814c-c06f-4444-acda-1b745e74d33e@195.209.87.181:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=safari&sni=s76276.cdn.ngenix.net#🌐 XX | ⚪ Белый #8
+vless://45c8814c-c06f-4444-acda-1b745e74d33e@195.209.87.181:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=qq&sni=s76276.cdn.ngenix.net#🌐 XX | ⚪ Белый #9
+vless://45c8814c-c06f-4444-acda-1b745e74d33e@195.209.86.193:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=qq&sni=s76276.cdn.ngenix.net&alpn=http%2F1.1#🌐 XX | ⚪ Белый #10
 

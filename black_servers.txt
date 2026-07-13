@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-07-13 19:12 UTC
+# Updated: 2026-07-13 20:49 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://32c9d8fd-8ef1-4d47-93a3-4f7a2c7ada01@netherlands1.banovano.space:30548?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=edge&pbk=uR9LN49jpOfUDFfcKOPVgSMlKK68hgm_HYMXHzbkyRE&sid=b7f169ff615f569e&spx=%2F&type=tcp&headerType=none#🚀 Автовыбор | ⚫ Чёрные
-vless://32c9d8fd-8ef1-4d47-93a3-4f7a2c7ada01@netherlands1.banovano.space:30548?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=edge&pbk=uR9LN49jpOfUDFfcKOPVgSMlKK68hgm_HYMXHzbkyRE&sid=b7f169ff615f569e&spx=%2F&type=tcp&headerType=none#🌐 XX | ⚫ Чёрный #1
-vless://b6e50611-661d-4e78-8dff-73f68fb2bcf2@entry.gconexustun.ru:48313?mode=packet-up&path=%2F&security=reality&encryption=none&pbk=E-SCapk16uia3_5Z2Ijkb9S9Rvjj-hYLwKv8dAoWX3E&fp=chrome&type=xhttp&sni=passport.yandex.ru#🌐 XX | ⚫ Чёрный #2
+vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?encryption=none&type=xhttp&mode=packet-up&host=vk.com&path=%2Fvideo%2Fv5%2Fchunks&security=reality&sni=vk.com&fp=firefox&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c#🚀 Автовыбор | ⚫ Чёрные
+vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?encryption=none&type=xhttp&mode=packet-up&host=vk.com&path=%2Fvideo%2Fv5%2Fchunks&security=reality&sni=vk.com&fp=firefox&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c#🌐 XX | ⚫ Чёрный #1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?&security=false&fp=chrome&type=tcp&headerType=none&host=fn.fifapes.monster&path=%2F#🌐 XX | ⚫ Чёрный #2
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=raw&headertype=none#🌐 XX | ⚫ Чёрный #3
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http&host=/#🌐 XX | ⚫ Чёрный #4
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #5
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #6
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #7
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #4
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=%2F%3F&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #5
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #6
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #7
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=fn.fifapes.monster&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #8
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚫ Чёрный #9
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=%2Fjdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #10
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/&headerType=http#🌐 XX | ⚫ Чёрный #9
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http#🌐 XX | ⚫ Чёрный #10
 

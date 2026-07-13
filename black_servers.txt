@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-13 16:21 UTC
+# Updated: 2026-07-13 19:12 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -13,5 +13,5 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=no
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #7
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=fn.fifapes.monster&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #8
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🌐 XX | ⚫ Чёрный #9
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚫ Чёрный #10
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=%2Fjdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #10
 

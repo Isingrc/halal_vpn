@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-07-14 04:41 UTC
+# Updated: 2026-07-14 07:47 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?encryption=none&type=xhttp&mode=packet-up&host=vk.com&path=%2Fvideo%2Fv5%2Fchunks&security=reality&sni=vk.com&fp=qq&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c#🚀 Автовыбор | ⚫ Чёрные
-vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?encryption=none&type=xhttp&mode=packet-up&host=vk.com&path=%2Fvideo%2Fv5%2Fchunks&security=reality&sni=vk.com&fp=qq&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c#🌐 XX | ⚫ Чёрный #1
-vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?encryption=none&type=xhttp&mode=packet-up&host=vk.com&path=%2Fvideo%2Fv5%2Fchunks&security=reality&sni=vk.com&fp=safari&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c#🌐 XX | ⚫ Чёрный #2
-vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?type=xhttp&security=reality&fp=qq&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c&sni=vk.com&path=%2Fvideo%2Fv5%2Fchunks&mode=packet-up#🌐 XX | ⚫ Чёрный #3
-vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@czre1.w-mebel.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=firefox&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&type=tcp&headerType=none&sid=c603efb3ddaf633d&spiderX=/#🌐 XX | ⚫ Чёрный #4
-vless://58be4691-5430-417a-96e3-02736d151490@securitytrails.com:2083?encryption=none&security=tls&sni=log.beforenext.dpdns.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=log.beforenext.dpdns.org&path=%2Fforall&mode=auto#🌐 XX | ⚫ Чёрный #5
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?&security=false&fp=chrome&type=tcp&headerType=none&host=fn.fifapes.monster&path=%2F#🌐 XX | ⚫ Чёрный #6
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=raw&headertype=none#🌐 XX | ⚫ Чёрный #7
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http&host=/#🌐 XX | ⚫ Чёрный #8
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #9
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/#🌐 XX | ⚫ Чёрный #10
+vless://58be4691-5430-417a-96e3-02736d151490@securitytrails.com:2083?type=xhttp&security=tls&path=/forall&sni=log.beforenext.dpdns.org&fp=chrome#🚀 Автовыбор | ⚫ Чёрные
+vless://58be4691-5430-417a-96e3-02736d151490@securitytrails.com:2083?type=xhttp&security=tls&path=/forall&sni=log.beforenext.dpdns.org&fp=chrome#🌐 XX | ⚫ Чёрный #1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/&headerType=http#🌐 XX | ⚫ Чёрный #2
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http#🌐 XX | ⚫ Чёрный #3
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #4
+vless://b73006bc-1a7a-44e2-9865-d8d302714adf@159.246.55.180:2083?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-otnc61.rtfastest.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-otnc61.rtfastest.workers.dev#🌐 XX | ⚫ Чёрный #5
+vless://b73006bc-1a7a-44e2-9865-d8d302714adf@159.246.55.180:2087?path=/ZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-otnc61.rtfastest.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-otnc61.rtfastest.workers.dev#🌐 XX | ⚫ Чёрный #6
+vless://b73006bc-1a7a-44e2-9865-d8d302714adf@159.246.55.180:2053?path=/ZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-otnc61.rtfastest.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-otnc61.rtfastest.workers.dev#🌐 XX | ⚫ Чёрный #7
+vless://b73006bc-1a7a-44e2-9865-d8d302714adf@159.246.55.180:2053?path=%2FZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-otnc61.rtfastest.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-otnc61.rtfastest.workers.dev#🌐 XX | ⚫ Чёрный #8
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=%2Fjdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #9
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&fp=random&type=ws&host=amooaliii.net&path=%2Fjdhfyws#🌐 XX | ⚫ Чёрный #10
 

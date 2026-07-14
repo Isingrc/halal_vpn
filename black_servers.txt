@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-07-13 22:44 UTC
+# Updated: 2026-07-14 01:28 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?encryption=none&type=xhttp&mode=packet-up&host=vk.com&path=%2Fvideo%2Fv5%2Fchunks&security=reality&sni=vk.com&fp=firefox&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c#🚀 Автовыбор | ⚫ Чёрные
-vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?encryption=none&type=xhttp&mode=packet-up&host=vk.com&path=%2Fvideo%2Fv5%2Fchunks&security=reality&sni=vk.com&fp=firefox&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c#🌐 XX | ⚫ Чёрный #1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?&security=false&fp=chrome&type=tcp&headerType=none&host=fn.fifapes.monster&path=%2F#🌐 XX | ⚫ Чёрный #2
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=raw&headertype=none#🌐 XX | ⚫ Чёрный #3
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #4
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=%2F%3F&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #5
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #6
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #7
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=fn.fifapes.monster&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #8
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/&headerType=http#🌐 XX | ⚫ Чёрный #9
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http#🌐 XX | ⚫ Чёрный #10
+vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?encryption=none&type=xhttp&mode=packet-up&host=vk.com&path=%2Fvideo%2Fv5%2Fchunks&security=reality&sni=vk.com&fp=qq&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c#🚀 Автовыбор | ⚫ Чёрные
+vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?encryption=none&type=xhttp&mode=packet-up&host=vk.com&path=%2Fvideo%2Fv5%2Fchunks&security=reality&sni=vk.com&fp=qq&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c#🌐 XX | ⚫ Чёрный #1
+vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?encryption=none&type=xhttp&mode=packet-up&host=vk.com&path=%2Fvideo%2Fv5%2Fchunks&security=reality&sni=vk.com&fp=safari&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c#🌐 XX | ⚫ Чёрный #2
+vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?type=xhttp&security=reality&fp=qq&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c&sni=vk.com&path=%2Fvideo%2Fv5%2Fchunks&mode=packet-up#🌐 XX | ⚫ Чёрный #3
+vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@czre1.w-mebel.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=firefox&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&type=tcp&headerType=none&sid=c603efb3ddaf633d&spiderX=/#🌐 XX | ⚫ Чёрный #4
+vless://58be4691-5430-417a-96e3-02736d151490@securitytrails.com:2083?encryption=none&security=tls&sni=log.beforenext.dpdns.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=log.beforenext.dpdns.org&path=%2Fforall&mode=auto#🌐 XX | ⚫ Чёрный #5
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?&security=false&fp=chrome&type=tcp&headerType=none&host=fn.fifapes.monster&path=%2F#🌐 XX | ⚫ Чёрный #6
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=raw&headertype=none#🌐 XX | ⚫ Чёрный #7
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http&host=/#🌐 XX | ⚫ Чёрный #8
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #9
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/#🌐 XX | ⚫ Чёрный #10
 

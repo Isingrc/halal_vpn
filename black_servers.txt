@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-15 01:24 UTC
+# Updated: 2026-07-15 04:41 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -12,6 +12,6 @@ vless://dabe4e44-39e1-4464-9491-521993f207d8@de1.linkto.sbs:443?security=tls&alp
 vless://dabe4e44-39e1-4464-9491-521993f207d8@de1.linkto.sbs:443?type=tcp&security=tls&sni=de1.linkto.sbs&fp=edge#🌐 XX | ⚫ Чёрный #6
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #7
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&fp=random&type=ws&host=amooaliii.net&path=%2Fjdhfyws#🌐 XX | ⚫ Чёрный #8
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@199.232.240.182:80?encryption=none&security=none&type=xhttp&host=monopoli.global.ssl.fastly.net&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&mode=auto#🌐 XX | ⚫ Чёрный #9
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@199.232.240.244:80?encryption=none&security=none&type=xhttp&host=monopoli.global.ssl.fastly.net&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&mode=auto#🌐 XX | ⚫ Чёрный #10
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@199.232.240.12:80?encryption=none&security=none&type=xhttp&host=monopoli.global.ssl.fastly.net&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&mode=auto#🌐 XX | ⚫ Чёрный #9
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@199.232.240.87:80?encryption=none&security=none&type=xhttp&host=monopoli.global.ssl.fastly.net&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&mode=auto#🌐 XX | ⚫ Чёрный #10
 

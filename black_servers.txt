@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-15 15:18 UTC
+# Updated: 2026-07-15 17:05 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -13,5 +13,5 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&se
 vless://4610f6e6-d5da-409c-85da-dee776f47dc3@jam.techinfodigital.nz:51192?type=tcp&headerType=none&security=reality&encryption=none&sni=swdist.apple.com&fp=firefox&pbk=yb-HFcDn9YpWHQJ0b22m42pq3nl5CMxq42d4YbQz9D8&sid=34257495&flow=xtls-rprx-vision#🇺🇸 US | ⚫ Чёрный #7
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=false&path=%2F&host=fn.fifapes.monster&sni=fn.fifapes.monster&fp=chrome#🌐 XX | ⚫ Чёрный #8
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@fl12.myxasecure.space:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=fl12.myxasecure.space&fp=qq&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🌐 XX | ⚫ Чёрный #9
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚫ Чёрный #10
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=firefox&host=vangoghhh.info&path=/rdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#🌐 XX | ⚫ Чёрный #10
 

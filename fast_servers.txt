@@ -1,19 +1,19 @@
 # FAST ALL SERVERS
-# Updated: 2026-07-16 18:56 UTC
+# Updated: 2026-07-16 20:45 UTC
 # Total: 35 servers
 
 # ═══ ⚪ БЕЛЫЕ СЕРВЕРЫ ═══
-vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?type=ws#🚀 Автовыбор | ⚪ Белые
-vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?type=ws#🌐 XX | ⚪ Белый #1
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@130.17.2.37:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🌐 XX | ⚪ Белый #2
-vless://48c6e7a4-423b-4bad-b4a1-18527abc38cb@192.144.13.35:45079?security=&encryption=none&headerType=&type=tcp#🌐 XX | ⚪ Белый #3
-vless://ecad47b0-249e-001a-adff-e3c8f02b1897@194.55.239.206:8443?encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp&fp=qq#🌐 XX | ⚪ Белый #4
-vless://ecad47b0-249e-001a-adff-e3c8f02b1897@194.55.239.206:8443?encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp&fp=firefox#🌐 XX | ⚪ Белый #5
+vless://48c6e7a4-423b-4bad-b4a1-18527abc38cb@192.144.13.35:45079?security=&encryption=none&headerType=&type=tcp#🚀 Автовыбор | ⚪ Белые
+vless://48c6e7a4-423b-4bad-b4a1-18527abc38cb@192.144.13.35:45079?security=&encryption=none&headerType=&type=tcp#🌐 XX | ⚪ Белый #1
+vless://4b6450bf-669d-4a31-8c7b-8a35bd075ef0@45.150.39.38:446?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=W1IAx4H0W-LZFX4PnGqE45h2WfROgyopQsIvcIaAJ00&sid=c226283c4de5b1ad&sni=ads.x5.ru#🌐 XX | ⚪ Белый #2
+vless://ecad47b0-249e-0012-adff-e3c8f02b1897@194.55.239.167:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp#🌐 XX | ⚪ Белый #3
+vless://48c6e7a4-423b-4bad-b4a1-18527abc38cb@192.144.13.35:18054?security=&encryption=none&headerType=&type=tcp#🌐 XX | ⚪ Белый #4
+vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@89.127.217.9:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🌐 XX | ⚪ Белый #5
 vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:444?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=firefox#🌐 XX | ⚪ Белый #6
-vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:444?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=chrome#🌐 XX | ⚪ Белый #7
-vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:446?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=chrome#🌐 XX | ⚪ Белый #8
-vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:446?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=firefox#🌐 XX | ⚪ Белый #9
-vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?encryption=none&type=raw&security=reality&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=firefox#🌐 XX | ⚪ Белый #10
+vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:446?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=firefox#🌐 XX | ⚪ Белый #7
+vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:444?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=chrome#🌐 XX | ⚪ Белый #8
+vless://7262d6b3-e0c2-45bc-9f25-b4d934242025@92.53.64.241:443?encryption=none&type=grpc&security=reality&mode=gun&fp=QQ&sni=ru.vostokhub.com&pbk=M4HrL_LOJa2mlimPGjHOwfTqWCFN0tPnmdiKMJCwDzk&sid=fb9e2842cb738845&spx=%2F#🌐 XX | ⚪ Белый #9
+vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?&security=reality&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=firefox&sni=auto.quattro-tech.ru&type=tcp&headerType=none&host=auto.quattro-tech.ru&path=%2F#🌐 XX | ⚪ Белый #10
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@cur01.myxasecure.space:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=cur01.myxasecure.space&fp=qq&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🚀 Автовыбор | ⚫ Чёрные
@@ -26,22 +26,22 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&se
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http#🌐 XX | ⚫ Чёрный #7
 vless://67d83f8a-20f3-4501-92fa-39b78cfc3bd7@www.chatgpt.com:2083?path=/&security=tls&encryption=none&host=ftp.himandev.ir&fp=chrome&type=ws&sni=ftp.himandev.ir#🌐 XX | ⚫ Чёрный #8
 vless://aa28b265-baff-42e4-927e-7a8dee0ef623@appforgehub.org:8443?type=grpc&security=tls&fp=chrome&sni=appforgehub.org&mode=gun&serviceName=grpc#🌐 XX | ⚫ Чёрный #9
-vless://0b872eaf-74f5-4b58-ab4f-0ef1f46fc63e@8.47.69.0:443?type=ws&headerType=none&security=tls&encryption=none&sni=polshaov.ochmaybrooooo.online&fp=chrome&alpn=http%2F1.1&path=%2F&host=polshaov.ochmaybrooooo.online&insecure=0#🌐 XX | ⚫ Чёрный #10
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&fp=random&type=ws&host=amooaliii.net&path=%2Fjdhfyws#🌐 XX | ⚫ Чёрный #10
 
 # ═══ ⚡ FAST ALL ═══
-vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?type=ws#🚀 Автовыбор | ⚡ Fast All
-vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?type=ws#🌐 XX | ⚡ Fast #1
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@130.17.2.37:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🌐 XX | ⚡ Fast #2
-vless://ecad47b0-249e-001a-adff-e3c8f02b1897@194.55.239.206:8443?encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp&fp=firefox#🌐 XX | ⚡ Fast #3
-vless://48c6e7a4-423b-4bad-b4a1-18527abc38cb@192.144.13.35:45079?security=&encryption=none&headerType=&type=tcp#🌐 XX | ⚡ Fast #4
-vless://ecad47b0-249e-001a-adff-e3c8f02b1897@194.55.239.206:8443?encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp&fp=qq#🌐 XX | ⚡ Fast #5
-vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:446?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=firefox#🌐 XX | ⚡ Fast #6
-vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:444?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=chrome#🌐 XX | ⚡ Fast #7
-vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:444?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=firefox#🌐 XX | ⚡ Fast #8
-vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:446?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=chrome#🌐 XX | ⚡ Fast #9
-vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?encryption=none&type=raw&security=reality&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=firefox#🌐 XX | ⚡ Fast #10
-vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?encryption=none&type=raw&security=reality&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=ios#🌐 XX | ⚡ Fast #11
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@51.250.44.66:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=ads.x5.ru&pbk=MZ4v9kcs6nnAKuCAz4pvViC50BoM3exoL_5Yi-1b1kE&sid=59de66570907b747&fp=android#🌐 XX | ⚡ Fast #12
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@51.250.44.66:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=ads.x5.ru&pbk=MZ4v9kcs6nnAKuCAz4pvViC50BoM3exoL_5Yi-1b1kE&sid=59de66570907b747&fp=qq#🌐 XX | ⚡ Fast #13
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@45.9.14.48:443?encryption=none&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8&security=reality&serviceName=grpc&sid=3303c7a5&sni=media2.tcpdoor.net&type=grpc&fp=firefox#🌐 XX | ⚡ Fast #14
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@45.9.14.48:443?encryption=none&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8&security=reality&serviceName=grpc&sid=3303c7a5&sni=media2.tcpdoor.net&type=grpc&fp=ios#🌐 XX | ⚡ Fast #15
+vless://48c6e7a4-423b-4bad-b4a1-18527abc38cb@192.144.13.35:45079?security=&encryption=none&headerType=&type=tcp#🚀 Автовыбор | ⚡ Fast All
+vless://48c6e7a4-423b-4bad-b4a1-18527abc38cb@192.144.13.35:45079?security=&encryption=none&headerType=&type=tcp#🌐 XX | ⚡ Fast #1
+vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:446?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=firefox#🌐 XX | ⚡ Fast #2
+vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@89.127.217.9:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🌐 XX | ⚡ Fast #3
+vless://4b6450bf-669d-4a31-8c7b-8a35bd075ef0@45.150.39.38:446?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=W1IAx4H0W-LZFX4PnGqE45h2WfROgyopQsIvcIaAJ00&sid=c226283c4de5b1ad&sni=ads.x5.ru#🌐 XX | ⚡ Fast #4
+vless://48c6e7a4-423b-4bad-b4a1-18527abc38cb@192.144.13.35:18054?security=&encryption=none&headerType=&type=tcp#🌐 XX | ⚡ Fast #5
+vless://ecad47b0-249e-0012-adff-e3c8f02b1897@194.55.239.167:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp#🌐 XX | ⚡ Fast #6
+vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:444?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=firefox#🌐 XX | ⚡ Fast #7
+vless://e947040c-642c-4218-87c3-c565e29478cf@193.124.65.224:444?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&sid=c226283c4de5b1ad&fp=chrome#🌐 XX | ⚡ Fast #8
+vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?&security=reality&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=firefox&sni=auto.quattro-tech.ru&type=tcp&headerType=none&host=auto.quattro-tech.ru&path=%2F#🌐 XX | ⚡ Fast #9
+vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none&fp=chrome#🌐 XX | ⚡ Fast #10
+vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?encryption=none&type=raw&security=reality&fp=firefox&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🌐 XX | ⚡ Fast #11
+vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🌐 XX | ⚡ Fast #12
+vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru#🌐 XX | ⚡ Fast #13
+vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@81.163.22.231:47884?encryption=none&fp=chrome&pbk=4kfgvWhvI42Kjaf9y8Pw006LCSUQyeiosQSNa2RrK14&security=reality&serviceName=cloud&sid=847a06884457c506&sni=kinopoisk.ru&type=grpc#🌐 XX | ⚡ Fast #14
+vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@81.163.22.231:47884?encryption=none&type=grpc&security=reality&mode=gun&serviceName=cloud&sni=kinopoisk.ru&pbk=4kfgvWhvI42Kjaf9y8Pw006LCSUQyeiosQSNa2RrK14&sid=847a06884457c506&fp=qq#🌐 XX | ⚡ Fast #15

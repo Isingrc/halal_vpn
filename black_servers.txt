@@ -1,17 +1,17 @@
 # BLACK SERVERS
-# Updated: 2026-07-16 20:45 UTC
+# Updated: 2026-07-16 22:49 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@cur01.myxasecure.space:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=cur01.myxasecure.space&fp=qq&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🚀 Автовыбор | ⚫ Чёрные
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@cur01.myxasecure.space:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=cur01.myxasecure.space&fp=qq&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🌐 XX | ⚫ Чёрный #1
-vless://f2bbf65b-f6a8-4aed-9b3c-cbb79e864208@revasok.whitenessx.top:443?security=reality&encryption=none&pbk=OCXYy0cX5bIZjt2a-2x58WMPFMP-jtPdR2fA_-g11zE&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=revasok.whitenessx.top#🌐 XX | ⚫ Чёрный #2
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?&security=false&fp=chrome&type=tcp&headerType=none&host=fn.fifapes.monster&path=%2F#🌐 XX | ⚫ Чёрный #3
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=raw&headertype=none#🌐 XX | ⚫ Чёрный #4
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#🌐 XX | ⚫ Чёрный #5
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=false&encryption=none&fp=chrome&sni=fn.fifapes.monster#🌐 XX | ⚫ Чёрный #6
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http#🌐 XX | ⚫ Чёрный #7
-vless://67d83f8a-20f3-4501-92fa-39b78cfc3bd7@www.chatgpt.com:2083?path=/&security=tls&encryption=none&host=ftp.himandev.ir&fp=chrome&type=ws&sni=ftp.himandev.ir#🌐 XX | ⚫ Чёрный #8
-vless://aa28b265-baff-42e4-927e-7a8dee0ef623@appforgehub.org:8443?type=grpc&security=tls&fp=chrome&sni=appforgehub.org&mode=gun&serviceName=grpc#🌐 XX | ⚫ Чёрный #9
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&fp=random&type=ws&host=amooaliii.net&path=%2Fjdhfyws#🌐 XX | ⚫ Чёрный #10
+vless://957360f2-2ec4-4638-8cf3-fffc6cc57aa1@securitytrails.com:2083?mode=auto&path=%2Fforall&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cdn.myneverland.dpdns.org&type=xhttp&allowInsecure=0&sni=cdn.myneverland.dpdns.org&fp=chrome#🚀 Автовыбор | ⚫ Чёрные
+vless://957360f2-2ec4-4638-8cf3-fffc6cc57aa1@securitytrails.com:2083?mode=auto&path=%2Fforall&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cdn.myneverland.dpdns.org&type=xhttp&allowInsecure=0&sni=cdn.myneverland.dpdns.org&fp=chrome#🌐 XX | ⚫ Чёрный #1
+vless://957360f2-2ec4-4638-8cf3-fffc6cc57aa1@securitytrails.com:2083?mode=auto&path=%2Fforall&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cdn.myneverland.dpdns.org&type=xhttp&allowInsecure=0&sni=cdn.myneverland.dpdns.org&fp=edge#🌐 XX | ⚫ Чёрный #2
+vless://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@nld-01.node.lumixnet.com:443?type=xhttp&security=reality&pbk=5xGLTT4UpMz0e_jhPnukNWSums2LntehfHftBmhu7j8&sid=5d129292338820e4&sni=nld-01.node.lumixnet.com&path=%2Fapi%2Fstream%2Fv4%2Fc6aef220b374c230&mode=stream-up&fp=android#🌐 XX | ⚫ Чёрный #3
+vless://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@nld-01.node.lumixnet.com:443?type=xhttp&security=reality&pbk=5xGLTT4UpMz0e_jhPnukNWSums2LntehfHftBmhu7j8&sid=5d129292338820e4&sni=nld-01.node.lumixnet.com&path=%2Fapi%2Fstream%2Fv4%2Fc6aef220b374c230&mode=stream-up&fp=edge#🌐 XX | ⚫ Чёрный #4
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?encryption=none&security=reality&sni=web.max.ru&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&sid=45ba18f429ad1f28&flow=xtls-rprx-vision&fp=chrome#🌐 XX | ⚫ Чёрный #5
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?encryption=none&security=reality&sni=web.max.ru&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&sid=45ba18f429ad1f28&flow=xtls-rprx-vision&fp=qq#🌐 XX | ⚫ Чёрный #6
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28&fp=chrome#🌐 XX | ⚫ Чёрный #7
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28&fp=qq#🌐 XX | ⚫ Чёрный #8
+vless://839bd5d0-4705-4184-b458-971948895a2f@de5fra.s812331.shop:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de5fra.s812331.shop&pbk=2XTPvkK41t8x8qQfYxETMWtFVf5w4jW3-RbXb997x3k&sid=5b591e78b15610f7&fp=chrome#🌐 XX | ⚫ Чёрный #9
+vless://839bd5d0-4705-4184-b458-971948895a2f@de5fra.s812331.shop:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de5fra.s812331.shop&pbk=2XTPvkK41t8x8qQfYxETMWtFVf5w4jW3-RbXb997x3k&sid=5b591e78b15610f7&fp=qq#🌐 XX | ⚫ Чёрный #10
 

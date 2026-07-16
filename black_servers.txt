@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-16 17:03 UTC
+# Updated: 2026-07-16 18:56 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -13,5 +13,5 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&se
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http#🌐 XX | ⚫ Чёрный #7
 vless://67d83f8a-20f3-4501-92fa-39b78cfc3bd7@www.chatgpt.com:2083?path=/&security=tls&encryption=none&host=ftp.himandev.ir&fp=chrome&type=ws&sni=ftp.himandev.ir#🌐 XX | ⚫ Чёрный #8
 vless://aa28b265-baff-42e4-927e-7a8dee0ef623@appforgehub.org:8443?type=grpc&security=tls&fp=chrome&sni=appforgehub.org&mode=gun&serviceName=grpc#🌐 XX | ⚫ Чёрный #9
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #10
+vless://0b872eaf-74f5-4b58-ab4f-0ef1f46fc63e@8.47.69.0:443?type=ws&headerType=none&security=tls&encryption=none&sni=polshaov.ochmaybrooooo.online&fp=chrome&alpn=http%2F1.1&path=%2F&host=polshaov.ochmaybrooooo.online&insecure=0#🌐 XX | ⚫ Чёрный #10
 

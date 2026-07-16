@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-16 13:20 UTC
+# Updated: 2026-07-16 15:26 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -11,7 +11,7 @@ vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?security=reality&
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#🌐 XX | ⚫ Чёрный #5
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #6
 vless://0b872eaf-74f5-4b58-ab4f-0ef1f46fc63e@8.47.69.0:443?alpn=http/1.1&encryption=none&fp=firefox&host=polshaov.ochmaybrooooo.online&path=/&security=tls&sni=polshaov.ochmaybrooooo.online&type=ws#🌐 XX | ⚫ Чёрный #7
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=%2Fjdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #8
-vless://0b872eaf-74f5-4b58-ab4f-0ef1f46fc63e@8.47.69.0:443?type=ws&headerType=none&security=tls&encryption=none&sni=polshaov.ochmaybrooooo.online&fp=chrome&alpn=http%2F1.1&path=%2F&host=polshaov.ochmaybrooooo.online&insecure=0#🌐 XX | ⚫ Чёрный #9
+vless://0b872eaf-74f5-4b58-ab4f-0ef1f46fc63e@8.47.69.0:443?type=ws&headerType=none&security=tls&encryption=none&sni=polshaov.ochmaybrooooo.online&fp=chrome&alpn=http%2F1.1&path=%2F&host=polshaov.ochmaybrooooo.online&insecure=0#🌐 XX | ⚫ Чёрный #8
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=%2Fjdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #9
 vless://3d244afc-60ef-468a-9b19-f4bbad7e8ef1@81.31.211.112:2085?type=grpc&security=none&serviceName=vless&mode=gun&encryption=none#🌐 XX | ⚫ Чёрный #10
 

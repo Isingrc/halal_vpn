@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-16 07:55 UTC
+# Updated: 2026-07-16 10:00 UTC
 # Total: 10 servers
 
 # ═══ ⚫ ЧЁРНЫЕ СЕРВЕРЫ ═══
@@ -11,7 +11,7 @@ vless://736a07e4-16d6-4a4b-a813-8b9edbe005a4@node11.mxvpn.dev:443?type=tcp&secur
 vless://f2bbf65b-f6a8-4aed-9b3c-cbb79e864208@revasok.whitenessx.top:443?security=reality&encryption=none&pbk=OCXYy0cX5bIZjt2a-2x58WMPFMP-jtPdR2fA_-g11zE&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=revasok.whitenessx.top#🌐 XX | ⚫ Чёрный #5
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=false&encryption=none&fp=chrome&sni=fn.fifapes.monster#🌐 XX | ⚫ Чёрный #6
 vless://957360f2-2ec4-4638-8cf3-fffc6cc57aa1@securitytrails.com:2083?mode=auto&path=%2Fforall&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cdn.myneverland.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.myneverland.dpdns.org#🌐 XX | ⚫ Чёрный #7
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #8
-vless://1a755815-1d8f-4fdb-8616-ceedbd15c33f@45.80.111.208:8880?path=%2Fcdn%2Fassets%2Fstream&security=&encryption=none&host=cnd.germany.1.bestcdnshare.com&type=ws#🌐 XX | ⚫ Чёрный #9
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=%2Fjdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #10
+vless://1a755815-1d8f-4fdb-8616-ceedbd15c33f@66.81.247.209:8880?path=%2Fcdn%2Fassets%2Fstream&security=&encryption=none&host=cnd.finland2.2.newwaycdn.com&type=ws#🌐 XX | ⚫ Чёрный #8
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=%2Fjdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🌐 XX | ⚫ Чёрный #9
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🌐 XX | ⚫ Чёрный #10
 

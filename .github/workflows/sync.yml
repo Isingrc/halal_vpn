@@ -126,19 +126,34 @@ jobs:
                       all_lines.append(l)
               return all_lines
 
-          def write_file(path, header, white, black, fast):
-              total = len(white) + len(black) + len(fast)
+          MAX_REACHABLE_MS = 3000  # сервер считаем рабочим если ответил быстрее 3с
+
+          def write_single(path, header, servers):
+              """Каждый файл содержит ТОЛЬКО свою группу — без дублей из других."""
               with open(path, "w", encoding="utf-8") as f:
-                  f.write(f"# {header}\n# Updated: {DATE}\n# Total: {total} servers\n\n")
-                  if white:
-                      f.write("# === WHITE SERVERS ===\n")
-                      f.write("\n".join(white) + "\n\n")
-                  if black:
-                      f.write("# === BLACK SERVERS ===\n")
-                      f.write("\n".join(black) + "\n\n")
-                  if fast:
-                      f.write("# === FAST ALL ===\n")
-                      f.write("\n".join(fast) + "\n")
+                  f.write(f"# {header}\n# Updated: {DATE}\n# Total: {len(servers)} servers\n\n")
+                  f.write("\n".join(servers) + "\n")
+
+          def sort_and_filter(lines, max_check=60, count=MAX_PER_GROUP):
+              """
+              Пингуем, отбрасываем неотвечающие (>= MAX_REACHABLE_MS считаем нерабочими),
+              берём top `count` самых быстрых. Если рабочих меньше чем count — отдаём сколько есть.
+              """
+              candidates = lines[:max_check]
+              scored = []
+              for line in candidates:
+                  host = get_ip(line)
+                  p = ping_via_telegram(host) if host else 9999.0
+                  print(f"    {host} -> {PING_DOMAIN}: {p:.0f}ms")
+                  scored.append((p, line))
+
+              # Оставляем только реально отвечающие сервера
+              working = [(p, l) for p, l in scored if p < MAX_REACHABLE_MS]
+              working.sort(key=lambda x: x[0])
+
+              result = [l for _, l in working][:count]
+              print(f"    Working: {len(working)}/{len(scored)} checked -> keeping top {len(result)}")
+              return result
 
           print("Fetching WHITE sources...")
           white_raw = fetch_group(WHITE_SOURCES, is_white=True)
@@ -148,33 +163,33 @@ jobs:
           black_raw = fetch_group(BLACK_SOURCES, is_white=False)
           print(f"  BLACK raw (after anycast filter): {len(black_raw)} keys")
 
-          print(f"Sorting WHITE by ping to {PING_DOMAIN} (top {MAX_PER_GROUP})...")
-          white = sort_by_ping(white_raw, max_check=min(60, len(white_raw)))[:MAX_PER_GROUP]
+          print(f"Checking WHITE servers (max {MAX_PER_GROUP} working)...")
+          white = sort_and_filter(white_raw, max_check=min(80, len(white_raw)), count=MAX_PER_GROUP)
 
-          print(f"Sorting BLACK by ping to {PING_DOMAIN} (top {MAX_PER_GROUP})...")
-          black = sort_by_ping(black_raw, max_check=min(60, len(black_raw)))[:MAX_PER_GROUP]
-
-          print(f"Building FAST ALL group (top {MAX_PER_GROUP})...")
-          seen_all, all_raw = set(), []
-          for l in white_raw + black_raw:
-              base = re.sub(r'#.*$', '', l).strip()
-              if base not in seen_all:
-                  seen_all.add(base)
-                  all_raw.append(l)
-          fast = sort_by_ping(all_raw, max_check=min(60, len(all_raw)))[:MAX_PER_GROUP]
+          print(f"Checking BLACK servers (max {MAX_PER_GROUP} working)...")
+          black = sort_and_filter(black_raw, max_check=min(80, len(black_raw)), count=MAX_PER_GROUP)
 
           print("Writing files...")
-          write_file("white_servers.txt", "WHITE SERVERS", white, [], [])
-          write_file("black_servers.txt", "BLACK SERVERS", [], black, [])
-          write_file("fast_servers.txt", "FAST ALL SERVERS", white, black, fast)
+          write_single("white_servers.txt", "WHITE SERVERS", white)
+          write_single("black_servers.txt", "BLACK SERVERS", black)
 
-          print(f"\nDone! white={len(white)} black={len(black)} fast={len(fast)}")
+          # ── debug.txt — все сервера как они пришли из источника, без фильтрации по пингу ──
+          with open("debug.txt", "w", encoding="utf-8") as f:
+              f.write(f"# DEBUG — все сервера из источника (без ping-фильтра)\n")
+              f.write(f"# Updated: {DATE}\n")
+              f.write(f"# WHITE raw: {len(white_raw)} | BLACK raw: {len(black_raw)}\n\n")
+              f.write("# === WHITE RAW ===\n")
+              f.write("\n".join(white_raw) + "\n\n")
+              f.write("# === BLACK RAW ===\n")
+              f.write("\n".join(black_raw) + "\n")
+
+          print(f"\nDone! white={len(white)} black={len(black)} | debug.txt: white_raw={len(white_raw)} black_raw={len(black_raw)}")
           EOF
 
       - name: Commit changes
         run: |
           git config user.email "bot@vpnservice.local"
           git config user.name "VPN Sync Bot"
-          git add white_servers.txt black_servers.txt fast_servers.txt
+          git add white_servers.txt black_servers.txt debug.txt
           git diff --staged --quiet || git commit -m "sync: $(date '+%Y-%m-%d %H:%M UTC')"
           git push

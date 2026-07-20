@@ -2,7 +2,7 @@ name: Sync VPN Configs
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '*/10 * * * *'   # проверяем каждые 10 минут, обновляем только если есть новый коммит в источнике
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,30 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Check if source repo has new commit
+        id: check
+        run: |
+          LATEST_SHA=$(curl -s "https://api.github.com/repos/igareck/vpn-configs-for-russia/commits/main" | python3 -c "import sys,json; print(json.load(sys.stdin).get('sha',''))")
+          echo "Latest source SHA: $LATEST_SHA"
+
+          if [ -f "last_sha.txt" ]; then
+            SAVED_SHA=$(cat last_sha.txt)
+          else
+            SAVED_SHA=""
+          fi
+          echo "Saved SHA: $SAVED_SHA"
+
+          if [ "$LATEST_SHA" == "$SAVED_SHA" ] && [ -n "$SAVED_SHA" ]; then
+            echo "No changes in source repo, skipping."
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "Source repo changed, running sync."
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "$LATEST_SHA" > last_sha.txt
+          fi
+
       - name: Fetch, ping-sort and build config files
+        if: steps.check.outputs.changed == 'true'
         run: |
           python3 << 'EOF'
           import urllib.request
@@ -42,6 +65,17 @@ jobs:
 
           MAX_PER_GROUP = 55
           PING_DOMAIN   = "telegram.org"
+          MAX_REACHABLE_MS = 3000
+
+          # Emoji флаг -> код страны (для распознавания флага в оригинальном названии)
+          FLAG_TO_CODE = {
+              "🇺🇸": "US", "🇩🇪": "DE", "🇳🇱": "NL", "🇬🇧": "GB", "🇫🇷": "FR",
+              "🇯🇵": "JP", "🇸🇬": "SG", "🇰🇷": "KR", "🇨🇦": "CA", "🇸🇪": "SE",
+              "🇫🇮": "FI", "🇨🇭": "CH", "🇵🇱": "PL", "🇹🇷": "TR", "🇮🇹": "IT",
+              "🇪🇸": "ES", "🇮🇳": "IN", "🇭🇰": "HK", "🇦🇺": "AU", "🇧🇷": "BR",
+              "🇦🇪": "AE", "🇷🇺": "RU", "🇺🇦": "UA", "🇰🇿": "KZ", "🇱🇻": "LV",
+              "🇱🇹": "LT", "🇪🇪": "EE", "🇲🇩": "MD", "🇦🇲": "AM", "🇬🇪": "GE",
+          }
 
           def fetch(filename):
               try:
@@ -57,6 +91,13 @@ jobs:
           def is_anycast(line):
               name_part = line.split("#", 1)[1] if "#" in line else ""
               return "anycast" in name_part.lower()
+
+          def extract_flag(name):
+              """Ищем emoji флаг в оригинальном названии, возвращаем (flag, code)."""
+              for flag, code in FLAG_TO_CODE.items():
+                  if flag in name:
+                      return flag, code
+              return "🌐", "XX"
 
           def get_ip(line):
               m = re.search(r'@([a-zA-Z0-9._-]+):', line)
@@ -78,7 +119,7 @@ jobs:
                   pass
               try:
                   result = subprocess.run(["ping", "-c", "2", "-W", "2", host],
-                                           capture_output=True, text=True, timeout=10)
+                                           capture_output=True, text=True, timeout=8)
                   for line in result.stdout.split("\n"):
                       if "avg" in line or "rtt" in line:
                           parts = line.split("/")
@@ -87,18 +128,6 @@ jobs:
               except:
                   pass
               return 9999.0
-
-          def sort_by_ping(lines, max_check=60):
-              candidates = lines[:max_check]
-              scored = []
-              for line in candidates:
-                  host = get_ip(line)
-                  p = ping_via_telegram(host) if host else 9999.0
-                  print(f"    {host} -> {PING_DOMAIN}: {p:.0f}ms")
-                  scored.append((p, line))
-              scored.sort(key=lambda x: x[0])
-              rest = lines[max_check:]
-              return [l for _, l in scored] + rest
 
           def fetch_group(sources, is_white=False):
               all_lines, seen = [], set()
@@ -110,35 +139,14 @@ jobs:
                           continue
                       if is_anycast(l):
                           continue
-
                       base = re.sub(r'#.*$', '', l).strip()
                       if base in seen:
                           continue
                       seen.add(base)
-
-                      if is_white:
-                          if "#" in l:
-                              prefix, name = l.split("#", 1)
-                              l = f"{prefix}#⚪ {name}"
-                          else:
-                              l = l + "#⚪"
-
                       all_lines.append(l)
               return all_lines
 
-          MAX_REACHABLE_MS = 3000  # сервер считаем рабочим если ответил быстрее 3с
-
-          def write_single(path, header, servers):
-              """Каждый файл содержит ТОЛЬКО свою группу — без дублей из других."""
-              with open(path, "w", encoding="utf-8") as f:
-                  f.write(f"# {header}\n# Updated: {DATE}\n# Total: {len(servers)} servers\n\n")
-                  f.write("\n".join(servers) + "\n")
-
-          def sort_and_filter(lines, max_check=60, count=MAX_PER_GROUP):
-              """
-              Пингуем, отбрасываем неотвечающие (>= MAX_REACHABLE_MS считаем нерабочими),
-              берём top `count` самых быстрых. Если рабочих меньше чем count — отдаём сколько есть.
-              """
+          def sort_and_filter(lines, max_check=80, count=MAX_PER_GROUP):
               candidates = lines[:max_check]
               scored = []
               for line in candidates:
@@ -146,14 +154,30 @@ jobs:
                   p = ping_via_telegram(host) if host else 9999.0
                   print(f"    {host} -> {PING_DOMAIN}: {p:.0f}ms")
                   scored.append((p, line))
-
-              # Оставляем только реально отвечающие сервера
               working = [(p, l) for p, l in scored if p < MAX_REACHABLE_MS]
               working.sort(key=lambda x: x[0])
-
               result = [l for _, l in working][:count]
               print(f"    Working: {len(working)}/{len(scored)} checked -> keeping top {len(result)}")
               return result
+
+          def rename_short(lines, label):
+              """
+              Короткое имя: флаг + код страны + label (White/Black) + номер.
+              Флаг берём из оригинального названия если он там есть, иначе 🌐.
+              """
+              result = []
+              for i, line in enumerate(lines, 1):
+                  original_name = line.split("#", 1)[1] if "#" in line else ""
+                  flag, code = extract_flag(original_name)
+                  new_name = f"{flag} {code} {label} #{i}"
+                  base = re.sub(r'#.*$', '', line).rstrip()
+                  result.append(base + "#" + new_name)
+              return result
+
+          def write_single(path, header, servers):
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(f"# {header}\n# Updated: {DATE}\n# Total: {len(servers)} servers\n\n")
+                  f.write("\n".join(servers) + "\n")
 
           print("Fetching WHITE sources...")
           white_raw = fetch_group(WHITE_SOURCES, is_white=True)
@@ -164,18 +188,19 @@ jobs:
           print(f"  BLACK raw (after anycast filter): {len(black_raw)} keys")
 
           print(f"Checking WHITE servers (max {MAX_PER_GROUP} working)...")
-          white = sort_and_filter(white_raw, max_check=min(80, len(white_raw)), count=MAX_PER_GROUP)
+          white_checked = sort_and_filter(white_raw, max_check=min(80, len(white_raw)), count=MAX_PER_GROUP)
+          white = rename_short(white_checked, "White")
 
           print(f"Checking BLACK servers (max {MAX_PER_GROUP} working)...")
-          black = sort_and_filter(black_raw, max_check=min(80, len(black_raw)), count=MAX_PER_GROUP)
+          black_checked = sort_and_filter(black_raw, max_check=min(80, len(black_raw)), count=MAX_PER_GROUP)
+          black = rename_short(black_checked, "Black")
 
           print("Writing files...")
           write_single("white_servers.txt", "WHITE SERVERS", white)
           write_single("black_servers.txt", "BLACK SERVERS", black)
 
-          # ── debug.txt — все сервера как они пришли из источника, без фильтрации по пингу ──
           with open("debug.txt", "w", encoding="utf-8") as f:
-              f.write(f"# DEBUG — все сервера из источника (без ping-фильтра)\n")
+              f.write(f"# DEBUG — все сервера из источника (без ping-фильтра, оригинальные названия)\n")
               f.write(f"# Updated: {DATE}\n")
               f.write(f"# WHITE raw: {len(white_raw)} | BLACK raw: {len(black_raw)}\n\n")
               f.write("# === WHITE RAW ===\n")
@@ -183,13 +208,14 @@ jobs:
               f.write("# === BLACK RAW ===\n")
               f.write("\n".join(black_raw) + "\n")
 
-          print(f"\nDone! white={len(white)} black={len(black)} | debug.txt: white_raw={len(white_raw)} black_raw={len(black_raw)}")
+          print(f"\nDone! white={len(white)} black={len(black)}")
           EOF
 
       - name: Commit changes
+        if: steps.check.outputs.changed == 'true'
         run: |
           git config user.email "bot@vpnservice.local"
           git config user.name "VPN Sync Bot"
-          git add white_servers.txt black_servers.txt debug.txt
+          git add white_servers.txt black_servers.txt debug.txt last_sha.txt
           git diff --staged --quiet || git commit -m "sync: $(date '+%Y-%m-%d %H:%M UTC')"
           git push

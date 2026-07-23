@@ -65,7 +65,7 @@ jobs:
 
           MAX_PER_GROUP = 55
           PING_DOMAIN   = "telegram.org"
-          MAX_REACHABLE_MS = 3000
+          MAX_REACHABLE_MS = 900
 
           def fetch(filename):
               try:

@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-26 04:44 UTC
+# Updated: 2026-07-26 07:25 UTC
 # Total: 55 servers
 
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@it02.myxasecure.space:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&security=reality&sid=d67ec5a8fc40ebea&sni=it02.myxasecure.space&type=tcp#🌐 XX Black #1
@@ -48,12 +48,12 @@ vless://7309d92c-cb36-4c19-8a29-40beb14f6bf1@vkbr-1.fastfive.ru:443?type=grpc&se
 vless://7309d92c-cb36-4c19-8a29-40beb14f6bf1@vkbr-1.fastfive.ru:443?type=grpc&security=reality&fp=qq&pbk=or4ZvmHZmsclxVQ-5LBCpOj1x1UJPQKEHcsz3Egpwh8&sid=f5af261c324be478&sni=vkbr-1.fastfive.ru&mode=gun&serviceName=vlckrbrto#🇩🇪 DE Black #44
 vless://7309d92c-cb36-4c19-8a29-40beb14f6bf1@ybr2.fastfive.ru:443?type=grpc&security=reality&fp=firefox&pbk=GxII7xIGwdcOj3o9-tJM2HMkzJOKe3WJ_cQ1Y7H4Nlk&sid=f5af261c324ce436&sni=go.supp-solution.ru&mode=gun&serviceName=ybrbrto#🇩🇪 DE Black #45
 vless://90c09d42-c5f6-4602-bba8-957df1ed5598@securitytrails.com:443?type=xhttp&security=tls&fp=chrome&sni=cnn.liamlomson.dpdns.org&path=/forall&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#🇩🇪 DE Black #46
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?type=ws&security=tls&fp=firefox&sni=octopusss.net&path=/odiyfws&host=octopusss.net#🇫🇷 FR Black #47
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443/?type=ws&encryption=none&flow=&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-#🇫🇷 FR Black #48
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@45.80.111.82:8880?encryption=none&security=none&type=ws&host=cnd.germany.newwaycdn.com&path=%2Fcdn%2Fassets%2Fstream#🇩🇪 DE Black #49
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#🇫🇷 FR Black #50
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@66.81.247.238:8880?encryption=none&security=none&type=ws&host=cnd.finland2.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream#🇫🇮 FI Black #51
-vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@91.193.58.10:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=yellow-mouse-fcce.400-318.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=none&type=ws#🇨🇦 CA Black #52
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@45.80.111.175:8880?encryption=none&security=none&type=ws&host=cnd.finland2.newwaycdn.com&path=%2Fcdn%2Fassets%2Fstream#🇫🇮 FI Black #53
+vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@45.80.111.82:8880?encryption=none&security=none&type=ws&host=cnd.germany.newwaycdn.com&path=%2Fcdn%2Fassets%2Fstream#🇩🇪 DE Black #47
+vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@66.81.247.238:8880?encryption=none&security=none&type=ws&host=cnd.finland2.myfilecdn.com&path=%2Fcdn%2Fassets%2Fstream#🇫🇮 FI Black #48
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?type=ws&security=tls&fp=firefox&sni=octopusss.net&path=/odiyfws&host=octopusss.net#🇫🇷 FR Black #49
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443/?type=ws&encryption=none&flow=&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-#🇫🇷 FR Black #50
+vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@45.80.111.175:8880?encryption=none&security=none&type=ws&host=cnd.finland2.newwaycdn.com&path=%2Fcdn%2Fassets%2Fstream#🇫🇮 FI Black #51
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#🇫🇷 FR Black #52
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?type=ws&headerType=none&security=tls&encryption=none&sni=octopusss.net&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel&path=%2Fodiyfws&host=octopusss.net&insecure=0#🇫🇷 FR Black #53
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?security=tls&type=ws&path=/odiyfws&host=octopusss.net&packetEncoding=xudp&sni=octopusss.net&fp=chrome&encryption=none#🇫🇷 FR Black #54
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?type=ws&headerType=none&security=tls&encryption=none&sni=octopusss.net&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel&path=%2Fodiyfws&host=octopusss.net&insecure=0#🇫🇷 FR Black #55
+vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@91.193.58.10:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=yellow-mouse-fcce.400-318.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=none&type=ws#🇨🇦 CA Black #55

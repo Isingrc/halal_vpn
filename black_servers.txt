@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-27 19:53 UTC
+# Updated: 2026-07-27 21:05 UTC
 # Total: 55 servers
 
 vless://49e8f20c-6a27-4637-9e20-e0ea18a75766@fin.themesh.site:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=uC_QQnsGBe7k66PCdUeeGDxzfZAGWhr6fKe8ZHfHeDo&security=reality&sid=d1d566593dd4227d&sni=fin.themesh.site&type=tcp#🌐 XX Black #1
@@ -43,17 +43,17 @@ vless://806b803b-7dad-4f13-b525-f3b1ab50e44e@sp.skysafe.online:2027?path=/patch&
 vless://806b803b-7dad-4f13-b525-f3b1ab50e44e@sp.skysafe.online:2027?type=xhttp&security=reality&fp=qq&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1&sni=sp.skysafe.online&path=/patch&mode=auto&extra={"enablePadding":true,"maxConcurrency":100.0}#🇪🇸 ES Black #39
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@swe06.myxasecure.space:443?&security=reality&flow=xtls-rprx-vision&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&fp=firefox&sni=swe06.myxasecure.space&type=tcp&headerType=none&host=swe06.myxasecure.space&path=%2F#🇸🇪 SE Black #40
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@swe06.myxasecure.space:443?type=tcp&security=reality&sni=swe06.myxasecure.space&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇸🇪 SE Black #41
-vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@104.156.85.44:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#🇩🇪 DE Black #42
-vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@151.101.128.74:80?descriptions=люби_себя1cbaf5&mode=auto&path=%2Fvideo%3Fed%3D1024&burmalda=1898a3f7&type=xhttp&security=none&encryption=none&host=lowtechdevelopersltd.co.uk&_t=3eec3bed#🇩🇪 DE Black #43
-vless://a69d5300-8101-47b5-9448-6730f228af37@167.82.0.17:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#🇩🇪 DE Black #44
-vless://7c7b26ae-f0da-4ae7-8f70-a9553ea07458@172.66.1.220:8443?security=tls&type=xhttp&path=/v2ray&sni=www.myanmarone.site&fp=chrome#🇸🇬 SG Black #45
-vless://218b4b35-e826-49d4-b5dc-558fc7eb9923@77.105.163.46:443?&security=tls&alpn=http%2F1.1&sni=ov186.ochmaybrooooo.online&type=ws&headerType=none&host=ov186.ochmaybrooooo.online&path=%2F#🇵🇱 PL Black #46
-vless://218b4b35-e826-49d4-b5dc-558fc7eb9923@199.181.197.82:443?&security=tls&fp=chrome&sni=polshaov.ochmaybrooooo.online&type=ws&headerType=none&host=polshaov.ochmaybrooooo.online&path=%2F#🇫🇷 FR Black #47
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?type=ws&security=tls&fp=firefox&sni=octopusss.net&path=/odiyfws&host=octopusss.net#🇫🇷 FR Black #48
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?type=ws&headerType=none&security=tls&encryption=none&sni=octopusss.net&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel&path=%2Fodiyfws&host=octopusss.net&insecure=0#🇫🇷 FR Black #49
-vless://218b4b35-e826-49d4-b5dc-558fc7eb9923@77.105.163.46:443?host=ov186.ochmaybrooooo.online&path=%2F&security=tls&sni=ov186.ochmaybrooooo.online&type=ws#🇵🇱 PL Black #50
-vless://218b4b35-e826-49d4-b5dc-558fc7eb9923@199.181.197.82:443?type=ws&headerType=none&security=tls&encryption=none&sni=polshaov.ochmaybrooooo.online&fp=chrome&alpn=http%2F1.1&path=%2F&host=polshaov.ochmaybrooooo.online&insecure=0#🇫🇷 FR Black #51
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#🇫🇷 FR Black #52
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443/?type=ws&encryption=none&flow=&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-#🇫🇷 FR Black #53
-vless://218b4b35-e826-49d4-b5dc-558fc7eb9923@77.105.163.46:443?security=tls&type=ws&path=/&host=ov186.ochmaybrooooo.online&alpn=http/1.1&sni=ov186.ochmaybrooooo.online&fp=chrome&encryption=none#🇵🇱 PL Black #54
-vless://4ecdf2bd-3ef1-4356-8323-420ed29e8e89@43.108.23.174:32521?type=tcp&security=none&encryption=none&fp=chrome#🇰🇷 KR Black #55
+vless://a69d5300-8101-47b5-9448-6730f228af37@167.82.0.17:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#🇩🇪 DE Black #42
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?type=ws&headerType=none&security=tls&encryption=none&sni=octopusss.net&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel&path=%2Fodiyfws&host=octopusss.net&insecure=0#🇫🇷 FR Black #43
+vless://218b4b35-e826-49d4-b5dc-558fc7eb9923@77.105.163.46:443?security=tls&type=ws&path=/&host=ov186.ochmaybrooooo.online&alpn=http/1.1&sni=ov186.ochmaybrooooo.online&fp=chrome&encryption=none#🇵🇱 PL Black #44
+vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@151.101.128.74:80?descriptions=люби_себя1cbaf5&mode=auto&path=%2Fvideo%3Fed%3D1024&burmalda=1898a3f7&type=xhttp&security=none&encryption=none&host=lowtechdevelopersltd.co.uk&_t=3eec3bed#🇩🇪 DE Black #45
+vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@104.156.85.44:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#🇩🇪 DE Black #46
+vless://218b4b35-e826-49d4-b5dc-558fc7eb9923@77.105.163.46:443?host=ov186.ochmaybrooooo.online&path=%2F&security=tls&sni=ov186.ochmaybrooooo.online&type=ws#🇵🇱 PL Black #47
+vless://218b4b35-e826-49d4-b5dc-558fc7eb9923@199.181.197.82:443?type=ws&headerType=none&security=tls&encryption=none&sni=polshaov.ochmaybrooooo.online&fp=chrome&alpn=http%2F1.1&path=%2F&host=polshaov.ochmaybrooooo.online&insecure=0#🇫🇷 FR Black #48
+vless://218b4b35-e826-49d4-b5dc-558fc7eb9923@199.181.197.82:443?&security=tls&fp=chrome&sni=polshaov.ochmaybrooooo.online&type=ws&headerType=none&host=polshaov.ochmaybrooooo.online&path=%2F#🇫🇷 FR Black #49
+vless://218b4b35-e826-49d4-b5dc-558fc7eb9923@77.105.163.46:443?&security=tls&alpn=http%2F1.1&sni=ov186.ochmaybrooooo.online&type=ws&headerType=none&host=ov186.ochmaybrooooo.online&path=%2F#🇵🇱 PL Black #50
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#🇫🇷 FR Black #51
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443/?type=ws&encryption=none&flow=&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-#🇫🇷 FR Black #52
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?type=ws&security=tls&fp=firefox&sni=octopusss.net&path=/odiyfws&host=octopusss.net#🇫🇷 FR Black #53
+vless://7c7b26ae-f0da-4ae7-8f70-a9553ea07458@172.66.1.220:8443?security=tls&type=xhttp&path=/v2ray&sni=www.myanmarone.site&fp=chrome#🇸🇬 SG Black #54
+vless://bece874b-e905-48a4-9620-5ef59b49081a@5.175.249.199:52315?type=ws&encryption=none&host=5.175.249.199&path=%2F&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=1#🇩🇪 DE Black #55

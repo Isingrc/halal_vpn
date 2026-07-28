@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-07-28 11:33 UTC
+# Updated: 2026-07-28 13:16 UTC
 # Total: 55 servers
 
 vless://9a15843f-c194-4625-b058-29833674acc0@dsm2.473221.xyz:34819/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=updates.cdn-apple.com&fp=edge&security=reality&pbk=3tM5udzQZi_NFNd27D-YJ03W1nlvpHEm-dUdr7G39gg&sid=0178ec03#🌐 XX Black #1
@@ -38,22 +38,22 @@ vless://a8f84171-5f96-4547-b621-59758fe668c8@node-tw0.omhvp.co:443?encryption=no
 vless://7c7b26ae-f0da-4ae7-8f70-a9553ea07458@about.com:2053?type=xhttp&security=tls&fp=chrome&sni=www.myanmartwo.site&path=/v2ray#🇸🇬 SG Black #34
 vless://7c7b26ae-f0da-4ae7-8f70-a9553ea07458@about.com:8443?mode=auto&path=%2Fv2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=www.myanmarone.site&fp=chrome&type=xhttp&allowInsecure=0&sni=www.myanmarone.site#🇸🇬 SG Black #35
 vless://7c7b26ae-f0da-4ae7-8f70-a9553ea07458@about.com:8443?type=xhttp&security=tls&path=/v2ray&sni=www.myanmarone.site&fp=chrome#🇸🇬 SG Black #36
-vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@151.101.194.120:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#🇩🇪 DE Black #37
-vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?&type=ws&headerType=none&host=cnd.france2.gg.newwaycdn.com&path=%2Fcdn%2Fassets%2Fstream#🇫🇷 FR Black #38
+vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?&type=ws&headerType=none&host=cnd.france2.gg.newwaycdn.com&path=%2Fcdn%2Fassets%2Fstream#🇫🇷 FR Black #37
+vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@151.101.194.120:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#🇩🇪 DE Black #38
 vless://7c7b26ae-f0da-4ae7-8f70-a9553ea07458@162.159.141.224:8443?security=tls&type=xhttp&path=/v2ray&sni=www.myanmarone.site&fp=chrome#🇸🇬 SG Black #39
 vless://e2eac322-ac0c-4bd6-867e-7b585500988e@151.101.117.84:443?encryption=none&security=tls&sni=accaunts.fastly.com&alpn=h3&type=xhttp&mode=auto&host=lunex.store&path=%2FLunex&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D#🇩🇪 DE Black #40
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@89.185.81.252:8443?type=grpc&security=none&encryption=none&serviceName=grpc#🇳🇴 NO Black #41
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.224.3:8443?type=grpc&security=none&encryption=none&serviceName=grpc#🇪🇪 EE Black #42
-vless://b55a6115-07f5-4464-85b5-7059ce4701f3@103.20.235.89:707?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.twitch.tv&fp=edge&pbk=B9CEUyuCck826XlgZBTOvBmygzRcwAjpByA2dHW5ciM&sid=bafd768cc8aae025&spx=%2F&path=%2F#🇸🇬 SG Black #43
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.224.3:8443?type=grpc&security=none&encryption=none&serviceName=grpc#🇪🇪 EE Black #41
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@89.185.81.252:8443?type=grpc&security=none&encryption=none&serviceName=grpc#🇳🇴 NO Black #42
+vless://bece874b-e905-48a4-9620-5ef59b49081a@5.175.249.199:52315?flow=&fp=chrome&headertype=none&host=5.175.249.199&path=%2F&quicsecurity=none&security=&servicename=&type=ws#🇩🇪 DE Black #43
 vless://bece874b-e905-48a4-9620-5ef59b49081a@5.175.249.199:52315?type=ws&fp=chrome&sni=5.175.249.199&quicSecurity=none#🇩🇪 DE Black #44
-vless://bece874b-e905-48a4-9620-5ef59b49081a@5.175.249.199:52315?type=ws&encryption=none&host=5.175.249.199&path=%2F&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=1#🇩🇪 DE Black #45
-vless://bece874b-e905-48a4-9620-5ef59b49081a@5.175.249.199:52315?flow=&fp=chrome&headertype=none&host=5.175.249.199&path=%2F&quicsecurity=none&security=&servicename=&type=ws#🇩🇪 DE Black #46
-vless://b55a6115-07f5-4464-85b5-7059ce4701f3@195.58.140.165:443?type=tcp&headerType=none&security=reality&encryption=none&sni=d2-fr.cloud-cdn.xyz&fp=edge&pbk=lRuJPDrUb0b32-47hl4BgDoQutqmkuW31N4qVxbDgmI&sid=dc927a04e8572c61&spx=%2F&flow=xtls-rprx-vision#🇫🇷 FR Black #47
-vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@5.254.121.232:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn9-33.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=dc124373ff9327cf&type=tcp&headerType=none#🇩🇪 DE Black #48
-vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@5.254.121.232:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn9-40.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=299a6ca1f217c457&type=tcp&headerType=none#🇳🇴 NO Black #49
-vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@5.254.121.201:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn4-35.yahoo.com&sid=cd5d72100116f1c3#🇰🇿 KZ Black #50
-vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@5.254.121.177:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn2-56.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7869890bd66a9f3d&type=tcp&headerType=none#🇯🇵 JP Black #51
-vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@5.254.121.177:443?&security=reality&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=dc124373ff9327cf&fp=firefox&sni=cdn9-40.yahoo.com&type=tcp&headerType=none&host=cdn9-40.yahoo.com&path=%2F#🇳🇴 NO Black #52
-vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@5.254.121.177:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cdn9-40.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=dc124373ff9327cf&flow=xtls-rprx-vision#🇳🇴 NO Black #53
-vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@5.254.121.201:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn4-35.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=cd5d72100116f1c3&type=tcp&headerType=none#🇰🇿 KZ Black #54
-vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@84.75.161.38:443?&security=reality&flow=xtls-rprx-vision&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=5678&fp=chrome&sni=auto.malina24.xyz&type=tcp&headerType=none&host=auto.malina24.xyz&path=%2F#🇩🇰 DK Black #55
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@103.20.235.89:707?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.twitch.tv&fp=edge&pbk=B9CEUyuCck826XlgZBTOvBmygzRcwAjpByA2dHW5ciM&sid=bafd768cc8aae025&spx=%2F&path=%2F#🇸🇬 SG Black #45
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@195.58.140.165:443?type=tcp&headerType=none&security=reality&encryption=none&sni=d2-fr.cloud-cdn.xyz&fp=edge&pbk=lRuJPDrUb0b32-47hl4BgDoQutqmkuW31N4qVxbDgmI&sid=dc927a04e8572c61&spx=%2F&flow=xtls-rprx-vision#🇫🇷 FR Black #46
+vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@5.254.121.201:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn4-35.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=cd5d72100116f1c3&type=tcp&headerType=none#🇰🇿 KZ Black #47
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.124.105:443?type=tcp&headerType=none&security=reality&encryption=none&sni=d2-de.cloud-s3.xyz&fp=edge&pbk=CmKaRa0TecpFSyn7OK6UTPPuWJ7ji2OwsaOBuUtSKGM&sid=7a3f9e2b1c8d4f6a&spx=%2F&flow=xtls-rprx-vision#🇩🇪 DE Black #48
+vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@5.254.121.177:443?&security=reality&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=dc124373ff9327cf&fp=firefox&sni=cdn9-40.yahoo.com&type=tcp&headerType=none&host=cdn9-40.yahoo.com&path=%2F#🇳🇴 NO Black #49
+vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@5.254.121.201:443?&security=reality&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=8015c191d21aa452&fp=firefox&sni=cdn8-63.yahoo.com&type=tcp&headerType=none&host=cdn8-63.yahoo.com&path=%2F#🇧🇷 BR Black #50
+vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@5.254.121.177:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cdn9-40.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=dc124373ff9327cf&flow=xtls-rprx-vision#🇳🇴 NO Black #51
+vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@5.254.121.201:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn4-35.yahoo.com&sid=cd5d72100116f1c3#🇰🇿 KZ Black #52
+vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@5.254.121.177:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn2-56.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7869890bd66a9f3d&type=tcp&headerType=none#🇯🇵 JP Black #53
+vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@5.254.121.232:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn9-40.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=299a6ca1f217c457&type=tcp&headerType=none#🇳🇴 NO Black #54
+vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@5.254.121.232:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn9-33.yahoo.com&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=dc124373ff9327cf&type=tcp&headerType=none#🇩🇪 DE Black #55

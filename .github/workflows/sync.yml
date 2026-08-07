@@ -64,7 +64,7 @@ jobs:
           PROTOCOLS = ("vless://", "vmess://", "trojan://", "ss://", "hysteria2://", "tuic://")
 
           MAX_PER_GROUP = 55
-          PING_DOMAIN   = "telegram.org"
+          PING_DOMAIN   = "checkip.amazonaws.com"
           MAX_REACHABLE_MS = 900
 
           def fetch(filename):

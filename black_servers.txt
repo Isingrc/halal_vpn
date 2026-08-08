@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-08-08 05:22 UTC
+# Updated: 2026-08-08 06:04 UTC
 # Total: 55 servers
 
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@pol.cryptoofarm.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pol.cryptoofarm.com&pbk=ZMoU6zdlhABeKKfsgRidv7o0-M_EtnHzeA6P_kXuv0g&sid=7e831024a7c0e7&type=tcp&headerType=none&fp=chrome#🌐 XX Black #1
@@ -33,27 +33,27 @@ vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@lm.cryptoofarm.com:2053?type=grpc&h
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@lm.cryptoofarm.com:2053?type=grpc&headerType=none&security=reality&encryption=none&sni=lm.cryptoofarm.com&pbk=o2fAXuiDUK-48SfykCEfRdtwPX8AbVVY882d5hSiCGs&sid=8b4934f6707609b8&spx=%2F&serviceName=lm.cryptoofarm.com&fp=qq#🇵🇱 PL Black #29
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@pol.cryptoofarm.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pol.cryptoofarm.com&pbk=ZMoU6zdlhABeKKfsgRidv7o0-M_EtnHzeA6P_kXuv0g&sid=7e831024a7c0e7&type=tcp&headerType=none&fp=edge#🇵🇱 PL Black #30
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@pol.cryptoofarm.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pol.cryptoofarm.com&pbk=ZMoU6zdlhABeKKfsgRidv7o0-M_EtnHzeA6P_kXuv0g&sid=7e831024a7c0e7&type=tcp&headerType=none&fp=firefox#🇵🇱 PL Black #31
-vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.98:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=qq#🇵🇱 PL Black #32
-vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?&type=ws&headerType=none&host=cnd.france2.gg.newwaycdn.com&path=/cdn/assets/stream#🇫🇷 FR Black #33
-vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.94:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=safari#🇵🇱 PL Black #34
-vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.94:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&fp=chrome&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0#🇵🇱 PL Black #35
-vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.98:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=safari#🇵🇱 PL Black #36
-vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.94:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=ios#🇵🇱 PL Black #37
-vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.94:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=android#🇵🇱 PL Black #38
-vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.94:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=qq#🇵🇱 PL Black #39
-vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.98:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=android#🇵🇱 PL Black #40
-vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.98:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=chrome#🇵🇱 PL Black #41
-vless://b8030aa6-a47f-46a9-8097-9d3d535868d0@146.75.58.73:443?mode=packet-up&path=%2FLunex&security=tls&alpn=h3&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=lunex.store&fp=chrome&type=xhttp&allowInsecure=0&sni=accaunt.fastly.com#🇩🇪 DE Black #42
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&mode=gun&security=none&serviceName=grpc&type=grpc#🇪🇪 EE Black #43
-vless://97672a88-ec39-4234-a102-1df6f9236f36@47.86.249.58:41528?type=tcp&security=reality&encryption=none&fp=firefox&pbk=vSXM6NtiXtPcwqZpXCTpKLBOPewzcEfr9-p18aiywio&sid=b4&sni=www.apple.com#🌐 XX Black #44
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@217.60.193.4:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&type=tcp&fp=chrome#🌐 XX Black #45
-vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@31.76.113.187:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=safari#🇮🇹 IT Black #46
-vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@77.105.163.46:443?security=tls&type=ws&path=%2F&host=ov186.ochmaybrooooo.online&alpn=http%2F1.1&sni=ov186.ochmaybrooooo.online&encryption=none&fp=firefox#🇵🇱 PL Black #47
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@217.60.193.4:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&type=tcp&fp=qq#🇩🇪 DE Black #48
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@217.60.193.4:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&type=tcp&fp=firefox#🇩🇪 DE Black #49
+vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.98:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=android#🇵🇱 PL Black #32
+vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.94:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&fp=chrome&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0#🇵🇱 PL Black #33
+vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.94:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=ios#🇵🇱 PL Black #34
+vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@77.105.163.46:443?security=tls&type=ws&path=%2F&host=ov186.ochmaybrooooo.online&alpn=http%2F1.1&sni=ov186.ochmaybrooooo.online&encryption=none&fp=firefox#🇵🇱 PL Black #35
+vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@77.105.163.46:443?encryption=none&type=ws&host=ov186.ochmaybrooooo.online&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=ov186.ochmaybrooooo.online#🇵🇱 PL Black #36
+vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.94:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=safari#🇵🇱 PL Black #37
+vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.98:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=safari#🇵🇱 PL Black #38
+vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.94:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=android#🇵🇱 PL Black #39
+vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.98:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=chrome#🇵🇱 PL Black #40
+vless://b8030aa6-a47f-46a9-8097-9d3d535868d0@146.75.58.73:443?mode=packet-up&path=%2FLunex&security=tls&alpn=h3&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=lunex.store&fp=chrome&type=xhttp&allowInsecure=0&sni=accaunt.fastly.com#🇩🇪 DE Black #41
+vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?&type=ws&headerType=none&host=cnd.france2.gg.newwaycdn.com&path=/cdn/assets/stream#🇫🇷 FR Black #42
+vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.94:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=qq#🇵🇱 PL Black #43
+vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@146.75.58.98:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accounts.fastly.com&alpn=h3&path=%2F&host=oh1.global.ssl.fastly.net&insecure=0&fp=qq#🇵🇱 PL Black #44
+vless://1f964d0e-7e33-42b0-9c9f-c2c1a8b157c6@77.105.163.46:443?type=ws&headerType=none&security=tls&encryption=none&sni=ov186.ochmaybrooooo.online&alpn=http%2F1.1&path=%2F&host=ov186.ochmaybrooooo.online&insecure=0&fp=safari#🇵🇱 PL Black #45
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&mode=gun&security=none&serviceName=grpc&type=grpc#🇪🇪 EE Black #46
+vless://97672a88-ec39-4234-a102-1df6f9236f36@47.86.249.58:41528?type=tcp&security=reality&encryption=none&fp=firefox&pbk=vSXM6NtiXtPcwqZpXCTpKLBOPewzcEfr9-p18aiywio&sid=b4&sni=www.apple.com#🌐 XX Black #47
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@217.60.193.4:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&type=tcp&fp=firefox#🇩🇪 DE Black #48
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@217.60.193.4:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&type=tcp&fp=qq#🇩🇪 DE Black #49
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@217.60.193.4:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&type=tcp&fp=edge#🇩🇪 DE Black #50
-vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@85.158.109.114:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZMoU6zdlhABeKKfsgRidv7o0-M_EtnHzeA6P_kXuv0g&security=reality&sid=7e831024a7c0e7&sni=pol.cryptoofarm.com&type=tcp#🇵🇱 PL Black #51
-vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@31.76.113.187:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=firefox#🇮🇹 IT Black #52
-vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@94.126.224.235:2053?authority=grpc-ux-d5f9v2c7nq&encryption=none&fp=firefox&pbk=qEemc5mnxCg4kPBK-AiuzKzPYBqbxA62d7-ln7yZVkw&security=reality&serviceName=fn.cryptoofarm.com&sid=b599bdfa99d1b7&sni=fn.cryptoofarm.com&type=grpc#🇪🇪 EE Black #53
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@217.60.193.4:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&type=tcp&fp=chrome#🌐 XX Black #51
+vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@31.76.113.187:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=safari#🇮🇹 IT Black #52
+vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@31.76.113.187:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=firefox#🇮🇹 IT Black #53
 vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@31.76.113.187:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=qq#🇮🇹 IT Black #54
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@212.2.34.69:2053?authority=grpc-jq-g5h8s1n4lz&encryption=none&fp=firefox&pbk=o2fAXuiDUK-48SfykCEfRdtwPX8AbVVY882d5hSiCGs&security=reality&serviceName=lm.cryptoofarm.com&sid=8b4934f6707609b8&sni=lm.cryptoofarm.com&type=grpc#🇵🇱 PL Black #55

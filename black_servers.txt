@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-08-12 00:43 UTC
+# Updated: 2026-08-12 03:12 UTC
 # Total: 55 servers
 
 vless://a6d08a18-3244-471c-8af0-56ddecbb7897@netherlands1.banovano.space:8443?security=reality&encryption=none&sni=dl.google.com&pbk=ySGdExSQZ93z67nSi9jbIEdDkCjc1ZgnqXmH2qeBdE0&sid=660cd5e2&spx=%2F&type=grpc&path=%2F&fp=chrome#🌐 XX Black #1

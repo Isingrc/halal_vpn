@@ -1,18 +1,15 @@
 # WHITE SERVERS
-# Updated: 2026-08-19 10:47 UTC
-# Total: 14 servers
+# Updated: 2026-08-19 12:02 UTC
+# Total: 11 servers
 
-vless://c90858de-68c4-4432-9b81-54933345c932@4k.represso.lol:14443?encryption=none&type=ws&security=tls&sni=4k.represso.lol&path=%2Frw&host=4k.represso.lol&fp=android#🇱🇹 LT White #1
-vless://c90858de-68c4-4432-9b81-54933345c932@4k.represso.lol:14443?encryption=none&type=ws&security=tls&sni=4k.represso.lol&path=%2Frw&host=4k.represso.lol&fp=chrome#🇱🇹 LT White #2
-vless://c90858de-68c4-4432-9b81-54933345c932@4k.represso.lol:14443?encryption=none&type=ws&security=tls&sni=4k.represso.lol&path=%2Frw&host=4k.represso.lol&fp=firefox#🇱🇹 LT White #3
-vless://c90858de-68c4-4432-9b81-54933345c932@4k.represso.lol:14443?encryption=none&type=ws&security=tls&sni=4k.represso.lol&path=%2Frw&host=4k.represso.lol&fp=ios#🇱🇹 LT White #4
-vless://c90858de-68c4-4432-9b81-54933345c932@4k.represso.lol:14443?encryption=none&type=ws&security=tls&sni=4k.represso.lol&path=%2Frw&host=4k.represso.lol&fp=safari#🇱🇹 LT White #5
-hysteria2://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@althys.superbuba.top:443?sni=althys.superbuba.top#🇩🇪 DE White #6
-hysteria2://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@althys2.superbuba.top:443?sni=althys2.superbuba.top#🇩🇪 DE White #7
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=safari#🇳🇱 NL White #8
+hysteria2://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@althys.superbuba.top:443?sni=althys.superbuba.top#🇩🇪 DE White #1
+hysteria2://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@althys2.superbuba.top:443?sni=althys2.superbuba.top#🇩🇪 DE White #2
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.214.225:443?insecure=1&sni=vk.com#🇰🇷 KR White #3
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=firefox#🇷🇺 RU White #4
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=ios#🇷🇺 RU White #5
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=safari#🇷🇺 RU White #6
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=firefox#🇳🇱 NL White #7
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=qq#🇳🇱 NL White #8
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=chrome#🇳🇱 NL White #9
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=ios#🇳🇱 NL White #10
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=qq#🇳🇱 NL White #11
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=ios#🇷🇺 RU White #12
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=firefox#🇷🇺 RU White #13
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.214.225:443?insecure=1&sni=vk.com#🇰🇷 KR White #14
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=safari#🇳🇱 NL White #11

@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-08-21 15:16 UTC
+# Updated: 2026-08-21 16:24 UTC
 # Total: 55 servers
 
 vless://20593145-d975-46f9-9bad-d9f3c8e2d899@vip-nl-1.hkd4fwmg.vip:31883?flow=xtls-rprx-vision&security=tls&sni=vip-nl-1.hkd4fwmg.vip&fp=android#🌐 XX Black #1
@@ -42,18 +42,18 @@ vless://d0af05d4-d1f0-491e-a143-1def35ad6438@vip-us-6.hkd4fwmg.xyz:38609?encrypt
 vless://d0af05d4-d1f0-491e-a143-1def35ad6438@vip-us-6.hkd4fwmg.xyz:38609?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vip-us-6.hkd4fwmg.xyz&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=edge#🇺🇸 US Black #38
 vless://d0af05d4-d1f0-491e-a143-1def35ad6438@vip-us-6.hkd4fwmg.xyz:38609?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vip-us-6.hkd4fwmg.xyz&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=ios#🇺🇸 US Black #39
 vless://d0af05d4-d1f0-491e-a143-1def35ad6438@vip-us-6.hkd4fwmg.xyz:38609?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vip-us-6.hkd4fwmg.xyz&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=qq#🇺🇸 US Black #40
-vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?type=ws&security=tls&encryption=none&sni=za12kl3.bingnet.online&host=za12kl3.bingnet.online&fp=safari#🇫🇮 FI Black #41
-vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?type=ws&security=tls&encryption=none&sni=za12kl3.bingnet.online&host=za12kl3.bingnet.online&fp=ios#🇫🇮 FI Black #42
-vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?type=ws&security=tls&encryption=none&sni=za12kl3.bingnet.online&host=za12kl3.bingnet.online&fp=firefox#🇫🇮 FI Black #43
-vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?type=ws&security=tls&encryption=none&sni=za12kl3.bingnet.online&host=za12kl3.bingnet.online&fp=qq#🇫🇮 FI Black #44
-vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?type=ws&security=tls&encryption=none&sni=za12kl3.bingnet.online&host=za12kl3.bingnet.online&fp=edge#🇫🇮 FI Black #45
-vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?security=reality&type=tcp&packetEncoding=none&sni=www.nvidia.com&flow=xtls-rprx-vision&sid=52c723e0fad49689&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&fp=firefox#🇳🇱 NL Black #46
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=firefox#🇷🇺 RU Black #47
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=edge#🇷🇺 RU Black #48
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=chrome#🇷🇺 RU Black #49
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=android#🇷🇺 RU Black #50
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=qq#🇷🇺 RU Black #51
-vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?flow=xtls-rprx-vision&pbk=uLhi4XEmyszRHxTWF2-X_rehZdceMD4bdVaBOB64Kmc&security=reality&sid=36ff988994b11357&sni=www.apple.com&type=tcp&fp=safari#🇯🇵 JP Black #52
-vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?flow=xtls-rprx-vision&pbk=uLhi4XEmyszRHxTWF2-X_rehZdceMD4bdVaBOB64Kmc&security=reality&sid=36ff988994b11357&sni=www.apple.com&type=tcp&fp=chrome#🇯🇵 JP Black #53
+vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?type=ws&security=tls&encryption=none&sni=za12kl3.bingnet.online&host=za12kl3.bingnet.online&fp=firefox#🇫🇮 FI Black #41
+vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?type=ws&security=tls&encryption=none&sni=za12kl3.bingnet.online&host=za12kl3.bingnet.online&fp=qq#🇫🇮 FI Black #42
+vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?type=ws&security=tls&encryption=none&sni=za12kl3.bingnet.online&host=za12kl3.bingnet.online&fp=safari#🇫🇮 FI Black #43
+vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?type=ws&security=tls&encryption=none&sni=za12kl3.bingnet.online&host=za12kl3.bingnet.online&fp=edge#🇫🇮 FI Black #44
+vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?type=ws&security=tls&encryption=none&sni=za12kl3.bingnet.online&host=za12kl3.bingnet.online&fp=ios#🇫🇮 FI Black #45
+vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=chrome#🇷🇺 RU Black #46
+vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=edge#🇷🇺 RU Black #47
+vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=android#🇷🇺 RU Black #48
+vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=firefox#🇷🇺 RU Black #49
+vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=qq#🇷🇺 RU Black #50
+vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?flow=xtls-rprx-vision&pbk=uLhi4XEmyszRHxTWF2-X_rehZdceMD4bdVaBOB64Kmc&security=reality&sid=36ff988994b11357&sni=www.apple.com&type=tcp&fp=safari#🇯🇵 JP Black #51
+vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?flow=xtls-rprx-vision&pbk=uLhi4XEmyszRHxTWF2-X_rehZdceMD4bdVaBOB64Kmc&security=reality&sid=36ff988994b11357&sni=www.apple.com&type=tcp&fp=qq#🇯🇵 JP Black #52
+vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?flow=xtls-rprx-vision&pbk=uLhi4XEmyszRHxTWF2-X_rehZdceMD4bdVaBOB64Kmc&security=reality&sid=36ff988994b11357&sni=www.apple.com&type=tcp&fp=android#🇯🇵 JP Black #53
 vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?flow=xtls-rprx-vision&pbk=uLhi4XEmyszRHxTWF2-X_rehZdceMD4bdVaBOB64Kmc&security=reality&sid=36ff988994b11357&sni=www.apple.com&type=tcp&fp=firefox#🇯🇵 JP Black #54
-vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?flow=xtls-rprx-vision&pbk=uLhi4XEmyszRHxTWF2-X_rehZdceMD4bdVaBOB64Kmc&security=reality&sid=36ff988994b11357&sni=www.apple.com&type=tcp&fp=qq#🇯🇵 JP Black #55
+vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?flow=xtls-rprx-vision&pbk=uLhi4XEmyszRHxTWF2-X_rehZdceMD4bdVaBOB64Kmc&security=reality&sid=36ff988994b11357&sni=www.apple.com&type=tcp&fp=chrome#🇯🇵 JP Black #55

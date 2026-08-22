@@ -1,5 +1,5 @@
 # DEBUG — все сервера из источника (без ping-фильтра, оригинальные названия)
-# Updated: 2026-08-22 02:12 UTC
+# Updated: 2026-08-22 03:09 UTC
 # WHITE raw: 80 | BLACK raw: 189
 
 # === WHITE RAW ===

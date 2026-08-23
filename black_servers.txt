@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-08-23 20:54 UTC
+# Updated: 2026-08-23 21:15 UTC
 # Total: 55 servers
 
 vless://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@it-two.letsgodance.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=it-two.letsgodance.site&pbk=K8LxbhrcgxM7bIW8SGKmEvqn-zbAGqyi4G37_u-kbh4&sid=c2b104f3483063c5&flow=xtls-rprx-vision&fp=edge#🇮🇹 IT Black #1

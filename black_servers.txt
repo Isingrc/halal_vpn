@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-08-24 20:50 UTC
+# Updated: 2026-08-24 21:52 UTC
 # Total: 55 servers
 
 vless://20c72888-b83e-4309-82a4-aab4a2dda778@ger.riotvpn.eu:9443?encryption=none&security=reality&sni=static.vkimages.io&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&flow=xtls-rprx-vision#🌐 XX Black #1
@@ -48,12 +48,12 @@ vless://5e1a8b4d-dcb5-4651-a0a3-1b17476b1baa@uk.noooo.win:443?mode=auto&path=%2F
 vless://5e1a8b4d-dcb5-4651-a0a3-1b17476b1baa@uk.noooo.win:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=api-6a8bfe8a.noooo.win&fp=safari#🇬🇧 GB Black #44
 vless://5e1a8b4d-dcb5-4651-a0a3-1b17476b1baa@uk.noooo.win:443?mode=auto&path=/&security=tls&alpn=h3&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=api-6a8bfe8a.noooo.win#🇬🇧 GB Black #45
 vless://817dfc1d-07fe-48b2-973a-0aca1c5c6e9d@151.101.111.69:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd13.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#🇩🇪 DE Black #46
-vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@220.130.75.250:10000/?type=tcp&encryption=none&flow=&packetEncoding=xudp#🇹🇼 TW Black #47
-vless://14777bd9-56a5-46f6-a94f-826b4800dc05@201.24.49.130:9871?type=grpc&security=reality&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel&fp=safari#🇩🇪 DE Black #48
-vless://14777bd9-56a5-46f6-a94f-826b4800dc05@200.165.235.98:9892?type=grpc&security=reality&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&sni=dl.google.com&serviceName=grpc-tunnel&spx=%2F&fp=safari#🇩🇪 DE Black #49
-vless://14777bd9-56a5-46f6-a94f-826b4800dc05@200.165.235.98:9892?type=grpc&security=reality&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&sni=dl.google.com&serviceName=grpc-tunnel&spx=%2F&fp=chrome#🇩🇪 DE Black #50
-vless://3d821554-a3c5-4d0a-9321-611ecb1ec90b@95.154.237.50:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=lanacion.com.ar&type=tcp&fp=chrome#🇬🇧 GB Black #51
-vless://3d821554-a3c5-4d0a-9321-611ecb1ec90b@95.154.237.50:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=lanacion.com.ar&type=tcp&fp=firefox#🇬🇧 GB Black #52
-vless://3d821554-a3c5-4d0a-9321-611ecb1ec90b@95.154.237.50:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=lanacion.com.ar&type=tcp&fp=safari#🇬🇧 GB Black #53
+vless://14777bd9-56a5-46f6-a94f-826b4800dc05@200.165.235.98:9892?type=grpc&security=reality&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&sni=dl.google.com&serviceName=grpc-tunnel&spx=%2F&fp=chrome#🇩🇪 DE Black #47
+vless://14777bd9-56a5-46f6-a94f-826b4800dc05@200.165.235.98:9892?type=grpc&security=reality&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&sni=dl.google.com&serviceName=grpc-tunnel&spx=%2F&fp=safari#🇩🇪 DE Black #48
+vless://14777bd9-56a5-46f6-a94f-826b4800dc05@201.24.49.130:9871?type=grpc&security=reality&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel&fp=safari#🇩🇪 DE Black #49
+vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@220.130.75.250:10000/?type=tcp&encryption=none&flow=&packetEncoding=xudp#🇹🇼 TW Black #50
+vless://2f919a1e-f00e-4538-b0a9-cf190721d578@185.136.12.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JceeRYV6A6gZp0wyPP6ddvwOUGlOYpCzNiw47KeFn0k&security=reality&sni=gimba.shhflow.xyz&type=tcp#🇨🇦 CA Black #51
+vless://acf97281-81bf-41eb-b889-c9be5dd84894@109.169.37.126:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=foodnetwork.com&type=tcp&fp=safari#🇬🇧 GB Black #52
+vless://3d821554-a3c5-4d0a-9321-611ecb1ec90b@95.154.237.50:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=lanacion.com.ar&type=tcp&fp=firefox#🇬🇧 GB Black #53
 vless://3d821554-a3c5-4d0a-9321-611ecb1ec90b@95.154.237.50:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=lanacion.com.ar&type=tcp&fp=qq#🇬🇧 GB Black #54
-vless://2f919a1e-f00e-4538-b0a9-cf190721d578@185.136.12.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JceeRYV6A6gZp0wyPP6ddvwOUGlOYpCzNiw47KeFn0k&security=reality&sni=gimba.shhflow.xyz&type=tcp#🇨🇦 CA Black #55
+vless://3d821554-a3c5-4d0a-9321-611ecb1ec90b@95.154.237.50:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=lanacion.com.ar&type=tcp&fp=safari#🇬🇧 GB Black #55

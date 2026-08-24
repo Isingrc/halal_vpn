@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-08-24 10:49 UTC
+# Updated: 2026-08-24 11:45 UTC
 # Total: 55 servers
 
 vless://22fff84b-dd89-489d-bc4c-794f664b92a2@store20.vevluma.ir:1234?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&sid=4844fb0c077b20b7&allowInsecure=1#🌐 XX Black #1

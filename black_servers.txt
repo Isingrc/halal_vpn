@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-08-25 18:14 UTC
+# Updated: 2026-08-25 18:59 UTC
 # Total: 55 servers
 
 vless://51b7b320-fe34-422c-93fd-feea4f102c25@update.georkup.ir:2050?security=reality&encryption=none&pbk=87HZewEoPUrnq4LxNZjPDArFr7IyfX74eGkisGBwQH8&headerType=none&spx=%2Fa367a68b9348617&type=tcp&sni=perplexity.ai&sid=f26c8fd2&fp=android#🌐 XX Black #1

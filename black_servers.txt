@@ -1,6 +1,6 @@
 # BLACK SERVERS
-# Updated: 2026-09-01 21:04 UTC
-# Total: 49 servers
+# Updated: 2026-09-01 23:15 UTC
+# Total: 55 servers
 
 vless://c2564a65-0821-3241-b090-45d49cef58fd@family.bucket.zjs.a.b.9.kfc-520.com:10043?security=reality&flow=xtls-rprx-vision&pbk=PGH5Jy0dfgEwQlGGd2YklalRs51yUTvD5j1DZPxKgUw&sid=9eafa129b6&sni=www.adobe.com&type=tcp&headerType=none&host=www.adobe.com&path=%2F&fp=chrome#🇨🇦 CA Black #1
 vless://c2564a65-0821-3241-b090-45d49cef58fd@family.bucket.zjs.a.b.9.kfc-520.com:10043?security=reality&flow=xtls-rprx-vision&pbk=PGH5Jy0dfgEwQlGGd2YklalRs51yUTvD5j1DZPxKgUw&sid=9eafa129b6&sni=www.adobe.com&type=tcp&headerType=none&host=www.adobe.com&path=%2F&fp=firefox#🇨🇦 CA Black #2
@@ -38,16 +38,22 @@ vless://c2564a65-0821-3241-b090-45d49cef58fd@family.bucket.zjs.s.1.kfc-520.com:1
 vless://c2564a65-0821-3241-b090-45d49cef58fd@family.bucket.zjs.s.1.kfc-520.com:10018?security=reality&type=tcp&sni=www.sap.com&flow=xtls-rprx-vision&pbk=__YqMje4P5LY575OvzZjKJddTTn3vI6n0tMsMKCgcRY&sid=6cfa2459bb&fp=chrome#🇸🇬 SG Black #34
 vless://c2564a65-0821-3241-b090-45d49cef58fd@family.bucket.zjs.s.1.kfc-520.com:10018?security=reality&type=tcp&sni=www.sap.com&flow=xtls-rprx-vision&pbk=__YqMje4P5LY575OvzZjKJddTTn3vI6n0tMsMKCgcRY&sid=6cfa2459bb&fp=firefox#🇸🇬 SG Black #35
 vless://c2564a65-0821-3241-b090-45d49cef58fd@family.bucket.zjs.s.1.kfc-520.com:10018?security=reality&type=tcp&sni=www.sap.com&flow=xtls-rprx-vision&pbk=__YqMje4P5LY575OvzZjKJddTTn3vI6n0tMsMKCgcRY&sid=6cfa2459bb&fp=ios#🇸🇬 SG Black #36
-vless://884f23e9-caab-4775-9ed9-6a3a9cae677f@151.101.69.253:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accaunt.fastly.com&alpn=h3&path=%2FLunex&host=lunex.store&fp=chrome#🇩🇪 DE Black #37
-vless://884f23e9-caab-4775-9ed9-6a3a9cae677f@151.101.69.253:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accaunt.fastly.com&alpn=h3&path=%2FLunex&host=lunex.store&fp=edge#🇩🇪 DE Black #38
-vless://884f23e9-caab-4775-9ed9-6a3a9cae677f@151.101.69.253:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accaunt.fastly.com&alpn=h3&path=%2FLunex&host=lunex.store&fp=safari#🇩🇪 DE Black #39
-vless://884f23e9-caab-4775-9ed9-6a3a9cae677f@151.101.69.253:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accaunt.fastly.com&alpn=h3&path=%2FLunex&host=lunex.store&fp=android#🇩🇪 DE Black #40
-vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=beast.locallynet.org&type=tcp&fp=qq#🇪🇪 EE Black #41
-vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=beast.locallynet.org&type=tcp&fp=firefox#🇪🇪 EE Black #42
-vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=beast.locallynet.org&type=tcp&fp=chrome#🇪🇪 EE Black #43
-vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=beast.locallynet.org&type=tcp&fp=android#🇪🇪 EE Black #44
-vless://b0187a1c-2258-4deb-be51-fb2282327186@83.168.111.58:443?security=reality&encryption=none&pbk=4h74KXbkBMYOhJkZabJNsf85cI91ytap_gkl56mzjTU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=soulful.host&fp=chrome#🇵🇱 PL Black #45
-vless://b0187a1c-2258-4deb-be51-fb2282327186@83.168.111.58:443?security=reality&encryption=none&pbk=4h74KXbkBMYOhJkZabJNsf85cI91ytap_gkl56mzjTU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=soulful.host&fp=qq#🇵🇱 PL Black #46
-vless://b0187a1c-2258-4deb-be51-fb2282327186@83.168.111.58:443?security=reality&encryption=none&pbk=4h74KXbkBMYOhJkZabJNsf85cI91ytap_gkl56mzjTU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=soulful.host&fp=ios#🇵🇱 PL Black #47
-vless://b0187a1c-2258-4deb-be51-fb2282327186@83.168.111.58:443?security=reality&encryption=none&pbk=4h74KXbkBMYOhJkZabJNsf85cI91ytap_gkl56mzjTU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=soulful.host&fp=edge#🇵🇱 PL Black #48
+vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=beast.locallynet.org&type=tcp&fp=android#🇪🇪 EE Black #37
+vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=beast.locallynet.org&type=tcp&fp=firefox#🇪🇪 EE Black #38
+vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=beast.locallynet.org&type=tcp&fp=chrome#🇪🇪 EE Black #39
+vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=beast.locallynet.org&type=tcp&fp=qq#🇪🇪 EE Black #40
+vless://884f23e9-caab-4775-9ed9-6a3a9cae677f@151.101.69.253:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accaunt.fastly.com&alpn=h3&path=%2FLunex&host=lunex.store&fp=android#🇩🇪 DE Black #41
+vless://884f23e9-caab-4775-9ed9-6a3a9cae677f@151.101.69.253:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accaunt.fastly.com&alpn=h3&path=%2FLunex&host=lunex.store&fp=safari#🇩🇪 DE Black #42
+vless://884f23e9-caab-4775-9ed9-6a3a9cae677f@151.101.69.253:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accaunt.fastly.com&alpn=h3&path=%2FLunex&host=lunex.store&fp=chrome#🇩🇪 DE Black #43
+vless://884f23e9-caab-4775-9ed9-6a3a9cae677f@151.101.69.253:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=accaunt.fastly.com&alpn=h3&path=%2FLunex&host=lunex.store&fp=edge#🇩🇪 DE Black #44
+vless://d6e76e7c-14ff-48a3-879c-81a257788059@151.242.168.186:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=kibi-institut.de&type=tcp&fp=ios#🇳🇴 NO Black #45
+vless://d6e76e7c-14ff-48a3-879c-81a257788059@151.242.168.186:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=kibi-institut.de&type=tcp&fp=firefox#🇳🇴 NO Black #46
+vless://d6e76e7c-14ff-48a3-879c-81a257788059@151.242.168.186:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=kibi-institut.de&type=tcp&fp=qq#🇳🇴 NO Black #47
+vless://258ab003-733b-4d79-b0b0-c41044ba2e86@151.242.168.186:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=kibi-institut.de&type=tcp&fp=edge#🇳🇴 NO Black #48
 vless://d6e76e7c-14ff-48a3-879c-81a257788059@151.242.168.186:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=kibi-institut.de&type=tcp&fp=edge#🇳🇴 NO Black #49
+vless://3d83043a-650c-44c4-bbf6-5d760e4ec58f@151.242.168.186:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=kibi-institut.de&type=tcp&fp=ios#🇳🇴 NO Black #50
+vless://3d83043a-650c-44c4-bbf6-5d760e4ec58f@151.242.168.186:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=kibi-institut.de&type=tcp&fp=safari#🇳🇴 NO Black #51
+vless://3d83043a-650c-44c4-bbf6-5d760e4ec58f@151.242.168.186:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=kibi-institut.de&type=tcp&fp=qq#🇳🇴 NO Black #52
+vless://3d83043a-650c-44c4-bbf6-5d760e4ec58f@151.242.168.186:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=kibi-institut.de&type=tcp&fp=android#🇳🇴 NO Black #53
+vless://258ab003-733b-4d79-b0b0-c41044ba2e86@151.242.168.186:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=kibi-institut.de&type=tcp&fp=qq#🇳🇴 NO Black #54
+vless://258ab003-733b-4d79-b0b0-c41044ba2e86@151.242.168.186:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=kibi-institut.de&type=tcp&fp=safari#🇳🇴 NO Black #55

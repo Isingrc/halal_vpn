@@ -1,5 +1,5 @@
 # WHITE SERVERS
-# Updated: 2026-09-05 09:27 UTC
+# Updated: 2026-09-05 12:55 UTC
 # Total: 1 servers
 
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺 RU White #1
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.233.211:443?insecure=1&sni=vk.com#🇰🇷 KR White #1

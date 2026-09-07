@@ -1,10 +1,6 @@
 # WHITE SERVERS
-# Updated: 2026-09-07 09:39 UTC
-# Total: 6 servers
+# Updated: 2026-09-07 15:14 UTC
+# Total: 2 servers
 
-vless://b2965434-9d33-4eb7-b463-d1043e39092f@cdn5.cloud-vk.com:443?security=reality&encryption=none&pbk=4Z1HpHko94l9nZW0Gbn22VSwb8DexIzNPjHehOALfWM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=b23516&fp=chrome#🇭🇺 HU White #1
-vless://b2965434-9d33-4eb7-b463-d1043e39092f@cdn5.cloud-vk.com:443?security=reality&encryption=none&pbk=4Z1HpHko94l9nZW0Gbn22VSwb8DexIzNPjHehOALfWM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=b23516&fp=edge#🇭🇺 HU White #2
-vless://b2965434-9d33-4eb7-b463-d1043e39092f@cdn5.cloud-vk.com:443?security=reality&encryption=none&pbk=4Z1HpHko94l9nZW0Gbn22VSwb8DexIzNPjHehOALfWM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=b23516&fp=firefox#🇭🇺 HU White #3
-vless://b2965434-9d33-4eb7-b463-d1043e39092f@cdn5.cloud-vk.com:443?security=reality&encryption=none&pbk=4Z1HpHko94l9nZW0Gbn22VSwb8DexIzNPjHehOALfWM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=b23516&fp=ios#🇭🇺 HU White #4
-vless://b2965434-9d33-4eb7-b463-d1043e39092f@cdn5.cloud-vk.com:443?security=reality&encryption=none&pbk=4Z1HpHko94l9nZW0Gbn22VSwb8DexIzNPjHehOALfWM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=b23516&fp=safari#🇭🇺 HU White #5
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.203.252.104:443?insecure=1&sni=vk.com#🇰🇷 KR White #6
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.203.252.104:443?insecure=1&sni=vk.com#🇰🇷 KR White #1
+vless://8c9a8787-056f-4b47-b193-0dcfa273d825@194.87.52.142:443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=edge#🇨🇿 CZ White #2

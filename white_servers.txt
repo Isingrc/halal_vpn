@@ -1,18 +1,7 @@
 # WHITE SERVERS
-# Updated: 2026-09-09 17:33 UTC
-# Total: 14 servers
+# Updated: 2026-09-09 19:59 UTC
+# Total: 3 servers
 
-hysteria2://e0b9fb0f-1bbd-478b-9580-c2294778338b@cdncache.pleiades.codes:8443?seq=you_are_beautiful8072&_t=c84ba459&burmalda=eae1dd82&nonce=sRj4N-0c&seq=you_are_beautiful1544&freeinternet=kizyak_vpn1788888109285&burmalda=af34a20a&burmalda=9fab3915&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Fa3b1f4&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Fe67f56&nonce=gudBXCYn&_t=541974d9&_t=d65445ab&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83492&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F3aa1fa&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Ff824b6&_t=c9ab3fa7&_t=2c0d9c5d&_t=11807ca8&_t=ea05804f&nonce=F_rF6k7Z&seq=you_are_beautiful2258&seq=you_are_beautiful0544&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83548&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83536&nonce=Z2ZOGXAJ&_t=a517dcc6&_t=e693bdc2&nonce=Iyzon0r0&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83490&nonce=XvX7bzEL&nonce=id4Ve1E_&sni=cdncache.pleiades.codes&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83293&_t=6d46110d&burmalda=9b5d8052&freeinternet=kizyak_vpn1788815694235&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83203&freeinternet=kizyak_vpn1788669096158&_t=e9451bc7&freeinternet=kizyak_vpn1788706865244&freeinternet=kizyak_vpn1788904719720&burmalda=eb2a3a60&burmalda=bf6693b3&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83261&nonce=MHdRlQyc&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F640db9#🇷🇺 RU White #1
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0#🇷🇺 RU White #2
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0&sni=msk.frkn.org#🇷🇺 RU White #3
-vless://ba1df575-79a9-4159-ba6e-c9233595c753@193.233.219.101:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast_s96.screw.page&flow=xtls-rprx-vision&fp=qq#🇫🇮 FI White #4
-vless://ba1df575-79a9-4159-ba6e-c9233595c753@193.233.231.30:443?type=tcp&headerType=none&security=tls&encryption=none&sni=rus21.roscomsosal.de&flow=xtls-rprx-vision&fp=chrome#🌐 XX White #5
-vless://ba1df575-79a9-4159-ba6e-c9233595c753@193.233.231.30:443?type=tcp&headerType=none&security=tls&encryption=none&sni=rus21.roscomsosal.de&flow=xtls-rprx-vision&fp=android#🌐 XX White #6
-vless://ba1df575-79a9-4159-ba6e-c9233595c753@193.233.231.30:443?type=tcp&headerType=none&security=tls&encryption=none&sni=rus21.roscomsosal.de&flow=xtls-rprx-vision&fp=edge#🌐 XX White #7
-vless://ba1df575-79a9-4159-ba6e-c9233595c753@193.233.231.30:443?type=tcp&headerType=none&security=tls&encryption=none&sni=rus21.roscomsosal.de&flow=xtls-rprx-vision&fp=ios#🌐 XX White #8
-hysteria2://5beff945-adaa-492f-85c6-8aaf5df6cfa5@91.240.87.46:59448?sni=hy.quattro-tech.ru#🇪🇪 EE White #9
-vless://ba1df575-79a9-4159-ba6e-c9233595c753@193.233.231.30:443?type=tcp&headerType=none&security=tls&encryption=none&sni=rus21.roscomsosal.de&flow=xtls-rprx-vision&fp=safari#🌐 XX White #10
-vless://ba1df575-79a9-4159-ba6e-c9233595c753@72.56.239.190:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast99.screw.page&flow=xtls-rprx-vision&fp=safari#🇫🇮 FI White #11
-vless://ba1df575-79a9-4159-ba6e-c9233595c753@72.56.239.190:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast99.screw.page&flow=xtls-rprx-vision&fp=qq#🇫🇮 FI White #12
-vless://ba1df575-79a9-4159-ba6e-c9233595c753@72.56.239.190:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast99.screw.page&flow=xtls-rprx-vision&fp=chrome#🇫🇮 FI White #13
-vless://ba1df575-79a9-4159-ba6e-c9233595c753@72.56.239.190:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast99.screw.page&flow=xtls-rprx-vision&fp=edge#🇫🇮 FI White #14
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0#🇷🇺 RU White #1
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0&sni=msk.frkn.org#🇷🇺 RU White #2
+hysteria2://5beff945-adaa-492f-85c6-8aaf5df6cfa5@91.240.87.46:59448?sni=hy.quattro-tech.ru#🇪🇪 EE White #3

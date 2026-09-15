@@ -1,6 +1,20 @@
 # WHITE SERVERS
-# Updated: 2026-09-15 10:16 UTC
-# Total: 2 servers
+# Updated: 2026-09-15 15:03 UTC
+# Total: 16 servers
 
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺 RU White #1
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056?insecure=1#🇷🇺 RU White #2
+vless://0f754570-3d85-471e-ab9b-9ad2262cefb9@api.videopotok.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.videopotok.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&fp=android#🇫🇷 FR White #1
+vless://0f754570-3d85-471e-ab9b-9ad2262cefb9@api.videopotok.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.videopotok.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&fp=chrome#🇫🇷 FR White #2
+vless://0f754570-3d85-471e-ab9b-9ad2262cefb9@api.videopotok.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.videopotok.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&fp=edge#🇫🇷 FR White #3
+vless://0f754570-3d85-471e-ab9b-9ad2262cefb9@api.videopotok.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.videopotok.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&fp=firefox#🇫🇷 FR White #4
+vless://0f754570-3d85-471e-ab9b-9ad2262cefb9@api.videopotok.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.videopotok.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&fp=qq#🇫🇷 FR White #5
+vless://0f754570-3d85-471e-ab9b-9ad2262cefb9@api.mediapotok.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.mediapotok.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&fp=android#🇵🇱 PL White #6
+vless://0f754570-3d85-471e-ab9b-9ad2262cefb9@api.mediapotok.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.mediapotok.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&fp=edge#🇵🇱 PL White #7
+vless://0f754570-3d85-471e-ab9b-9ad2262cefb9@api.mediapotok.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.mediapotok.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&fp=ios#🇵🇱 PL White #8
+vless://0f754570-3d85-471e-ab9b-9ad2262cefb9@api.mediapotok.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.mediapotok.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&fp=qq#🇵🇱 PL White #9
+vless://0f754570-3d85-471e-ab9b-9ad2262cefb9@api.mediapotok.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.mediapotok.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&fp=safari#🇵🇱 PL White #10
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺 RU White #11
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#🇷🇺 RU White #12
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0&sni=msk.frkn.org#🇷🇺 RU White #13
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp&fp=edge#🇮🇹 IT White #14
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp&fp=firefox#🇮🇹 IT White #15
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp&fp=android#🇮🇹 IT White #16

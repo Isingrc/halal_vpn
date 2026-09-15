@@ -1,23 +1,6 @@
 # WHITE SERVERS
-# Updated: 2026-09-15 05:26 UTC
-# Total: 19 servers
+# Updated: 2026-09-15 10:16 UTC
+# Total: 2 servers
 
-vless://cb26790c-9ae4-4455-bb58-74e86210103a@ruuk04.freesurfer.club:443?type=tcp&headerType=none&security=reality&encryption=none&sni=mail.yandex.ru&pbk=Wq6Zg4DEs9iBHN390pK1K59OddfL97aVgP5LZbZM2x0&spx=%2F&flow=xtls-rprx-vision&fp=android#🇬🇧 GB White #1
-vless://cb26790c-9ae4-4455-bb58-74e86210103a@ruuk04.freesurfer.club:443?type=tcp&headerType=none&security=reality&encryption=none&sni=mail.yandex.ru&pbk=Wq6Zg4DEs9iBHN390pK1K59OddfL97aVgP5LZbZM2x0&spx=%2F&flow=xtls-rprx-vision&fp=chrome#🇬🇧 GB White #2
-vless://cb26790c-9ae4-4455-bb58-74e86210103a@ruuk04.freesurfer.club:443?type=tcp&headerType=none&security=reality&encryption=none&sni=mail.yandex.ru&pbk=Wq6Zg4DEs9iBHN390pK1K59OddfL97aVgP5LZbZM2x0&spx=%2F&flow=xtls-rprx-vision&fp=edge#🇬🇧 GB White #3
-vless://cb26790c-9ae4-4455-bb58-74e86210103a@ruuk04.freesurfer.club:443?type=tcp&headerType=none&security=reality&encryption=none&sni=mail.yandex.ru&pbk=Wq6Zg4DEs9iBHN390pK1K59OddfL97aVgP5LZbZM2x0&spx=%2F&flow=xtls-rprx-vision&fp=firefox#🇬🇧 GB White #4
-vless://cb26790c-9ae4-4455-bb58-74e86210103a@ruuk04.freesurfer.club:443?type=tcp&headerType=none&security=reality&encryption=none&sni=mail.yandex.ru&pbk=Wq6Zg4DEs9iBHN390pK1K59OddfL97aVgP5LZbZM2x0&spx=%2F&flow=xtls-rprx-vision&fp=qq#🇬🇧 GB White #5
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺 RU White #6
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056?insecure=1#🇷🇺 RU White #7
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056?insecure=1&sni=www.microsoft.com#🇷🇺 RU White #8
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@212.92.101.117:9894?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc&fp=android#🇫🇷 FR White #9
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@212.92.101.117:9894?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc&fp=ios#🇫🇷 FR White #10
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@212.92.101.117:9894?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc&fp=chrome#🇫🇷 FR White #11
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@212.92.101.117:9894?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc&fp=qq#🇫🇷 FR White #12
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@212.92.101.117:9894?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc&fp=edge#🇫🇷 FR White #13
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=dailycanvas.sysopnova.art&type=xhttp&fp=edge#🇮🇹 IT White #14
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=dailycanvas.sysopnova.art&type=xhttp&fp=firefox#🇮🇹 IT White #15
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=dailycanvas.sysopnova.art&type=xhttp&fp=ios#🇮🇹 IT White #16
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=dailycanvas.sysopnova.art&type=xhttp&fp=qq#🇮🇹 IT White #17
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=dailycanvas.sysopnova.art&type=xhttp&fp=android#🇮🇹 IT White #18
-vless://83fdcfab-711d-49c2-b998-4b1561f7eab2@188.130.209.151:444?type=tcp&headerType=none&security=reality&encryption=none&sni=vextor.win&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&flow=xtls-rprx-vision&fp=qq#🇷🇺 RU White #19
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺 RU White #1
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056?insecure=1#🇷🇺 RU White #2

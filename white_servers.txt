@@ -1,25 +1,7 @@
 # WHITE SERVERS
-# Updated: 2026-09-17 11:56 UTC
-# Total: 21 servers
+# Updated: 2026-09-17 16:10 UTC
+# Total: 3 servers
 
-vless://0c597b0d-99d7-4c27-befe-6c5d339d7dbe@sa-18cf795a50985ad9.sr-fa525e02d0951c2f.r.vpvpn.club:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=baeb.edge-static.space&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&spx=%2F&headerType=none&fp=android#🌐 XX White #1
-vless://0c597b0d-99d7-4c27-befe-6c5d339d7dbe@sa-18cf795a50985ad9.sr-fa525e02d0951c2f.r.vpvpn.club:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=baeb.edge-static.space&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&spx=%2F&headerType=none&fp=chrome#🌐 XX White #2
-vless://0c597b0d-99d7-4c27-befe-6c5d339d7dbe@sa-18cf795a50985ad9.sr-fa525e02d0951c2f.r.vpvpn.club:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=baeb.edge-static.space&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&spx=%2F&headerType=none&fp=edge#🌐 XX White #3
-vless://0c597b0d-99d7-4c27-befe-6c5d339d7dbe@sa-18cf795a50985ad9.sr-fa525e02d0951c2f.r.vpvpn.club:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=baeb.edge-static.space&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&spx=%2F&headerType=none&fp=firefox#🌐 XX White #4
-vless://0c597b0d-99d7-4c27-befe-6c5d339d7dbe@sa-18cf795a50985ad9.sr-fa525e02d0951c2f.r.vpvpn.club:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=baeb.edge-static.space&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&spx=%2F&headerType=none&fp=ios#🌐 XX White #5
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:4433?insecure=1#🇷🇺 RU White #6
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:4433?insecure=1&sni=ru.xiaoliyu.cyou#🇷🇺 RU White #7
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056/?insecure=1&sni=www.microsoft.com#🇷🇺 RU White #8
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056?insecure=1&sni=els1.mangshe.xyz#🇷🇺 RU White #9
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#🇷🇺 RU White #10
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0&sni=msk.frkn.org#🇷🇺 RU White #11
-vless://f0b752da-101e-46dd-9860-3f089e71ec91@89.19.223.155:8443?encryption=none&type=tcp&security=none#🇸🇪 SE White #12
-vless://808baa8e-2bd6-4c01-98d7-e8a40ffd36f0@81.163.23.248:444?encryption=none&path=%2Fapi%2Fv1%2Flive%2Fdc95ceed22&security=tls&sni=selec248.apruxdomain.website&type=ws&fp=ios#🇩🇪 DE White #13
-vless://808baa8e-2bd6-4c01-98d7-e8a40ffd36f0@81.163.23.248:444?encryption=none&path=%2Fapi%2Fv1%2Flive%2Fdc95ceed22&security=tls&sni=selec248.apruxdomain.website&type=ws&fp=qq#🇩🇪 DE White #14
-vless://808baa8e-2bd6-4c01-98d7-e8a40ffd36f0@81.163.23.248:444?encryption=none&path=%2Fapi%2Fv1%2Flive%2Fdc95ceed22&security=tls&sni=selec248.apruxdomain.website&type=ws&fp=firefox#🇩🇪 DE White #15
-vless://808baa8e-2bd6-4c01-98d7-e8a40ffd36f0@81.163.23.248:444?encryption=none&path=%2Fapi%2Fv1%2Flive%2Fdc95ceed22&security=tls&sni=selec248.apruxdomain.website&type=ws&fp=android#🇩🇪 DE White #16
-vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?type=xhttp&security=reality&sni=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&fp=qq#🇳🇱 NL White #17
-vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?type=xhttp&security=reality&sni=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&fp=safari#🇳🇱 NL White #18
-vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?type=xhttp&security=reality&sni=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&fp=edge#🇳🇱 NL White #19
-vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?type=xhttp&security=reality&sni=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&fp=firefox#🇳🇱 NL White #20
-vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?type=xhttp&security=reality&sni=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&fp=ios#🇳🇱 NL White #21
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺 RU White #1
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#🇷🇺 RU White #2
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0&sni=msk.frkn.org#🇷🇺 RU White #3

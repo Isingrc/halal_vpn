@@ -1,16 +1,11 @@
 # WHITE SERVERS
-# Updated: 2026-09-18 17:24 UTC
-# Total: 12 servers
+# Updated: 2026-09-18 19:49 UTC
+# Total: 7 servers
 
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#🇷🇺 RU White #1
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#🇷🇺 RU White #2
-vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@45.90.162.226:24443?security=reality&flow=xtls-rprx-vision&pbk=pCIyfmbMRts0miZB4KFKNNm0zvJr0JEx8_XykIllwUo&sid=4d83d822573492aa&sni=www.vk.com&type=tcp&headerType=none&host=www.vk.com&path=%2F&fp=safari#🇷🇺 RU White #3
-vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@45.90.162.226:24443?security=reality&flow=xtls-rprx-vision&pbk=pCIyfmbMRts0miZB4KFKNNm0zvJr0JEx8_XykIllwUo&sid=4d83d822573492aa&sni=www.vk.com&type=tcp&headerType=none&host=www.vk.com&path=%2F&fp=android#🇷🇺 RU White #4
-vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@45.90.162.226:24443?security=reality&flow=xtls-rprx-vision&pbk=pCIyfmbMRts0miZB4KFKNNm0zvJr0JEx8_XykIllwUo&sid=4d83d822573492aa&sni=www.vk.com&type=tcp&headerType=none&host=www.vk.com&path=%2F&fp=firefox#🇷🇺 RU White #5
-vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@45.90.162.226:24443?security=reality&flow=xtls-rprx-vision&pbk=pCIyfmbMRts0miZB4KFKNNm0zvJr0JEx8_XykIllwUo&sid=4d83d822573492aa&sni=www.vk.com&type=tcp&headerType=none&host=www.vk.com&path=%2F&fp=chrome#🇷🇺 RU White #6
-vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@45.90.162.226:24443?security=reality&flow=xtls-rprx-vision&pbk=pCIyfmbMRts0miZB4KFKNNm0zvJr0JEx8_XykIllwUo&sid=4d83d822573492aa&sni=www.vk.com&type=tcp&headerType=none&host=www.vk.com&path=%2F&fp=ios#🇷🇺 RU White #7
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=dailycanvas.sysopnova.art&type=xhttp&fp=android#🇮🇹 IT White #8
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=dailycanvas.sysopnova.art&type=xhttp&fp=firefox#🇮🇹 IT White #9
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=dailycanvas.sysopnova.art&type=xhttp&fp=ios#🇮🇹 IT White #10
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=dailycanvas.sysopnova.art&type=xhttp&fp=edge#🇮🇹 IT White #11
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=dailycanvas.sysopnova.art&type=xhttp&fp=qq#🇮🇹 IT White #12
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#🇷🇺 RU White #1
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?encryption=none&extra=null&host=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&security=reality&sni=max.ru&type=xhttp&fp=edge#🌐 XX White #2
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?encryption=none&extra=null&host=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&security=reality&sni=max.ru&type=xhttp&fp=chrome#🌐 XX White #3
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?encryption=none&extra=null&host=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&security=reality&sni=max.ru&type=xhttp&fp=qq#🌐 XX White #4
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?encryption=none&extra=null&host=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&security=reality&sni=max.ru&type=xhttp&fp=ios#🌐 XX White #5
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?encryption=none&extra=null&host=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&security=reality&sni=max.ru&type=xhttp&fp=android#🌐 XX White #6
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@82.146.56.30:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=qq#🇩🇪 DE White #7

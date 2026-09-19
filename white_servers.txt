@@ -1,18 +1,19 @@
 # WHITE SERVERS
-# Updated: 2026-09-19 12:02 UTC
-# Total: 14 servers
+# Updated: 2026-09-19 15:49 UTC
+# Total: 15 servers
 
-vless://75db4327-dff6-4de2-a089-6924b22b7e51@pechatprint-63.ru:8080?encryption=none&security=tls&sni=pechatprint-63.ru&type=ws&path=%2Fchws&fp=safari#🇩🇪 DE White #1
-vless://75db4327-dff6-4de2-a089-6924b22b7e51@pechatprint-63.ru:8080?encryption=none&security=tls&sni=pechatprint-63.ru&type=ws&path=%2Fchws&fp=android#🇩🇪 DE White #2
-vless://75db4327-dff6-4de2-a089-6924b22b7e51@pechatprint-63.ru:8080?encryption=none&security=tls&sni=pechatprint-63.ru&type=ws&path=%2Fchws&fp=chrome#🇩🇪 DE White #3
-vless://75db4327-dff6-4de2-a089-6924b22b7e51@pechatprint-63.ru:8080?encryption=none&security=tls&sni=pechatprint-63.ru&type=ws&path=%2Fchws&fp=firefox#🇩🇪 DE White #4
-vless://75db4327-dff6-4de2-a089-6924b22b7e51@pechatprint-63.ru:8080?encryption=none&security=tls&sni=pechatprint-63.ru&type=ws&path=%2Fchws&fp=ios#🇩🇪 DE White #5
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#🇷🇺 RU White #6
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#🇷🇺 RU White #7
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#🇷🇺 RU White #8
-vless://56aff7b0-c8ca-4dda-9b1e-643a16d9b67d@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=qq#🇸🇪 SE White #9
-vless://56aff7b0-c8ca-4dda-9b1e-643a16d9b67d@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=safari#🇸🇪 SE White #10
-vless://950beaff-a665-4b36-baad-2251ba6bbd6a@45.131.212.39:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fr.lstu.ru&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&sid=848b53fea10a561e&flow=xtls-rprx-vision&fp=android#🇫🇷 FR White #11
-vless://56aff7b0-c8ca-4dda-9b1e-643a16d9b67d@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=ios#🇸🇪 SE White #12
-vless://56aff7b0-c8ca-4dda-9b1e-643a16d9b67d@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=chrome#🇸🇪 SE White #13
-vless://56aff7b0-c8ca-4dda-9b1e-643a16d9b67d@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=firefox#🇸🇪 SE White #14
+vless://6a32736d-4b7f-4c35-a1cf-4489d49f2cfb@fi.alpheratzz.org:443?allowInsecure=0&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&mode=stream-one&path=%2F&security=tls&sni=6a32736d.ferrin.uk&type=xhttp&fp=android#🇫🇮 FI White #1
+vless://6a32736d-4b7f-4c35-a1cf-4489d49f2cfb@fi.alpheratzz.org:443?allowInsecure=0&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&mode=stream-one&path=%2F&security=tls&sni=6a32736d.ferrin.uk&type=xhttp&fp=chrome#🇫🇮 FI White #2
+vless://6a32736d-4b7f-4c35-a1cf-4489d49f2cfb@fi.alpheratzz.org:443?allowInsecure=0&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&mode=stream-one&path=%2F&security=tls&sni=6a32736d.ferrin.uk&type=xhttp&fp=firefox#🇫🇮 FI White #3
+vless://6a32736d-4b7f-4c35-a1cf-4489d49f2cfb@fi.alpheratzz.org:443?allowInsecure=0&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&mode=stream-one&path=%2F&security=tls&sni=6a32736d.ferrin.uk&type=xhttp&fp=ios#🇫🇮 FI White #4
+vless://6a32736d-4b7f-4c35-a1cf-4489d49f2cfb@fi.alpheratzz.org:443?allowInsecure=0&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&mode=stream-one&path=%2F&security=tls&sni=6a32736d.ferrin.uk&type=xhttp&fp=safari#🇫🇮 FI White #5
+vless://75db4327-dff6-4de2-a089-6924b22b7e51@pechatprint-63.ru:8080?encryption=none&security=tls&sni=pechatprint-63.ru&type=ws&path=%2Fchws&fp=firefox#🇩🇪 DE White #6
+vless://75db4327-dff6-4de2-a089-6924b22b7e51@pechatprint-63.ru:8080?encryption=none&security=tls&sni=pechatprint-63.ru&type=ws&path=%2Fchws&fp=ios#🇩🇪 DE White #7
+vless://75db4327-dff6-4de2-a089-6924b22b7e51@pechatprint-63.ru:8080?encryption=none&security=tls&sni=pechatprint-63.ru&type=ws&path=%2Fchws&fp=android#🇩🇪 DE White #8
+vless://75db4327-dff6-4de2-a089-6924b22b7e51@pechatprint-63.ru:8080?encryption=none&security=tls&sni=pechatprint-63.ru&type=ws&path=%2Fchws&fp=chrome#🇩🇪 DE White #9
+vless://75db4327-dff6-4de2-a089-6924b22b7e51@pechatprint-63.ru:8080?encryption=none&security=tls&sni=pechatprint-63.ru&type=ws&path=%2Fchws&fp=safari#🇩🇪 DE White #10
+vless://bcb5a897-8cc4-4e21-ad96-c82fb3a9d72a@dzen-ru-1.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dzen-ru-1.com&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&allowInsecure=1&fp=android#🇷🇺 RU White #11
+vless://bcb5a897-8cc4-4e21-ad96-c82fb3a9d72a@dzen-ru-1.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dzen-ru-1.com&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&allowInsecure=1&fp=chrome#🇷🇺 RU White #12
+vless://bcb5a897-8cc4-4e21-ad96-c82fb3a9d72a@dzen-ru-1.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dzen-ru-1.com&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&allowInsecure=1&fp=firefox#🇷🇺 RU White #13
+vless://bcb5a897-8cc4-4e21-ad96-c82fb3a9d72a@dzen-ru-1.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dzen-ru-1.com&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&allowInsecure=1&fp=ios#🇷🇺 RU White #14
+vless://bcb5a897-8cc4-4e21-ad96-c82fb3a9d72a@dzen-ru-1.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dzen-ru-1.com&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&allowInsecure=1&fp=qq#🇷🇺 RU White #15

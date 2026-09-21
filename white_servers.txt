@@ -1,21 +1,12 @@
 # WHITE SERVERS
-# Updated: 2026-09-21 19:10 UTC
-# Total: 17 servers
+# Updated: 2026-09-21 22:35 UTC
+# Total: 8 servers
 
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@de58.abvpn.net:443?security=tls&type=xhttp&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&sni=de58.abvpn.net&alpn=h2&fp=android#🇩🇪 DE White #1
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@de58.abvpn.net:443?security=tls&type=xhttp&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&sni=de58.abvpn.net&alpn=h2&fp=firefox#🇩🇪 DE White #2
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@de58.abvpn.net:443?security=tls&type=xhttp&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&sni=de58.abvpn.net&alpn=h2&fp=ios#🇩🇪 DE White #3
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@de58.abvpn.net:443?security=tls&type=xhttp&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&sni=de58.abvpn.net&alpn=h2&fp=qq#🇩🇪 DE White #4
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@de58.abvpn.net:443?security=tls&type=xhttp&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&sni=de58.abvpn.net&alpn=h2&fp=safari#🇩🇪 DE White #5
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#🇷🇺 RU White #6
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#🇷🇺 RU White #7
-vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@89.169.166.43:2015?encryption=none&flow=xtls-rprx-vision&pbk=HnO7i6WBCj_5_km3TtotQJa76TbOVq1HuFhhqKVtr3U&security=reality&sid=e787c66988b14914&sni=gateway.icloud.com&type=raw&fp=safari#🇳🇱 NL White #8
-vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@89.169.166.43:2015?encryption=none&flow=xtls-rprx-vision&pbk=HnO7i6WBCj_5_km3TtotQJa76TbOVq1HuFhhqKVtr3U&security=reality&sid=e787c66988b14914&sni=gateway.icloud.com&type=raw&fp=edge#🇳🇱 NL White #9
-vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@89.169.166.43:2015?encryption=none&flow=xtls-rprx-vision&pbk=HnO7i6WBCj_5_km3TtotQJa76TbOVq1HuFhhqKVtr3U&security=reality&sid=e787c66988b14914&sni=gateway.icloud.com&type=raw&fp=android#🇳🇱 NL White #10
-vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@89.169.166.43:2015?encryption=none&flow=xtls-rprx-vision&pbk=HnO7i6WBCj_5_km3TtotQJa76TbOVq1HuFhhqKVtr3U&security=reality&sid=e787c66988b14914&sni=gateway.icloud.com&type=raw&fp=qq#🇳🇱 NL White #11
-vless://0a0667bd-1bdb-4555-a4a6-6903623fc804@89.169.166.43:2015?encryption=none&flow=xtls-rprx-vision&pbk=HnO7i6WBCj_5_km3TtotQJa76TbOVq1HuFhhqKVtr3U&security=reality&sid=e787c66988b14914&sni=gateway.icloud.com&type=raw&fp=firefox#🇳🇱 NL White #12
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=safari#🇩🇪 DE White #13
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=android#🇩🇪 DE White #14
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=edge#🇩🇪 DE White #15
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=firefox#🇩🇪 DE White #16
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=qq#🇩🇪 DE White #17
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#🇷🇺 RU White #1
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#🇷🇺 RU White #2
+vless://00d4010a-ac43-48a4-a790-50a50599e616@95.163.155.137:31585?encryption=none&security=none&type=raw#🇷🇺 RU White #3
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=edge#🇩🇪 DE White #4
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=android#🇩🇪 DE White #5
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=firefox#🇩🇪 DE White #6
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=chrome#🇩🇪 DE White #7
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=qq#🇩🇪 DE White #8

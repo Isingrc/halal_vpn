@@ -1,30 +1,8 @@
 # WHITE SERVERS
-# Updated: 2026-09-22 06:07 UTC
-# Total: 26 servers
+# Updated: 2026-09-22 11:29 UTC
+# Total: 4 servers
 
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#🇷🇺 RU White #1
-vless://8057eabc-921d-4ef5-9acb-80ccc6b48379@72.56.1.5:443?type=grpc&security=reality&pbk=0FeZt3p4idHrFpZRIjn69W_zUFiVBKmoGhkqSqbAvRw&sid=271684C10127374D&sni=www.siemens.com&mode=multi&serviceName=Popka&fp=android#🇷🇺 RU White #2
-vless://8057eabc-921d-4ef5-9acb-80ccc6b48379@72.56.1.5:443?mode=multi&type=grpc&security=reality&sni=www.siemens.com&pbk=0FeZt3p4idHrFpZRIjn69W_zUFiVBKmoGhkqSqbAvRw&sid=271684c10127374d&serviceName=Popka&fp=ios#🇷🇺 RU White #3
-vless://8057eabc-921d-4ef5-9acb-80ccc6b48379@72.56.1.5:443?mode=multi&type=grpc&security=reality&sni=www.siemens.com&pbk=0FeZt3p4idHrFpZRIjn69W_zUFiVBKmoGhkqSqbAvRw&sid=271684c10127374d&serviceName=Popka&fp=android#🇷🇺 RU White #4
-vless://8057eabc-921d-4ef5-9acb-80ccc6b48379@72.56.1.5:443?mode=multi&type=grpc&security=reality&sni=www.siemens.com&pbk=0FeZt3p4idHrFpZRIjn69W_zUFiVBKmoGhkqSqbAvRw&sid=271684c10127374d&serviceName=Popka&fp=qq#🇷🇺 RU White #5
-vless://8057eabc-921d-4ef5-9acb-80ccc6b48379@72.56.1.5:443?mode=multi&type=grpc&security=reality&sni=www.siemens.com&pbk=0FeZt3p4idHrFpZRIjn69W_zUFiVBKmoGhkqSqbAvRw&sid=271684c10127374d&serviceName=Popka&fp=firefox#🇷🇺 RU White #6
-vless://8057eabc-921d-4ef5-9acb-80ccc6b48379@72.56.1.5:443?type=grpc&security=reality&pbk=0FeZt3p4idHrFpZRIjn69W_zUFiVBKmoGhkqSqbAvRw&sid=271684C10127374D&sni=www.siemens.com&serviceName=Popka&fp=ios#🇷🇺 RU White #7
-vless://8057eabc-921d-4ef5-9acb-80ccc6b48379@72.56.1.5:443?mode=multi&type=grpc&security=reality&sni=www.siemens.com&pbk=0FeZt3p4idHrFpZRIjn69W_zUFiVBKmoGhkqSqbAvRw&sid=271684c10127374d&serviceName=Popka&fp=chrome#🇷🇺 RU White #8
-vless://8057eabc-921d-4ef5-9acb-80ccc6b48379@72.56.1.5:443?type=grpc&security=reality&pbk=0FeZt3p4idHrFpZRIjn69W_zUFiVBKmoGhkqSqbAvRw&sid=271684C10127374D&sni=www.siemens.com&serviceName=Popka&fp=android#🇷🇺 RU White #9
-vless://8057eabc-921d-0003-9acb-80ccc6b48379@201.24.50.94:443?type=grpc&security=reality&pbk=wG3BS0H2EKpY2tpv9bWipTmafwIdXuUXPAZCpr1eZ0M&sni=kerbal.mafioznik.xyz&mode=multi&serviceName=Sosat&fp=firefox#🌐 XX White #10
-vless://8057eabc-921d-0003-9acb-80ccc6b48379@201.24.50.94:443?type=grpc&security=reality&pbk=wG3BS0H2EKpY2tpv9bWipTmafwIdXuUXPAZCpr1eZ0M&sni=kerbal.mafioznik.xyz&mode=multi&serviceName=Sosat&fp=qq#🌐 XX White #11
-vless://8057eabc-921d-0003-9acb-80ccc6b48379@201.24.50.94:443?type=grpc&security=reality&pbk=wG3BS0H2EKpY2tpv9bWipTmafwIdXuUXPAZCpr1eZ0M&sni=kerbal.mafioznik.xyz&mode=multi&serviceName=Sosat&fp=edge#🌐 XX White #12
-vless://8057eabc-921d-0001-9acb-80ccc6b48379@92.255.79.246:443?type=grpc&security=reality&pbk=8P2rVrZZ8v1q7WpYiRWnZ_nk2UI_4PqpN_DdZP91700&sni=supbober.mafioznik.xyz&mode=multi&serviceName=Lizat&fp=android#🌐 XX White #13
-vless://8057eabc-921d-0001-9acb-80ccc6b48379@92.255.79.246:443?type=grpc&security=reality&pbk=8P2rVrZZ8v1q7WpYiRWnZ_nk2UI_4PqpN_DdZP91700&sni=supbober.mafioznik.xyz&mode=multi&serviceName=Lizat&fp=chrome#🌐 XX White #14
-vless://8057eabc-921d-0004-9acb-80ccc6b48379@104.171.138.229:443?type=grpc&security=reality&pbk=aK5um9qlbrjpXgpI4H9n05FBmWAvKUbmLm7iAj9K9mw&sni=cdn.mafioznik.xyz&mode=multi&serviceName=Piska&fp=edge#🇫🇷 FR White #15
-vless://8057eabc-921d-0004-9acb-80ccc6b48379@104.171.138.229:443?type=grpc&security=reality&pbk=aK5um9qlbrjpXgpI4H9n05FBmWAvKUbmLm7iAj9K9mw&sni=cdn.mafioznik.xyz&mode=multi&serviceName=Piska&fp=firefox#🇫🇷 FR White #16
-vless://8057eabc-921d-0004-9acb-80ccc6b48379@104.171.138.229:443?type=grpc&security=reality&pbk=aK5um9qlbrjpXgpI4H9n05FBmWAvKUbmLm7iAj9K9mw&sni=cdn.mafioznik.xyz&mode=multi&serviceName=Piska&fp=ios#🇫🇷 FR White #17
-vless://8057eabc-921d-0004-9acb-80ccc6b48379@104.171.138.229:443?type=grpc&security=reality&pbk=aK5um9qlbrjpXgpI4H9n05FBmWAvKUbmLm7iAj9K9mw&sni=cdn.mafioznik.xyz&mode=multi&serviceName=Piska&fp=android#🇫🇷 FR White #18
-vless://8057eabc-921d-0004-9acb-80ccc6b48379@104.171.138.229:443?type=grpc&security=reality&pbk=aK5um9qlbrjpXgpI4H9n05FBmWAvKUbmLm7iAj9K9mw&sni=cdn.mafioznik.xyz&mode=multi&serviceName=Piska&fp=safari#🇫🇷 FR White #19
-vless://8057eabc-921d-0001-9acb-80ccc6b48379@92.255.79.246:443?type=grpc&security=reality&pbk=8P2rVrZZ8v1q7WpYiRWnZ_nk2UI_4PqpN_DdZP91700&sni=supbober.mafioznik.xyz&mode=multi&serviceName=Lizat&fp=firefox#🇫🇮 FI White #20
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=ios#🇩🇪 DE White #21
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.151.62.146:443?encryption=none&host=de58.abvpn.net&path=%2Fcc118a5c-3229-4c8f-b388-210f4a008a28%2F&security=tls&sni=de58.abvpn.net&type=xhttp&fp=qq#🇩🇪 DE White #22
-vless://8057eabc-921d-0001-9acb-80ccc6b48379@92.255.79.246:443?type=grpc&security=reality&pbk=8P2rVrZZ8v1q7WpYiRWnZ_nk2UI_4PqpN_DdZP91700&sni=supbober.mafioznik.xyz&mode=multi&serviceName=Lizat&fp=safari#🇫🇮 FI White #23
-vless://a5a311a8-6b0b-4ddc-b354-79acb4e19d67@84.240.206.178:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ok.ru&pbk=YPxklREENCJn2akAL8LHl9IuYYLlOv_3FG_9oJXiDXQ&allowInsecure=1&fp=edge#🇰🇿 KZ White #24
-vless://8057eabc-921d-0003-9acb-80ccc6b48379@201.24.50.94:443?type=grpc&security=reality&pbk=wG3BS0H2EKpY2tpv9bWipTmafwIdXuUXPAZCpr1eZ0M&sni=kerbal.mafioznik.xyz&mode=multi&serviceName=Sosat&fp=safari#🌐 XX White #25
-vless://8057eabc-921d-0001-9acb-80ccc6b48379@92.255.79.246:443?type=grpc&security=reality&pbk=8P2rVrZZ8v1q7WpYiRWnZ_nk2UI_4PqpN_DdZP91700&sni=supbober.mafioznik.xyz&mode=multi&serviceName=Lizat&fp=edge#🇫🇮 FI White #26
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#🇷🇺 RU White #1
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#🇷🇺 RU White #2
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#🇷🇺 RU White #3
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&insecure=0#🇷🇺 RU White #4

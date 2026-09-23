@@ -1,22 +1,11 @@
 # WHITE SERVERS
-# Updated: 2026-09-23 09:45 UTC
-# Total: 18 servers
+# Updated: 2026-09-23 14:27 UTC
+# Total: 7 servers
 
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=qq#🇩🇪 DE White #1
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=safari#🇩🇪 DE White #2
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=android#🇩🇪 DE White #3
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=chrome#🇩🇪 DE White #4
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=firefox#🇩🇪 DE White #5
-vless://0082f629-fe72-40b0-8e62-ba358eaacbde@v3.gogdownload.art:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=v3.gogdownload.art&pbk=GjEV_MwHo_P-Px2xc_3DSgckKeTq0AMh0BF3y6txGGM&sid=43dcff53849b81e6&fp=qq#🇳🇱 NL White #6
-vless://0082f629-fe72-40b0-8e62-ba358eaacbde@v3.gogdownload.art:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=v3.gogdownload.art&pbk=GjEV_MwHo_P-Px2xc_3DSgckKeTq0AMh0BF3y6txGGM&sid=43dcff53849b81e6&fp=android#🇳🇱 NL White #7
-vless://0082f629-fe72-40b0-8e62-ba358eaacbde@v3.gogdownload.art:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=v3.gogdownload.art&pbk=GjEV_MwHo_P-Px2xc_3DSgckKeTq0AMh0BF3y6txGGM&sid=43dcff53849b81e6&fp=chrome#🇳🇱 NL White #8
-vless://0082f629-fe72-40b0-8e62-ba358eaacbde@v3.gogdownload.art:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=v3.gogdownload.art&pbk=GjEV_MwHo_P-Px2xc_3DSgckKeTq0AMh0BF3y6txGGM&sid=43dcff53849b81e6&fp=edge#🇳🇱 NL White #9
-vless://0082f629-fe72-40b0-8e62-ba358eaacbde@v3.gogdownload.art:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=v3.gogdownload.art&pbk=GjEV_MwHo_P-Px2xc_3DSgckKeTq0AMh0BF3y6txGGM&sid=43dcff53849b81e6&fp=ios#🇳🇱 NL White #10
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=chrome#🇷🇺 RU White #11
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=edge#🇷🇺 RU White #12
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=firefox#🇷🇺 RU White #13
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=qq#🇷🇺 RU White #14
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=safari#🇷🇺 RU White #15
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#🇷🇺 RU White #16
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#🇷🇺 RU White #17
-vless://365de9e9-ba29-0008-af2d-766f9638e3be@5.42.123.9:443?encryption=none&flow=xtls-rprx-vision&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sid=1c3e8241a8743df9&sni=diffoscope.com&type=tcp&fp=qq#🇳🇱 NL White #18
+vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=edge#🇷🇺 RU White #1
+vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=firefox#🇷🇺 RU White #2
+vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=ios#🇷🇺 RU White #3
+vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=qq#🇷🇺 RU White #4
+vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=safari#🇷🇺 RU White #5
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&insecure=0#🇷🇺 RU White #6
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#🇷🇺 RU White #7

@@ -1,11 +1,5 @@
 # WHITE SERVERS
-# Updated: 2026-09-23 14:27 UTC
-# Total: 7 servers
+# Updated: 2026-09-23 18:30 UTC
+# Total: 1 servers
 
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=edge#🇷🇺 RU White #1
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=firefox#🇷🇺 RU White #2
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=ios#🇷🇺 RU White #3
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=qq#🇷🇺 RU White #4
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@ruffia2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruffia2.thewalkingded.life&pbk=j4M7_0Tl0UdSe4zYziALrPp_4F-QiSkyrUnOS6saQ1g&sid=a7162d100ab90645&spx=%2F&fp=safari#🇷🇺 RU White #5
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&insecure=0#🇷🇺 RU White #6
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#🇷🇺 RU White #7
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#🇷🇺 RU White #1

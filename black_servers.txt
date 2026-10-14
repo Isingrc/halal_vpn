@@ -1,5 +1,5 @@
 # BLACK SERVERS
-# Updated: 2026-10-13 23:58 UTC
+# Updated: 2026-10-14 04:00 UTC
 # Total: 55 servers
 
 vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@kr0w1ya.khovanski.mom:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=kr0w1ya.khovanski.mom&pbk=r1MW0o1DsC6EEWN-KPKnoXszb1trxlKShRIgOpxqHBk&sid=d98e7afec9c0c359&fp=firefox&spx=/#🇪🇪 EE Black #1

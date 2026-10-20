@@ -1,9 +1,14 @@
 # WHITE SERVERS
-# Updated: 2026-10-20 11:50 UTC
-# Total: 5 servers
+# Updated: 2026-10-20 16:10 UTC
+# Total: 10 servers
 
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&type=xhttp&sni=ru2.radiolumens.uk&fp=android#🇬🇧 GB White #1
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&type=xhttp&sni=ru2.radiolumens.uk&fp=chrome#🇬🇧 GB White #2
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&type=xhttp&sni=ru2.radiolumens.uk&fp=edge#🇬🇧 GB White #3
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&type=xhttp&sni=ru2.radiolumens.uk&fp=firefox#🇬🇧 GB White #4
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&type=xhttp&sni=ru2.radiolumens.uk&fp=qq#🇬🇧 GB White #5
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=ios#🇬🇧 GB White #1
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=chrome#🇬🇧 GB White #2
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=edge#🇬🇧 GB White #3
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=firefox#🇬🇧 GB White #4
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=qq#🇬🇧 GB White #5
+vless://27653b37-603c-4c90-b1f5-25c4d23f8932@72.56.235.75:443?encryption=none&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-2-121.mirra.now&type=grpc&fp=android#🇩🇪 DE White #6
+vless://27653b37-603c-4c90-b1f5-25c4d23f8932@72.56.235.75:443?encryption=none&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-2-121.mirra.now&type=grpc&fp=chrome#🇩🇪 DE White #7
+vless://27653b37-603c-4c90-b1f5-25c4d23f8932@72.56.235.75:443?encryption=none&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-2-121.mirra.now&type=grpc&fp=safari#🇩🇪 DE White #8
+vless://27653b37-603c-4c90-b1f5-25c4d23f8932@72.56.235.75:443?encryption=none&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-2-121.mirra.now&type=grpc&fp=ios#🇩🇪 DE White #9
+vless://27653b37-603c-4c90-b1f5-25c4d23f8932@72.56.235.75:443?encryption=none&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-2-121.mirra.now&type=grpc&fp=firefox#🇩🇪 DE White #10
